@@ -1,0 +1,59 @@
+"PROJ_ID"	"SITE_ID"	"SUBID"	"STATE"	"EVENT_NO"	"EVENT_ID"	"ID"	"LBND"	"LAB_ORG"	"LAB_NAME"	"LBDT_"	"EXPONENT"	"ND"	"CS"	"CON_RNGH"	"NUM_VAL"	"REP_RNGH"	"ANALYTE"	"CON_RNGL"	"CON_EXP"	"CON_VAL"	"REP_UNIT"	"CHAR_VAL"	"CON_UNIT"	"REP_RNGL"
+"1"	"DN-101 Protocol No. 011-007"	"003"	"003-0001"	5	1	"Pre-Enrollment"	2628807003	NA	4007508003	"Calgary Laboratory Services"	14	NA	NA	NA	NA	0.4	NA	"chem_total_serum_testosterone"	NA	NA	0.4	"nmol/L"	"0.4"	"nmol/L"	NA
+"2"	"DN-101 Protocol No. 011-007"	"003"	"003-0002"	5	1	"Pre-Enrollment"	2659202003	1	NA	""	NA	NA	NA	NA	NA	NA	NA	"chem_total_serum_testosterone"	NA	NA	NA	""	""	""	NA
+"3"	"DN-101 Protocol No. 011-007"	"003"	"003-0004"	5	1	"Pre-Enrollment"	2753066003	NA	4007508003	"Calgary Laboratory Services"	-2	NA	NA	NA	NA	1.7	NA	"chem_total_serum_testosterone"	NA	NA	1.7	"nmol/L"	"1.7"	"nmol/L"	NA
+"4"	"DN-101 Protocol No. 011-007"	"003"	"003-0009"	5	1	"Pre-Enrollment"	2894198003	NA	4007508003	"Calgary Laboratory Services"	0	NA	NA	NA	NA	0.4	NA	"chem_total_serum_testosterone"	NA	NA	0.4	"nmol/L"	"0.4"	"nmol/L"	NA
+"5"	"DN-101 Protocol No. 011-007"	"003"	"003-0013"	5	1	"Pre-Enrollment"	3185622003	NA	4007508003	"Calgary Laboratory Services"	0	NA	NA	NA	NA	0.7	NA	"chem_total_serum_testosterone"	NA	NA	0.7	"nmol/L"	"0.7"	"nmol/L"	NA
+"6"	"DN-101 Protocol No. 011-007"	"003"	"003-0014"	5	1	"Pre-Enrollment"	3185796003	NA	4007508003	"Calgary Laboratory Services"	0	NA	NA	NA	NA	0.9	NA	"chem_total_serum_testosterone"	NA	NA	0.9	"nmol/L"	"0.9"	"nmol/L"	NA
+"7"	"DN-101 Protocol No. 011-007"	"014"	"014-0001"	5	1	"Pre-Enrollment"	2624953003	NA	4233207003	"Texas Oncology Cancer Center"	0	NA	NA	NA	NA	29	NA	"chem_total_serum_testosterone"	NA	NA	1.0055	"ng/dL"	"29.0000"	"nmol/L"	NA
+"8"	"DN-101 Protocol No. 011-007"	"014"	"014-0002"	5	1	"Pre-Enrollment"	2840459003	NA	4233207003	"Texas Oncology Cancer Center"	15	NA	NA	NA	NA	0.14	NA	"chem_total_serum_testosterone"	NA	NA	0.4854	"ng/mL"	"0.1400"	"nmol/L"	NA
+"9"	"DN-101 Protocol No. 011-007"	"014"	"014-0003"	5	1	"Pre-Enrollment"	2998949003	NA	4233207003	"Texas Oncology Cancer Center"	2	NA	NA	NA	NA	24	NA	"chem_total_serum_testosterone"	NA	NA	83.2178	"ng/mL"	"24.0000"	"nmol/L"	NA
+"10"	"DN-101 Protocol No. 011-007"	"037"	"037-0002"	5	1	"Pre-Enrollment"	3163250003	1	NA	""	NA	NA	NA	NA	NA	NA	NA	"chem_total_serum_testosterone"	NA	NA	NA	""	""	""	NA
+"11"	"DN-101 Protocol No. 011-007"	"037"	"037-0003"	5	1	"Pre-Enrollment"	3404267003	1	NA	""	NA	NA	NA	NA	NA	NA	NA	"chem_total_serum_testosterone"	NA	NA	NA	""	""	""	NA
+"12"	"DN-101 Protocol No. 011-007"	"041"	"041-0036"	5	1	"Pre-Enrollment"	3437278003	NA	4163923003	"Memorial Sloan-Kettering Cancer Center"	0	NA	NA	NA	26.2829	11	758	"chem_total_serum_testosterone"	6.276	NA	0.3814	"ng/dL"	"11"	"nmol/L"	181
+"13"	"DN-101 Protocol No. 011-007"	"063"	"063-0001"	5	1	"Pre-Enrollment"	2864012003	NA	3999738003	"Hamilton Health Sciences-Henderson Site"	0	NA	NA	NA	NA	NA	NA	"chem_total_serum_testosterone"	NA	NA	NA	"nmol/L"	"less than or equall to 0.5"	""	NA
+"14"	"DN-101 Protocol No. 011-007"	"063"	"063-0003"	5	1	"Pre-Enrollment"	2894459003	NA	3999738003	"Hamilton Health Sciences-Henderson Site"	7	NA	NA	NA	NA	NA	NA	"chem_total_serum_testosterone"	NA	NA	NA	"nmol/L"	"equall to or less than 0.5"	""	NA
+"15"	"DN-101 Protocol No. 011-007"	"063"	"063-0005"	5	1	"Pre-Enrollment"	3018139003	NA	3999738003	"Hamilton Health Sciences-Henderson Site"	1	NA	NA	NA	NA	NA	NA	"chem_total_serum_testosterone"	NA	NA	NA	"nmol/L"	"Less than or equal to 0.5"	""	NA
+"16"	"DN-101 Protocol No. 011-007"	"063"	"063-0006"	5	1	"Pre-Enrollment"	3145075003	NA	3999738003	"Hamilton Health Sciences-Henderson Site"	0	NA	NA	NA	NA	1	NA	"chem_total_serum_testosterone"	NA	NA	1	"nmol/L"	"1.0000"	"nmol/L"	NA
+"17"	"DN-101 Protocol No. 011-007"	"063"	"063-0007"	5	1	"Pre-Enrollment"	3369188003	NA	3999738003	"Hamilton Health Sciences-Henderson Site"	0	NA	NA	NA	NA	NA	NA	"chem_total_serum_testosterone"	NA	NA	NA	"nmol/L"	"EQUAL TO OR LESS THAN 0.5"	""	NA
+"18"	"DN-101 Protocol No. 011-007"	"063"	"063-0010"	5	1	"Pre-Enrollment"	3782847003	NA	3999738003	"Hamilton Health Sciences-Henderson Site"	0	NA	NA	NA	30	1	30	"chem_total_serum_testosterone"	10	NA	1	"nmol/L"	"1.0000"	"nmol/L"	10
+"19"	"DN-101 Protocol No. 011-007"	"063"	"063-0012"	5	1	"Pre-Enrollment"	3832432003	1	NA	""	NA	NA	NA	NA	NA	NA	NA	"chem_total_serum_testosterone"	NA	NA	NA	""	""	""	NA
+"20"	"DN-101 Protocol No. 011-007"	"072"	"072-0001"	5	1	"Pre-Enrollment"	2594676003	NA	5162624004	"LabCorp of America Holdings"	8	NA	NA	NA	NA	NA	NA	"chem_total_serum_testosterone"	NA	NA	NA	"ng/dL"	"< 10"	""	NA
+"21"	"DN-101 Protocol No. 011-007"	"092"	"092-0001"	5	1	"Pre-Enrollment"	2791412003	NA	3999910003	"Clnical Chem Lab, Health Sciences Centre"	-13	NA	NA	NA	NA	1.4	NA	"chem_total_serum_testosterone"	NA	NA	1.4	"nmol/L"	"1.4000"	"nmol/L"	NA
+"22"	"DN-101 Protocol No. 011-007"	"094"	"094-0003"	5	1	"Pre-Enrollment"	3466788003	1	NA	""	NA	NA	NA	NA	NA	NA	NA	"chem_total_serum_testosterone"	NA	NA	NA	""	""	""	NA
+"23"	"DN-101 Protocol No. 011-007"	"099"	"099-0002"	5	1	"Pre-Enrollment"	2835018003	NA	5268868004	"Pottsville Hospital and Warne Clinic"	1	NA	NA	NA	27.0804	0.04	7.81	"chem_total_serum_testosterone"	6.068	NA	0.1387	"ng/mL"	"0.04"	"nmol/L"	1.75
+"24"	"DN-101 Protocol No. 011-007"	"125"	"125-0017"	5	1	"Pre-Enrollment"	2873046003	NA	5284502004	"Quest Diagnostics - Tampa"	1	NA	NA	NA	NA	NA	NA	"chem_total_serum_testosterone"	NA	NA	NA	"ng/dL"	"<20"	""	NA
+"25"	"DN-101 Protocol No. 011-007"	"125"	"125-0018"	5	1	"Pre-Enrollment"	2897308003	1	NA	""	NA	NA	NA	NA	NA	NA	NA	"chem_total_serum_testosterone"	NA	NA	NA	""	""	""	NA
+"26"	"DN-101 Protocol No. 011-007"	"125"	"125-0022"	5	1	"Pre-Enrollment"	2972813003	NA	5284740004	"LabCorp of America - Tampa"	17	NA	NA	NA	28.6755	16	827	"chem_total_serum_testosterone"	8.3564	NA	0.5548	"ng/dL"	"16"	"nmol/L"	241
+"27"	"DN-101 Protocol No. 011-007"	"133"	"133-0020"	5	1	"Pre-Enrollment"	3900175003	NA	4000193003	"Vancouver Coastal Health"	0	NA	NA	NA	38	0.5	38	"chem_total_serum_testosterone"	10	NA	0.5	"nmol/L"	".5"	"nmol/L"	10
+"28"	"DN-101 Protocol No. 011-007"	"139"	"139-0005"	5	1	"Pre-Enrollment"	3230990003	NA	3771557003	"Kelowna General Hospital"	26	NA	NA	NA	NA	0.5	NA	"chem_total_serum_testosterone"	NA	NA	0.5	"nmol/L"	"0.5"	"nmol/L"	NA
+"29"	"DN-101 Protocol No. 011-007"	"142"	"142-0003"	5	1	"Pre-Enrollment"	2619306003	1	NA	""	NA	NA	NA	NA	NA	NA	NA	"chem_total_serum_testosterone"	NA	NA	NA	""	""	""	NA
+"30"	"DN-101 Protocol No. 011-007"	"146"	"146-0002"	5	1	"Pre-Enrollment"	2984515003	NA	4007883003	"The Moncton Hospital Laboratory"	6	NA	NA	NA	25.8	1.74	25.8	"chem_total_serum_testosterone"	7.7	NA	1.74	"nmol/L"	"1.74"	"nmol/L"	7.7
+"31"	"DN-101 Protocol No. 011-007"	"157"	"157-0007"	5	1	"Pre-Enrollment"	3644871003	NA	4163945003	"Montreal General Hospital"	0	NA	NA	NA	28	0.7	28	"chem_total_serum_testosterone"	10	NA	0.7	"nmol/L"	"0.7"	"nmol/L"	10
+"32"	"DN-101 Protocol No. 011-007"	"161"	"161-0002"	5	1	"Pre-Enrollment"	2903639003	NA	4163948003	"Quest Diagnostics Laboratory"	13	NA	NA	NA	NA	36	NA	"chem_total_serum_testosterone"	NA	NA	1.2483	"ng/dL"	"36"	"nmol/L"	NA
+"33"	"DN-101 Protocol No. 011-007"	"170"	"170-0002"	5	1	"Pre-Enrollment"	3301506003	1	NA	""	NA	NA	NA	NA	NA	NA	NA	"chem_total_serum_testosterone"	NA	NA	NA	""	""	""	NA
+"34"	"DN-101 Protocol No. 011-007"	"186"	"186-0002"	5	1	"Pre-Enrollment"	3206029003	NA	4163970003	"Royal Jubilee Hospital Lab (RJH)"	-1	NA	NA	NA	NA	0.1	NA	"chem_total_serum_testosterone"	NA	NA	0.1	"nmol/L"	"0.1"	"nmol/L"	NA
+"35"	"DN-101 Protocol No. 011-007"	"506"	"506-0003"	5	1	"Pre-Enrollment"	2858015003	NA	4627917004	"Klinikum rechts der Isar TU Munchen"	-12	NA	NA	NA	NA	NA	NA	"chem_total_serum_testosterone"	NA	NA	NA	"ng/mL"	"0,2"	""	NA
+"36"	"DN-101 Protocol No. 011-007"	"507"	"507-0003"	5	1	"Pre-Enrollment"	2817051003	1	NA	""	NA	NA	NA	NA	NA	NA	NA	"chem_total_serum_testosterone"	NA	NA	NA	""	""	""	NA
+"37"	"DN-101 Protocol No. 011-007"	"507"	"507-0004"	5	1	"Pre-Enrollment"	2827491003	1	NA	""	NA	NA	NA	NA	NA	NA	NA	"chem_total_serum_testosterone"	NA	NA	NA	""	""	""	NA
+"38"	"DN-101 Protocol No. 011-007"	"508"	"508-0001"	5	1	"Pre-Enrollment"	2900243003	1	NA	""	NA	NA	NA	NA	NA	NA	NA	"chem_total_serum_testosterone"	NA	NA	NA	""	""	""	NA
+"39"	"DN-101 Protocol No. 011-007"	"509"	"509-0001"	5	1	"Pre-Enrollment"	2943359003	NA	4627387004	"Charite Virchow Klinikum"	0	NA	NA	NA	25.73	0.72	25.73	"chem_total_serum_testosterone"	7.35	NA	0.72	"nmol/L"	"0.72"	"nmol/L"	7.35
+"40"	"DN-101 Protocol No. 011-007"	"515"	"515-0012"	5	1	"Pre-Enrollment"	3708242003	1	NA	""	NA	NA	NA	NA	NA	NA	NA	"chem_total_serum_testosterone"	NA	NA	NA	""	""	""	NA
+"41"	"DN-101 Protocol No. 011-007"	"524"	"524-0001"	5	1	"Pre-Enrollment"	2935622003	NA	5194833004	"Labor Gemeinschaft Hamburg"	-14	NA	NA	NA	27.8	1.11	27.8	"chem_total_serum_testosterone"	9.9	NA	1.11	"nmol/L"	"1.11"	"nmol/L"	9.9
+"42"	"DN-101 Protocol No. 011-007"	"524"	"524-0002"	5	1	"Pre-Enrollment"	2943304003	1	NA	""	NA	NA	NA	NA	NA	NA	NA	"chem_total_serum_testosterone"	NA	NA	NA	""	""	""	NA
+"43"	"DN-101 Protocol No. 011-007"	"524"	"524-0007"	5	1	"Pre-Enrollment"	3550461003	1	NA	""	NA	NA	NA	NA	NA	NA	NA	"chem_total_serum_testosterone"	NA	NA	NA	""	""	""	NA
+"44"	"DN-101 Protocol No. 011-007"	"524"	"524-0009"	5	1	"Pre-Enrollment"	3617030003	1	NA	""	NA	NA	NA	NA	NA	NA	NA	"chem_total_serum_testosterone"	NA	NA	NA	""	""	""	NA
+"45"	"DN-101 Protocol No. 011-007"	"524"	"524-0011"	5	1	"Pre-Enrollment"	3747038003	1	NA	""	NA	NA	NA	NA	NA	NA	NA	"chem_total_serum_testosterone"	NA	NA	NA	""	""	""	NA
+"46"	"DN-101 Protocol No. 011-007"	"524"	"524-0012"	5	1	"Pre-Enrollment"	3824391003	1	NA	""	NA	NA	NA	NA	NA	NA	NA	"chem_total_serum_testosterone"	NA	NA	NA	""	""	""	NA
+"47"	"DN-101 Protocol No. 011-007"	"525"	"525-0003"	5	1	"Pre-Enrollment"	3240649003	1	NA	""	NA	NA	NA	NA	NA	NA	NA	"chem_total_serum_testosterone"	NA	NA	NA	""	""	""	NA
+"48"	"DN-101 Protocol No. 011-007"	"525"	"525-0004"	5	1	"Pre-Enrollment"	3241045003	1	NA	""	NA	NA	NA	NA	NA	NA	NA	"chem_total_serum_testosterone"	NA	NA	NA	""	""	""	NA
+"49"	"DN-101 Protocol No. 011-007"	"525"	"525-0005"	5	1	"Pre-Enrollment"	3291861003	1	NA	""	NA	NA	NA	NA	NA	NA	NA	"chem_total_serum_testosterone"	NA	NA	NA	""	""	""	NA
+"50"	"DN-101 Protocol No. 011-007"	"527"	"527-0001"	5	1	"Pre-Enrollment"	3616571003	1	NA	""	NA	NA	NA	NA	NA	NA	NA	"chem_total_serum_testosterone"	NA	NA	NA	""	""	""	NA
+"51"	"DN-101 Protocol No. 011-007"	"528"	"528-0001"	5	1	"Pre-Enrollment"	3324531003	NA	4767978004	"Inst. F. Klin. Chemie u. Labormedizin"	0	NA	NA	NA	NA	NA	NA	"chem_total_serum_testosterone"	NA	NA	NA	"nmol/L"	"0,35"	""	NA
+"52"	"DN-101 Protocol No. 011-007"	"529"	"529-0001"	5	1	"Pre-Enrollment"	3025966003	NA	4627387004	"Charite Virchow Klinikum"	0	NA	NA	NA	NA	NA	NA	"chem_total_serum_testosterone"	NA	NA	NA	"nmol/L"	"0,91"	""	NA
+"53"	"DN-101 Protocol No. 011-007"	"606"	"606-0002"	5	1	"Pre-Enrollment"	3521593003	NA	4082077003	"Clinical Laboratory-Nat'l Oncology Inst."	0	NA	NA	NA	NA	NA	NA	"chem_total_serum_testosterone"	NA	NA	NA	"nmol/L"	"1,5"	""	NA
+"54"	"DN-101 Protocol No. 011-007"	"620"	"620-0001"	5	1	"Pre-Enrollment"	3904207003	1	NA	""	NA	NA	NA	NA	NA	NA	NA	"chem_total_serum_testosterone"	NA	NA	NA	""	""	""	NA
+"55"	"DN-101 Protocol No. 011-007"	"621"	"621-0001"	5	1	"Pre-Enrollment"	3250632003	1	NA	""	NA	NA	NA	NA	NA	NA	NA	"chem_total_serum_testosterone"	NA	NA	NA	""	""	""	NA
+"56"	"DN-101 Protocol No. 011-007"	"621"	"621-0002"	5	1	"Pre-Enrollment"	3322721003	1	NA	""	NA	NA	NA	NA	NA	NA	NA	"chem_total_serum_testosterone"	NA	NA	NA	""	""	""	NA
+"57"	"DN-101 Protocol No. 011-007"	"621"	"621-0004"	5	1	"Pre-Enrollment"	3876822003	1	NA	""	NA	NA	NA	NA	NA	NA	NA	"chem_total_serum_testosterone"	NA	NA	NA	""	""	""	NA
+"58"	"DN-101 Protocol No. 011-007"	"625"	"625-0001"	5	1	"Pre-Enrollment"	3966666003	1	NA	""	NA	NA	NA	NA	NA	NA	NA	"chem_total_serum_testosterone"	NA	NA	NA	""	""	""	NA

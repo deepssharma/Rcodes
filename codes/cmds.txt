@@ -1,0 +1,10 @@
+#### How to run R scripts in console
+1)
+setwd('/home/myusername/prj/r/learn_r')
+source('insurance_data.r')
+2)
+Rscript file.R
+
+getwd() //checks thepresent working directory
+dir() // will list the files in the current directory
+

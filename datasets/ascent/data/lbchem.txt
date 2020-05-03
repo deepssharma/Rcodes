@@ -1,0 +1,512 @@
+"PROJ_ID"	"SITE_ID"	"SUBID"	"STATE"	"EVENT_NO"	"EVENT_ID"	"ID"	"LBND"	"LAB_ORG"	"LAB_NAME"	"LBDT_"	"EXPONENT"	"CS"	"CON_RNGH"	"NUM_VAL"	"REP_RNGH"	"ANALYTE"	"CON_RNGL"	"CON_EXP"	"CON_VAL"	"ND"	"REP_UNIT"	"CHAR_VAL"	"CON_UNIT"	"REP_RNGL"
+"1"	"DN-101 Protocol No. 011-007"	"003"	"003-0001"	5	1	"Pre-Enrollment"	2628807003	NA	4007508003	"Calgary Laboratory Services"	14	NA	NA	NA	2.26	NA	"chem_calcium"	NA	NA	2.26	NA	"mmol/L"	"2.26"	"mmol/L"	NA
+"2"	"DN-101 Protocol No. 011-007"	"003"	"003-0001"	5	1	"Pre-Enrollment"	5241098002	NA	4007508003	"Calgary Laboratory Services"	14	NA	NA	NA	138	NA	"chem_creatinine"	NA	NA	138	NA	"umol/L"	"138"	"umol/L"	NA
+"3"	"DN-101 Protocol No. 011-007"	"003"	"003-0001"	5	1	"Pre-Enrollment"	5241098002	NA	4007508003	"Calgary Laboratory Services"	14	NA	NA	NA	6	NA	"chem_bilirubin_total"	NA	NA	6	NA	"umol/L"	"6"	"umol/L"	NA
+"4"	"DN-101 Protocol No. 011-007"	"003"	"003-0001"	5	1	"Pre-Enrollment"	5241098002	NA	4007508003	"Calgary Laboratory Services"	14	NA	NA	NA	19	NA	"chem_ast"	NA	NA	19	NA	"U/L"	"19"	"U/L"	NA
+"5"	"DN-101 Protocol No. 011-007"	"003"	"003-0001"	5	1	"Pre-Enrollment"	5241098002	NA	4007508003	"Calgary Laboratory Services"	14	NA	NA	NA	18	NA	"chem_alt"	NA	NA	18	NA	"U/L"	"18"	"U/L"	NA
+"6"	"DN-101 Protocol No. 011-007"	"003"	"003-0001"	5	1	"Pre-Enrollment"	5241098002	NA	4007508003	"Calgary Laboratory Services"	14	NA	NA	NA	207	NA	"chem_ldh"	NA	NA	207	NA	"U/L"	"207"	"U/L"	NA
+"7"	"DN-101 Protocol No. 011-007"	"003"	"003-0001"	5	1	"Pre-Enrollment"	5241098002	NA	4007508003	"Calgary Laboratory Services"	14	NA	NA	NA	89	NA	"chem_alkaline_phosphatase"	NA	NA	89	NA	"U/L"	"89"	"U/L"	NA
+"8"	"DN-101 Protocol No. 011-007"	"003"	"003-0002"	5	1	"Pre-Enrollment"	2659202003	NA	4007508003	"Calgary Laboratory Services"	0	NA	NA	NA	2.24	NA	"chem_calcium"	NA	NA	2.24	NA	"mmol/L"	"2.24"	"mmol/L"	NA
+"9"	"DN-101 Protocol No. 011-007"	"003"	"003-0002"	5	1	"Pre-Enrollment"	5241019002	NA	4007508003	"Calgary Laboratory Services"	0	NA	NA	NA	96	NA	"chem_creatinine"	NA	NA	96	NA	"umol/L"	"96"	"umol/L"	NA
+"10"	"DN-101 Protocol No. 011-007"	"003"	"003-0002"	5	1	"Pre-Enrollment"	5241019002	NA	4007508003	"Calgary Laboratory Services"	0	NA	NA	NA	28	NA	"chem_bilirubin_total"	NA	NA	28	NA	"umol/L"	"28"	"umol/L"	NA
+"11"	"DN-101 Protocol No. 011-007"	"003"	"003-0002"	5	1	"Pre-Enrollment"	5241019002	NA	4007508003	"Calgary Laboratory Services"	0	NA	NA	NA	272	NA	"chem_ast"	NA	NA	272	NA	"U/L"	"272"	"U/L"	NA
+"12"	"DN-101 Protocol No. 011-007"	"003"	"003-0002"	5	1	"Pre-Enrollment"	5241019002	NA	4007508003	"Calgary Laboratory Services"	0	NA	NA	NA	166	NA	"chem_alt"	NA	NA	166	NA	"U/L"	"166"	"U/L"	NA
+"13"	"DN-101 Protocol No. 011-007"	"003"	"003-0002"	5	1	"Pre-Enrollment"	5241019002	NA	4007508003	"Calgary Laboratory Services"	0	NA	NA	NA	2500	NA	"chem_ldh"	NA	NA	2500	NA	"U/L"	"2500"	"U/L"	NA
+"14"	"DN-101 Protocol No. 011-007"	"003"	"003-0002"	5	1	"Pre-Enrollment"	5241019002	NA	4007508003	"Calgary Laboratory Services"	0	NA	NA	NA	537	NA	"chem_alkaline_phosphatase"	NA	NA	537	NA	"U/L"	"537"	"U/L"	NA
+"15"	"DN-101 Protocol No. 011-007"	"003"	"003-0004"	5	1	"Pre-Enrollment"	2753066003	NA	4007508003	"Calgary Laboratory Services"	-2	NA	NA	NA	2.42	NA	"chem_calcium"	NA	NA	2.42	NA	"mmol/L"	"2.42"	"mmol/L"	NA
+"16"	"DN-101 Protocol No. 011-007"	"003"	"003-0004"	5	1	"Pre-Enrollment"	5241511002	NA	4007508003	"Calgary Laboratory Services"	-2	NA	NA	NA	98	NA	"chem_creatinine"	NA	NA	98	NA	"umol/L"	"98"	"umol/L"	NA
+"17"	"DN-101 Protocol No. 011-007"	"003"	"003-0004"	5	1	"Pre-Enrollment"	5241511002	NA	4007508003	"Calgary Laboratory Services"	-2	NA	NA	NA	13	NA	"chem_bilirubin_total"	NA	NA	13	NA	"umol/L"	"13"	"umol/L"	NA
+"18"	"DN-101 Protocol No. 011-007"	"003"	"003-0004"	5	1	"Pre-Enrollment"	5241511002	NA	4007508003	"Calgary Laboratory Services"	-2	NA	NA	NA	24	NA	"chem_ast"	NA	NA	24	NA	"U/L"	"24"	"U/L"	NA
+"19"	"DN-101 Protocol No. 011-007"	"003"	"003-0004"	5	1	"Pre-Enrollment"	5241511002	NA	4007508003	"Calgary Laboratory Services"	-2	NA	NA	NA	17	NA	"chem_alt"	NA	NA	17	NA	"U/L"	"17"	"U/L"	NA
+"20"	"DN-101 Protocol No. 011-007"	"003"	"003-0004"	5	1	"Pre-Enrollment"	5241511002	NA	4007508003	"Calgary Laboratory Services"	-2	NA	NA	NA	236	NA	"chem_ldh"	NA	NA	236	NA	"U/L"	"236"	"U/L"	NA
+"21"	"DN-101 Protocol No. 011-007"	"003"	"003-0004"	5	1	"Pre-Enrollment"	5241511002	NA	4007508003	"Calgary Laboratory Services"	-2	NA	NA	NA	96	NA	"chem_alkaline_phosphatase"	NA	NA	96	NA	"U/L"	"96"	"U/L"	NA
+"22"	"DN-101 Protocol No. 011-007"	"003"	"003-0009"	5	1	"Pre-Enrollment"	2894198003	NA	4007508003	"Calgary Laboratory Services"	0	NA	NA	NA	2.35	NA	"chem_calcium"	NA	NA	2.35	NA	"mmol/L"	"2.35"	"mmol/L"	NA
+"23"	"DN-101 Protocol No. 011-007"	"003"	"003-0009"	5	1	"Pre-Enrollment"	5241874002	NA	4007508003	"Calgary Laboratory Services"	0	NA	NA	NA	156	NA	"chem_creatinine"	NA	NA	156	NA	"umol/L"	"156"	"umol/L"	NA
+"24"	"DN-101 Protocol No. 011-007"	"003"	"003-0009"	5	1	"Pre-Enrollment"	5241874002	NA	4007508003	"Calgary Laboratory Services"	0	NA	NA	NA	3	NA	"chem_bilirubin_total"	NA	NA	3	NA	"umol/L"	"3"	"umol/L"	NA
+"25"	"DN-101 Protocol No. 011-007"	"003"	"003-0009"	5	1	"Pre-Enrollment"	5241874002	NA	4007508003	"Calgary Laboratory Services"	0	NA	NA	NA	49	NA	"chem_ast"	NA	NA	49	NA	"U/L"	"49"	"U/L"	NA
+"26"	"DN-101 Protocol No. 011-007"	"003"	"003-0009"	5	1	"Pre-Enrollment"	5241874002	NA	4007508003	"Calgary Laboratory Services"	0	NA	NA	NA	10	NA	"chem_alt"	NA	NA	10	NA	"U/L"	"10"	"U/L"	NA
+"27"	"DN-101 Protocol No. 011-007"	"003"	"003-0009"	5	1	"Pre-Enrollment"	5241874002	NA	4007508003	"Calgary Laboratory Services"	0	NA	NA	NA	478	NA	"chem_ldh"	NA	NA	478	NA	"U/L"	"478"	"U/L"	NA
+"28"	"DN-101 Protocol No. 011-007"	"003"	"003-0009"	5	1	"Pre-Enrollment"	5241874002	NA	4007508003	"Calgary Laboratory Services"	0	NA	NA	NA	740	NA	"chem_alkaline_phosphatase"	NA	NA	740	NA	"U/L"	"740"	"U/L"	NA
+"29"	"DN-101 Protocol No. 011-007"	"003"	"003-0013"	5	1	"Pre-Enrollment"	3185622003	NA	4007508003	"Calgary Laboratory Services"	0	NA	NA	NA	2.22	NA	"chem_calcium"	NA	NA	2.22	NA	"mmol/L"	"2.22"	"mmol/L"	NA
+"30"	"DN-101 Protocol No. 011-007"	"003"	"003-0013"	5	1	"Pre-Enrollment"	5240840002	NA	4007508003	"Calgary Laboratory Services"	0	NA	NA	NA	73	NA	"chem_creatinine"	NA	NA	73	NA	"umol/L"	"73"	"umol/L"	NA
+"31"	"DN-101 Protocol No. 011-007"	"003"	"003-0013"	5	1	"Pre-Enrollment"	5240840002	NA	4007508003	"Calgary Laboratory Services"	0	NA	NA	NA	5	NA	"chem_bilirubin_total"	NA	NA	5	NA	"umol/L"	"5"	"umol/L"	NA
+"32"	"DN-101 Protocol No. 011-007"	"003"	"003-0013"	5	1	"Pre-Enrollment"	5240840002	NA	4007508003	"Calgary Laboratory Services"	0	NA	NA	NA	17	NA	"chem_ast"	NA	NA	17	NA	"U/L"	"17"	"U/L"	NA
+"33"	"DN-101 Protocol No. 011-007"	"003"	"003-0013"	5	1	"Pre-Enrollment"	5240840002	NA	4007508003	"Calgary Laboratory Services"	0	NA	NA	NA	17	NA	"chem_alt"	NA	NA	17	NA	"U/L"	"17"	"U/L"	NA
+"34"	"DN-101 Protocol No. 011-007"	"003"	"003-0013"	5	1	"Pre-Enrollment"	5240840002	NA	4007508003	"Calgary Laboratory Services"	0	NA	NA	NA	172	NA	"chem_ldh"	NA	NA	172	NA	"U/L"	"172"	"U/L"	NA
+"35"	"DN-101 Protocol No. 011-007"	"003"	"003-0013"	5	1	"Pre-Enrollment"	5240840002	NA	4007508003	"Calgary Laboratory Services"	0	NA	NA	NA	74	NA	"chem_alkaline_phosphatase"	NA	NA	74	NA	"U/L"	"74"	"U/L"	NA
+"36"	"DN-101 Protocol No. 011-007"	"003"	"003-0014"	5	1	"Pre-Enrollment"	3185796003	NA	4007508003	"Calgary Laboratory Services"	0	NA	NA	NA	2.13	NA	"chem_calcium"	NA	NA	2.13	NA	"mmol/L"	"2.13"	"mmol/L"	NA
+"37"	"DN-101 Protocol No. 011-007"	"003"	"003-0014"	5	1	"Pre-Enrollment"	5241270002	NA	4007508003	"Calgary Laboratory Services"	0	NA	NA	NA	91	NA	"chem_creatinine"	NA	NA	91	NA	"umol/L"	"91"	"umol/L"	NA
+"38"	"DN-101 Protocol No. 011-007"	"003"	"003-0014"	5	1	"Pre-Enrollment"	5241270002	NA	4007508003	"Calgary Laboratory Services"	0	NA	NA	NA	5	NA	"chem_bilirubin_total"	NA	NA	5	NA	"umol/L"	"5"	"umol/L"	NA
+"39"	"DN-101 Protocol No. 011-007"	"003"	"003-0014"	5	1	"Pre-Enrollment"	5241270002	NA	4007508003	"Calgary Laboratory Services"	0	NA	NA	NA	33	NA	"chem_ast"	NA	NA	33	NA	"U/L"	"33"	"U/L"	NA
+"40"	"DN-101 Protocol No. 011-007"	"003"	"003-0014"	5	1	"Pre-Enrollment"	5241270002	NA	4007508003	"Calgary Laboratory Services"	0	NA	NA	NA	12	NA	"chem_alt"	NA	NA	12	NA	"U/L"	"12"	"U/L"	NA
+"41"	"DN-101 Protocol No. 011-007"	"003"	"003-0014"	5	1	"Pre-Enrollment"	5241270002	NA	4007508003	"Calgary Laboratory Services"	0	NA	NA	NA	287	NA	"chem_ldh"	NA	NA	287	NA	"U/L"	"287"	"U/L"	NA
+"42"	"DN-101 Protocol No. 011-007"	"003"	"003-0014"	5	1	"Pre-Enrollment"	5241270002	NA	4007508003	"Calgary Laboratory Services"	0	NA	NA	NA	349	NA	"chem_alkaline_phosphatase"	NA	NA	349	NA	"U/L"	"349"	"U/L"	NA
+"43"	"DN-101 Protocol No. 011-007"	"014"	"014-0001"	5	1	"Pre-Enrollment"	2624953003	NA	4233207003	"Texas Oncology Cancer Center"	0	NA	NA	NA	8.6	NA	"chem_calcium"	NA	NA	2.1446	NA	"mg/dL"	"8.6000"	"mmol/L"	NA
+"44"	"DN-101 Protocol No. 011-007"	"014"	"014-0001"	5	1	"Pre-Enrollment"	4614010002	NA	4233207003	"Texas Oncology Cancer Center"	0	NA	NA	NA	0.9	NA	"chem_creatinine"	NA	NA	79.5756	NA	"mg/dL"	"0.9000"	"umol/L"	NA
+"45"	"DN-101 Protocol No. 011-007"	"014"	"014-0001"	5	1	"Pre-Enrollment"	4614010002	NA	4233207003	"Texas Oncology Cancer Center"	0	NA	NA	NA	0.5	NA	"chem_bilirubin_total"	NA	NA	8.5514	NA	"mg/dL"	"0.5000"	"umol/L"	NA
+"46"	"DN-101 Protocol No. 011-007"	"014"	"014-0001"	5	1	"Pre-Enrollment"	4614010002	NA	4233207003	"Texas Oncology Cancer Center"	0	NA	NA	NA	33	NA	"chem_ast"	NA	NA	33	NA	"U/L"	"33.0000"	"U/L"	NA
+"47"	"DN-101 Protocol No. 011-007"	"014"	"014-0001"	5	1	"Pre-Enrollment"	4614010002	NA	4233207003	"Texas Oncology Cancer Center"	0	NA	NA	NA	8	NA	"chem_alt"	NA	NA	8	NA	"U/L"	"8.0000"	"U/L"	NA
+"48"	"DN-101 Protocol No. 011-007"	"014"	"014-0001"	5	1	"Pre-Enrollment"	4614010002	NA	4233207003	"Texas Oncology Cancer Center"	0	NA	NA	NA	NA	NA	"chem_ldh"	NA	NA	NA	1	""	""	""	NA
+"49"	"DN-101 Protocol No. 011-007"	"014"	"014-0001"	5	1	"Pre-Enrollment"	4614010002	NA	4233207003	"Texas Oncology Cancer Center"	0	NA	NA	NA	207	NA	"chem_alkaline_phosphatase"	NA	NA	207	NA	"U/L"	"207.0000"	"U/L"	NA
+"50"	"DN-101 Protocol No. 011-007"	"014"	"014-0002"	5	1	"Pre-Enrollment"	2840459003	NA	4233207003	"Texas Oncology Cancer Center"	15	NA	NA	NA	9.9	NA	"chem_calcium"	NA	NA	2.4688	NA	"mg/dL"	"9.9000"	"mmol/L"	NA
+"51"	"DN-101 Protocol No. 011-007"	"014"	"014-0002"	5	1	"Pre-Enrollment"	4614415002	NA	4233207003	"Texas Oncology Cancer Center"	15	NA	NA	NA	1	NA	"chem_creatinine"	NA	NA	88.4173	NA	"mg/dL"	"1.0000"	"umol/L"	NA
+"52"	"DN-101 Protocol No. 011-007"	"014"	"014-0002"	5	1	"Pre-Enrollment"	4614415002	NA	4233207003	"Texas Oncology Cancer Center"	15	NA	NA	NA	0.5	NA	"chem_bilirubin_total"	NA	NA	8.5514	NA	"mg/dL"	"0.5000"	"umol/L"	NA
+"53"	"DN-101 Protocol No. 011-007"	"014"	"014-0002"	5	1	"Pre-Enrollment"	4614415002	NA	4233207003	"Texas Oncology Cancer Center"	15	NA	NA	NA	34	NA	"chem_ast"	NA	NA	34	NA	"IU/L"	"34.0000"	"U/L"	NA
+"54"	"DN-101 Protocol No. 011-007"	"014"	"014-0002"	5	1	"Pre-Enrollment"	4614415002	NA	4233207003	"Texas Oncology Cancer Center"	15	NA	NA	NA	32	NA	"chem_alt"	NA	NA	32	NA	"IU/L"	"32.0000"	"U/L"	NA
+"55"	"DN-101 Protocol No. 011-007"	"014"	"014-0002"	5	1	"Pre-Enrollment"	4614415002	NA	4233207003	"Texas Oncology Cancer Center"	15	NA	NA	NA	NA	NA	"chem_ldh"	NA	NA	NA	1	""	""	""	NA
+"56"	"DN-101 Protocol No. 011-007"	"014"	"014-0002"	5	1	"Pre-Enrollment"	4614415002	NA	4233207003	"Texas Oncology Cancer Center"	15	NA	NA	NA	87	NA	"chem_alkaline_phosphatase"	NA	NA	87	NA	"IU/L"	"87.0000"	"U/L"	NA
+"57"	"DN-101 Protocol No. 011-007"	"014"	"014-0003"	5	1	"Pre-Enrollment"	2998949003	NA	4233207003	"Texas Oncology Cancer Center"	2	NA	NA	NA	9	NA	"chem_calcium"	NA	NA	2.2444	NA	"mg/dL"	"9.0000"	"mmol/L"	NA
+"58"	"DN-101 Protocol No. 011-007"	"014"	"014-0003"	5	1	"Pre-Enrollment"	4614711002	NA	4233207003	"Texas Oncology Cancer Center"	2	NA	NA	NA	1.3	NA	"chem_creatinine"	NA	NA	114.9425	NA	"mg/dL"	"1.3000"	"umol/L"	NA
+"59"	"DN-101 Protocol No. 011-007"	"014"	"014-0003"	5	1	"Pre-Enrollment"	4614711002	NA	4233207003	"Texas Oncology Cancer Center"	2	NA	NA	NA	0.5	NA	"chem_bilirubin_total"	NA	NA	8.5514	NA	"mg/dL"	"0.5000"	"umol/L"	NA
+"60"	"DN-101 Protocol No. 011-007"	"014"	"014-0003"	5	1	"Pre-Enrollment"	4614711002	NA	4233207003	"Texas Oncology Cancer Center"	2	NA	NA	NA	20	NA	"chem_ast"	NA	NA	20	NA	"U/L"	"20.0000"	"U/L"	NA
+"61"	"DN-101 Protocol No. 011-007"	"014"	"014-0003"	5	1	"Pre-Enrollment"	4614711002	NA	4233207003	"Texas Oncology Cancer Center"	2	NA	NA	NA	14	NA	"chem_alt"	NA	NA	14	NA	"U/L"	"14.0000"	"U/L"	NA
+"62"	"DN-101 Protocol No. 011-007"	"014"	"014-0003"	5	1	"Pre-Enrollment"	4614711002	NA	4233207003	"Texas Oncology Cancer Center"	2	NA	NA	NA	NA	NA	"chem_ldh"	NA	NA	NA	1	""	""	""	NA
+"63"	"DN-101 Protocol No. 011-007"	"014"	"014-0003"	5	1	"Pre-Enrollment"	4614711002	NA	4233207003	"Texas Oncology Cancer Center"	2	NA	NA	NA	113	NA	"chem_alkaline_phosphatase"	NA	NA	113	NA	"U/L"	"113.0000"	"U/L"	NA
+"64"	"DN-101 Protocol No. 011-007"	"030"	"030-0005"	5	1	"Pre-Enrollment"	2888854003	NA	4143766003	"Texas Oncology Lab - Midland"	-11	NA	NA	NA	NA	NA	"chem_calcium"	NA	NA	NA	1	""	""	""	NA
+"65"	"DN-101 Protocol No. 011-007"	"030"	"030-0005"	5	1	"Pre-Enrollment"	5241529002	NA	4143766003	"Texas Oncology Lab - Midland"	-11	NA	NA	NA	NA	NA	"chem_creatinine"	NA	NA	NA	1	""	""	""	NA
+"66"	"DN-101 Protocol No. 011-007"	"030"	"030-0005"	5	1	"Pre-Enrollment"	5241529002	NA	4143766003	"Texas Oncology Lab - Midland"	-11	NA	NA	NA	NA	NA	"chem_bilirubin_total"	NA	NA	NA	1	""	""	""	NA
+"67"	"DN-101 Protocol No. 011-007"	"030"	"030-0005"	5	1	"Pre-Enrollment"	5241529002	NA	4143766003	"Texas Oncology Lab - Midland"	-11	NA	NA	NA	NA	NA	"chem_ast"	NA	NA	NA	1	""	""	""	NA
+"68"	"DN-101 Protocol No. 011-007"	"030"	"030-0005"	5	1	"Pre-Enrollment"	5241529002	NA	4143766003	"Texas Oncology Lab - Midland"	-11	NA	NA	NA	NA	NA	"chem_alt"	NA	NA	NA	1	""	""	""	NA
+"69"	"DN-101 Protocol No. 011-007"	"030"	"030-0005"	5	1	"Pre-Enrollment"	5241529002	NA	4143766003	"Texas Oncology Lab - Midland"	-11	NA	NA	190	159	190	"chem_ldh"	100	NA	159	NA	"U/L"	"159"	"U/L"	100
+"70"	"DN-101 Protocol No. 011-007"	"030"	"030-0005"	5	1	"Pre-Enrollment"	5241529002	NA	4143766003	"Texas Oncology Lab - Midland"	-11	NA	NA	NA	NA	NA	"chem_alkaline_phosphatase"	NA	NA	NA	1	""	""	""	NA
+"71"	"DN-101 Protocol No. 011-007"	"034"	"034-0001"	5	1	"Pre-Enrollment"	2663284003	NA	5283863004	"Cancer Care Associates - South"	0	NA	NA	2.6185	8.7	10.5	"chem_calcium"	2.1197	NA	2.1696	NA	"mg/dL"	"8.7"	"mmol/L"	8.5
+"72"	"DN-101 Protocol No. 011-007"	"034"	"034-0001"	5	1	"Pre-Enrollment"	5239230002	NA	5283863004	"Cancer Care Associates - South"	0	NA	NA	114.9425	2.1	1.3	"chem_creatinine"	53.0504	NA	185.6764	NA	"mg/dL"	"2.1"	"umol/L"	0.6
+"73"	"DN-101 Protocol No. 011-007"	"034"	"034-0001"	5	1	"Pre-Enrollment"	5239230002	NA	5283863004	"Cancer Care Associates - South"	0	NA	NA	25.6542	0.3	1.5	"chem_bilirubin_total"	0	NA	5.1308	NA	"mg/dL"	"0.3"	"umol/L"	0
+"74"	"DN-101 Protocol No. 011-007"	"034"	"034-0001"	5	1	"Pre-Enrollment"	5239230002	NA	5283863004	"Cancer Care Associates - South"	0	NA	NA	40	24	40	"chem_ast"	15	NA	24	NA	"U/L"	"24"	"U/L"	15
+"75"	"DN-101 Protocol No. 011-007"	"034"	"034-0001"	5	1	"Pre-Enrollment"	5239230002	NA	5283863004	"Cancer Care Associates - South"	0	NA	NA	65	31	65	"chem_alt"	30	NA	31	NA	"U/L"	"31"	"U/L"	30
+"76"	"DN-101 Protocol No. 011-007"	"034"	"034-0001"	5	1	"Pre-Enrollment"	5239230002	NA	5283863004	"Cancer Care Associates - South"	0	NA	NA	190	187	190	"chem_ldh"	110	NA	187	NA	"U/L"	"187"	"U/L"	110
+"77"	"DN-101 Protocol No. 011-007"	"034"	"034-0001"	5	1	"Pre-Enrollment"	5239230002	NA	5283863004	"Cancer Care Associates - South"	0	NA	NA	130	150	130	"chem_alkaline_phosphatase"	20	NA	150	NA	"U/L"	"150"	"U/L"	20
+"78"	"DN-101 Protocol No. 011-007"	"037"	"037-0002"	5	1	"Pre-Enrollment"	3163250003	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_calcium"	NA	NA	NA	NA	""	""	""	NA
+"79"	"DN-101 Protocol No. 011-007"	"037"	"037-0002"	5	1	"Pre-Enrollment"	3672232001	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_creatinine"	NA	NA	NA	NA	""	""	""	NA
+"80"	"DN-101 Protocol No. 011-007"	"037"	"037-0002"	5	1	"Pre-Enrollment"	3672232001	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_bilirubin_total"	NA	NA	NA	NA	""	""	""	NA
+"81"	"DN-101 Protocol No. 011-007"	"037"	"037-0002"	5	1	"Pre-Enrollment"	3672232001	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_ast"	NA	NA	NA	NA	""	""	""	NA
+"82"	"DN-101 Protocol No. 011-007"	"037"	"037-0002"	5	1	"Pre-Enrollment"	3672232001	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_alt"	NA	NA	NA	NA	""	""	""	NA
+"83"	"DN-101 Protocol No. 011-007"	"037"	"037-0002"	5	1	"Pre-Enrollment"	3672232001	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_ldh"	NA	NA	NA	NA	""	""	""	NA
+"84"	"DN-101 Protocol No. 011-007"	"037"	"037-0002"	5	1	"Pre-Enrollment"	3672232001	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_alkaline_phosphatase"	NA	NA	NA	NA	""	""	""	NA
+"85"	"DN-101 Protocol No. 011-007"	"037"	"037-0003"	5	1	"Pre-Enrollment"	3404267003	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_calcium"	NA	NA	NA	NA	""	""	""	NA
+"86"	"DN-101 Protocol No. 011-007"	"037"	"037-0003"	5	1	"Pre-Enrollment"	3694472001	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_creatinine"	NA	NA	NA	NA	""	""	""	NA
+"87"	"DN-101 Protocol No. 011-007"	"037"	"037-0003"	5	1	"Pre-Enrollment"	3694472001	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_bilirubin_total"	NA	NA	NA	NA	""	""	""	NA
+"88"	"DN-101 Protocol No. 011-007"	"037"	"037-0003"	5	1	"Pre-Enrollment"	3694472001	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_ast"	NA	NA	NA	NA	""	""	""	NA
+"89"	"DN-101 Protocol No. 011-007"	"037"	"037-0003"	5	1	"Pre-Enrollment"	3694472001	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_alt"	NA	NA	NA	NA	""	""	""	NA
+"90"	"DN-101 Protocol No. 011-007"	"037"	"037-0003"	5	1	"Pre-Enrollment"	3694472001	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_ldh"	NA	NA	NA	NA	""	""	""	NA
+"91"	"DN-101 Protocol No. 011-007"	"037"	"037-0003"	5	1	"Pre-Enrollment"	3694472001	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_alkaline_phosphatase"	NA	NA	NA	NA	""	""	""	NA
+"92"	"DN-101 Protocol No. 011-007"	"041"	"041-0036"	5	1	"Pre-Enrollment"	3437278003	NA	4163923003	"Memorial Sloan-Kettering Cancer Center"	0	NA	NA	NA	NA	NA	"chem_calcium"	NA	NA	NA	NA	""	""	""	NA
+"93"	"DN-101 Protocol No. 011-007"	"041"	"041-0036"	5	1	"Pre-Enrollment"	5292892002	NA	4163923003	"Memorial Sloan-Kettering Cancer Center"	0	NA	NA	NA	NA	NA	"chem_creatinine"	NA	NA	NA	NA	""	""	""	NA
+"94"	"DN-101 Protocol No. 011-007"	"041"	"041-0036"	5	1	"Pre-Enrollment"	5292892002	NA	4163923003	"Memorial Sloan-Kettering Cancer Center"	0	NA	NA	17.1028	0.8	1	"chem_bilirubin_total"	0	NA	13.6822	NA	"mg/dL"	".8"	"umol/L"	0
+"95"	"DN-101 Protocol No. 011-007"	"041"	"041-0036"	5	1	"Pre-Enrollment"	5292892002	NA	4163923003	"Memorial Sloan-Kettering Cancer Center"	0	NA	NA	37	25	37	"chem_ast"	10	NA	25	NA	"U/L"	"25"	"U/L"	10
+"96"	"DN-101 Protocol No. 011-007"	"041"	"041-0036"	5	1	"Pre-Enrollment"	5292892002	NA	4163923003	"Memorial Sloan-Kettering Cancer Center"	0	NA	NA	37	21	37	"chem_alt"	5	NA	21	NA	"U/L"	"21"	"U/L"	5
+"97"	"DN-101 Protocol No. 011-007"	"041"	"041-0036"	5	1	"Pre-Enrollment"	5292892002	NA	4163923003	"Memorial Sloan-Kettering Cancer Center"	0	NA	NA	NA	NA	NA	"chem_ldh"	NA	NA	NA	NA	""	""	""	NA
+"98"	"DN-101 Protocol No. 011-007"	"041"	"041-0036"	5	1	"Pre-Enrollment"	5292892002	NA	4163923003	"Memorial Sloan-Kettering Cancer Center"	0	NA	NA	NA	NA	NA	"chem_alkaline_phosphatase"	NA	NA	NA	NA	""	""	""	NA
+"99"	"DN-101 Protocol No. 011-007"	"044"	"044-0001"	5	1	"Pre-Enrollment"	2963408003	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_calcium"	NA	NA	NA	NA	""	""	""	NA
+"100"	"DN-101 Protocol No. 011-007"	"044"	"044-0001"	5	1	"Pre-Enrollment"	4793480002	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_creatinine"	NA	NA	NA	NA	""	""	""	NA
+"101"	"DN-101 Protocol No. 011-007"	"044"	"044-0001"	5	1	"Pre-Enrollment"	4793480002	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_bilirubin_total"	NA	NA	NA	NA	""	""	""	NA
+"102"	"DN-101 Protocol No. 011-007"	"044"	"044-0001"	5	1	"Pre-Enrollment"	4793480002	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_ast"	NA	NA	NA	NA	""	""	""	NA
+"103"	"DN-101 Protocol No. 011-007"	"044"	"044-0001"	5	1	"Pre-Enrollment"	4793480002	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_alt"	NA	NA	NA	NA	""	""	""	NA
+"104"	"DN-101 Protocol No. 011-007"	"044"	"044-0001"	5	1	"Pre-Enrollment"	4793480002	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_ldh"	NA	NA	NA	NA	""	""	""	NA
+"105"	"DN-101 Protocol No. 011-007"	"044"	"044-0001"	5	1	"Pre-Enrollment"	4793480002	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_alkaline_phosphatase"	NA	NA	NA	NA	""	""	""	NA
+"106"	"DN-101 Protocol No. 011-007"	"063"	"063-0001"	5	1	"Pre-Enrollment"	2864012003	NA	3999738003	"Hamilton Health Sciences-Henderson Site"	0	NA	NA	NA	2.09	NA	"chem_calcium"	NA	NA	2.09	NA	"mmol/L"	"2.0900"	"mmol/L"	NA
+"107"	"DN-101 Protocol No. 011-007"	"063"	"063-0001"	5	1	"Pre-Enrollment"	4107251001	NA	3999738003	"Hamilton Health Sciences-Henderson Site"	0	NA	NA	NA	92	NA	"chem_creatinine"	NA	NA	92	NA	"umol/L"	"92.0000"	"umol/L"	NA
+"108"	"DN-101 Protocol No. 011-007"	"063"	"063-0001"	5	1	"Pre-Enrollment"	4107251001	NA	3999738003	"Hamilton Health Sciences-Henderson Site"	0	NA	NA	NA	10	NA	"chem_bilirubin_total"	NA	NA	10	NA	"umol/L"	"10.0000"	"umol/L"	NA
+"109"	"DN-101 Protocol No. 011-007"	"063"	"063-0001"	5	1	"Pre-Enrollment"	4107251001	NA	3999738003	"Hamilton Health Sciences-Henderson Site"	0	NA	NA	NA	33	NA	"chem_ast"	NA	NA	33	NA	"U/L"	"33.0000"	"U/L"	NA
+"110"	"DN-101 Protocol No. 011-007"	"063"	"063-0001"	5	1	"Pre-Enrollment"	4107251001	NA	3999738003	"Hamilton Health Sciences-Henderson Site"	0	NA	NA	NA	61	NA	"chem_alt"	NA	NA	61	NA	"U/L"	"61.0000"	"U/L"	NA
+"111"	"DN-101 Protocol No. 011-007"	"063"	"063-0001"	5	1	"Pre-Enrollment"	4107251001	NA	3999738003	"Hamilton Health Sciences-Henderson Site"	0	NA	NA	NA	NA	NA	"chem_ldh"	NA	NA	NA	1	""	""	""	NA
+"112"	"DN-101 Protocol No. 011-007"	"063"	"063-0001"	5	1	"Pre-Enrollment"	4107251001	NA	3999738003	"Hamilton Health Sciences-Henderson Site"	0	NA	NA	NA	122	NA	"chem_alkaline_phosphatase"	NA	NA	122	NA	"U/L"	"122.0000"	"U/L"	NA
+"113"	"DN-101 Protocol No. 011-007"	"063"	"063-0003"	5	1	"Pre-Enrollment"	2894459003	NA	3999738003	"Hamilton Health Sciences-Henderson Site"	7	NA	NA	NA	2.45	NA	"chem_calcium"	NA	NA	2.45	NA	"mmol/L"	"2.4500"	"mmol/L"	NA
+"114"	"DN-101 Protocol No. 011-007"	"063"	"063-0003"	5	1	"Pre-Enrollment"	4109322001	NA	3999738003	"Hamilton Health Sciences-Henderson Site"	7	NA	NA	NA	154	NA	"chem_creatinine"	NA	NA	154	NA	"umol/L"	"154.0000"	"umol/L"	NA
+"115"	"DN-101 Protocol No. 011-007"	"063"	"063-0003"	5	1	"Pre-Enrollment"	4109322001	NA	3999738003	"Hamilton Health Sciences-Henderson Site"	7	NA	NA	NA	7	NA	"chem_bilirubin_total"	NA	NA	7	NA	"umol/L"	"7.0000"	"umol/L"	NA
+"116"	"DN-101 Protocol No. 011-007"	"063"	"063-0003"	5	1	"Pre-Enrollment"	4109322001	NA	3999738003	"Hamilton Health Sciences-Henderson Site"	7	NA	NA	NA	19	NA	"chem_ast"	NA	NA	19	NA	"U/L"	"19.0000"	"U/L"	NA
+"117"	"DN-101 Protocol No. 011-007"	"063"	"063-0003"	5	1	"Pre-Enrollment"	4109322001	NA	3999738003	"Hamilton Health Sciences-Henderson Site"	7	NA	NA	NA	16	NA	"chem_alt"	NA	NA	16	NA	"U/L"	"16.0000"	"U/L"	NA
+"118"	"DN-101 Protocol No. 011-007"	"063"	"063-0003"	5	1	"Pre-Enrollment"	4109322001	NA	3999738003	"Hamilton Health Sciences-Henderson Site"	7	NA	NA	NA	181	NA	"chem_ldh"	NA	NA	181	NA	"U/L"	"181.0000"	"U/L"	NA
+"119"	"DN-101 Protocol No. 011-007"	"063"	"063-0003"	5	1	"Pre-Enrollment"	4109322001	NA	3999738003	"Hamilton Health Sciences-Henderson Site"	7	NA	NA	NA	103	NA	"chem_alkaline_phosphatase"	NA	NA	103	NA	"U/L"	"103.0000"	"U/L"	NA
+"120"	"DN-101 Protocol No. 011-007"	"063"	"063-0005"	5	1	"Pre-Enrollment"	3018139003	NA	3999738003	"Hamilton Health Sciences-Henderson Site"	1	NA	NA	NA	NA	NA	"chem_calcium"	NA	NA	NA	1	""	""	""	NA
+"121"	"DN-101 Protocol No. 011-007"	"063"	"063-0005"	5	1	"Pre-Enrollment"	4160750001	NA	3999738003	"Hamilton Health Sciences-Henderson Site"	1	NA	NA	NA	83	NA	"chem_creatinine"	NA	NA	83	NA	"umol/L"	"83.0000"	"umol/L"	NA
+"122"	"DN-101 Protocol No. 011-007"	"063"	"063-0005"	5	1	"Pre-Enrollment"	4160750001	NA	3999738003	"Hamilton Health Sciences-Henderson Site"	1	NA	NA	NA	12	NA	"chem_bilirubin_total"	NA	NA	12	NA	"umol/L"	"12.0000"	"umol/L"	NA
+"123"	"DN-101 Protocol No. 011-007"	"063"	"063-0005"	5	1	"Pre-Enrollment"	4160750001	NA	3999738003	"Hamilton Health Sciences-Henderson Site"	1	NA	NA	NA	19	NA	"chem_ast"	NA	NA	19	NA	"U/L"	"19.0000"	"U/L"	NA
+"124"	"DN-101 Protocol No. 011-007"	"063"	"063-0005"	5	1	"Pre-Enrollment"	4160750001	NA	3999738003	"Hamilton Health Sciences-Henderson Site"	1	NA	NA	NA	14	NA	"chem_alt"	NA	NA	14	NA	"U/L"	"14.0000"	"U/L"	NA
+"125"	"DN-101 Protocol No. 011-007"	"063"	"063-0005"	5	1	"Pre-Enrollment"	4160750001	NA	3999738003	"Hamilton Health Sciences-Henderson Site"	1	NA	NA	NA	172	NA	"chem_ldh"	NA	NA	172	NA	"U/L"	"172.0000"	"U/L"	NA
+"126"	"DN-101 Protocol No. 011-007"	"063"	"063-0005"	5	1	"Pre-Enrollment"	4160750001	NA	3999738003	"Hamilton Health Sciences-Henderson Site"	1	NA	NA	NA	60	NA	"chem_alkaline_phosphatase"	NA	NA	60	NA	"U/L"	"60.0000"	"U/L"	NA
+"127"	"DN-101 Protocol No. 011-007"	"063"	"063-0006"	5	1	"Pre-Enrollment"	3145075003	NA	3999738003	"Hamilton Health Sciences-Henderson Site"	0	NA	NA	NA	2.4	NA	"chem_calcium"	NA	NA	2.4	NA	"mmol/L"	"2.4000"	"mmol/L"	NA
+"128"	"DN-101 Protocol No. 011-007"	"063"	"063-0006"	5	1	"Pre-Enrollment"	4109059001	NA	3999738003	"Hamilton Health Sciences-Henderson Site"	0	NA	NA	NA	68	NA	"chem_creatinine"	NA	NA	68	NA	"umol/L"	"68.0000"	"umol/L"	NA
+"129"	"DN-101 Protocol No. 011-007"	"063"	"063-0006"	5	1	"Pre-Enrollment"	4109059001	NA	3999738003	"Hamilton Health Sciences-Henderson Site"	0	NA	NA	NA	6	NA	"chem_bilirubin_total"	NA	NA	6	NA	"umol/L"	"6.0000"	"umol/L"	NA
+"130"	"DN-101 Protocol No. 011-007"	"063"	"063-0006"	5	1	"Pre-Enrollment"	4109059001	NA	3999738003	"Hamilton Health Sciences-Henderson Site"	0	NA	NA	NA	46	NA	"chem_ast"	NA	NA	46	NA	"U/L"	"46.0000"	"U/L"	NA
+"131"	"DN-101 Protocol No. 011-007"	"063"	"063-0006"	5	1	"Pre-Enrollment"	4109059001	NA	3999738003	"Hamilton Health Sciences-Henderson Site"	0	NA	NA	NA	63	NA	"chem_alt"	NA	NA	63	NA	"U/L"	"63.0000"	"U/L"	NA
+"132"	"DN-101 Protocol No. 011-007"	"063"	"063-0006"	5	1	"Pre-Enrollment"	4109059001	NA	3999738003	"Hamilton Health Sciences-Henderson Site"	0	NA	NA	NA	259	NA	"chem_ldh"	NA	NA	259	NA	"U/L"	"259.0000"	"U/L"	NA
+"133"	"DN-101 Protocol No. 011-007"	"063"	"063-0006"	5	1	"Pre-Enrollment"	4109059001	NA	3999738003	"Hamilton Health Sciences-Henderson Site"	0	NA	NA	NA	86	NA	"chem_alkaline_phosphatase"	NA	NA	86	NA	"U/L"	"86.0000"	"U/L"	NA
+"134"	"DN-101 Protocol No. 011-007"	"063"	"063-0007"	5	1	"Pre-Enrollment"	3369188003	NA	3999738003	"Hamilton Health Sciences-Henderson Site"	0	NA	NA	2.55	2.43	2.55	"chem_calcium"	2.15	NA	2.43	NA	"mmol/L"	"2.4300"	"mmol/L"	2.15
+"135"	"DN-101 Protocol No. 011-007"	"063"	"063-0007"	5	1	"Pre-Enrollment"	4107733001	NA	3999738003	"Hamilton Health Sciences-Henderson Site"	0	NA	NA	115	63	115	"chem_creatinine"	60	NA	63	NA	"umol/L"	"63.0000"	"umol/L"	60
+"136"	"DN-101 Protocol No. 011-007"	"063"	"063-0007"	5	1	"Pre-Enrollment"	4107733001	NA	3999738003	"Hamilton Health Sciences-Henderson Site"	0	NA	NA	18	6	18	"chem_bilirubin_total"	2	NA	6	NA	"umol/L"	"6.0000"	"umol/L"	2
+"137"	"DN-101 Protocol No. 011-007"	"063"	"063-0007"	5	1	"Pre-Enrollment"	4107733001	NA	3999738003	"Hamilton Health Sciences-Henderson Site"	0	NA	NA	34.9999	27	34.9999	"chem_ast"	0	NA	27	NA	"U/L"	"27.0000"	"U/L"	0
+"138"	"DN-101 Protocol No. 011-007"	"063"	"063-0007"	5	1	"Pre-Enrollment"	4107733001	NA	3999738003	"Hamilton Health Sciences-Henderson Site"	0	NA	NA	40	18	40	"chem_alt"	0	NA	18	NA	"U/L"	"18.0000"	"U/L"	0
+"139"	"DN-101 Protocol No. 011-007"	"063"	"063-0007"	5	1	"Pre-Enrollment"	4107733001	NA	3999738003	"Hamilton Health Sciences-Henderson Site"	0	NA	NA	220	947	220	"chem_ldh"	100	NA	947	NA	"U/L"	"947.0000"	"U/L"	100
+"140"	"DN-101 Protocol No. 011-007"	"063"	"063-0007"	5	1	"Pre-Enrollment"	4107733001	NA	3999738003	"Hamilton Health Sciences-Henderson Site"	0	NA	NA	120	237	120	"chem_alkaline_phosphatase"	40	NA	237	NA	"U/L"	"237.0000"	"U/L"	40
+"141"	"DN-101 Protocol No. 011-007"	"063"	"063-0010"	5	1	"Pre-Enrollment"	3782847003	NA	3999738003	"Hamilton Health Sciences-Henderson Site"	0	NA	NA	2.55	2.3	2.55	"chem_calcium"	2.15	NA	2.3	NA	"mmol/L"	"2.3000"	"mmol/L"	2.15
+"142"	"DN-101 Protocol No. 011-007"	"063"	"063-0010"	5	1	"Pre-Enrollment"	4108084001	NA	3999738003	"Hamilton Health Sciences-Henderson Site"	0	NA	NA	115	79	115	"chem_creatinine"	60	NA	79	NA	"umol/L"	"79.0000"	"umol/L"	60
+"143"	"DN-101 Protocol No. 011-007"	"063"	"063-0010"	5	1	"Pre-Enrollment"	4108084001	NA	3999738003	"Hamilton Health Sciences-Henderson Site"	0	NA	NA	18	8	18	"chem_bilirubin_total"	2	NA	8	NA	"umol/L"	"8.0000"	"umol/L"	2
+"144"	"DN-101 Protocol No. 011-007"	"063"	"063-0010"	5	1	"Pre-Enrollment"	4108084001	NA	3999738003	"Hamilton Health Sciences-Henderson Site"	0	NA	NA	34.9999	28	34.9999	"chem_ast"	0	NA	28	NA	"U/L"	"28.0000"	"U/L"	0
+"145"	"DN-101 Protocol No. 011-007"	"063"	"063-0010"	5	1	"Pre-Enrollment"	4108084001	NA	3999738003	"Hamilton Health Sciences-Henderson Site"	0	NA	NA	40	25	40	"chem_alt"	0	NA	25	NA	"U/L"	"25.0000"	"U/L"	0
+"146"	"DN-101 Protocol No. 011-007"	"063"	"063-0010"	5	1	"Pre-Enrollment"	4108084001	NA	3999738003	"Hamilton Health Sciences-Henderson Site"	0	NA	NA	220	210	220	"chem_ldh"	100	NA	210	NA	"U/L"	"210.0000"	"U/L"	100
+"147"	"DN-101 Protocol No. 011-007"	"063"	"063-0010"	5	1	"Pre-Enrollment"	4108084001	NA	3999738003	"Hamilton Health Sciences-Henderson Site"	0	NA	NA	120	167	120	"chem_alkaline_phosphatase"	40	NA	167	NA	"U/L"	"167.0000"	"U/L"	40
+"148"	"DN-101 Protocol No. 011-007"	"063"	"063-0012"	5	1	"Pre-Enrollment"	3832432003	NA	3999738003	"Hamilton Health Sciences-Henderson Site"	0	NA	NA	2.55	2.26	2.55	"chem_calcium"	2.15	NA	2.26	NA	"mmol/L"	"2.2600"	"mmol/L"	2.15
+"149"	"DN-101 Protocol No. 011-007"	"063"	"063-0012"	5	1	"Pre-Enrollment"	4110141001	NA	3999738003	"Hamilton Health Sciences-Henderson Site"	0	NA	NA	NA	NA	NA	"chem_creatinine"	NA	NA	NA	1	""	""	""	NA
+"150"	"DN-101 Protocol No. 011-007"	"063"	"063-0012"	5	1	"Pre-Enrollment"	4110141001	NA	3999738003	"Hamilton Health Sciences-Henderson Site"	0	NA	NA	NA	NA	NA	"chem_bilirubin_total"	NA	NA	NA	1	""	""	""	NA
+"151"	"DN-101 Protocol No. 011-007"	"063"	"063-0012"	5	1	"Pre-Enrollment"	4110141001	NA	3999738003	"Hamilton Health Sciences-Henderson Site"	0	NA	NA	NA	NA	NA	"chem_ast"	NA	NA	NA	1	""	""	""	NA
+"152"	"DN-101 Protocol No. 011-007"	"063"	"063-0012"	5	1	"Pre-Enrollment"	4110141001	NA	3999738003	"Hamilton Health Sciences-Henderson Site"	0	NA	NA	NA	NA	NA	"chem_alt"	NA	NA	NA	1	""	""	""	NA
+"153"	"DN-101 Protocol No. 011-007"	"063"	"063-0012"	5	1	"Pre-Enrollment"	4110141001	NA	3999738003	"Hamilton Health Sciences-Henderson Site"	0	NA	NA	NA	NA	NA	"chem_ldh"	NA	NA	NA	1	""	""	""	NA
+"154"	"DN-101 Protocol No. 011-007"	"063"	"063-0012"	5	1	"Pre-Enrollment"	4110141001	NA	3999738003	"Hamilton Health Sciences-Henderson Site"	0	NA	NA	NA	NA	NA	"chem_alkaline_phosphatase"	NA	NA	NA	1	""	""	""	NA
+"155"	"DN-101 Protocol No. 011-007"	"072"	"072-0001"	5	1	"Pre-Enrollment"	2594676003	NA	5162842004	"Georgia Cancer Specialists Northside"	8	NA	NA	2.6185	8.4	10.5	"chem_calcium"	2.1945	NA	2.0948	NA	"mg/dL"	"8.4"	"mmol/L"	8.8
+"156"	"DN-101 Protocol No. 011-007"	"072"	"072-0001"	5	1	"Pre-Enrollment"	5273188002	NA	5162842004	"Georgia Cancer Specialists Northside"	8	NA	NA	114.9425	0.9	1.3	"chem_creatinine"	53.0504	NA	79.5756	NA	"mg/dL"	"0.9"	"umol/L"	0.6
+"157"	"DN-101 Protocol No. 011-007"	"072"	"072-0001"	5	1	"Pre-Enrollment"	5273188002	NA	5162842004	"Georgia Cancer Specialists Northside"	8	NA	NA	17.1028	0.4	1	"chem_bilirubin_total"	0	NA	6.8411	NA	"mg/dL"	"0.4"	"umol/L"	0
+"158"	"DN-101 Protocol No. 011-007"	"072"	"072-0001"	5	1	"Pre-Enrollment"	5273188002	NA	5162842004	"Georgia Cancer Specialists Northside"	8	NA	NA	37	33	37	"chem_ast"	15	NA	33	NA	"U/L"	"33"	"U/L"	15
+"159"	"DN-101 Protocol No. 011-007"	"072"	"072-0001"	5	1	"Pre-Enrollment"	5273188002	NA	5162842004	"Georgia Cancer Specialists Northside"	8	NA	NA	65	68	65	"chem_alt"	30	NA	68	NA	"U/L"	"68"	"U/L"	30
+"160"	"DN-101 Protocol No. 011-007"	"072"	"072-0001"	5	1	"Pre-Enrollment"	5273188002	NA	5162842004	"Georgia Cancer Specialists Northside"	8	NA	NA	190	194	190	"chem_ldh"	100	NA	194	NA	"U/L"	"194"	"U/L"	100
+"161"	"DN-101 Protocol No. 011-007"	"072"	"072-0001"	5	1	"Pre-Enrollment"	5273188002	NA	5162842004	"Georgia Cancer Specialists Northside"	8	NA	NA	136	137	136	"chem_alkaline_phosphatase"	50	NA	137	NA	"U/L"	"137"	"U/L"	50
+"162"	"DN-101 Protocol No. 011-007"	"091"	"091-0002"	5	1	"Pre-Enrollment"	2819038003	NA	5299556004	"Longstreet Clinic PC"	-9	NA	NA	NA	NA	NA	"chem_calcium"	NA	NA	NA	1	""	""	""	NA
+"163"	"DN-101 Protocol No. 011-007"	"091"	"091-0002"	5	1	"Pre-Enrollment"	5296834002	NA	5299556004	"Longstreet Clinic PC"	-9	NA	NA	NA	NA	NA	"chem_creatinine"	NA	NA	NA	1	""	""	""	NA
+"164"	"DN-101 Protocol No. 011-007"	"091"	"091-0002"	5	1	"Pre-Enrollment"	5296834002	NA	5299556004	"Longstreet Clinic PC"	-9	NA	NA	NA	NA	NA	"chem_bilirubin_total"	NA	NA	NA	1	""	""	""	NA
+"165"	"DN-101 Protocol No. 011-007"	"091"	"091-0002"	5	1	"Pre-Enrollment"	5296834002	NA	5299556004	"Longstreet Clinic PC"	-9	NA	NA	NA	NA	NA	"chem_ast"	NA	NA	NA	1	""	""	""	NA
+"166"	"DN-101 Protocol No. 011-007"	"091"	"091-0002"	5	1	"Pre-Enrollment"	5296834002	NA	5299556004	"Longstreet Clinic PC"	-9	NA	NA	NA	NA	NA	"chem_alt"	NA	NA	NA	1	""	""	""	NA
+"167"	"DN-101 Protocol No. 011-007"	"091"	"091-0002"	5	1	"Pre-Enrollment"	5296834002	NA	5299556004	"Longstreet Clinic PC"	-9	NA	NA	NA	249	192	"chem_ldh"	NA	NA	NA	NA	"IU/L"	"249"	"U/L"	98
+"168"	"DN-101 Protocol No. 011-007"	"091"	"091-0002"	5	1	"Pre-Enrollment"	5296834002	NA	5299556004	"Longstreet Clinic PC"	-9	NA	NA	NA	NA	NA	"chem_alkaline_phosphatase"	NA	NA	NA	1	""	""	""	NA
+"169"	"DN-101 Protocol No. 011-007"	"092"	"092-0001"	5	1	"Pre-Enrollment"	2791412003	NA	3999910003	"Clnical Chem Lab, Health Sciences Centre"	0	NA	NA	NA	2.16	NA	"chem_calcium"	NA	NA	2.16	NA	"mmol/L"	"2.1600"	"mmol/L"	NA
+"170"	"DN-101 Protocol No. 011-007"	"092"	"092-0001"	5	1	"Pre-Enrollment"	4132657001	NA	3999910003	"Clnical Chem Lab, Health Sciences Centre"	0	NA	NA	NA	52	NA	"chem_creatinine"	NA	NA	52	NA	"umol/L"	"52.0000"	"umol/L"	NA
+"171"	"DN-101 Protocol No. 011-007"	"092"	"092-0001"	5	1	"Pre-Enrollment"	4132657001	NA	3999910003	"Clnical Chem Lab, Health Sciences Centre"	0	NA	NA	NA	10	NA	"chem_bilirubin_total"	NA	NA	10	NA	"umol/L"	"10.0000"	"umol/L"	NA
+"172"	"DN-101 Protocol No. 011-007"	"092"	"092-0001"	5	1	"Pre-Enrollment"	4132657001	NA	3999910003	"Clnical Chem Lab, Health Sciences Centre"	0	NA	NA	NA	56	NA	"chem_ast"	NA	NA	56	NA	"U/L"	"56.0000"	"U/L"	NA
+"173"	"DN-101 Protocol No. 011-007"	"092"	"092-0001"	5	1	"Pre-Enrollment"	4132657001	NA	3999910003	"Clnical Chem Lab, Health Sciences Centre"	0	NA	NA	NA	47	NA	"chem_alt"	NA	NA	47	NA	"U/L"	"47.0000"	"U/L"	NA
+"174"	"DN-101 Protocol No. 011-007"	"092"	"092-0001"	5	1	"Pre-Enrollment"	4132657001	NA	3999910003	"Clnical Chem Lab, Health Sciences Centre"	0	NA	NA	NA	237	NA	"chem_ldh"	NA	NA	237	NA	"U/L"	"237.0000"	"U/L"	NA
+"175"	"DN-101 Protocol No. 011-007"	"092"	"092-0001"	5	1	"Pre-Enrollment"	4132657001	NA	3999910003	"Clnical Chem Lab, Health Sciences Centre"	0	NA	NA	NA	262	NA	"chem_alkaline_phosphatase"	NA	NA	262	NA	"U/L"	"262.0000"	"U/L"	NA
+"176"	"DN-101 Protocol No. 011-007"	"094"	"094-0003"	5	1	"Pre-Enrollment"	3466788003	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_calcium"	NA	NA	NA	NA	""	""	""	NA
+"177"	"DN-101 Protocol No. 011-007"	"094"	"094-0003"	5	1	"Pre-Enrollment"	3609913001	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_creatinine"	NA	NA	NA	NA	""	""	""	NA
+"178"	"DN-101 Protocol No. 011-007"	"094"	"094-0003"	5	1	"Pre-Enrollment"	3609913001	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_bilirubin_total"	NA	NA	NA	NA	""	""	""	NA
+"179"	"DN-101 Protocol No. 011-007"	"094"	"094-0003"	5	1	"Pre-Enrollment"	3609913001	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_ast"	NA	NA	NA	NA	""	""	""	NA
+"180"	"DN-101 Protocol No. 011-007"	"094"	"094-0003"	5	1	"Pre-Enrollment"	3609913001	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_alt"	NA	NA	NA	NA	""	""	""	NA
+"181"	"DN-101 Protocol No. 011-007"	"094"	"094-0003"	5	1	"Pre-Enrollment"	3609913001	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_ldh"	NA	NA	NA	NA	""	""	""	NA
+"182"	"DN-101 Protocol No. 011-007"	"094"	"094-0003"	5	1	"Pre-Enrollment"	3609913001	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_alkaline_phosphatase"	NA	NA	NA	NA	""	""	""	NA
+"183"	"DN-101 Protocol No. 011-007"	"099"	"099-0002"	5	1	"Pre-Enrollment"	2835018003	NA	3742512003	"Good Samaritan Regional Med Ctr Lab"	0	NA	NA	NA	10.5	NA	"chem_calcium"	NA	NA	2.6185	NA	"mg/dL"	"10.5"	"mmol/L"	NA
+"184"	"DN-101 Protocol No. 011-007"	"099"	"099-0002"	5	1	"Pre-Enrollment"	5264996002	NA	3742512003	"Good Samaritan Regional Med Ctr Lab"	0	NA	NA	NA	1.1	NA	"chem_creatinine"	NA	NA	97.2591	NA	"mg/dL"	"1.1"	"umol/L"	NA
+"185"	"DN-101 Protocol No. 011-007"	"099"	"099-0002"	5	1	"Pre-Enrollment"	5264996002	NA	3742512003	"Good Samaritan Regional Med Ctr Lab"	0	NA	NA	NA	0.5	NA	"chem_bilirubin_total"	NA	NA	8.5514	NA	"mg/dL"	"0.5"	"umol/L"	NA
+"186"	"DN-101 Protocol No. 011-007"	"099"	"099-0002"	5	1	"Pre-Enrollment"	5264996002	NA	3742512003	"Good Samaritan Regional Med Ctr Lab"	0	NA	NA	NA	32	NA	"chem_ast"	NA	NA	NA	NA	"IU/L"	"32"	"U/L"	NA
+"187"	"DN-101 Protocol No. 011-007"	"099"	"099-0002"	5	1	"Pre-Enrollment"	5264996002	NA	3742512003	"Good Samaritan Regional Med Ctr Lab"	0	NA	NA	NA	37	NA	"chem_alt"	NA	NA	NA	NA	"IU/L"	"37"	"U/L"	NA
+"188"	"DN-101 Protocol No. 011-007"	"099"	"099-0002"	5	1	"Pre-Enrollment"	5264996002	NA	3742512003	"Good Samaritan Regional Med Ctr Lab"	0	NA	NA	NA	NA	NA	"chem_ldh"	NA	NA	NA	1	""	""	""	NA
+"189"	"DN-101 Protocol No. 011-007"	"099"	"099-0002"	5	1	"Pre-Enrollment"	5264996002	NA	3742512003	"Good Samaritan Regional Med Ctr Lab"	0	NA	NA	NA	422	NA	"chem_alkaline_phosphatase"	NA	NA	NA	NA	"IU/L"	"422"	"U/L"	NA
+"190"	"DN-101 Protocol No. 011-007"	"125"	"125-0011"	5	1	"Pre-Enrollment"	2828712003	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_calcium"	NA	NA	NA	NA	""	""	""	NA
+"191"	"DN-101 Protocol No. 011-007"	"125"	"125-0011"	5	1	"Pre-Enrollment"	3665270001	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_creatinine"	NA	NA	NA	NA	""	""	""	NA
+"192"	"DN-101 Protocol No. 011-007"	"125"	"125-0011"	5	1	"Pre-Enrollment"	3665270001	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_bilirubin_total"	NA	NA	NA	NA	""	""	""	NA
+"193"	"DN-101 Protocol No. 011-007"	"125"	"125-0011"	5	1	"Pre-Enrollment"	3665270001	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_ast"	NA	NA	NA	NA	""	""	""	NA
+"194"	"DN-101 Protocol No. 011-007"	"125"	"125-0011"	5	1	"Pre-Enrollment"	3665270001	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_alt"	NA	NA	NA	NA	""	""	""	NA
+"195"	"DN-101 Protocol No. 011-007"	"125"	"125-0011"	5	1	"Pre-Enrollment"	3665270001	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_ldh"	NA	NA	NA	NA	""	""	""	NA
+"196"	"DN-101 Protocol No. 011-007"	"125"	"125-0011"	5	1	"Pre-Enrollment"	3665270001	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_alkaline_phosphatase"	NA	NA	NA	NA	""	""	""	NA
+"197"	"DN-101 Protocol No. 011-007"	"125"	"125-0017"	5	1	"Pre-Enrollment"	2873046003	NA	4717370004	"Florida Cancer Specialists - Broadway"	1	NA	NA	2.6434	9.3	10.6	"chem_calcium"	2.0948	NA	2.3192	NA	"mg/dL"	"9.3"	"mmol/L"	8.4
+"198"	"DN-101 Protocol No. 011-007"	"125"	"125-0017"	5	1	"Pre-Enrollment"	5355676002	NA	4717370004	"Florida Cancer Specialists - Broadway"	1	NA	NA	106.1008	0.9	1.2	"chem_creatinine"	26.5252	NA	79.5756	NA	"mg/dL"	"0.9"	"umol/L"	0.3
+"199"	"DN-101 Protocol No. 011-007"	"125"	"125-0017"	5	1	"Pre-Enrollment"	5355676002	NA	4717370004	"Florida Cancer Specialists - Broadway"	1	NA	NA	17.1028	0.36	1	"chem_bilirubin_total"	0	NA	6.157	NA	"mg/dL"	"0.36"	"umol/L"	0
+"200"	"DN-101 Protocol No. 011-007"	"125"	"125-0017"	5	1	"Pre-Enrollment"	5355676002	NA	4717370004	"Florida Cancer Specialists - Broadway"	1	NA	NA	37	15	37	"chem_ast"	0	NA	15	NA	"U/L"	"15"	"U/L"	0
+"201"	"DN-101 Protocol No. 011-007"	"125"	"125-0017"	5	1	"Pre-Enrollment"	5355676002	NA	4717370004	"Florida Cancer Specialists - Broadway"	1	NA	NA	40	12	40	"chem_alt"	0	NA	12	NA	"U/L"	"12"	"U/L"	0
+"202"	"DN-101 Protocol No. 011-007"	"125"	"125-0017"	5	1	"Pre-Enrollment"	5355676002	NA	4717370004	"Florida Cancer Specialists - Broadway"	1	NA	NA	250	161	250	"chem_ldh"	94	NA	161	NA	"U/L"	"161"	"U/L"	94
+"203"	"DN-101 Protocol No. 011-007"	"125"	"125-0017"	5	1	"Pre-Enrollment"	5355676002	NA	4717370004	"Florida Cancer Specialists - Broadway"	1	NA	NA	147	69	147	"chem_alkaline_phosphatase"	39	NA	69	NA	"U/L"	"69"	"U/L"	39
+"204"	"DN-101 Protocol No. 011-007"	"125"	"125-0022"	5	1	"Pre-Enrollment"	2972813003	NA	4717394004	"Florida Cancer Specialists-New Hampshir"	17	NA	NA	2.6434	9.1	10.6	"chem_calcium"	2.0948	NA	2.2693	NA	"mg/dL"	"9.1"	"mmol/L"	8.4
+"205"	"DN-101 Protocol No. 011-007"	"125"	"125-0022"	5	1	"Pre-Enrollment"	5271003002	NA	4717394004	"Florida Cancer Specialists-New Hampshir"	17	NA	NA	106.1008	0.9	1.2	"chem_creatinine"	26.5252	NA	79.5756	NA	"mg/dL"	"0.9"	"umol/L"	0.3
+"206"	"DN-101 Protocol No. 011-007"	"125"	"125-0022"	5	1	"Pre-Enrollment"	5271003002	NA	4717394004	"Florida Cancer Specialists-New Hampshir"	17	NA	NA	17.1028	0.41	1	"chem_bilirubin_total"	0	NA	7.0121	NA	"mg/dL"	"0.41"	"umol/L"	0
+"207"	"DN-101 Protocol No. 011-007"	"125"	"125-0022"	5	1	"Pre-Enrollment"	5271003002	NA	4717394004	"Florida Cancer Specialists-New Hampshir"	17	NA	NA	37	17	37	"chem_ast"	0	NA	17	NA	"U/L"	"17"	"U/L"	0
+"208"	"DN-101 Protocol No. 011-007"	"125"	"125-0022"	5	1	"Pre-Enrollment"	5271003002	NA	4717394004	"Florida Cancer Specialists-New Hampshir"	17	NA	NA	40	11	40	"chem_alt"	0	NA	11	NA	"U/L"	"11"	"U/L"	0
+"209"	"DN-101 Protocol No. 011-007"	"125"	"125-0022"	5	1	"Pre-Enrollment"	5271003002	NA	4717394004	"Florida Cancer Specialists-New Hampshir"	17	NA	NA	NA	NA	NA	"chem_ldh"	NA	NA	NA	1	""	""	""	NA
+"210"	"DN-101 Protocol No. 011-007"	"125"	"125-0022"	5	1	"Pre-Enrollment"	5271003002	NA	4717394004	"Florida Cancer Specialists-New Hampshir"	17	NA	NA	147	55	147	"chem_alkaline_phosphatase"	39	NA	55	NA	"U/L"	"55"	"U/L"	39
+"211"	"DN-101 Protocol No. 011-007"	"133"	"133-0020"	5	1	"Pre-Enrollment"	3900175003	NA	4000193003	"Vancouver Coastal Health"	7	NA	NA	2.55	2.42	2.55	"chem_calcium"	2.1	NA	2.42	NA	"mmol/L"	"2.42"	"mmol/L"	2.1
+"212"	"DN-101 Protocol No. 011-007"	"133"	"133-0020"	5	1	"Pre-Enrollment"	5251472002	NA	4000193003	"Vancouver Coastal Health"	7	NA	NA	115	102	115	"chem_creatinine"	60	NA	102	NA	"umol/L"	"102"	"umol/L"	60
+"213"	"DN-101 Protocol No. 011-007"	"133"	"133-0020"	5	1	"Pre-Enrollment"	5251472002	NA	4000193003	"Vancouver Coastal Health"	7	NA	NA	18	8	18	"chem_bilirubin_total"	0	NA	8	NA	"umol/L"	"8"	"umol/L"	0
+"214"	"DN-101 Protocol No. 011-007"	"133"	"133-0020"	5	1	"Pre-Enrollment"	5251472002	NA	4000193003	"Vancouver Coastal Health"	7	NA	NA	38	42	38	"chem_ast"	10	NA	42	NA	"U/L"	"42"	"U/L"	10
+"215"	"DN-101 Protocol No. 011-007"	"133"	"133-0020"	5	1	"Pre-Enrollment"	5251472002	NA	4000193003	"Vancouver Coastal Health"	7	NA	NA	80	47	80	"chem_alt"	25	NA	47	NA	"U/L"	"47"	"U/L"	25
+"216"	"DN-101 Protocol No. 011-007"	"133"	"133-0020"	5	1	"Pre-Enrollment"	5251472002	NA	4000193003	"Vancouver Coastal Health"	7	NA	NA	210	922	210	"chem_ldh"	90	NA	922	NA	"U/L"	"922"	"U/L"	90
+"217"	"DN-101 Protocol No. 011-007"	"133"	"133-0020"	5	1	"Pre-Enrollment"	5251472002	NA	4000193003	"Vancouver Coastal Health"	7	NA	NA	200	652	200	"chem_alkaline_phosphatase"	50	NA	652	NA	"U/L"	"652"	"U/L"	50
+"218"	"DN-101 Protocol No. 011-007"	"139"	"139-0005"	5	1	"Pre-Enrollment"	3230990003	NA	3771557003	"Kelowna General Hospital"	26	NA	NA	2.55	2.27	2.55	"chem_calcium"	2.1	NA	2.27	NA	"mmol/L"	"2.27"	"mmol/L"	2.1
+"219"	"DN-101 Protocol No. 011-007"	"139"	"139-0005"	5	1	"Pre-Enrollment"	5359322002	NA	3771557003	"Kelowna General Hospital"	26	NA	NA	130	151	130	"chem_creatinine"	50	NA	151	NA	"umol/L"	"151"	"umol/L"	50
+"220"	"DN-101 Protocol No. 011-007"	"139"	"139-0005"	5	1	"Pre-Enrollment"	5359322002	NA	3771557003	"Kelowna General Hospital"	26	NA	NA	19	2	19	"chem_bilirubin_total"	0	NA	2	NA	"umol/L"	"2"	"umol/L"	0
+"221"	"DN-101 Protocol No. 011-007"	"139"	"139-0005"	5	1	"Pre-Enrollment"	5359322002	NA	3771557003	"Kelowna General Hospital"	26	NA	NA	45	17	45	"chem_ast"	15	NA	17	NA	"U/L"	"17"	"U/L"	15
+"222"	"DN-101 Protocol No. 011-007"	"139"	"139-0005"	5	1	"Pre-Enrollment"	5359322002	NA	3771557003	"Kelowna General Hospital"	26	NA	NA	65	14	65	"chem_alt"	10	NA	14	NA	"U/L"	"14"	"U/L"	10
+"223"	"DN-101 Protocol No. 011-007"	"139"	"139-0005"	5	1	"Pre-Enrollment"	5359322002	NA	3771557003	"Kelowna General Hospital"	26	NA	NA	618	456	618	"chem_ldh"	313	NA	456	NA	"U/L"	"456"	"U/L"	313
+"224"	"DN-101 Protocol No. 011-007"	"139"	"139-0005"	5	1	"Pre-Enrollment"	5359322002	NA	3771557003	"Kelowna General Hospital"	26	NA	NA	126	207	126	"chem_alkaline_phosphatase"	38	NA	207	NA	"U/L"	"207"	"U/L"	38
+"225"	"DN-101 Protocol No. 011-007"	"142"	"142-0003"	5	1	"Pre-Enrollment"	2619306003	NA	4717266004	"Henry Ford Health System - Grand"	12	NA	NA	2.5436	9.3	10.2	"chem_calcium"	2.0449	NA	2.3192	NA	"mg/dL"	"9.3"	"mmol/L"	8.2
+"226"	"DN-101 Protocol No. 011-007"	"142"	"142-0003"	5	1	"Pre-Enrollment"	5247207002	NA	4717266004	"Henry Ford Health System - Grand"	12	NA	NA	114.9425	1.3	1.3	"chem_creatinine"	70.7339	NA	114.9425	NA	"mg/dL"	"1.3"	"umol/L"	0.8
+"227"	"DN-101 Protocol No. 011-007"	"142"	"142-0003"	5	1	"Pre-Enrollment"	5247207002	NA	4717266004	"Henry Ford Health System - Grand"	12	NA	NA	20.5216	0.7	1.1999	"chem_bilirubin_total"	0	NA	11.972	NA	"mg/dL"	"0.7"	"umol/L"	0
+"228"	"DN-101 Protocol No. 011-007"	"142"	"142-0003"	5	1	"Pre-Enrollment"	5247207002	NA	4717266004	"Henry Ford Health System - Grand"	12	NA	NA	NA	23	35	"chem_ast"	NA	NA	NA	NA	"IU/L"	"23"	"U/L"	15
+"229"	"DN-101 Protocol No. 011-007"	"142"	"142-0003"	5	1	"Pre-Enrollment"	5247207002	NA	4717266004	"Henry Ford Health System - Grand"	12	NA	NA	NA	15	40	"chem_alt"	NA	NA	NA	NA	"IU/L"	"15"	"U/L"	10
+"230"	"DN-101 Protocol No. 011-007"	"142"	"142-0003"	5	1	"Pre-Enrollment"	5247207002	NA	4717266004	"Henry Ford Health System - Grand"	12	NA	NA	NA	189	220	"chem_ldh"	NA	NA	NA	NA	"IU/L"	"189"	"U/L"	100
+"231"	"DN-101 Protocol No. 011-007"	"142"	"142-0003"	5	1	"Pre-Enrollment"	5247207002	NA	4717266004	"Henry Ford Health System - Grand"	12	NA	NA	NA	465	140	"chem_alkaline_phosphatase"	NA	NA	NA	NA	"IU/L"	"465"	"U/L"	0
+"232"	"DN-101 Protocol No. 011-007"	"146"	"146-0002"	5	1	"Pre-Enrollment"	2984515003	NA	4007883003	"The Moncton Hospital Laboratory"	6	NA	NA	2.6	2.48	2.6	"chem_calcium"	2.1	NA	2.48	NA	"mmol/L"	"2.48"	"mmol/L"	2.1
+"233"	"DN-101 Protocol No. 011-007"	"146"	"146-0002"	5	1	"Pre-Enrollment"	5351731002	NA	4007883003	"The Moncton Hospital Laboratory"	6	NA	NA	120	136	120	"chem_creatinine"	80	NA	136	NA	"umol/L"	"136"	"umol/L"	80
+"234"	"DN-101 Protocol No. 011-007"	"146"	"146-0002"	5	1	"Pre-Enrollment"	5351731002	NA	4007883003	"The Moncton Hospital Laboratory"	6	NA	NA	22.9999	10	22.9999	"chem_bilirubin_total"	0	NA	10	NA	"umol/L"	"10"	"umol/L"	0
+"235"	"DN-101 Protocol No. 011-007"	"146"	"146-0002"	5	1	"Pre-Enrollment"	5351731002	NA	4007883003	"The Moncton Hospital Laboratory"	6	NA	NA	35	24	35	"chem_ast"	6	NA	24	NA	"U/L"	"24"	"U/L"	6
+"236"	"DN-101 Protocol No. 011-007"	"146"	"146-0002"	5	1	"Pre-Enrollment"	5351731002	NA	4007883003	"The Moncton Hospital Laboratory"	6	NA	NA	40	19	40	"chem_alt"	5	NA	19	NA	"U/L"	"19"	"U/L"	5
+"237"	"DN-101 Protocol No. 011-007"	"146"	"146-0002"	5	1	"Pre-Enrollment"	5351731002	NA	4007883003	"The Moncton Hospital Laboratory"	6	NA	NA	200	249	200	"chem_ldh"	85	NA	249	NA	"U/L"	"249"	"U/L"	85
+"238"	"DN-101 Protocol No. 011-007"	"146"	"146-0002"	5	1	"Pre-Enrollment"	5351731002	NA	4007883003	"The Moncton Hospital Laboratory"	6	NA	NA	115	102	115	"chem_alkaline_phosphatase"	25	NA	102	NA	"U/L"	"102"	"U/L"	25
+"239"	"DN-101 Protocol No. 011-007"	"154"	"154-0001"	5	1	"Pre-Enrollment"	2734817003	NA	4138539003	"Gould Medical Foundation Clinical Lab"	4	NA	NA	2.5187	9.1	10.1	"chem_calcium"	2.1197	NA	2.2693	NA	"mg/dL"	"9.1"	"mmol/L"	8.5
+"240"	"DN-101 Protocol No. 011-007"	"154"	"154-0001"	5	1	"Pre-Enrollment"	5251448002	NA	4138539003	"Gould Medical Foundation Clinical Lab"	4	NA	NA	114.9425	0.8	1.3	"chem_creatinine"	53.0504	NA	70.7339	NA	"mg/dL"	"0.8"	"umol/L"	0.6
+"241"	"DN-101 Protocol No. 011-007"	"154"	"154-0001"	5	1	"Pre-Enrollment"	5251448002	NA	4138539003	"Gould Medical Foundation Clinical Lab"	4	NA	NA	18.8114	0.3	1.0999	"chem_bilirubin_total"	0	NA	5.1308	NA	"mg/dL"	"0.3"	"umol/L"	0
+"242"	"DN-101 Protocol No. 011-007"	"154"	"154-0001"	5	1	"Pre-Enrollment"	5251448002	NA	4138539003	"Gould Medical Foundation Clinical Lab"	4	NA	NA	37	21	37	"chem_ast"	15	NA	21	NA	"U/L"	"21"	"U/L"	15
+"243"	"DN-101 Protocol No. 011-007"	"154"	"154-0001"	5	1	"Pre-Enrollment"	5251448002	NA	4138539003	"Gould Medical Foundation Clinical Lab"	4	NA	NA	60	7	60	"chem_alt"	30	NA	7	NA	"U/L"	"7"	"U/L"	30
+"244"	"DN-101 Protocol No. 011-007"	"154"	"154-0001"	5	1	"Pre-Enrollment"	5251448002	NA	4138539003	"Gould Medical Foundation Clinical Lab"	4	NA	NA	NA	NA	NA	"chem_ldh"	NA	NA	NA	1	""	""	""	NA
+"245"	"DN-101 Protocol No. 011-007"	"154"	"154-0001"	5	1	"Pre-Enrollment"	5251448002	NA	4138539003	"Gould Medical Foundation Clinical Lab"	4	NA	NA	136	224	136	"chem_alkaline_phosphatase"	50	NA	224	NA	"U/L"	"224"	"U/L"	50
+"246"	"DN-101 Protocol No. 011-007"	"157"	"157-0007"	5	1	"Pre-Enrollment"	3644871003	NA	4163945003	"Montreal General Hospital"	0	NA	NA	2.55	1.36	2.55	"chem_calcium"	2.15	NA	1.36	NA	"mmol/L"	"1.36"	"mmol/L"	2.15
+"247"	"DN-101 Protocol No. 011-007"	"157"	"157-0007"	5	1	"Pre-Enrollment"	5335137002	NA	4163945003	"Montreal General Hospital"	0	NA	NA	103	108	103	"chem_creatinine"	63	NA	108	NA	"umol/L"	"108"	"umol/L"	63
+"248"	"DN-101 Protocol No. 011-007"	"157"	"157-0007"	5	1	"Pre-Enrollment"	5335137002	NA	4163945003	"Montreal General Hospital"	0	NA	NA	21	7.8	21	"chem_bilirubin_total"	3	NA	7.8	NA	"umol/L"	"7.8"	"umol/L"	3
+"249"	"DN-101 Protocol No. 011-007"	"157"	"157-0007"	5	1	"Pre-Enrollment"	5335137002	NA	4163945003	"Montreal General Hospital"	0	NA	NA	37	21	37	"chem_ast"	10	NA	21	NA	"U/L"	"21"	"U/L"	10
+"250"	"DN-101 Protocol No. 011-007"	"157"	"157-0007"	5	1	"Pre-Enrollment"	5335137002	NA	4163945003	"Montreal General Hospital"	0	NA	NA	40	24	40	"chem_alt"	10	NA	24	NA	"U/L"	"24"	"U/L"	10
+"251"	"DN-101 Protocol No. 011-007"	"157"	"157-0007"	5	1	"Pre-Enrollment"	5335137002	NA	4163945003	"Montreal General Hospital"	0	NA	NA	273	209	273	"chem_ldh"	118	NA	209	NA	"U/L"	"209"	"U/L"	118
+"252"	"DN-101 Protocol No. 011-007"	"157"	"157-0007"	5	1	"Pre-Enrollment"	5335137002	NA	4163945003	"Montreal General Hospital"	0	NA	NA	129	89	129	"chem_alkaline_phosphatase"	40	NA	89	NA	"U/L"	"89"	"U/L"	40
+"253"	"DN-101 Protocol No. 011-007"	"161"	"161-0002"	5	1	"Pre-Enrollment"	2903639003	NA	4163948003	"Quest Diagnostics Laboratory"	13	NA	NA	NA	9	NA	"chem_calcium"	NA	NA	2.2444	NA	"mg/dL"	"9"	"mmol/L"	NA
+"254"	"DN-101 Protocol No. 011-007"	"161"	"161-0002"	5	1	"Pre-Enrollment"	5242642002	NA	4163948003	"Quest Diagnostics Laboratory"	13	NA	NA	NA	0.9	NA	"chem_creatinine"	NA	NA	79.5756	NA	"mg/dL"	"0.9"	"umol/L"	NA
+"255"	"DN-101 Protocol No. 011-007"	"161"	"161-0002"	5	1	"Pre-Enrollment"	5242642002	NA	4163948003	"Quest Diagnostics Laboratory"	13	NA	NA	NA	0.4	NA	"chem_bilirubin_total"	NA	NA	6.8411	NA	"mg/dL"	"0.4"	"umol/L"	NA
+"256"	"DN-101 Protocol No. 011-007"	"161"	"161-0002"	5	1	"Pre-Enrollment"	5242642002	NA	4163948003	"Quest Diagnostics Laboratory"	13	NA	NA	NA	16	NA	"chem_ast"	NA	NA	NA	NA	"IU/L"	"16"	"U/L"	NA
+"257"	"DN-101 Protocol No. 011-007"	"161"	"161-0002"	5	1	"Pre-Enrollment"	5242642002	NA	4163948003	"Quest Diagnostics Laboratory"	13	NA	NA	NA	16	NA	"chem_alt"	NA	NA	NA	NA	"IU/L"	"16"	"U/L"	NA
+"258"	"DN-101 Protocol No. 011-007"	"161"	"161-0002"	5	1	"Pre-Enrollment"	5242642002	NA	4163948003	"Quest Diagnostics Laboratory"	13	NA	NA	NA	177	NA	"chem_ldh"	NA	NA	NA	NA	"IU/L"	"177"	"U/L"	NA
+"259"	"DN-101 Protocol No. 011-007"	"161"	"161-0002"	5	1	"Pre-Enrollment"	5242642002	NA	4163948003	"Quest Diagnostics Laboratory"	13	NA	NA	NA	85	NA	"chem_alkaline_phosphatase"	NA	NA	NA	NA	"IU/L"	"85"	"U/L"	NA
+"260"	"DN-101 Protocol No. 011-007"	"170"	"170-0002"	5	1	"Pre-Enrollment"	3301506003	NA	4632134004	"Charleston Cancer Center"	27	NA	NA	2.5436	9.8	10.2	"chem_calcium"	2.0948	NA	2.4439	NA	"mg/dL"	"9.8"	"mmol/L"	8.4
+"261"	"DN-101 Protocol No. 011-007"	"170"	"170-0002"	5	1	"Pre-Enrollment"	5240238002	NA	4632134004	"Charleston Cancer Center"	27	NA	NA	132.626	1.2	1.5	"chem_creatinine"	61.8921	NA	106.1008	NA	"mg/dL"	"1.2"	"umol/L"	0.7
+"262"	"DN-101 Protocol No. 011-007"	"170"	"170-0002"	5	1	"Pre-Enrollment"	5240238002	NA	4632134004	"Charleston Cancer Center"	27	NA	NA	22.2336	0.4	1.3	"chem_bilirubin_total"	3.4206	NA	6.8411	NA	"mg/dL"	".4"	"umol/L"	0.2
+"263"	"DN-101 Protocol No. 011-007"	"170"	"170-0002"	5	1	"Pre-Enrollment"	5240238002	NA	4632134004	"Charleston Cancer Center"	27	NA	NA	46	29	46	"chem_ast"	15	NA	29	NA	"U/L"	"29"	"U/L"	15
+"264"	"DN-101 Protocol No. 011-007"	"170"	"170-0002"	5	1	"Pre-Enrollment"	5240238002	NA	4632134004	"Charleston Cancer Center"	27	NA	NA	66	3	66	"chem_alt"	11	NA	3	NA	"U/L"	"3"	"U/L"	11
+"265"	"DN-101 Protocol No. 011-007"	"170"	"170-0002"	5	1	"Pre-Enrollment"	5240238002	NA	4632134004	"Charleston Cancer Center"	27	NA	NA	NA	NA	NA	"chem_ldh"	NA	NA	NA	1	""	""	""	NA
+"266"	"DN-101 Protocol No. 011-007"	"170"	"170-0002"	5	1	"Pre-Enrollment"	5240238002	NA	4632134004	"Charleston Cancer Center"	27	NA	NA	126	112	126	"chem_alkaline_phosphatase"	38	NA	112	NA	"U/L"	"112"	"U/L"	38
+"267"	"DN-101 Protocol No. 011-007"	"186"	"186-0002"	5	1	"Pre-Enrollment"	3206029003	NA	5255138004	"St. Joseph's General Hospital"	-1	NA	NA	2.62	2.39	2.62	"chem_calcium"	2.2	NA	2.39	NA	"mmol/L"	"2.39"	"mmol/L"	2.2
+"268"	"DN-101 Protocol No. 011-007"	"186"	"186-0002"	5	1	"Pre-Enrollment"	5260011002	NA	5255138004	"St. Joseph's General Hospital"	-1	NA	NA	106	86	106	"chem_creatinine"	62	NA	86	NA	"umol/L"	"86"	"umol/L"	62
+"269"	"DN-101 Protocol No. 011-007"	"186"	"186-0002"	5	1	"Pre-Enrollment"	5260011002	NA	5255138004	"St. Joseph's General Hospital"	-1	NA	NA	NA	NA	NA	"chem_bilirubin_total"	NA	NA	NA	1	""	""	""	NA
+"270"	"DN-101 Protocol No. 011-007"	"186"	"186-0002"	5	1	"Pre-Enrollment"	5260011002	NA	5255138004	"St. Joseph's General Hospital"	-1	NA	NA	NA	23	41	"chem_ast"	NA	NA	NA	NA	"IU/L"	"23"	"U/L"	15
+"271"	"DN-101 Protocol No. 011-007"	"186"	"186-0002"	5	1	"Pre-Enrollment"	5260011002	NA	5255138004	"St. Joseph's General Hospital"	-1	NA	NA	NA	15	63	"chem_alt"	NA	NA	NA	NA	"IU/L"	"15"	"U/L"	17
+"272"	"DN-101 Protocol No. 011-007"	"186"	"186-0002"	5	1	"Pre-Enrollment"	5260011002	NA	5255138004	"St. Joseph's General Hospital"	-1	NA	NA	NA	206	192	"chem_ldh"	NA	NA	NA	NA	"IU/L"	"206"	"U/L"	98
+"273"	"DN-101 Protocol No. 011-007"	"186"	"186-0002"	5	1	"Pre-Enrollment"	5260011002	NA	5255138004	"St. Joseph's General Hospital"	-1	NA	NA	NA	104	336	"chem_alkaline_phosphatase"	NA	NA	NA	NA	"IU/L"	"104"	"U/L"	112
+"274"	"DN-101 Protocol No. 011-007"	"501"	"501-0001"	5	1	"Pre-Enrollment"	2762410004	NA	4628148004	"Zentrum F. Med Versorgung Labor"	-7	NA	NA	NA	NA	NA	"chem_calcium"	NA	NA	NA	1	""	""	""	NA
+"275"	"DN-101 Protocol No. 011-007"	"501"	"501-0001"	5	1	"Pre-Enrollment"	4636048002	NA	4628148004	"Zentrum F. Med Versorgung Labor"	-7	NA	NA	NA	NA	NA	"chem_creatinine"	NA	NA	NA	1	""	""	""	NA
+"276"	"DN-101 Protocol No. 011-007"	"501"	"501-0001"	5	1	"Pre-Enrollment"	4636048002	NA	4628148004	"Zentrum F. Med Versorgung Labor"	-7	NA	NA	NA	NA	NA	"chem_bilirubin_total"	NA	NA	NA	1	""	""	""	NA
+"277"	"DN-101 Protocol No. 011-007"	"501"	"501-0001"	5	1	"Pre-Enrollment"	4636048002	NA	4628148004	"Zentrum F. Med Versorgung Labor"	-7	NA	NA	NA	49	NA	"chem_ast"	NA	NA	49	NA	"U/L"	"49.0000"	"U/L"	NA
+"278"	"DN-101 Protocol No. 011-007"	"501"	"501-0001"	5	1	"Pre-Enrollment"	4636048002	NA	4628148004	"Zentrum F. Med Versorgung Labor"	-7	NA	NA	NA	NA	NA	"chem_alt"	NA	NA	NA	1	""	""	""	NA
+"279"	"DN-101 Protocol No. 011-007"	"501"	"501-0001"	5	1	"Pre-Enrollment"	4636048002	NA	4628148004	"Zentrum F. Med Versorgung Labor"	-7	NA	NA	NA	NA	NA	"chem_ldh"	NA	NA	NA	1	""	""	""	NA
+"280"	"DN-101 Protocol No. 011-007"	"501"	"501-0001"	5	1	"Pre-Enrollment"	4636048002	NA	4628148004	"Zentrum F. Med Versorgung Labor"	-7	NA	NA	NA	NA	NA	"chem_alkaline_phosphatase"	NA	NA	NA	1	""	""	""	NA
+"281"	"DN-101 Protocol No. 011-007"	"506"	"506-0003"	5	1	"Pre-Enrollment"	2858015003	NA	4627917004	"Klinikum rechts der Isar TU Munchen"	-12	NA	NA	2.65	2.3	2.65	"chem_calcium"	2.2	NA	2.3	NA	"mmol/L"	"2.3000"	"mmol/L"	2.2
+"282"	"DN-101 Protocol No. 011-007"	"506"	"506-0003"	5	1	"Pre-Enrollment"	3934142001	NA	4627917004	"Klinikum rechts der Isar TU Munchen"	-12	NA	NA	97.2591	0.7	1.1	"chem_creatinine"	44.2087	NA	61.8921	NA	"mg/dL"	"0.7000"	"umol/L"	0.5
+"283"	"DN-101 Protocol No. 011-007"	"506"	"506-0003"	5	1	"Pre-Enrollment"	3934142001	NA	4627917004	"Klinikum rechts der Isar TU Munchen"	-12	NA	NA	20.5216	0.6	1.1999	"chem_bilirubin_total"	0	NA	10.2617	NA	"mg/dL"	"0.6000"	"umol/L"	0
+"284"	"DN-101 Protocol No. 011-007"	"506"	"506-0003"	5	1	"Pre-Enrollment"	3934142001	NA	4627917004	"Klinikum rechts der Isar TU Munchen"	-12	NA	NA	35	26	35	"chem_ast"	10	NA	26	NA	"U/L"	"26.0000"	"U/L"	10
+"285"	"DN-101 Protocol No. 011-007"	"506"	"506-0003"	5	1	"Pre-Enrollment"	3934142001	NA	4627917004	"Klinikum rechts der Isar TU Munchen"	-12	NA	NA	35	19	35	"chem_alt"	10	NA	19	NA	"U/L"	"19.0000"	"U/L"	10
+"286"	"DN-101 Protocol No. 011-007"	"506"	"506-0003"	5	1	"Pre-Enrollment"	3934142001	NA	4627917004	"Klinikum rechts der Isar TU Munchen"	-12	NA	NA	NA	NA	NA	"chem_ldh"	NA	NA	NA	1	""	""	""	NA
+"287"	"DN-101 Protocol No. 011-007"	"506"	"506-0003"	5	1	"Pre-Enrollment"	3934142001	NA	4627917004	"Klinikum rechts der Isar TU Munchen"	-12	NA	NA	NA	NA	NA	"chem_alkaline_phosphatase"	NA	NA	NA	1	""	""	""	NA
+"288"	"DN-101 Protocol No. 011-007"	"507"	"507-0003"	5	1	"Pre-Enrollment"	2817051003	NA	4628493004	"Universitat zu Koln, Inst. f Klinische"	-3	NA	NA	2.65	2.32	2.65	"chem_calcium"	2.2	NA	2.32	NA	"mmol/L"	"2.3200"	"mmol/L"	2.2
+"289"	"DN-101 Protocol No. 011-007"	"507"	"507-0003"	5	1	"Pre-Enrollment"	4788504002	NA	4628493004	"Universitat zu Koln, Inst. f Klinische"	-3	NA	NA	7.9576	1.22	0.09	"chem_creatinine"	4.4209	NA	107.8691	NA	"mg/dL"	"1.2200"	"umol/L"	0.05
+"290"	"DN-101 Protocol No. 011-007"	"507"	"507-0003"	5	1	"Pre-Enrollment"	4788504002	NA	4628493004	"Universitat zu Koln, Inst. f Klinische"	-3	NA	NA	NA	NA	NA	"chem_bilirubin_total"	NA	NA	NA	1	""	""	""	NA
+"291"	"DN-101 Protocol No. 011-007"	"507"	"507-0003"	5	1	"Pre-Enrollment"	4788504002	NA	4628493004	"Universitat zu Koln, Inst. f Klinische"	-3	NA	NA	NA	NA	NA	"chem_ast"	NA	NA	NA	1	""	""	""	NA
+"292"	"DN-101 Protocol No. 011-007"	"507"	"507-0003"	5	1	"Pre-Enrollment"	4788504002	NA	4628493004	"Universitat zu Koln, Inst. f Klinische"	-3	NA	NA	NA	NA	NA	"chem_alt"	NA	NA	NA	1	""	""	""	NA
+"293"	"DN-101 Protocol No. 011-007"	"507"	"507-0003"	5	1	"Pre-Enrollment"	4788504002	NA	4628493004	"Universitat zu Koln, Inst. f Klinische"	-3	NA	NA	NA	NA	NA	"chem_ldh"	NA	NA	NA	1	""	""	""	NA
+"294"	"DN-101 Protocol No. 011-007"	"507"	"507-0003"	5	1	"Pre-Enrollment"	4788504002	NA	4628493004	"Universitat zu Koln, Inst. f Klinische"	-3	NA	NA	NA	NA	NA	"chem_alkaline_phosphatase"	NA	NA	NA	1	""	""	""	NA
+"295"	"DN-101 Protocol No. 011-007"	"507"	"507-0003"	5	1	"Pre-Enrollment"	5223104002	NA	4628493004	"Universitat zu Koln, Inst. f Klinische"	-3	NA	NA	2.65	2.35	2.65	"chem_calcium"	2.2	NA	2.35	NA	"mmol/L"	"2.35"	"mmol/L"	2.2
+"296"	"DN-101 Protocol No. 011-007"	"507"	"507-0003"	5	1	"Pre-Enrollment"	5223104002	NA	4628493004	"Universitat zu Koln, Inst. f Klinische"	-3	NA	NA	7.9576	1.22	0.09	"chem_creatinine"	4.4209	NA	107.8691	NA	"mg/dL"	"1.22"	"umol/L"	0.05
+"297"	"DN-101 Protocol No. 011-007"	"507"	"507-0003"	5	1	"Pre-Enrollment"	5223104002	NA	4628493004	"Universitat zu Koln, Inst. f Klinische"	-3	NA	NA	NA	NA	NA	"chem_bilirubin_total"	NA	NA	NA	1	""	""	""	NA
+"298"	"DN-101 Protocol No. 011-007"	"507"	"507-0003"	5	1	"Pre-Enrollment"	5223104002	NA	4628493004	"Universitat zu Koln, Inst. f Klinische"	-3	NA	NA	NA	NA	NA	"chem_ast"	NA	NA	NA	1	""	""	""	NA
+"299"	"DN-101 Protocol No. 011-007"	"507"	"507-0003"	5	1	"Pre-Enrollment"	5223104002	NA	4628493004	"Universitat zu Koln, Inst. f Klinische"	-3	NA	NA	NA	NA	NA	"chem_alt"	NA	NA	NA	1	""	""	""	NA
+"300"	"DN-101 Protocol No. 011-007"	"507"	"507-0003"	5	1	"Pre-Enrollment"	5223104002	NA	4628493004	"Universitat zu Koln, Inst. f Klinische"	-3	NA	NA	NA	NA	NA	"chem_ldh"	NA	NA	NA	1	""	""	""	NA
+"301"	"DN-101 Protocol No. 011-007"	"507"	"507-0003"	5	1	"Pre-Enrollment"	5223104002	NA	4628493004	"Universitat zu Koln, Inst. f Klinische"	-3	NA	NA	NA	NA	NA	"chem_alkaline_phosphatase"	NA	NA	NA	1	""	""	""	NA
+"302"	"DN-101 Protocol No. 011-007"	"507"	"507-0004"	5	1	"Pre-Enrollment"	2827491003	NA	4628493004	"Universitat zu Koln, Inst. f Klinische"	-4	NA	NA	2.65	2.26	2.65	"chem_calcium"	2.2	NA	2.26	NA	"mmol/L"	"2.2600"	"mmol/L"	2.2
+"303"	"DN-101 Protocol No. 011-007"	"507"	"507-0004"	5	1	"Pre-Enrollment"	4788893002	NA	4628493004	"Universitat zu Koln, Inst. f Klinische"	-4	NA	NA	7.9576	1.54	0.9	"chem_creatinine"	4.4209	NA	13.6163	NA	"mg/L"	"1.5400"	"umol/L"	0.5
+"304"	"DN-101 Protocol No. 011-007"	"507"	"507-0004"	5	1	"Pre-Enrollment"	4788893002	NA	4628493004	"Universitat zu Koln, Inst. f Klinische"	-4	NA	NA	18.8114	0.5	1.0999	"chem_bilirubin_total"	0	NA	8.5514	NA	"mg/dL"	"0.5000"	"umol/L"	0
+"305"	"DN-101 Protocol No. 011-007"	"507"	"507-0004"	5	1	"Pre-Enrollment"	4788893002	NA	4628493004	"Universitat zu Koln, Inst. f Klinische"	-4	NA	NA	NA	NA	NA	"chem_ast"	NA	NA	NA	1	""	""	""	NA
+"306"	"DN-101 Protocol No. 011-007"	"507"	"507-0004"	5	1	"Pre-Enrollment"	4788893002	NA	4628493004	"Universitat zu Koln, Inst. f Klinische"	-4	NA	NA	NA	NA	NA	"chem_alt"	NA	NA	NA	1	""	""	""	NA
+"307"	"DN-101 Protocol No. 011-007"	"507"	"507-0004"	5	1	"Pre-Enrollment"	4788893002	NA	4628493004	"Universitat zu Koln, Inst. f Klinische"	-4	NA	NA	NA	NA	NA	"chem_ldh"	NA	NA	NA	1	""	""	""	NA
+"308"	"DN-101 Protocol No. 011-007"	"507"	"507-0004"	5	1	"Pre-Enrollment"	4788893002	NA	4628493004	"Universitat zu Koln, Inst. f Klinische"	-4	NA	NA	NA	NA	NA	"chem_alkaline_phosphatase"	NA	NA	NA	1	""	""	""	NA
+"309"	"DN-101 Protocol No. 011-007"	"507"	"507-0011"	5	1	"Pre-Enrollment"	2991875003	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_calcium"	NA	NA	NA	NA	""	""	""	NA
+"310"	"DN-101 Protocol No. 011-007"	"507"	"507-0011"	5	1	"Pre-Enrollment"	4789314002	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_creatinine"	NA	NA	NA	NA	""	""	""	NA
+"311"	"DN-101 Protocol No. 011-007"	"507"	"507-0011"	5	1	"Pre-Enrollment"	4789314002	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_bilirubin_total"	NA	NA	NA	NA	""	""	""	NA
+"312"	"DN-101 Protocol No. 011-007"	"507"	"507-0011"	5	1	"Pre-Enrollment"	4789314002	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_ast"	NA	NA	NA	NA	""	""	""	NA
+"313"	"DN-101 Protocol No. 011-007"	"507"	"507-0011"	5	1	"Pre-Enrollment"	4789314002	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_alt"	NA	NA	NA	NA	""	""	""	NA
+"314"	"DN-101 Protocol No. 011-007"	"507"	"507-0011"	5	1	"Pre-Enrollment"	4789314002	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_ldh"	NA	NA	NA	NA	""	""	""	NA
+"315"	"DN-101 Protocol No. 011-007"	"507"	"507-0011"	5	1	"Pre-Enrollment"	4789314002	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_alkaline_phosphatase"	NA	NA	NA	NA	""	""	""	NA
+"316"	"DN-101 Protocol No. 011-007"	"507"	"507-0014"	5	1	"Pre-Enrollment"	3118198003	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_calcium"	NA	NA	NA	NA	""	""	""	NA
+"317"	"DN-101 Protocol No. 011-007"	"507"	"507-0014"	5	1	"Pre-Enrollment"	4789369002	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_creatinine"	NA	NA	NA	NA	""	""	""	NA
+"318"	"DN-101 Protocol No. 011-007"	"507"	"507-0014"	5	1	"Pre-Enrollment"	4789369002	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_bilirubin_total"	NA	NA	NA	NA	""	""	""	NA
+"319"	"DN-101 Protocol No. 011-007"	"507"	"507-0014"	5	1	"Pre-Enrollment"	4789369002	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_ast"	NA	NA	NA	NA	""	""	""	NA
+"320"	"DN-101 Protocol No. 011-007"	"507"	"507-0014"	5	1	"Pre-Enrollment"	4789369002	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_alt"	NA	NA	NA	NA	""	""	""	NA
+"321"	"DN-101 Protocol No. 011-007"	"507"	"507-0014"	5	1	"Pre-Enrollment"	4789369002	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_ldh"	NA	NA	NA	NA	""	""	""	NA
+"322"	"DN-101 Protocol No. 011-007"	"507"	"507-0014"	5	1	"Pre-Enrollment"	4789369002	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_alkaline_phosphatase"	NA	NA	NA	NA	""	""	""	NA
+"323"	"DN-101 Protocol No. 011-007"	"507"	"507-0026"	5	1	"Pre-Enrollment"	3444905003	NA	4628493004	"Universitat zu Koln, Inst. f Klinische"	0	NA	NA	NA	NA	NA	"chem_calcium"	NA	NA	NA	1	""	""	""	NA
+"324"	"DN-101 Protocol No. 011-007"	"507"	"507-0026"	5	1	"Pre-Enrollment"	4806524002	NA	4628493004	"Universitat zu Koln, Inst. f Klinische"	0	NA	NA	NA	NA	NA	"chem_creatinine"	NA	NA	NA	1	""	""	""	NA
+"325"	"DN-101 Protocol No. 011-007"	"507"	"507-0026"	5	1	"Pre-Enrollment"	4806524002	NA	4628493004	"Universitat zu Koln, Inst. f Klinische"	0	NA	NA	NA	NA	NA	"chem_bilirubin_total"	NA	NA	NA	1	""	""	""	NA
+"326"	"DN-101 Protocol No. 011-007"	"507"	"507-0026"	5	1	"Pre-Enrollment"	4806524002	NA	4628493004	"Universitat zu Koln, Inst. f Klinische"	0	NA	NA	NA	NA	NA	"chem_ast"	NA	NA	NA	1	""	""	""	NA
+"327"	"DN-101 Protocol No. 011-007"	"507"	"507-0026"	5	1	"Pre-Enrollment"	4806524002	NA	4628493004	"Universitat zu Koln, Inst. f Klinische"	0	NA	NA	49.9999	70	49.9999	"chem_alt"	0	NA	70	NA	"U/L"	"70.0000"	"U/L"	0
+"328"	"DN-101 Protocol No. 011-007"	"507"	"507-0026"	5	1	"Pre-Enrollment"	4806524002	NA	4628493004	"Universitat zu Koln, Inst. f Klinische"	0	NA	NA	NA	NA	NA	"chem_ldh"	NA	NA	NA	1	""	""	""	NA
+"329"	"DN-101 Protocol No. 011-007"	"507"	"507-0026"	5	1	"Pre-Enrollment"	4806524002	NA	4628493004	"Universitat zu Koln, Inst. f Klinische"	0	NA	NA	NA	NA	NA	"chem_alkaline_phosphatase"	NA	NA	NA	1	""	""	""	NA
+"330"	"DN-101 Protocol No. 011-007"	"508"	"508-0001"	5	1	"Pre-Enrollment"	2900243003	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_calcium"	NA	NA	NA	NA	""	""	""	NA
+"331"	"DN-101 Protocol No. 011-007"	"508"	"508-0001"	5	1	"Pre-Enrollment"	5353566002	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_creatinine"	NA	NA	NA	NA	""	""	""	NA
+"332"	"DN-101 Protocol No. 011-007"	"508"	"508-0001"	5	1	"Pre-Enrollment"	5353566002	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_bilirubin_total"	NA	NA	NA	NA	""	""	""	NA
+"333"	"DN-101 Protocol No. 011-007"	"508"	"508-0001"	5	1	"Pre-Enrollment"	5353566002	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_ast"	NA	NA	NA	NA	""	""	""	NA
+"334"	"DN-101 Protocol No. 011-007"	"508"	"508-0001"	5	1	"Pre-Enrollment"	5353566002	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_alt"	NA	NA	NA	NA	""	""	""	NA
+"335"	"DN-101 Protocol No. 011-007"	"508"	"508-0001"	5	1	"Pre-Enrollment"	5353566002	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_ldh"	NA	NA	NA	NA	""	""	""	NA
+"336"	"DN-101 Protocol No. 011-007"	"508"	"508-0001"	5	1	"Pre-Enrollment"	5353566002	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_alkaline_phosphatase"	NA	NA	NA	NA	""	""	""	NA
+"337"	"DN-101 Protocol No. 011-007"	"509"	"509-0001"	5	1	"Pre-Enrollment"	2943359003	NA	4627387004	"Charite Virchow Klinikum"	0	NA	NA	2.65	2.34	2.65	"chem_calcium"	2.15	NA	2.34	NA	"mmol/L"	"2.34"	"mmol/L"	2.15
+"338"	"DN-101 Protocol No. 011-007"	"509"	"509-0001"	5	1	"Pre-Enrollment"	5345739002	NA	4627387004	"Charite Virchow Klinikum"	0	NA	NA	106.1008	0.95	1.2	"chem_creatinine"	0	NA	83.9965	NA	"mg/dL"	"0.95"	"umol/L"	0
+"339"	"DN-101 Protocol No. 011-007"	"509"	"509-0001"	5	1	"Pre-Enrollment"	5345739002	NA	4627387004	"Charite Virchow Klinikum"	0	NA	NA	17.1028	0.5	1	"chem_bilirubin_total"	0	NA	8.5514	NA	"mg/dL"	"0.5"	"umol/L"	0
+"340"	"DN-101 Protocol No. 011-007"	"509"	"509-0001"	5	1	"Pre-Enrollment"	5345739002	NA	4627387004	"Charite Virchow Klinikum"	0	NA	NA	50	24	50	"chem_ast"	0	NA	24	NA	"U/L"	"24"	"U/L"	0
+"341"	"DN-101 Protocol No. 011-007"	"509"	"509-0001"	5	1	"Pre-Enrollment"	5345739002	NA	4627387004	"Charite Virchow Klinikum"	0	NA	NA	45	22	45	"chem_alt"	0	NA	22	NA	"U/L"	"22"	"U/L"	0
+"342"	"DN-101 Protocol No. 011-007"	"509"	"509-0001"	5	1	"Pre-Enrollment"	5345739002	NA	4627387004	"Charite Virchow Klinikum"	0	NA	NA	NA	NA	NA	"chem_ldh"	NA	NA	NA	1	""	""	""	NA
+"343"	"DN-101 Protocol No. 011-007"	"509"	"509-0001"	5	1	"Pre-Enrollment"	5345739002	NA	4627387004	"Charite Virchow Klinikum"	0	NA	NA	129	59	129	"chem_alkaline_phosphatase"	40	NA	59	NA	"U/L"	"59"	"U/L"	40
+"344"	"DN-101 Protocol No. 011-007"	"515"	"515-0001"	5	1	"Pre-Enrollment"	2910083003	NA	4628435004	"Arztliche Laborgemeinschaft Leipzig"	-6	NA	NA	NA	NA	NA	"chem_calcium"	NA	NA	NA	1	""	""	""	NA
+"345"	"DN-101 Protocol No. 011-007"	"515"	"515-0001"	5	1	"Pre-Enrollment"	5007900002	NA	4628435004	"Arztliche Laborgemeinschaft Leipzig"	-6	NA	NA	NA	NA	NA	"chem_creatinine"	NA	NA	NA	1	""	""	""	NA
+"346"	"DN-101 Protocol No. 011-007"	"515"	"515-0001"	5	1	"Pre-Enrollment"	5007900002	NA	4628435004	"Arztliche Laborgemeinschaft Leipzig"	-6	NA	NA	NA	NA	NA	"chem_bilirubin_total"	NA	NA	NA	1	""	""	""	NA
+"347"	"DN-101 Protocol No. 011-007"	"515"	"515-0001"	5	1	"Pre-Enrollment"	5007900002	NA	4628435004	"Arztliche Laborgemeinschaft Leipzig"	-6	NA	NA	NA	NA	NA	"chem_ast"	NA	NA	NA	NA	"umol/sec L"	"0,86"	""	NA
+"348"	"DN-101 Protocol No. 011-007"	"515"	"515-0001"	5	1	"Pre-Enrollment"	5007900002	NA	4628435004	"Arztliche Laborgemeinschaft Leipzig"	-6	NA	NA	NA	NA	NA	"chem_alt"	NA	NA	NA	NA	"umol/sec L"	"0,87"	""	NA
+"349"	"DN-101 Protocol No. 011-007"	"515"	"515-0001"	5	1	"Pre-Enrollment"	5007900002	NA	4628435004	"Arztliche Laborgemeinschaft Leipzig"	-6	NA	NA	NA	NA	NA	"chem_ldh"	NA	NA	NA	1	""	""	""	NA
+"350"	"DN-101 Protocol No. 011-007"	"515"	"515-0001"	5	1	"Pre-Enrollment"	5007900002	NA	4628435004	"Arztliche Laborgemeinschaft Leipzig"	-6	NA	NA	NA	NA	NA	"chem_alkaline_phosphatase"	NA	NA	NA	1	""	""	""	NA
+"351"	"DN-101 Protocol No. 011-007"	"515"	"515-0012"	5	1	"Pre-Enrollment"	3708242003	NA	4628435004	"Arztliche Laborgemeinschaft Leipzig"	-6	NA	NA	2.55	2.46	2.55	"chem_calcium"	2.15	NA	2.46	NA	"mmol/L"	"2.4600"	"mmol/L"	2.15
+"352"	"DN-101 Protocol No. 011-007"	"515"	"515-0012"	5	1	"Pre-Enrollment"	3762788001	NA	4628435004	"Arztliche Laborgemeinschaft Leipzig"	-6	NA	NA	NA	NA	NA	"chem_creatinine"	NA	NA	NA	1	""	""	""	NA
+"353"	"DN-101 Protocol No. 011-007"	"515"	"515-0012"	5	1	"Pre-Enrollment"	3762788001	NA	4628435004	"Arztliche Laborgemeinschaft Leipzig"	-6	NA	NA	NA	NA	NA	"chem_bilirubin_total"	NA	NA	NA	1	""	""	""	NA
+"354"	"DN-101 Protocol No. 011-007"	"515"	"515-0012"	5	1	"Pre-Enrollment"	3762788001	NA	4628435004	"Arztliche Laborgemeinschaft Leipzig"	-6	NA	NA	NA	NA	NA	"chem_ast"	NA	NA	NA	1	""	""	""	NA
+"355"	"DN-101 Protocol No. 011-007"	"515"	"515-0012"	5	1	"Pre-Enrollment"	3762788001	NA	4628435004	"Arztliche Laborgemeinschaft Leipzig"	-6	NA	NA	NA	NA	NA	"chem_alt"	NA	NA	NA	1	""	""	""	NA
+"356"	"DN-101 Protocol No. 011-007"	"515"	"515-0012"	5	1	"Pre-Enrollment"	3762788001	NA	4628435004	"Arztliche Laborgemeinschaft Leipzig"	-6	NA	NA	NA	NA	NA	"chem_ldh"	NA	NA	NA	1	""	""	""	NA
+"357"	"DN-101 Protocol No. 011-007"	"515"	"515-0012"	5	1	"Pre-Enrollment"	3762788001	NA	4628435004	"Arztliche Laborgemeinschaft Leipzig"	-6	NA	NA	NA	NA	NA	"chem_alkaline_phosphatase"	NA	NA	NA	1	""	""	""	NA
+"358"	"DN-101 Protocol No. 011-007"	"518"	"518-0003"	5	1	"Pre-Enrollment"	3793251003	NA	4768004004	"Analysezentrum Univ, Klinik Zentrallabor"	16	NA	NA	NA	NA	NA	"chem_calcium"	NA	NA	NA	1	""	""	""	NA
+"359"	"DN-101 Protocol No. 011-007"	"518"	"518-0003"	5	1	"Pre-Enrollment"	5093985002	NA	4768004004	"Analysezentrum Univ, Klinik Zentrallabor"	16	NA	NA	114.9337	0.86	1.2999	"chem_creatinine"	0	NA	76.0389	NA	"mg/dL"	"0.8600"	"umol/L"	0
+"360"	"DN-101 Protocol No. 011-007"	"518"	"518-0003"	5	1	"Pre-Enrollment"	5093985002	NA	4768004004	"Analysezentrum Univ, Klinik Zentrallabor"	16	NA	NA	NA	NA	NA	"chem_bilirubin_total"	NA	NA	NA	1	""	""	""	NA
+"361"	"DN-101 Protocol No. 011-007"	"518"	"518-0003"	5	1	"Pre-Enrollment"	5093985002	NA	4768004004	"Analysezentrum Univ, Klinik Zentrallabor"	16	NA	NA	NA	NA	NA	"chem_ast"	NA	NA	NA	1	""	""	""	NA
+"362"	"DN-101 Protocol No. 011-007"	"518"	"518-0003"	5	1	"Pre-Enrollment"	5093985002	NA	4768004004	"Analysezentrum Univ, Klinik Zentrallabor"	16	NA	NA	NA	NA	NA	"chem_alt"	NA	NA	NA	1	""	""	""	NA
+"363"	"DN-101 Protocol No. 011-007"	"518"	"518-0003"	5	1	"Pre-Enrollment"	5093985002	NA	4768004004	"Analysezentrum Univ, Klinik Zentrallabor"	16	NA	NA	NA	NA	NA	"chem_ldh"	NA	NA	NA	1	""	""	""	NA
+"364"	"DN-101 Protocol No. 011-007"	"518"	"518-0003"	5	1	"Pre-Enrollment"	5093985002	NA	4768004004	"Analysezentrum Univ, Klinik Zentrallabor"	16	NA	NA	NA	NA	NA	"chem_alkaline_phosphatase"	NA	NA	NA	1	""	""	""	NA
+"365"	"DN-101 Protocol No. 011-007"	"524"	"524-0001"	5	1	"Pre-Enrollment"	2935622003	NA	5194833004	"Labor Gemeinschaft Hamburg"	-14	NA	NA	2.6	2.5	2.6	"chem_calcium"	2.02	NA	2.5	NA	"mmol/L"	"2.5"	"mmol/L"	2.02
+"366"	"DN-101 Protocol No. 011-007"	"524"	"524-0001"	5	1	"Pre-Enrollment"	4670488002	NA	5194833004	"Labor Gemeinschaft Hamburg"	-14	NA	NA	106.1008	0.9	1.2	"chem_creatinine"	44.2087	NA	79.5756	NA	"mg/dL"	"0.9"	"umol/L"	0.5
+"367"	"DN-101 Protocol No. 011-007"	"524"	"524-0001"	5	1	"Pre-Enrollment"	4670488002	NA	5194833004	"Labor Gemeinschaft Hamburg"	-14	NA	NA	18.8114	0.42	1.0999	"chem_bilirubin_total"	0	NA	7.1832	NA	"mg/dL"	"0.42"	"umol/L"	0
+"368"	"DN-101 Protocol No. 011-007"	"524"	"524-0001"	5	1	"Pre-Enrollment"	4670488002	NA	5194833004	"Labor Gemeinschaft Hamburg"	-14	NA	NA	50	35	50	"chem_ast"	10	NA	35	NA	"U/L"	"35"	"U/L"	10
+"369"	"DN-101 Protocol No. 011-007"	"524"	"524-0001"	5	1	"Pre-Enrollment"	4670488002	NA	5194833004	"Labor Gemeinschaft Hamburg"	-14	NA	NA	50	27	50	"chem_alt"	10	NA	27	NA	"U/L"	"27"	"U/L"	10
+"370"	"DN-101 Protocol No. 011-007"	"524"	"524-0001"	5	1	"Pre-Enrollment"	4670488002	NA	5194833004	"Labor Gemeinschaft Hamburg"	-14	NA	NA	261.9999	188	261.9999	"chem_ldh"	0	NA	188	NA	"U/L"	"188"	"U/L"	0
+"371"	"DN-101 Protocol No. 011-007"	"524"	"524-0001"	5	1	"Pre-Enrollment"	4670488002	NA	5194833004	"Labor Gemeinschaft Hamburg"	-14	NA	NA	129	82	129	"chem_alkaline_phosphatase"	40	NA	82	NA	"U/L"	"82"	"U/L"	40
+"372"	"DN-101 Protocol No. 011-007"	"524"	"524-0002"	5	1	"Pre-Enrollment"	2943304003	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_calcium"	NA	NA	NA	NA	""	""	""	NA
+"373"	"DN-101 Protocol No. 011-007"	"524"	"524-0002"	5	1	"Pre-Enrollment"	4671143002	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_creatinine"	NA	NA	NA	NA	""	""	""	NA
+"374"	"DN-101 Protocol No. 011-007"	"524"	"524-0002"	5	1	"Pre-Enrollment"	4671143002	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_bilirubin_total"	NA	NA	NA	NA	""	""	""	NA
+"375"	"DN-101 Protocol No. 011-007"	"524"	"524-0002"	5	1	"Pre-Enrollment"	4671143002	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_ast"	NA	NA	NA	NA	""	""	""	NA
+"376"	"DN-101 Protocol No. 011-007"	"524"	"524-0002"	5	1	"Pre-Enrollment"	4671143002	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_alt"	NA	NA	NA	NA	""	""	""	NA
+"377"	"DN-101 Protocol No. 011-007"	"524"	"524-0002"	5	1	"Pre-Enrollment"	4671143002	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_ldh"	NA	NA	NA	NA	""	""	""	NA
+"378"	"DN-101 Protocol No. 011-007"	"524"	"524-0002"	5	1	"Pre-Enrollment"	4671143002	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_alkaline_phosphatase"	NA	NA	NA	NA	""	""	""	NA
+"379"	"DN-101 Protocol No. 011-007"	"524"	"524-0007"	5	1	"Pre-Enrollment"	3550461003	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_calcium"	NA	NA	NA	NA	""	""	""	NA
+"380"	"DN-101 Protocol No. 011-007"	"524"	"524-0007"	5	1	"Pre-Enrollment"	5286247002	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_creatinine"	NA	NA	NA	NA	""	""	""	NA
+"381"	"DN-101 Protocol No. 011-007"	"524"	"524-0007"	5	1	"Pre-Enrollment"	5286247002	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_bilirubin_total"	NA	NA	NA	NA	""	""	""	NA
+"382"	"DN-101 Protocol No. 011-007"	"524"	"524-0007"	5	1	"Pre-Enrollment"	5286247002	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_ast"	NA	NA	NA	NA	""	""	""	NA
+"383"	"DN-101 Protocol No. 011-007"	"524"	"524-0007"	5	1	"Pre-Enrollment"	5286247002	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_alt"	NA	NA	NA	NA	""	""	""	NA
+"384"	"DN-101 Protocol No. 011-007"	"524"	"524-0007"	5	1	"Pre-Enrollment"	5286247002	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_ldh"	NA	NA	NA	NA	""	""	""	NA
+"385"	"DN-101 Protocol No. 011-007"	"524"	"524-0007"	5	1	"Pre-Enrollment"	5286247002	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_alkaline_phosphatase"	NA	NA	NA	NA	""	""	""	NA
+"386"	"DN-101 Protocol No. 011-007"	"524"	"524-0009"	5	1	"Pre-Enrollment"	3617030003	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_calcium"	NA	NA	NA	NA	""	""	""	NA
+"387"	"DN-101 Protocol No. 011-007"	"524"	"524-0009"	5	1	"Pre-Enrollment"	5286575002	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_creatinine"	NA	NA	NA	NA	""	""	""	NA
+"388"	"DN-101 Protocol No. 011-007"	"524"	"524-0009"	5	1	"Pre-Enrollment"	5286575002	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_bilirubin_total"	NA	NA	NA	NA	""	""	""	NA
+"389"	"DN-101 Protocol No. 011-007"	"524"	"524-0009"	5	1	"Pre-Enrollment"	5286575002	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_ast"	NA	NA	NA	NA	""	""	""	NA
+"390"	"DN-101 Protocol No. 011-007"	"524"	"524-0009"	5	1	"Pre-Enrollment"	5286575002	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_alt"	NA	NA	NA	NA	""	""	""	NA
+"391"	"DN-101 Protocol No. 011-007"	"524"	"524-0009"	5	1	"Pre-Enrollment"	5286575002	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_ldh"	NA	NA	NA	NA	""	""	""	NA
+"392"	"DN-101 Protocol No. 011-007"	"524"	"524-0009"	5	1	"Pre-Enrollment"	5286575002	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_alkaline_phosphatase"	NA	NA	NA	NA	""	""	""	NA
+"393"	"DN-101 Protocol No. 011-007"	"524"	"524-0011"	5	1	"Pre-Enrollment"	3747038003	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_calcium"	NA	NA	NA	NA	""	""	""	NA
+"394"	"DN-101 Protocol No. 011-007"	"524"	"524-0011"	5	1	"Pre-Enrollment"	4442795002	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_creatinine"	NA	NA	NA	NA	""	""	""	NA
+"395"	"DN-101 Protocol No. 011-007"	"524"	"524-0011"	5	1	"Pre-Enrollment"	4442795002	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_bilirubin_total"	NA	NA	NA	NA	""	""	""	NA
+"396"	"DN-101 Protocol No. 011-007"	"524"	"524-0011"	5	1	"Pre-Enrollment"	4442795002	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_ast"	NA	NA	NA	NA	""	""	""	NA
+"397"	"DN-101 Protocol No. 011-007"	"524"	"524-0011"	5	1	"Pre-Enrollment"	4442795002	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_alt"	NA	NA	NA	NA	""	""	""	NA
+"398"	"DN-101 Protocol No. 011-007"	"524"	"524-0011"	5	1	"Pre-Enrollment"	4442795002	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_ldh"	NA	NA	NA	NA	""	""	""	NA
+"399"	"DN-101 Protocol No. 011-007"	"524"	"524-0011"	5	1	"Pre-Enrollment"	4442795002	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_alkaline_phosphatase"	NA	NA	NA	NA	""	""	""	NA
+"400"	"DN-101 Protocol No. 011-007"	"524"	"524-0012"	5	1	"Pre-Enrollment"	3824391003	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_calcium"	NA	NA	NA	NA	""	""	""	NA
+"401"	"DN-101 Protocol No. 011-007"	"524"	"524-0012"	5	1	"Pre-Enrollment"	5286849002	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_creatinine"	NA	NA	NA	NA	""	""	""	NA
+"402"	"DN-101 Protocol No. 011-007"	"524"	"524-0012"	5	1	"Pre-Enrollment"	5286849002	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_bilirubin_total"	NA	NA	NA	NA	""	""	""	NA
+"403"	"DN-101 Protocol No. 011-007"	"524"	"524-0012"	5	1	"Pre-Enrollment"	5286849002	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_ast"	NA	NA	NA	NA	""	""	""	NA
+"404"	"DN-101 Protocol No. 011-007"	"524"	"524-0012"	5	1	"Pre-Enrollment"	5286849002	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_alt"	NA	NA	NA	NA	""	""	""	NA
+"405"	"DN-101 Protocol No. 011-007"	"524"	"524-0012"	5	1	"Pre-Enrollment"	5286849002	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_ldh"	NA	NA	NA	NA	""	""	""	NA
+"406"	"DN-101 Protocol No. 011-007"	"524"	"524-0012"	5	1	"Pre-Enrollment"	5286849002	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_alkaline_phosphatase"	NA	NA	NA	NA	""	""	""	NA
+"407"	"DN-101 Protocol No. 011-007"	"525"	"525-0002"	5	1	"Pre-Enrollment"	2954979003	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_calcium"	NA	NA	NA	NA	""	""	""	NA
+"408"	"DN-101 Protocol No. 011-007"	"525"	"525-0002"	5	1	"Pre-Enrollment"	5313273002	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_creatinine"	NA	NA	NA	NA	""	""	""	NA
+"409"	"DN-101 Protocol No. 011-007"	"525"	"525-0002"	5	1	"Pre-Enrollment"	5313273002	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_bilirubin_total"	NA	NA	NA	NA	""	""	""	NA
+"410"	"DN-101 Protocol No. 011-007"	"525"	"525-0002"	5	1	"Pre-Enrollment"	5313273002	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_ast"	NA	NA	NA	NA	""	""	""	NA
+"411"	"DN-101 Protocol No. 011-007"	"525"	"525-0002"	5	1	"Pre-Enrollment"	5313273002	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_alt"	NA	NA	NA	NA	""	""	""	NA
+"412"	"DN-101 Protocol No. 011-007"	"525"	"525-0002"	5	1	"Pre-Enrollment"	5313273002	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_ldh"	NA	NA	NA	NA	""	""	""	NA
+"413"	"DN-101 Protocol No. 011-007"	"525"	"525-0002"	5	1	"Pre-Enrollment"	5313273002	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_alkaline_phosphatase"	NA	NA	NA	NA	""	""	""	NA
+"414"	"DN-101 Protocol No. 011-007"	"525"	"525-0003"	5	1	"Pre-Enrollment"	3240649003	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_calcium"	NA	NA	NA	NA	""	""	""	NA
+"415"	"DN-101 Protocol No. 011-007"	"525"	"525-0003"	5	1	"Pre-Enrollment"	5313316002	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_creatinine"	NA	NA	NA	NA	""	""	""	NA
+"416"	"DN-101 Protocol No. 011-007"	"525"	"525-0003"	5	1	"Pre-Enrollment"	5313316002	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_bilirubin_total"	NA	NA	NA	NA	""	""	""	NA
+"417"	"DN-101 Protocol No. 011-007"	"525"	"525-0003"	5	1	"Pre-Enrollment"	5313316002	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_ast"	NA	NA	NA	NA	""	""	""	NA
+"418"	"DN-101 Protocol No. 011-007"	"525"	"525-0003"	5	1	"Pre-Enrollment"	5313316002	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_alt"	NA	NA	NA	NA	""	""	""	NA
+"419"	"DN-101 Protocol No. 011-007"	"525"	"525-0003"	5	1	"Pre-Enrollment"	5313316002	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_ldh"	NA	NA	NA	NA	""	""	""	NA
+"420"	"DN-101 Protocol No. 011-007"	"525"	"525-0003"	5	1	"Pre-Enrollment"	5313316002	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_alkaline_phosphatase"	NA	NA	NA	NA	""	""	""	NA
+"421"	"DN-101 Protocol No. 011-007"	"525"	"525-0004"	5	1	"Pre-Enrollment"	3241045003	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_calcium"	NA	NA	NA	NA	""	""	""	NA
+"422"	"DN-101 Protocol No. 011-007"	"525"	"525-0004"	5	1	"Pre-Enrollment"	5313340002	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_creatinine"	NA	NA	NA	NA	""	""	""	NA
+"423"	"DN-101 Protocol No. 011-007"	"525"	"525-0004"	5	1	"Pre-Enrollment"	5313340002	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_bilirubin_total"	NA	NA	NA	NA	""	""	""	NA
+"424"	"DN-101 Protocol No. 011-007"	"525"	"525-0004"	5	1	"Pre-Enrollment"	5313340002	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_ast"	NA	NA	NA	NA	""	""	""	NA
+"425"	"DN-101 Protocol No. 011-007"	"525"	"525-0004"	5	1	"Pre-Enrollment"	5313340002	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_alt"	NA	NA	NA	NA	""	""	""	NA
+"426"	"DN-101 Protocol No. 011-007"	"525"	"525-0004"	5	1	"Pre-Enrollment"	5313340002	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_ldh"	NA	NA	NA	NA	""	""	""	NA
+"427"	"DN-101 Protocol No. 011-007"	"525"	"525-0004"	5	1	"Pre-Enrollment"	5313340002	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_alkaline_phosphatase"	NA	NA	NA	NA	""	""	""	NA
+"428"	"DN-101 Protocol No. 011-007"	"527"	"527-0001"	5	1	"Pre-Enrollment"	3616571003	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_calcium"	NA	NA	NA	NA	""	""	""	NA
+"429"	"DN-101 Protocol No. 011-007"	"527"	"527-0001"	5	1	"Pre-Enrollment"	3616542001	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_creatinine"	NA	NA	NA	NA	""	""	""	NA
+"430"	"DN-101 Protocol No. 011-007"	"527"	"527-0001"	5	1	"Pre-Enrollment"	3616542001	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_bilirubin_total"	NA	NA	NA	NA	""	""	""	NA
+"431"	"DN-101 Protocol No. 011-007"	"527"	"527-0001"	5	1	"Pre-Enrollment"	3616542001	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_ast"	NA	NA	NA	NA	""	""	""	NA
+"432"	"DN-101 Protocol No. 011-007"	"527"	"527-0001"	5	1	"Pre-Enrollment"	3616542001	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_alt"	NA	NA	NA	NA	""	""	""	NA
+"433"	"DN-101 Protocol No. 011-007"	"527"	"527-0001"	5	1	"Pre-Enrollment"	3616542001	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_ldh"	NA	NA	NA	NA	""	""	""	NA
+"434"	"DN-101 Protocol No. 011-007"	"527"	"527-0001"	5	1	"Pre-Enrollment"	3616542001	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_alkaline_phosphatase"	NA	NA	NA	NA	""	""	""	NA
+"435"	"DN-101 Protocol No. 011-007"	"528"	"528-0001"	5	1	"Pre-Enrollment"	3324531003	NA	4767978004	"Inst. F. Klin. Chemie u. Labormedizin"	0	NA	NA	NA	NA	NA	"chem_calcium"	NA	NA	NA	NA	"mmol/L"	"2,42"	""	NA
+"436"	"DN-101 Protocol No. 011-007"	"528"	"528-0001"	5	1	"Pre-Enrollment"	5006428002	NA	4767978004	"Inst. F. Klin. Chemie u. Labormedizin"	0	NA	NA	NA	NA	NA	"chem_creatinine"	NA	NA	NA	NA	"mg/dL"	"0,8"	""	NA
+"437"	"DN-101 Protocol No. 011-007"	"528"	"528-0001"	5	1	"Pre-Enrollment"	5006428002	NA	4767978004	"Inst. F. Klin. Chemie u. Labormedizin"	0	NA	NA	NA	NA	NA	"chem_bilirubin_total"	NA	NA	NA	NA	"mg/dL"	"0,4"	""	NA
+"438"	"DN-101 Protocol No. 011-007"	"528"	"528-0001"	5	1	"Pre-Enrollment"	5006428002	NA	4767978004	"Inst. F. Klin. Chemie u. Labormedizin"	0	NA	NA	NA	41	NA	"chem_ast"	NA	NA	41	NA	"U/L"	"41.0000"	"U/L"	NA
+"439"	"DN-101 Protocol No. 011-007"	"528"	"528-0001"	5	1	"Pre-Enrollment"	5006428002	NA	4767978004	"Inst. F. Klin. Chemie u. Labormedizin"	0	NA	NA	NA	24	NA	"chem_alt"	NA	NA	24	NA	"U/L"	"24.0000"	"U/L"	NA
+"440"	"DN-101 Protocol No. 011-007"	"528"	"528-0001"	5	1	"Pre-Enrollment"	5006428002	NA	4767978004	"Inst. F. Klin. Chemie u. Labormedizin"	0	NA	NA	NA	194	NA	"chem_ldh"	NA	NA	194	NA	"U/L"	"194.0000"	"U/L"	NA
+"441"	"DN-101 Protocol No. 011-007"	"528"	"528-0001"	5	1	"Pre-Enrollment"	5006428002	NA	4767978004	"Inst. F. Klin. Chemie u. Labormedizin"	0	NA	NA	NA	75	NA	"chem_alkaline_phosphatase"	NA	NA	75	NA	"U/L"	"75.0000"	"U/L"	NA
+"442"	"DN-101 Protocol No. 011-007"	"529"	"529-0001"	5	1	"Pre-Enrollment"	3025966003	NA	4627387004	"Charite Virchow Klinikum"	0	NA	NA	NA	NA	NA	"chem_calcium"	NA	NA	NA	NA	"mmol/L"	"2,39"	""	NA
+"443"	"DN-101 Protocol No. 011-007"	"529"	"529-0001"	5	1	"Pre-Enrollment"	4902936002	NA	4627387004	"Charite Virchow Klinikum"	0	NA	NA	NA	NA	NA	"chem_creatinine"	NA	NA	NA	NA	"mg/dL"	"0,95"	""	NA
+"444"	"DN-101 Protocol No. 011-007"	"529"	"529-0001"	5	1	"Pre-Enrollment"	4902936002	NA	4627387004	"Charite Virchow Klinikum"	0	NA	NA	NA	NA	NA	"chem_bilirubin_total"	NA	NA	NA	NA	"mg/dL"	"0,6"	""	NA
+"445"	"DN-101 Protocol No. 011-007"	"529"	"529-0001"	5	1	"Pre-Enrollment"	4902936002	NA	4627387004	"Charite Virchow Klinikum"	0	NA	NA	50	24	50	"chem_ast"	0	NA	24	NA	"U/L"	"24.0000"	"U/L"	0
+"446"	"DN-101 Protocol No. 011-007"	"529"	"529-0001"	5	1	"Pre-Enrollment"	4902936002	NA	4627387004	"Charite Virchow Klinikum"	0	NA	NA	45	18	45	"chem_alt"	0	NA	18	NA	"U/L"	"18.0000"	"U/L"	0
+"447"	"DN-101 Protocol No. 011-007"	"529"	"529-0001"	5	1	"Pre-Enrollment"	4902936002	NA	4627387004	"Charite Virchow Klinikum"	0	NA	NA	248	228	248	"chem_ldh"	0	NA	228	NA	"U/L"	"228.0000"	"U/L"	0
+"448"	"DN-101 Protocol No. 011-007"	"529"	"529-0001"	5	1	"Pre-Enrollment"	4902936002	NA	4627387004	"Charite Virchow Klinikum"	0	NA	NA	129	134	129	"chem_alkaline_phosphatase"	40	NA	134	NA	"U/L"	"134.0000"	"U/L"	40
+"449"	"DN-101 Protocol No. 011-007"	"529"	"529-0005"	5	1	"Pre-Enrollment"	3909447003	NA	4627387004	"Charite Virchow Klinikum"	0	NA	NA	NA	NA	NA	"chem_calcium"	NA	NA	NA	NA	"mmol/L"	"2,18"	""	NA
+"450"	"DN-101 Protocol No. 011-007"	"529"	"529-0005"	5	1	"Pre-Enrollment"	3909530001	NA	4627387004	"Charite Virchow Klinikum"	0	NA	NA	NA	NA	NA	"chem_creatinine"	NA	NA	NA	NA	"mg/dL"	"1,61"	""	NA
+"451"	"DN-101 Protocol No. 011-007"	"529"	"529-0005"	5	1	"Pre-Enrollment"	3909530001	NA	4627387004	"Charite Virchow Klinikum"	0	NA	NA	NA	NA	NA	"chem_bilirubin_total"	NA	NA	NA	NA	"mg/dL"	"0,4"	""	NA
+"452"	"DN-101 Protocol No. 011-007"	"529"	"529-0005"	5	1	"Pre-Enrollment"	3909530001	NA	4627387004	"Charite Virchow Klinikum"	0	NA	NA	50	29	50	"chem_ast"	0	NA	29	NA	"U/L"	"29.0000"	"U/L"	0
+"453"	"DN-101 Protocol No. 011-007"	"529"	"529-0005"	5	1	"Pre-Enrollment"	3909530001	NA	4627387004	"Charite Virchow Klinikum"	0	NA	NA	45	26	45	"chem_alt"	0	NA	26	NA	"U/L"	"26.0000"	"U/L"	0
+"454"	"DN-101 Protocol No. 011-007"	"529"	"529-0005"	5	1	"Pre-Enrollment"	3909530001	NA	4627387004	"Charite Virchow Klinikum"	0	NA	NA	248	257	248	"chem_ldh"	0	NA	257	NA	"U/L"	"257.0000"	"U/L"	0
+"455"	"DN-101 Protocol No. 011-007"	"529"	"529-0005"	5	1	"Pre-Enrollment"	3909530001	NA	4627387004	"Charite Virchow Klinikum"	0	NA	NA	129	65	129	"chem_alkaline_phosphatase"	40	NA	65	NA	"U/L"	"65.0000"	"U/L"	40
+"456"	"DN-101 Protocol No. 011-007"	"604"	"604-0002"	5	1	"Pre-Enrollment"	3926987003	NA	4450972004	"PTE AOK Laboratoriumi Medicina Intezet"	0	NA	NA	NA	NA	NA	"chem_calcium"	NA	NA	NA	1	""	""	""	NA
+"457"	"DN-101 Protocol No. 011-007"	"604"	"604-0002"	5	1	"Pre-Enrollment"	4821716002	NA	4450972004	"PTE AOK Laboratoriumi Medicina Intezet"	0	NA	NA	NA	NA	NA	"chem_creatinine"	NA	NA	NA	1	""	""	""	NA
+"458"	"DN-101 Protocol No. 011-007"	"604"	"604-0002"	5	1	"Pre-Enrollment"	4821716002	NA	4450972004	"PTE AOK Laboratoriumi Medicina Intezet"	0	NA	NA	NA	NA	NA	"chem_bilirubin_total"	NA	NA	NA	1	""	""	""	NA
+"459"	"DN-101 Protocol No. 011-007"	"604"	"604-0002"	5	1	"Pre-Enrollment"	4821716002	NA	4450972004	"PTE AOK Laboratoriumi Medicina Intezet"	0	NA	NA	NA	NA	NA	"chem_ast"	NA	NA	NA	1	""	""	""	NA
+"460"	"DN-101 Protocol No. 011-007"	"604"	"604-0002"	5	1	"Pre-Enrollment"	4821716002	NA	4450972004	"PTE AOK Laboratoriumi Medicina Intezet"	0	NA	NA	NA	NA	NA	"chem_alt"	NA	NA	NA	1	""	""	""	NA
+"461"	"DN-101 Protocol No. 011-007"	"604"	"604-0002"	5	1	"Pre-Enrollment"	4821716002	NA	4450972004	"PTE AOK Laboratoriumi Medicina Intezet"	0	NA	NA	450	430	450	"chem_ldh"	1	NA	430	NA	"U/L"	"430.0000"	"U/L"	1
+"462"	"DN-101 Protocol No. 011-007"	"604"	"604-0002"	5	1	"Pre-Enrollment"	4821716002	NA	4450972004	"PTE AOK Laboratoriumi Medicina Intezet"	0	NA	NA	NA	NA	NA	"chem_alkaline_phosphatase"	NA	NA	NA	1	""	""	""	NA
+"463"	"DN-101 Protocol No. 011-007"	"606"	"606-0002"	5	1	"Pre-Enrollment"	3521593003	NA	4082077003	"Clinical Laboratory-Nat'l Oncology Inst."	0	NA	NA	NA	NA	NA	"chem_calcium"	NA	NA	NA	NA	"mmol/L"	"2,23"	""	NA
+"464"	"DN-101 Protocol No. 011-007"	"606"	"606-0002"	5	1	"Pre-Enrollment"	4250370001	NA	4082077003	"Clinical Laboratory-Nat'l Oncology Inst."	0	NA	NA	97	48	97	"chem_creatinine"	44	NA	48	NA	"umol/L"	"48.0000"	"umol/L"	44
+"465"	"DN-101 Protocol No. 011-007"	"606"	"606-0002"	5	1	"Pre-Enrollment"	4250370001	NA	4082077003	"Clinical Laboratory-Nat'l Oncology Inst."	0	NA	NA	NA	NA	NA	"chem_bilirubin_total"	NA	NA	NA	NA	"umol/L"	"13,9"	""	NA
+"466"	"DN-101 Protocol No. 011-007"	"606"	"606-0002"	5	1	"Pre-Enrollment"	4250370001	NA	4082077003	"Clinical Laboratory-Nat'l Oncology Inst."	0	NA	NA	46	51	46	"chem_ast"	4	NA	51	NA	"U/L"	"51.0000"	"U/L"	4
+"467"	"DN-101 Protocol No. 011-007"	"606"	"606-0002"	5	1	"Pre-Enrollment"	4250370001	NA	4082077003	"Clinical Laboratory-Nat'l Oncology Inst."	0	NA	NA	49	49	49	"chem_alt"	4	NA	49	NA	"U/L"	"49.0000"	"U/L"	4
+"468"	"DN-101 Protocol No. 011-007"	"606"	"606-0002"	5	1	"Pre-Enrollment"	4250370001	NA	4082077003	"Clinical Laboratory-Nat'l Oncology Inst."	0	NA	NA	451	920	451	"chem_ldh"	226	NA	920	NA	"U/L"	"920.0000"	"U/L"	226
+"469"	"DN-101 Protocol No. 011-007"	"606"	"606-0002"	5	1	"Pre-Enrollment"	4250370001	NA	4082077003	"Clinical Laboratory-Nat'l Oncology Inst."	0	NA	NA	290	1359	290	"chem_alkaline_phosphatase"	100	NA	1359	NA	"U/L"	"1359.0000"	"U/L"	100
+"470"	"DN-101 Protocol No. 011-007"	"606"	"606-0004"	5	1	"Pre-Enrollment"	3870383003	NA	4082077003	"Clinical Laboratory-Nat'l Oncology Inst."	10	NA	NA	2.65	2.59	2.65	"chem_calcium"	2.15	NA	2.59	NA	"mmol/L"	"2.5900"	"mmol/L"	2.15
+"471"	"DN-101 Protocol No. 011-007"	"606"	"606-0004"	5	1	"Pre-Enrollment"	4657907002	NA	4082077003	"Clinical Laboratory-Nat'l Oncology Inst."	10	NA	NA	NA	NA	NA	"chem_creatinine"	NA	NA	NA	1	""	""	""	NA
+"472"	"DN-101 Protocol No. 011-007"	"606"	"606-0004"	5	1	"Pre-Enrollment"	4657907002	NA	4082077003	"Clinical Laboratory-Nat'l Oncology Inst."	10	NA	NA	NA	NA	NA	"chem_bilirubin_total"	NA	NA	NA	1	""	""	""	NA
+"473"	"DN-101 Protocol No. 011-007"	"606"	"606-0004"	5	1	"Pre-Enrollment"	4657907002	NA	4082077003	"Clinical Laboratory-Nat'l Oncology Inst."	10	NA	NA	NA	NA	NA	"chem_ast"	NA	NA	NA	1	""	""	""	NA
+"474"	"DN-101 Protocol No. 011-007"	"606"	"606-0004"	5	1	"Pre-Enrollment"	4657907002	NA	4082077003	"Clinical Laboratory-Nat'l Oncology Inst."	10	NA	NA	NA	NA	NA	"chem_alt"	NA	NA	NA	1	""	""	""	NA
+"475"	"DN-101 Protocol No. 011-007"	"606"	"606-0004"	5	1	"Pre-Enrollment"	4657907002	NA	4082077003	"Clinical Laboratory-Nat'l Oncology Inst."	10	NA	NA	NA	NA	NA	"chem_ldh"	NA	NA	NA	1	""	""	""	NA
+"476"	"DN-101 Protocol No. 011-007"	"606"	"606-0004"	5	1	"Pre-Enrollment"	4657907002	NA	4082077003	"Clinical Laboratory-Nat'l Oncology Inst."	10	NA	NA	NA	NA	NA	"chem_alkaline_phosphatase"	NA	NA	NA	1	""	""	""	NA
+"477"	"DN-101 Protocol No. 011-007"	"620"	"620-0001"	5	1	"Pre-Enrollment"	3904207003	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_calcium"	NA	NA	NA	NA	""	""	""	NA
+"478"	"DN-101 Protocol No. 011-007"	"620"	"620-0001"	5	1	"Pre-Enrollment"	4116583001	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_creatinine"	NA	NA	NA	NA	""	""	""	NA
+"479"	"DN-101 Protocol No. 011-007"	"620"	"620-0001"	5	1	"Pre-Enrollment"	4116583001	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_bilirubin_total"	NA	NA	NA	NA	""	""	""	NA
+"480"	"DN-101 Protocol No. 011-007"	"620"	"620-0001"	5	1	"Pre-Enrollment"	4116583001	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_ast"	NA	NA	NA	NA	""	""	""	NA
+"481"	"DN-101 Protocol No. 011-007"	"620"	"620-0001"	5	1	"Pre-Enrollment"	4116583001	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_alt"	NA	NA	NA	NA	""	""	""	NA
+"482"	"DN-101 Protocol No. 011-007"	"620"	"620-0001"	5	1	"Pre-Enrollment"	4116583001	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_ldh"	NA	NA	NA	NA	""	""	""	NA
+"483"	"DN-101 Protocol No. 011-007"	"620"	"620-0001"	5	1	"Pre-Enrollment"	4116583001	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_alkaline_phosphatase"	NA	NA	NA	NA	""	""	""	NA
+"484"	"DN-101 Protocol No. 011-007"	"621"	"621-0001"	5	1	"Pre-Enrollment"	3250632003	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_calcium"	NA	NA	NA	NA	""	""	""	NA
+"485"	"DN-101 Protocol No. 011-007"	"621"	"621-0001"	5	1	"Pre-Enrollment"	3618120001	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_creatinine"	NA	NA	NA	NA	""	""	""	NA
+"486"	"DN-101 Protocol No. 011-007"	"621"	"621-0001"	5	1	"Pre-Enrollment"	3618120001	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_bilirubin_total"	NA	NA	NA	NA	""	""	""	NA
+"487"	"DN-101 Protocol No. 011-007"	"621"	"621-0001"	5	1	"Pre-Enrollment"	3618120001	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_ast"	NA	NA	NA	NA	""	""	""	NA
+"488"	"DN-101 Protocol No. 011-007"	"621"	"621-0001"	5	1	"Pre-Enrollment"	3618120001	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_alt"	NA	NA	NA	NA	""	""	""	NA
+"489"	"DN-101 Protocol No. 011-007"	"621"	"621-0001"	5	1	"Pre-Enrollment"	3618120001	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_ldh"	NA	NA	NA	NA	""	""	""	NA
+"490"	"DN-101 Protocol No. 011-007"	"621"	"621-0001"	5	1	"Pre-Enrollment"	3618120001	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_alkaline_phosphatase"	NA	NA	NA	NA	""	""	""	NA
+"491"	"DN-101 Protocol No. 011-007"	"621"	"621-0002"	5	1	"Pre-Enrollment"	3322721003	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_calcium"	NA	NA	NA	NA	""	""	""	NA
+"492"	"DN-101 Protocol No. 011-007"	"621"	"621-0002"	5	1	"Pre-Enrollment"	3737872001	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_creatinine"	NA	NA	NA	NA	""	""	""	NA
+"493"	"DN-101 Protocol No. 011-007"	"621"	"621-0002"	5	1	"Pre-Enrollment"	3737872001	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_bilirubin_total"	NA	NA	NA	NA	""	""	""	NA
+"494"	"DN-101 Protocol No. 011-007"	"621"	"621-0002"	5	1	"Pre-Enrollment"	3737872001	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_ast"	NA	NA	NA	NA	""	""	""	NA
+"495"	"DN-101 Protocol No. 011-007"	"621"	"621-0002"	5	1	"Pre-Enrollment"	3737872001	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_alt"	NA	NA	NA	NA	""	""	""	NA
+"496"	"DN-101 Protocol No. 011-007"	"621"	"621-0002"	5	1	"Pre-Enrollment"	3737872001	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_ldh"	NA	NA	NA	NA	""	""	""	NA
+"497"	"DN-101 Protocol No. 011-007"	"621"	"621-0002"	5	1	"Pre-Enrollment"	3737872001	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_alkaline_phosphatase"	NA	NA	NA	NA	""	""	""	NA
+"498"	"DN-101 Protocol No. 011-007"	"621"	"621-0004"	5	1	"Pre-Enrollment"	3876822003	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_calcium"	NA	NA	NA	NA	""	""	""	NA
+"499"	"DN-101 Protocol No. 011-007"	"621"	"621-0004"	5	1	"Pre-Enrollment"	4505043002	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_creatinine"	NA	NA	NA	NA	""	""	""	NA
+"500"	"DN-101 Protocol No. 011-007"	"621"	"621-0004"	5	1	"Pre-Enrollment"	4505043002	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_bilirubin_total"	NA	NA	NA	NA	""	""	""	NA
+"501"	"DN-101 Protocol No. 011-007"	"621"	"621-0004"	5	1	"Pre-Enrollment"	4505043002	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_ast"	NA	NA	NA	NA	""	""	""	NA
+"502"	"DN-101 Protocol No. 011-007"	"621"	"621-0004"	5	1	"Pre-Enrollment"	4505043002	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_alt"	NA	NA	NA	NA	""	""	""	NA
+"503"	"DN-101 Protocol No. 011-007"	"621"	"621-0004"	5	1	"Pre-Enrollment"	4505043002	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_ldh"	NA	NA	NA	NA	""	""	""	NA
+"504"	"DN-101 Protocol No. 011-007"	"621"	"621-0004"	5	1	"Pre-Enrollment"	4505043002	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_alkaline_phosphatase"	NA	NA	NA	NA	""	""	""	NA
+"505"	"DN-101 Protocol No. 011-007"	"625"	"625-0001"	5	1	"Pre-Enrollment"	3966666003	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_calcium"	NA	NA	NA	NA	""	""	""	NA
+"506"	"DN-101 Protocol No. 011-007"	"625"	"625-0001"	5	1	"Pre-Enrollment"	4105410001	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_creatinine"	NA	NA	NA	NA	""	""	""	NA
+"507"	"DN-101 Protocol No. 011-007"	"625"	"625-0001"	5	1	"Pre-Enrollment"	4105410001	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_bilirubin_total"	NA	NA	NA	NA	""	""	""	NA
+"508"	"DN-101 Protocol No. 011-007"	"625"	"625-0001"	5	1	"Pre-Enrollment"	4105410001	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_ast"	NA	NA	NA	NA	""	""	""	NA
+"509"	"DN-101 Protocol No. 011-007"	"625"	"625-0001"	5	1	"Pre-Enrollment"	4105410001	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_alt"	NA	NA	NA	NA	""	""	""	NA
+"510"	"DN-101 Protocol No. 011-007"	"625"	"625-0001"	5	1	"Pre-Enrollment"	4105410001	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_ldh"	NA	NA	NA	NA	""	""	""	NA
+"511"	"DN-101 Protocol No. 011-007"	"625"	"625-0001"	5	1	"Pre-Enrollment"	4105410001	1	NA	""	NA	NA	NA	NA	NA	NA	"chem_alkaline_phosphatase"	NA	NA	NA	NA	""	""	""	NA

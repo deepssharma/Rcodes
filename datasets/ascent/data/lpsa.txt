@@ -1,0 +1,59 @@
+"PROJ_ID"	"SITE_ID"	"SUBID"	"STATE"	"EVENT_NO"	"EVENT_ID"	"ID"	"LBND"	"LAB_ORG"	"LAB_NAME"	"LBDT_"	"EXPONENT"	"ND"	"CS"	"CON_RNGH"	"NUM_VAL"	"REP_RNGH"	"ANALYTE"	"CON_RNGL"	"CON_EXP"	"CON_VAL"	"REP_UNIT"	"CHAR_VAL"	"CON_UNIT"	"REP_RNGL"
+"1"	"DN-101 Protocol No. 011-007"	"003"	"003-0001"	5	1	"Pre-Enrollment"	2628807003	NA	4007508003	"Calgary Laboratory Services"	14	NA	NA	NA	NA	71.62	NA	"chem_psa_total"	NA	NA	71.62	"ug/L"	"71.62"	"ug/L"	NA
+"2"	"DN-101 Protocol No. 011-007"	"003"	"003-0002"	5	1	"Pre-Enrollment"	2659202003	1	NA	""	NA	NA	NA	NA	NA	NA	NA	"chem_psa_total"	NA	NA	NA	""	""	""	NA
+"3"	"DN-101 Protocol No. 011-007"	"003"	"003-0004"	5	1	"Pre-Enrollment"	2753066003	NA	4007508003	"Calgary Laboratory Services"	-2	NA	NA	NA	NA	49.83	NA	"chem_psa_total"	NA	NA	49.83	"ug/L"	"49.83"	"ug/L"	NA
+"4"	"DN-101 Protocol No. 011-007"	"003"	"003-0009"	5	1	"Pre-Enrollment"	2894198003	NA	4007508003	"Calgary Laboratory Services"	0	NA	NA	NA	NA	215.9	NA	"chem_psa_total"	NA	NA	215.9	"ug/L"	"215.9"	"ug/L"	NA
+"5"	"DN-101 Protocol No. 011-007"	"003"	"003-0013"	5	1	"Pre-Enrollment"	3185622003	NA	4007508003	"Calgary Laboratory Services"	0	NA	NA	NA	NA	6.81	NA	"chem_psa_total"	NA	NA	6.81	"ug/L"	"6.81"	"ug/L"	NA
+"6"	"DN-101 Protocol No. 011-007"	"003"	"003-0014"	5	1	"Pre-Enrollment"	3185796003	NA	4007508003	"Calgary Laboratory Services"	0	NA	NA	NA	NA	280.9	NA	"chem_psa_total"	NA	NA	280.9	"ug/L"	"280.9"	"ug/L"	NA
+"7"	"DN-101 Protocol No. 011-007"	"014"	"014-0001"	5	1	"Pre-Enrollment"	2624953003	NA	4233207003	"Texas Oncology Cancer Center"	0	NA	NA	NA	NA	490.9	NA	"chem_psa_total"	NA	NA	490.9	"ng/mL"	"490.9000"	"ug/L"	NA
+"8"	"DN-101 Protocol No. 011-007"	"014"	"014-0002"	5	1	"Pre-Enrollment"	2840459003	NA	4233207003	"Texas Oncology Cancer Center"	15	NA	NA	NA	NA	22.39	NA	"chem_psa_total"	NA	NA	22.39	"ng/mL"	"22.3900"	"ug/L"	NA
+"9"	"DN-101 Protocol No. 011-007"	"014"	"014-0003"	5	1	"Pre-Enrollment"	2998949003	NA	4233207003	"Texas Oncology Cancer Center"	2	NA	NA	NA	NA	131.2	NA	"chem_psa_total"	NA	NA	131.2	"ng/mL"	"131.2000"	"ug/L"	NA
+"10"	"DN-101 Protocol No. 011-007"	"024"	"024-0002"	5	1	"Pre-Enrollment"	2711709003	NA	4163839003	"Laboratory Corporation of America"	0	NA	NA	NA	4	13.1	4	"chem_psa_total"	0	NA	13.1	"ng/mL"	"13.1"	"ug/L"	0
+"11"	"DN-101 Protocol No. 011-007"	"037"	"037-0002"	5	1	"Pre-Enrollment"	3163250003	1	NA	""	NA	NA	NA	NA	NA	NA	NA	"chem_psa_total"	NA	NA	NA	""	""	""	NA
+"12"	"DN-101 Protocol No. 011-007"	"037"	"037-0003"	5	1	"Pre-Enrollment"	3404267003	1	NA	""	NA	NA	NA	NA	NA	NA	NA	"chem_psa_total"	NA	NA	NA	""	""	""	NA
+"13"	"DN-101 Protocol No. 011-007"	"041"	"041-0036"	5	1	"Pre-Enrollment"	3437278003	NA	4163923003	"Memorial Sloan-Kettering Cancer Center"	0	NA	NA	NA	4	124.12	4	"chem_psa_total"	0	NA	124.12	"ng/mL"	"124.12"	"ug/L"	0
+"14"	"DN-101 Protocol No. 011-007"	"063"	"063-0001"	5	1	"Pre-Enrollment"	2864012003	NA	3999738003	"Hamilton Health Sciences-Henderson Site"	0	NA	NA	NA	NA	334	NA	"chem_psa_total"	NA	NA	334	"ug/L"	"334.0000"	"ug/L"	NA
+"15"	"DN-101 Protocol No. 011-007"	"063"	"063-0003"	5	1	"Pre-Enrollment"	2894459003	NA	3999738003	"Hamilton Health Sciences-Henderson Site"	7	NA	NA	NA	NA	4	NA	"chem_psa_total"	NA	NA	4	"ug/L"	"4.0000"	"ug/L"	NA
+"16"	"DN-101 Protocol No. 011-007"	"063"	"063-0005"	5	1	"Pre-Enrollment"	3018139003	NA	3999738003	"Hamilton Health Sciences-Henderson Site"	1	NA	NA	NA	NA	103	NA	"chem_psa_total"	NA	NA	103	"ug/L"	"103.0000"	"ug/L"	NA
+"17"	"DN-101 Protocol No. 011-007"	"063"	"063-0006"	5	1	"Pre-Enrollment"	3145075003	NA	3999738003	"Hamilton Health Sciences-Henderson Site"	0	NA	NA	NA	NA	843	NA	"chem_psa_total"	NA	NA	843	"ug/L"	"843.0000"	"ug/L"	NA
+"18"	"DN-101 Protocol No. 011-007"	"063"	"063-0007"	5	1	"Pre-Enrollment"	3369188003	NA	3999738003	"Hamilton Health Sciences-Henderson Site"	0	NA	NA	NA	3.9999	464	3.9999	"chem_psa_total"	0	NA	464	"ug/L"	"464.0000"	"ug/L"	0
+"19"	"DN-101 Protocol No. 011-007"	"063"	"063-0012"	5	1	"Pre-Enrollment"	3832432003	1	NA	""	NA	NA	NA	NA	NA	NA	NA	"chem_psa_total"	NA	NA	NA	""	""	""	NA
+"20"	"DN-101 Protocol No. 011-007"	"072"	"072-0001"	5	1	"Pre-Enrollment"	2594676003	NA	5162842004	"Georgia Cancer Specialists Northside"	8	NA	NA	NA	4	47.99	4	"chem_psa_total"	0	NA	47.99	"ng/mL"	"47.99"	"ug/L"	0
+"21"	"DN-101 Protocol No. 011-007"	"092"	"092-0001"	5	1	"Pre-Enrollment"	2791412003	NA	3999910003	"Clnical Chem Lab, Health Sciences Centre"	-13	NA	NA	NA	NA	385.2	NA	"chem_psa_total"	NA	NA	385.2	"ug/L"	"385.2000"	"ug/L"	NA
+"22"	"DN-101 Protocol No. 011-007"	"094"	"094-0003"	5	1	"Pre-Enrollment"	3466788003	1	NA	""	NA	NA	NA	NA	NA	NA	NA	"chem_psa_total"	NA	NA	NA	""	""	""	NA
+"23"	"DN-101 Protocol No. 011-007"	"099"	"099-0002"	5	1	"Pre-Enrollment"	2835018003	NA	3742512003	"Good Samaritan Regional Med Ctr Lab"	0	NA	NA	NA	NA	265.8	NA	"chem_psa_total"	NA	NA	265.8	"ng/mL"	"265.8"	"ug/L"	NA
+"24"	"DN-101 Protocol No. 011-007"	"108"	"108-0005"	5	1	"Pre-Enrollment"	3301404003	NA	5294896004	"Latrobe Area Hospital"	9	NA	NA	NA	3.9999	20.7	3.9999	"chem_psa_total"	0	NA	20.7	"ng/mL"	"20.7"	"ug/L"	0
+"25"	"DN-101 Protocol No. 011-007"	"125"	"125-0017"	5	1	"Pre-Enrollment"	2873046003	NA	4717370004	"Florida Cancer Specialists - Broadway"	1	NA	NA	NA	4	101.77	4	"chem_psa_total"	0	NA	101.77	"ng/mL"	"101.77"	"ug/L"	0
+"26"	"DN-101 Protocol No. 011-007"	"125"	"125-0018"	5	1	"Pre-Enrollment"	2897308003	1	NA	""	NA	NA	NA	NA	NA	NA	NA	"chem_psa_total"	NA	NA	NA	""	""	""	NA
+"27"	"DN-101 Protocol No. 011-007"	"125"	"125-0022"	5	1	"Pre-Enrollment"	2972813003	NA	4717394004	"Florida Cancer Specialists-New Hampshir"	17	NA	NA	NA	4	141.07	4	"chem_psa_total"	0	NA	141.07	"ng/mL"	"141.07"	"ug/L"	0
+"28"	"DN-101 Protocol No. 011-007"	"133"	"133-0020"	5	1	"Pre-Enrollment"	3900175003	NA	4000193003	"Vancouver Coastal Health"	7	NA	NA	NA	NA	170	NA	"chem_psa_total"	NA	NA	170	"ug/L"	"170.0000"	"ug/L"	NA
+"29"	"DN-101 Protocol No. 011-007"	"139"	"139-0005"	5	1	"Pre-Enrollment"	3230990003	NA	3771557003	"Kelowna General Hospital"	26	NA	NA	NA	6.5	241.02	6.5	"chem_psa_total"	0	NA	241.02	"ug/L"	"241.02"	"ug/L"	0
+"30"	"DN-101 Protocol No. 011-007"	"142"	"142-0003"	5	1	"Pre-Enrollment"	2619306003	NA	4717266004	"Henry Ford Health System - Grand"	12	NA	NA	NA	3.9999	57.4	3.9999	"chem_psa_total"	0	NA	57.4	"ng/mL"	"57.4"	"ug/L"	0
+"31"	"DN-101 Protocol No. 011-007"	"146"	"146-0002"	5	1	"Pre-Enrollment"	2984515003	NA	4007883003	"The Moncton Hospital Laboratory"	6	NA	NA	NA	3.8	76.89	3.8	"chem_psa_total"	0	NA	76.89	"ng/mL"	"76.89"	"ug/L"	0
+"32"	"DN-101 Protocol No. 011-007"	"157"	"157-0007"	5	1	"Pre-Enrollment"	3644871003	NA	4163945003	"Montreal General Hospital"	0	NA	NA	NA	4	104.49	4	"chem_psa_total"	0	NA	104.49	"ug/L"	"104.49"	"ug/L"	0
+"33"	"DN-101 Protocol No. 011-007"	"161"	"161-0002"	5	1	"Pre-Enrollment"	2903639003	NA	4163948003	"Quest Diagnostics Laboratory"	13	NA	NA	NA	NA	12.6	NA	"chem_psa_total"	NA	NA	12.6	"ng/mL"	"12.6"	"ug/L"	NA
+"34"	"DN-101 Protocol No. 011-007"	"170"	"170-0002"	5	1	"Pre-Enrollment"	3301506003	1	NA	""	NA	NA	NA	NA	NA	NA	NA	"chem_psa_total"	NA	NA	NA	""	""	""	NA
+"35"	"DN-101 Protocol No. 011-007"	"186"	"186-0002"	5	1	"Pre-Enrollment"	3206029003	NA	4163970003	"Royal Jubilee Hospital Lab (RJH)"	-7	NA	NA	NA	NA	370	NA	"chem_psa_total"	NA	NA	370	"ug/L"	"370"	"ug/L"	NA
+"36"	"DN-101 Protocol No. 011-007"	"506"	"506-0003"	5	1	"Pre-Enrollment"	2858015003	1	NA	""	NA	NA	NA	NA	NA	NA	NA	"chem_psa_total"	NA	NA	NA	""	""	""	NA
+"37"	"DN-101 Protocol No. 011-007"	"507"	"507-0003"	5	1	"Pre-Enrollment"	2817051003	1	NA	""	NA	NA	NA	NA	NA	NA	NA	"chem_psa_total"	NA	NA	NA	""	""	""	NA
+"38"	"DN-101 Protocol No. 011-007"	"507"	"507-0004"	5	1	"Pre-Enrollment"	2827491003	NA	4628493004	"Universitat zu Koln, Inst. f Klinische"	-21	NA	NA	NA	6.4999	377.5	6.4999	"chem_psa_total"	0	NA	377.5	"ug/L"	"377.5000"	"ug/L"	0
+"39"	"DN-101 Protocol No. 011-007"	"509"	"509-0001"	5	1	"Pre-Enrollment"	2943359003	NA	4627387004	"Charite Virchow Klinikum"	0	NA	NA	NA	4	157	4	"chem_psa_total"	0	NA	157	"ug/L"	"157.0000"	"ug/L"	0
+"40"	"DN-101 Protocol No. 011-007"	"515"	"515-0012"	5	1	"Pre-Enrollment"	3708242003	1	NA	""	NA	NA	NA	NA	NA	NA	NA	"chem_psa_total"	NA	NA	NA	""	""	""	NA
+"41"	"DN-101 Protocol No. 011-007"	"524"	"524-0001"	5	1	"Pre-Enrollment"	2935622003	NA	5194833004	"Labor Gemeinschaft Hamburg"	-14	NA	NA	NA	3.9999	115.5	3.9999	"chem_psa_total"	0	NA	115.5	"ng/mL"	"115.5"	"ug/L"	0
+"42"	"DN-101 Protocol No. 011-007"	"524"	"524-0002"	5	1	"Pre-Enrollment"	2943304003	1	NA	""	NA	NA	NA	NA	NA	NA	NA	"chem_psa_total"	NA	NA	NA	""	""	""	NA
+"43"	"DN-101 Protocol No. 011-007"	"524"	"524-0007"	5	1	"Pre-Enrollment"	3550461003	1	NA	""	NA	NA	NA	NA	NA	NA	NA	"chem_psa_total"	NA	NA	NA	""	""	""	NA
+"44"	"DN-101 Protocol No. 011-007"	"524"	"524-0009"	5	1	"Pre-Enrollment"	3617030003	1	NA	""	NA	NA	NA	NA	NA	NA	NA	"chem_psa_total"	NA	NA	NA	""	""	""	NA
+"45"	"DN-101 Protocol No. 011-007"	"524"	"524-0011"	5	1	"Pre-Enrollment"	3747038003	1	NA	""	NA	NA	NA	NA	NA	NA	NA	"chem_psa_total"	NA	NA	NA	""	""	""	NA
+"46"	"DN-101 Protocol No. 011-007"	"524"	"524-0012"	5	1	"Pre-Enrollment"	3824391003	1	NA	""	NA	NA	NA	NA	NA	NA	NA	"chem_psa_total"	NA	NA	NA	""	""	""	NA
+"47"	"DN-101 Protocol No. 011-007"	"525"	"525-0003"	5	1	"Pre-Enrollment"	3240649003	1	NA	""	NA	NA	NA	NA	NA	NA	NA	"chem_psa_total"	NA	NA	NA	""	""	""	NA
+"48"	"DN-101 Protocol No. 011-007"	"525"	"525-0004"	5	1	"Pre-Enrollment"	3241045003	1	NA	""	NA	NA	NA	NA	NA	NA	NA	"chem_psa_total"	NA	NA	NA	""	""	""	NA
+"49"	"DN-101 Protocol No. 011-007"	"525"	"525-0005"	5	1	"Pre-Enrollment"	3291861003	1	NA	""	NA	NA	NA	NA	NA	NA	NA	"chem_psa_total"	NA	NA	NA	""	""	""	NA
+"50"	"DN-101 Protocol No. 011-007"	"527"	"527-0001"	5	1	"Pre-Enrollment"	3616571003	1	NA	""	NA	NA	NA	NA	NA	NA	NA	"chem_psa_total"	NA	NA	NA	""	""	""	NA
+"51"	"DN-101 Protocol No. 011-007"	"528"	"528-0001"	5	1	"Pre-Enrollment"	3324531003	NA	4767978004	"Inst. F. Klin. Chemie u. Labormedizin"	0	NA	NA	NA	NA	108	NA	"chem_psa_total"	NA	NA	108	"ng/mL"	"108.0000"	"ug/L"	NA
+"52"	"DN-101 Protocol No. 011-007"	"529"	"529-0001"	5	1	"Pre-Enrollment"	3025966003	NA	4627387004	"Charite Virchow Klinikum"	0	NA	NA	NA	4	33	4	"chem_psa_total"	0	NA	33	"ug/L"	"33.0000"	"ug/L"	0
+"53"	"DN-101 Protocol No. 011-007"	"606"	"606-0002"	5	1	"Pre-Enrollment"	3521593003	NA	4082077003	"Clinical Laboratory-Nat'l Oncology Inst."	0	NA	NA	NA	NA	NA	NA	"chem_psa_total"	NA	NA	NA	"ng/mL"	"62,5"	""	NA
+"54"	"DN-101 Protocol No. 011-007"	"620"	"620-0001"	5	1	"Pre-Enrollment"	3904207003	1	NA	""	NA	NA	NA	NA	NA	NA	NA	"chem_psa_total"	NA	NA	NA	""	""	""	NA
+"55"	"DN-101 Protocol No. 011-007"	"621"	"621-0001"	5	1	"Pre-Enrollment"	3250632003	1	NA	""	NA	NA	NA	NA	NA	NA	NA	"chem_psa_total"	NA	NA	NA	""	""	""	NA
+"56"	"DN-101 Protocol No. 011-007"	"621"	"621-0002"	5	1	"Pre-Enrollment"	3322721003	1	NA	""	NA	NA	NA	NA	NA	NA	NA	"chem_psa_total"	NA	NA	NA	""	""	""	NA
+"57"	"DN-101 Protocol No. 011-007"	"621"	"621-0004"	5	1	"Pre-Enrollment"	3876822003	1	NA	""	NA	NA	NA	NA	NA	NA	NA	"chem_psa_total"	NA	NA	NA	""	""	""	NA
+"58"	"DN-101 Protocol No. 011-007"	"625"	"625-0001"	5	1	"Pre-Enrollment"	3966666003	1	NA	""	NA	NA	NA	NA	NA	NA	NA	"chem_psa_total"	NA	NA	NA	""	""	""	NA

@@ -1,0 +1,660 @@
+"PROJ_ID"	"SITE_ID"	"SUBID"	"STATE"	"EVENT_NO"	"EVENT_ID"	"ID"	"PARENT"	"SCTTRT"	"SCTSTDT_"	"SCTENDT_"	"SCTTYPE"
+"1"	"DN-101 Protocol No. 011-007"	"001"	"001-0003"	5	11	"Subsequent Cancer Therapy"	2603014003	3066325001	"Vinflunine"	483	504	2
+"2"	"DN-101 Protocol No. 011-007"	"001"	"001-0003"	5	11	"Subsequent Cancer Therapy"	5067252002	3066325001	"Prednisone"	223	448	1
+"3"	"DN-101 Protocol No. 011-007"	"001"	"001-0003"	5	11	"Subsequent Cancer Therapy"	4614295002	3066325001	"Mitoxantrone"	532	546	1
+"4"	"DN-101 Protocol No. 011-007"	"001"	"001-0004"	5	11	"Subsequent Cancer Therapy"	2642913003	3364779001	"Taxol"	314	343	1
+"5"	"DN-101 Protocol No. 011-007"	"001"	"001-0004"	5	11	"Subsequent Cancer Therapy"	3927517001	3364779001	"Vinflunine"	356	NA	2
+"6"	"DN-101 Protocol No. 011-007"	"001"	"001-0004"	5	11	"Subsequent Cancer Therapy"	5094432002	3364779001	"Prednison"	314	343	1
+"7"	"DN-101 Protocol No. 011-007"	"001"	"001-0012"	5	11	"Subsequent Cancer Therapy"	2799091003	3705231001	"Vinflunine"	247	NA	2
+"8"	"DN-101 Protocol No. 011-007"	"001"	"001-0014"	5	11	"Subsequent Cancer Therapy"	3026850003	4078781001	"Prednisone 10 mg po daily"	224	245	1
+"9"	"DN-101 Protocol No. 011-007"	"001"	"001-0014"	5	11	"Subsequent Cancer Therapy"	4078870001	4078781001	"Radiation to bone metastasis in back"	224	239	1
+"10"	"DN-101 Protocol No. 011-007"	"002"	"002-0008"	5	11	"Subsequent Cancer Therapy"	2777567003	5442631002	"Radiotherapy to T-spine"	393	397	1
+"11"	"DN-101 Protocol No. 011-007"	"002"	"002-0008"	5	11	"Subsequent Cancer Therapy"	5442656002	5442631002	"Radiotherapy to left humerus"	439	439	1
+"12"	"DN-101 Protocol No. 011-007"	"002"	"002-0008"	5	11	"Subsequent Cancer Therapy"	5442687002	5442631002	"Radiotherapy to left hip"	481	481	1
+"13"	"DN-101 Protocol No. 011-007"	"002"	"002-0011"	5	11	"Subsequent Cancer Therapy"	2862051003	4312110001	"Patupilone"	306	NA	2
+"14"	"DN-101 Protocol No. 011-007"	"002"	"002-0011"	5	11	"Subsequent Cancer Therapy"	4312110005	4312110001	"Prednisone"	306	NA	1
+"15"	"DN-101 Protocol No. 011-007"	"002"	"002-0014"	5	11	"Subsequent Cancer Therapy"	3096945003	5421704002	"Prednisone"	330	NA	1
+"16"	"DN-101 Protocol No. 011-007"	"002"	"002-0014"	5	11	"Subsequent Cancer Therapy"	5421704004	5421704002	"Mitoxantrone"	271	309	2
+"17"	"DN-101 Protocol No. 011-007"	"002"	"002-0014"	5	11	"Subsequent Cancer Therapy"	5421728002	5421704002	"Mitoxantrone"	330	NA	1
+"18"	"DN-101 Protocol No. 011-007"	"002"	"002-0014"	5	11	"Subsequent Cancer Therapy"	5421719002	5421704002	"Prednisone"	271	309	2
+"19"	"DN-101 Protocol No. 011-007"	"002"	"002-0019"	5	11	"Subsequent Cancer Therapy"	3835492003	4310197001	"Docetaxel"	49	NA	1
+"20"	"DN-101 Protocol No. 011-007"	"002"	"002-0019"	5	11	"Subsequent Cancer Therapy"	4310197005	4310197001	"Prednisone"	49	NA	1
+"21"	"DN-101 Protocol No. 011-007"	"002"	"002-0020"	5	11	"Subsequent Cancer Therapy"	3956474003	5421810002	"Prednisone"	31	NA	1
+"22"	"DN-101 Protocol No. 011-007"	"002"	"002-0020"	5	11	"Subsequent Cancer Therapy"	5421810004	5421810002	"Docetaxel"	31	NA	1
+"23"	"DN-101 Protocol No. 011-007"	"003"	"003-0001"	5	11	"Subsequent Cancer Therapy"	2628807003	3734795001	"Prednisone"	239	246	1
+"24"	"DN-101 Protocol No. 011-007"	"003"	"003-0001"	5	11	"Subsequent Cancer Therapy"	3734795005	3734795001	"Docetaxel"	385	NA	1
+"25"	"DN-101 Protocol No. 011-007"	"003"	"003-0001"	5	11	"Subsequent Cancer Therapy"	3734795003	3734795001	"Investigational product OGX-011"	375	NA	2
+"26"	"DN-101 Protocol No. 011-007"	"003"	"003-0002"	5	11	"Subsequent Cancer Therapy"	2659202003	3259744001	"Mitoxantrone"	218	239	1
+"27"	"DN-101 Protocol No. 011-007"	"003"	"003-0003"	5	11	"Subsequent Cancer Therapy"	2680128003	3937070001	"Bicalutamide"	399	NA	1
+"28"	"DN-101 Protocol No. 011-007"	"003"	"003-0006"	5	11	"Subsequent Cancer Therapy"	2861156003	4746233002	"Patupilone"	388	NA	2
+"29"	"DN-101 Protocol No. 011-007"	"003"	"003-0007"	5	11	"Subsequent Cancer Therapy"	2878819003	4746268002	"Patupilone"	371	NA	2
+"30"	"DN-101 Protocol No. 011-007"	"003"	"003-0009"	5	11	"Subsequent Cancer Therapy"	2894198003	3973700001	"Palliative Radiotherapy"	236	238	1
+"31"	"DN-101 Protocol No. 011-007"	"003"	"003-0010"	5	11	"Subsequent Cancer Therapy"	2901157003	3734822001	"Investigational product OGX-011"	228	NA	2
+"32"	"DN-101 Protocol No. 011-007"	"003"	"003-0012"	5	11	"Subsequent Cancer Therapy"	3144701003	3735073001	"Docetaxel"	148	152	1
+"33"	"DN-101 Protocol No. 011-007"	"003"	"003-0012"	5	11	"Subsequent Cancer Therapy"	4004027001	3735073001	"Palliative RT therapy"	173	174	1
+"34"	"DN-101 Protocol No. 011-007"	"003"	"003-0012"	5	11	"Subsequent Cancer Therapy"	3735073003	3735073001	"Investigational product OGX-011"	140	152	2
+"35"	"DN-101 Protocol No. 011-007"	"003"	"003-0015"	5	11	"Subsequent Cancer Therapy"	3271840003	4352492001	"Docetaxel"	193	214	1
+"36"	"DN-101 Protocol No. 011-007"	"005"	"005-0001"	5	11	"Subsequent Cancer Therapy"	2467135004	3369639001	"Ketoconazole"	244	245	1
+"37"	"DN-101 Protocol No. 011-007"	"006"	"006-0001"	5	11	"Subsequent Cancer Therapy"	2532056003	3047847001	"Mitoxantrone"	369	NA	1
+"38"	"DN-101 Protocol No. 011-007"	"006"	"006-0001"	5	11	"Subsequent Cancer Therapy"	3047847003	3047847001	"XRP6258"	323	358	2
+"39"	"DN-101 Protocol No. 011-007"	"008"	"008-0001"	5	11	"Subsequent Cancer Therapy"	2877452003	4867367002	"Hydrocortisone"	154	NA	1
+"40"	"DN-101 Protocol No. 011-007"	"008"	"008-0001"	5	11	"Subsequent Cancer Therapy"	4867367004	4867367002	"Ketoconazole"	154	NA	1
+"41"	"DN-101 Protocol No. 011-007"	"009"	"009-0004"	5	11	"Subsequent Cancer Therapy"	2833683003	3557132001	"taxol"	269	NA	1
+"42"	"DN-101 Protocol No. 011-007"	"009"	"009-0004"	5	11	"Subsequent Cancer Therapy"	4141463001	3557132001	"prednisone"	220	257	1
+"43"	"DN-101 Protocol No. 011-007"	"009"	"009-0004"	5	11	"Subsequent Cancer Therapy"	3557132003	3557132001	"satraplatin"	220	257	2
+"44"	"DN-101 Protocol No. 011-007"	"009"	"009-0004"	5	11	"Subsequent Cancer Therapy"	4141495003	3557132001	"mitoxantrone"	269	NA	1
+"45"	"DN-101 Protocol No. 011-007"	"009"	"009-0008"	5	11	"Subsequent Cancer Therapy"	3505650003	4162467001	"Taxotere"	86	NA	1
+"46"	"DN-101 Protocol No. 011-007"	"009"	"009-0008"	5	11	"Subsequent Cancer Therapy"	4162498003	4162467001	"Prednisone"	86	NA	1
+"47"	"DN-101 Protocol No. 011-007"	"009"	"009-0008"	5	11	"Subsequent Cancer Therapy"	4435469002	4162467001	"Casodex"	150	NA	1
+"48"	"DN-101 Protocol No. 011-007"	"009"	"009-0008"	5	11	"Subsequent Cancer Therapy"	4162498001	4162467001	"Mitoxantrone"	86	NA	1
+"49"	"DN-101 Protocol No. 011-007"	"009"	"009-0009"	5	11	"Subsequent Cancer Therapy"	3521082003	4162530001	"docetaxel"	96	117	1
+"50"	"DN-101 Protocol No. 011-007"	"009"	"009-0009"	5	11	"Subsequent Cancer Therapy"	4162530005	4162530001	"Prednisone"	96	NA	1
+"51"	"DN-101 Protocol No. 011-007"	"009"	"009-0010"	5	11	"Subsequent Cancer Therapy"	3978455003	4162591001	"Prednisone"	12	NA	1
+"52"	"DN-101 Protocol No. 011-007"	"009"	"009-0010"	5	11	"Subsequent Cancer Therapy"	4162591003	4162591001	"Taxotere"	12	NA	1
+"53"	"DN-101 Protocol No. 011-007"	"011"	"011-0002"	5	11	"Subsequent Cancer Therapy"	2844494003	3160579001	"Prednisone"	118	NA	1
+"54"	"DN-101 Protocol No. 011-007"	"011"	"011-0002"	5	11	"Subsequent Cancer Therapy"	3160579003	3160579001	"cytoxan"	118	176	1
+"55"	"DN-101 Protocol No. 011-007"	"013"	"013-0001"	5	11	"Subsequent Cancer Therapy"	3328260003	4342121001	"prednisone"	138	NA	1
+"56"	"DN-101 Protocol No. 011-007"	"013"	"013-0001"	5	11	"Subsequent Cancer Therapy"	4342121003	4342121001	"docetaxel"	158	NA	1
+"57"	"DN-101 Protocol No. 011-007"	"014"	"014-0001"	5	11	"Subsequent Cancer Therapy"	2624953003	3677934001	"prednisone"	377	NA	1
+"58"	"DN-101 Protocol No. 011-007"	"014"	"014-0001"	5	11	"Subsequent Cancer Therapy"	3677934003	3677934001	"Satraplatin"	378	NA	2
+"59"	"DN-101 Protocol No. 011-007"	"014"	"014-0002"	5	11	"Subsequent Cancer Therapy"	2840459003	3970137001	"satraplatin"	301	NA	2
+"60"	"DN-101 Protocol No. 011-007"	"014"	"014-0002"	5	11	"Subsequent Cancer Therapy"	3970137005	3970137001	"prednisone"	301	NA	1
+"61"	"DN-101 Protocol No. 011-007"	"014"	"014-0006"	5	11	"Subsequent Cancer Therapy"	3701392003	4304953001	"Prednisone"	84	NA	1
+"62"	"DN-101 Protocol No. 011-007"	"014"	"014-0006"	5	11	"Subsequent Cancer Therapy"	4305014001	4304953001	"Mitoxantrone"	84	NA	1
+"63"	"DN-101 Protocol No. 011-007"	"016"	"016-0001"	5	11	"Subsequent Cancer Therapy"	3188994003	4454476002	"Prednisone"	101	NA	1
+"64"	"DN-101 Protocol No. 011-007"	"016"	"016-0003"	5	11	"Subsequent Cancer Therapy"	3945329003	4459756002	"Taxotere"	34	NA	1
+"65"	"DN-101 Protocol No. 011-007"	"016"	"016-0003"	5	11	"Subsequent Cancer Therapy"	4459849002	4459756002	"prednisone"	34	NA	1
+"66"	"DN-101 Protocol No. 011-007"	"019"	"019-0001"	5	11	"Subsequent Cancer Therapy"	2752242003	3282630001	"Docetaxel"	409	NA	1
+"67"	"DN-101 Protocol No. 011-007"	"019"	"019-0001"	5	11	"Subsequent Cancer Therapy"	3282630003	3282630001	"Prednisone"	343	NA	1
+"68"	"DN-101 Protocol No. 011-007"	"019"	"019-0003"	5	11	"Subsequent Cancer Therapy"	2779287003	3306760001	"Prednisone"	218	386	1
+"69"	"DN-101 Protocol No. 011-007"	"019"	"019-0003"	5	11	"Subsequent Cancer Therapy"	4208219001	3306760001	"DES"	387	416	1
+"70"	"DN-101 Protocol No. 011-007"	"022"	"022-0002"	5	11	"Subsequent Cancer Therapy"	2658742003	3324820001	"perifosine"	274	432	2
+"71"	"DN-101 Protocol No. 011-007"	"022"	"022-0002"	5	11	"Subsequent Cancer Therapy"	3324820003	3324820001	"xeloda"	274	432	2
+"72"	"DN-101 Protocol No. 011-007"	"022"	"022-0004"	5	11	"Subsequent Cancer Therapy"	3529685003	4197700001	"taxotere"	90	NA	1
+"73"	"DN-101 Protocol No. 011-007"	"022"	"022-0004"	5	11	"Subsequent Cancer Therapy"	4197700005	4197700001	"prednisone"	89	NA	1
+"74"	"DN-101 Protocol No. 011-007"	"024"	"024-0006"	5	11	"Subsequent Cancer Therapy"	3397777003	4276323001	"Carboplatin"	155	NA	1
+"75"	"DN-101 Protocol No. 011-007"	"024"	"024-0006"	5	11	"Subsequent Cancer Therapy"	4276349001	4276323001	"Zometa"	134	NA	1
+"76"	"DN-101 Protocol No. 011-007"	"024"	"024-0006"	5	11	"Subsequent Cancer Therapy"	4276323003	4276323001	"Docetaxel"	134	NA	1
+"77"	"DN-101 Protocol No. 011-007"	"024"	"024-0009"	5	11	"Subsequent Cancer Therapy"	3723147003	4746519002	"Taxotere"	52	NA	1
+"78"	"DN-101 Protocol No. 011-007"	"025"	"025-0002"	5	11	"Subsequent Cancer Therapy"	2695940003	4336656001	"Prednisone"	222	451	1
+"79"	"DN-101 Protocol No. 011-007"	"027"	"027-0001"	5	11	"Subsequent Cancer Therapy"	2560687003	3385753001	"Prednisone"	554	NA	1
+"80"	"DN-101 Protocol No. 011-007"	"027"	"027-0001"	5	11	"Subsequent Cancer Therapy"	4713331002	3385753001	"Taxotere"	554	NA	1
+"81"	"DN-101 Protocol No. 011-007"	"030"	"030-0001"	5	11	"Subsequent Cancer Therapy"	2557593003	2624283001	"Novantrone"	304	347	1
+"82"	"DN-101 Protocol No. 011-007"	"030"	"030-0001"	5	11	"Subsequent Cancer Therapy"	4970510002	2624283001	"prednisone"	121	683	1
+"83"	"DN-101 Protocol No. 011-007"	"030"	"030-0001"	5	11	"Subsequent Cancer Therapy"	2624283003	2624283001	"Cytoxan"	121	283	1
+"84"	"DN-101 Protocol No. 011-007"	"030"	"030-0001"	5	11	"Subsequent Cancer Therapy"	3345858001	2624283001	"satraplatin"	459	588	2
+"85"	"DN-101 Protocol No. 011-007"	"030"	"030-0003"	5	11	"Subsequent Cancer Therapy"	2719549003	3284969001	"prednisone"	228	NA	1
+"86"	"DN-101 Protocol No. 011-007"	"030"	"030-0003"	5	11	"Subsequent Cancer Therapy"	3500904001	3284969001	"satraplatin"	303	NA	2
+"87"	"DN-101 Protocol No. 011-007"	"030"	"030-0005"	5	11	"Subsequent Cancer Therapy"	2888854003	3285079001	"taxotere"	301	NA	1
+"88"	"DN-101 Protocol No. 011-007"	"030"	"030-0005"	5	11	"Subsequent Cancer Therapy"	3285079003	3285079001	"prednisone"	328	NA	1
+"89"	"DN-101 Protocol No. 011-007"	"030"	"030-0009"	5	11	"Subsequent Cancer Therapy"	3109940003	4062954001	"docetaxel"	231	NA	1
+"90"	"DN-101 Protocol No. 011-007"	"030"	"030-0009"	5	11	"Subsequent Cancer Therapy"	4062954003	4062954001	"prednisone"	230	NA	1
+"91"	"DN-101 Protocol No. 011-007"	"030"	"030-0012"	5	11	"Subsequent Cancer Therapy"	3319814003	4062423001	"prednisone"	154	NA	1
+"92"	"DN-101 Protocol No. 011-007"	"030"	"030-0012"	5	11	"Subsequent Cancer Therapy"	4460290002	4062423001	"taxotere"	156	NA	1
+"93"	"DN-101 Protocol No. 011-007"	"030"	"030-0013"	5	11	"Subsequent Cancer Therapy"	3319854003	4219440001	"docetaxel"	161	NA	1
+"94"	"DN-101 Protocol No. 011-007"	"030"	"030-0013"	5	11	"Subsequent Cancer Therapy"	4219440003	4219440001	"prednisone"	153	NA	1
+"95"	"DN-101 Protocol No. 011-007"	"031"	"031-0001"	5	11	"Subsequent Cancer Therapy"	2536465003	3922716001	"Satraplatin"	455	506	2
+"96"	"DN-101 Protocol No. 011-007"	"031"	"031-0001"	5	11	"Subsequent Cancer Therapy"	3922716005	3922716001	"Radiation therapy to bone"	356	402	1
+"97"	"DN-101 Protocol No. 011-007"	"031"	"031-0001"	5	11	"Subsequent Cancer Therapy"	3922716003	3922716001	"Xeloda"	356	402	1
+"98"	"DN-101 Protocol No. 011-007"	"034"	"034-0001"	5	11	"Subsequent Cancer Therapy"	2663284003	2953248001	"Taxol"	90	NA	1
+"99"	"DN-101 Protocol No. 011-007"	"036"	"036-0003"	5	11	"Subsequent Cancer Therapy"	2951765003	4277889001	"Dexamethosone"	125	NA	1
+"100"	"DN-101 Protocol No. 011-007"	"036"	"036-0003"	5	11	"Subsequent Cancer Therapy"	4277889007	4277889001	"Radiation"	137	NA	1
+"101"	"DN-101 Protocol No. 011-007"	"036"	"036-0003"	5	11	"Subsequent Cancer Therapy"	4277889003	4277889001	"Prednisone"	95	223	1
+"102"	"DN-101 Protocol No. 011-007"	"037"	"037-0002"	5	11	"Subsequent Cancer Therapy"	3163250003	4150942001	"Docetaxel"	205	205	1
+"103"	"DN-101 Protocol No. 011-007"	"037"	"037-0003"	5	11	"Subsequent Cancer Therapy"	3404267003	3935465001	"Taxol"	98	NA	1
+"104"	"DN-101 Protocol No. 011-007"	"039"	"039-0001"	5	11	"Subsequent Cancer Therapy"	2609204003	3663317001	"tandutinib"	413	NA	2
+"105"	"DN-101 Protocol No. 011-007"	"039"	"039-0001"	5	11	"Subsequent Cancer Therapy"	5346847002	3663317001	"Prednisone"	197	NA	1
+"106"	"DN-101 Protocol No. 011-007"	"041"	"041-0001"	5	11	"Subsequent Cancer Therapy"	2559571003	2708130001	"mitoxantrone"	161	NA	1
+"107"	"DN-101 Protocol No. 011-007"	"041"	"041-0001"	5	11	"Subsequent Cancer Therapy"	2708130003	2708130001	"Suberoylanilide Hydroxamic Acid"	131	161	2
+"108"	"DN-101 Protocol No. 011-007"	"041"	"041-0005"	5	11	"Subsequent Cancer Therapy"	2576896003	3385506001	"paclitaxel"	439	NA	1
+"109"	"DN-101 Protocol No. 011-007"	"041"	"041-0005"	5	11	"Subsequent Cancer Therapy"	3385506003	3385506001	"Abiraterone Acetate"	338	425	2
+"110"	"DN-101 Protocol No. 011-007"	"041"	"041-0005"	5	11	"Subsequent Cancer Therapy"	5102421002	3385506001	"carboplatin"	439	NA	1
+"111"	"DN-101 Protocol No. 011-007"	"041"	"041-0006"	5	11	"Subsequent Cancer Therapy"	2576905003	4066543001	"Docetaxel"	546	NA	1
+"112"	"DN-101 Protocol No. 011-007"	"041"	"041-0006"	5	11	"Subsequent Cancer Therapy"	4066543003	4066543001	"prednisone"	496	NA	1
+"113"	"DN-101 Protocol No. 011-007"	"041"	"041-0009"	5	11	"Subsequent Cancer Therapy"	2650456003	4103019001	"MDV3100"	441	NA	2
+"114"	"DN-101 Protocol No. 011-007"	"041"	"041-0010"	5	11	"Subsequent Cancer Therapy"	2728478003	4103355001	"Abiraterone"	364	435	2
+"115"	"DN-101 Protocol No. 011-007"	"041"	"041-0010"	5	11	"Subsequent Cancer Therapy"	5198775002	4103355001	"Predinsone"	435	NA	1
+"116"	"DN-101 Protocol No. 011-007"	"041"	"041-0011"	5	11	"Subsequent Cancer Therapy"	2741939003	3741316001	"radiation to t6-t8, inclusive"	253	267	1
+"117"	"DN-101 Protocol No. 011-007"	"041"	"041-0011"	5	11	"Subsequent Cancer Therapy"	3741316003	3741316001	"radiation to sacrum"	272	283	1
+"118"	"DN-101 Protocol No. 011-007"	"041"	"041-0011"	5	11	"Subsequent Cancer Therapy"	5226570002	3741316001	"Investigational interferon vaccine"	281	281	2
+"119"	"DN-101 Protocol No. 011-007"	"041"	"041-0013"	5	11	"Subsequent Cancer Therapy"	2756487003	5038647002	"Abiraterone"	227	498	2
+"120"	"DN-101 Protocol No. 011-007"	"041"	"041-0018"	5	11	"Subsequent Cancer Therapy"	2870728003	4882190002	"Prednisone"	171	NA	1
+"121"	"DN-101 Protocol No. 011-007"	"041"	"041-0018"	5	11	"Subsequent Cancer Therapy"	4882190004	4882190002	"CB7630 Abiraterone Acetate"	157	NA	2
+"122"	"DN-101 Protocol No. 011-007"	"041"	"041-0022"	5	11	"Subsequent Cancer Therapy"	2965027003	4518132002	"abiraterone acetate"	251	NA	2
+"123"	"DN-101 Protocol No. 011-007"	"041"	"041-0024"	5	11	"Subsequent Cancer Therapy"	2992343003	4599679002	"abiraterone acetate"	217	NA	2
+"124"	"DN-101 Protocol No. 011-007"	"041"	"041-0025"	5	11	"Subsequent Cancer Therapy"	3009149003	4717430002	"abiraterone acetate"	102	186	2
+"125"	"DN-101 Protocol No. 011-007"	"041"	"041-0025"	5	11	"Subsequent Cancer Therapy"	5200451002	4717430002	"mitoxantrone"	200	242	1
+"126"	"DN-101 Protocol No. 011-007"	"041"	"041-0035"	5	11	"Subsequent Cancer Therapy"	3350005003	4730709002	"Docetaxel"	144	144	1
+"127"	"DN-101 Protocol No. 011-007"	"041"	"041-0035"	5	11	"Subsequent Cancer Therapy"	5100747002	4730709002	"prednisone"	144	NA	1
+"128"	"DN-101 Protocol No. 011-007"	"041"	"041-0036"	5	11	"Subsequent Cancer Therapy"	3437278003	4595713002	"Prednisone"	112	NA	1
+"129"	"DN-101 Protocol No. 011-007"	"041"	"041-0036"	5	11	"Subsequent Cancer Therapy"	4595713004	4595713002	"Docetaxel"	112	112	1
+"130"	"DN-101 Protocol No. 011-007"	"041"	"041-0037"	5	11	"Subsequent Cancer Therapy"	3461994003	4633451002	"Docetaxel"	119	NA	1
+"131"	"DN-101 Protocol No. 011-007"	"041"	"041-0037"	5	11	"Subsequent Cancer Therapy"	4906484002	4633451002	"Prednisone"	119	NA	1
+"132"	"DN-101 Protocol No. 011-007"	"041"	"041-0038"	5	11	"Subsequent Cancer Therapy"	3497244003	4683730002	"Docetaxel"	133	NA	1
+"133"	"DN-101 Protocol No. 011-007"	"041"	"041-0039"	5	11	"Subsequent Cancer Therapy"	3740893003	4687923002	"MDX-010"	102	NA	2
+"134"	"DN-101 Protocol No. 011-007"	"041"	"041-0039"	5	11	"Subsequent Cancer Therapy"	4687923004	4687923002	"Docetaxel"	51	72	1
+"135"	"DN-101 Protocol No. 011-007"	"043"	"043-0003"	5	11	"Subsequent Cancer Therapy"	2582405003	3870504001	"Mitoxantrone"	478	NA	1
+"136"	"DN-101 Protocol No. 011-007"	"043"	"043-0004"	5	11	"Subsequent Cancer Therapy"	2585220003	3873775001	"Methotrexate"	371	466	1
+"137"	"DN-101 Protocol No. 011-007"	"043"	"043-0010"	5	11	"Subsequent Cancer Therapy"	3804718003	4135688001	"Docetaxel"	61	NA	1
+"138"	"DN-101 Protocol No. 011-007"	"043"	"043-0010"	5	11	"Subsequent Cancer Therapy"	4135727001	4135688001	"Prednisone"	61	NA	1
+"139"	"DN-101 Protocol No. 011-007"	"044"	"044-0001"	5	11	"Subsequent Cancer Therapy"	2963408003	4731897002	"Docetaxel"	287	NA	1
+"140"	"DN-101 Protocol No. 011-007"	"044"	"044-0001"	5	11	"Subsequent Cancer Therapy"	4731897006	4731897002	"Prednisone"	286	NA	1
+"141"	"DN-101 Protocol No. 011-007"	"045"	"045-0001"	5	11	"Subsequent Cancer Therapy"	2590563003	4843772002	"Prednisone"	219	NA	1
+"142"	"DN-101 Protocol No. 011-007"	"047"	"047-0001"	5	11	"Subsequent Cancer Therapy"	2572447003	3064272001	"Prednisone"	214	498	1
+"143"	"DN-101 Protocol No. 011-007"	"049"	"049-0002"	5	11	"Subsequent Cancer Therapy"	2580267003	4832925002	"Prednisone"	224	NA	1
+"144"	"DN-101 Protocol No. 011-007"	"049"	"049-0003"	5	11	"Subsequent Cancer Therapy"	2594920003	3874400001	"cytoxan"	482	NA	1
+"145"	"DN-101 Protocol No. 011-007"	"049"	"049-0003"	5	11	"Subsequent Cancer Therapy"	5433150002	3874400001	"ketoconazole"	503	NA	1
+"146"	"DN-101 Protocol No. 011-007"	"050"	"050-0004"	5	11	"Subsequent Cancer Therapy"	2647488003	3154543001	"Mitoxantrone"	183	227	1
+"147"	"DN-101 Protocol No. 011-007"	"050"	"050-0004"	5	11	"Subsequent Cancer Therapy"	5330128002	3154543001	"Paclitaxol"	392	NA	2
+"148"	"DN-101 Protocol No. 011-007"	"050"	"050-0004"	5	11	"Subsequent Cancer Therapy"	3196751001	3154543001	"Taxotere"	258	356	1
+"149"	"DN-101 Protocol No. 011-007"	"050"	"050-0004"	5	11	"Subsequent Cancer Therapy"	3730520001	3154543001	"Estrogen patch"	392	NA	2
+"150"	"DN-101 Protocol No. 011-007"	"050"	"050-0006"	5	11	"Subsequent Cancer Therapy"	2685007003	3510185001	"Taxotere"	376	NA	1
+"151"	"DN-101 Protocol No. 011-007"	"050"	"050-0006"	5	11	"Subsequent Cancer Therapy"	4379471003	3510185001	"Predisone"	376	NA	1
+"152"	"DN-101 Protocol No. 011-007"	"050"	"050-0006"	5	11	"Subsequent Cancer Therapy"	3510185003	3510185001	"Transdermal estradiol"	279	370	2
+"153"	"DN-101 Protocol No. 011-007"	"050"	"050-0006"	5	11	"Subsequent Cancer Therapy"	5086749002	3510185001	"Zyotax"	279	370	2
+"154"	"DN-101 Protocol No. 011-007"	"050"	"050-0007"	5	11	"Subsequent Cancer Therapy"	2693767003	3924730001	"DES"	276	430	1
+"155"	"DN-101 Protocol No. 011-007"	"050"	"050-0007"	5	11	"Subsequent Cancer Therapy"	3924730005	3924730001	"Avodart"	276	430	1
+"156"	"DN-101 Protocol No. 011-007"	"050"	"050-0007"	5	11	"Subsequent Cancer Therapy"	4727446002	3924730001	"Docetaxel"	435	NA	1
+"157"	"DN-101 Protocol No. 011-007"	"050"	"050-0012"	5	11	"Subsequent Cancer Therapy"	3248625003	4702285002	"Zolodex"	150	NA	1
+"158"	"DN-101 Protocol No. 011-007"	"051"	"051-0001"	5	11	"Subsequent Cancer Therapy"	2798245003	3704495001	"ketaconazole"	257	298	1
+"159"	"DN-101 Protocol No. 011-007"	"051"	"051-0001"	5	11	"Subsequent Cancer Therapy"	4847998002	3704495001	"ketaconazole"	362	NA	1
+"160"	"DN-101 Protocol No. 011-007"	"051"	"051-0001"	5	11	"Subsequent Cancer Therapy"	5115301002	3704495001	"Prednisone"	216	222	1
+"161"	"DN-101 Protocol No. 011-007"	"051"	"051-0001"	5	11	"Subsequent Cancer Therapy"	3704495005	3704495001	"hydrocortisone"	257	NA	1
+"162"	"DN-101 Protocol No. 011-007"	"052"	"052-0001"	5	11	"Subsequent Cancer Therapy"	2554263003	3102599001	"Sunitinib"	372	399	2
+"163"	"DN-101 Protocol No. 011-007"	"052"	"052-0001"	5	11	"Subsequent Cancer Therapy"	3102619001	3102599001	"Carboplatin"	235	340	1
+"164"	"DN-101 Protocol No. 011-007"	"052"	"052-0001"	5	11	"Subsequent Cancer Therapy"	3102599003	3102599001	"Taxol"	235	340	1
+"165"	"DN-101 Protocol No. 011-007"	"053"	"053-0001"	5	11	"Subsequent Cancer Therapy"	2548656003	4390680002	"Sutent"	575	NA	2
+"166"	"DN-101 Protocol No. 011-007"	"053"	"053-0002"	5	11	"Subsequent Cancer Therapy"	2595732003	4390708002	"Prednisone"	225	294	1
+"167"	"DN-101 Protocol No. 011-007"	"056"	"056-0003"	5	11	"Subsequent Cancer Therapy"	2830738003	3589925001	"Satraplatin"	262	NA	2
+"168"	"DN-101 Protocol No. 011-007"	"056"	"056-0003"	5	11	"Subsequent Cancer Therapy"	5050372002	3589925001	"prednisone"	262	NA	1
+"169"	"DN-101 Protocol No. 011-007"	"056"	"056-0004"	5	11	"Subsequent Cancer Therapy"	2889388003	3284380001	"Zometa"	112	NA	1
+"170"	"DN-101 Protocol No. 011-007"	"056"	"056-0004"	5	11	"Subsequent Cancer Therapy"	3284411001	3284380001	"Carboplatin"	112	NA	1
+"171"	"DN-101 Protocol No. 011-007"	"056"	"056-0004"	5	11	"Subsequent Cancer Therapy"	3284380003	3284380001	"Taxol"	112	NA	1
+"172"	"DN-101 Protocol No. 011-007"	"059"	"059-0002"	5	11	"Subsequent Cancer Therapy"	2906857003	4161455001	"prednisone"	228	NA	1
+"173"	"DN-101 Protocol No. 011-007"	"059"	"059-0002"	5	11	"Subsequent Cancer Therapy"	5035811002	4161455001	"DOCETAXEL"	299	NA	1
+"174"	"DN-101 Protocol No. 011-007"	"060"	"060-0001"	5	11	"Subsequent Cancer Therapy"	3239648003	3671704001	"Prednisone"	105	182	1
+"175"	"DN-101 Protocol No. 011-007"	"060"	"060-0001"	5	11	"Subsequent Cancer Therapy"	3671704003	3671704001	"Mitoxantrone"	104	126	1
+"176"	"DN-101 Protocol No. 011-007"	"060"	"060-0001"	5	11	"Subsequent Cancer Therapy"	5112421002	3671704001	"Radiation"	217	NA	1
+"177"	"DN-101 Protocol No. 011-007"	"060"	"060-0001"	5	11	"Subsequent Cancer Therapy"	5112389002	3671704001	"Hydrocortisone"	182	214	1
+"178"	"DN-101 Protocol No. 011-007"	"060"	"060-0001"	5	11	"Subsequent Cancer Therapy"	4103621001	3671704001	"Samarium"	152	152	1
+"179"	"DN-101 Protocol No. 011-007"	"060"	"060-0001"	5	11	"Subsequent Cancer Therapy"	5112299002	3671704001	"Ketoconazole"	182	212	1
+"180"	"DN-101 Protocol No. 011-007"	"061"	"061-0003"	5	11	"Subsequent Cancer Therapy"	2645852003	3615501001	"mitoxantrone"	446	NA	1
+"181"	"DN-101 Protocol No. 011-007"	"061"	"061-0003"	5	11	"Subsequent Cancer Therapy"	4200963001	3615501001	"prednisone"	446	NA	1
+"182"	"DN-101 Protocol No. 011-007"	"061"	"061-0003"	5	11	"Subsequent Cancer Therapy"	4199157001	3615501001	"zometa"	362	NA	1
+"183"	"DN-101 Protocol No. 011-007"	"061"	"061-0004"	5	11	"Subsequent Cancer Therapy"	2741544003	3077081001	"Taxol"	176	290	1
+"184"	"DN-101 Protocol No. 011-007"	"061"	"061-0004"	5	11	"Subsequent Cancer Therapy"	4305399003	3077081001	"novantrone"	395	NA	1
+"185"	"DN-101 Protocol No. 011-007"	"061"	"061-0004"	5	11	"Subsequent Cancer Therapy"	4305399001	3077081001	"prednisone"	395	NA	1
+"186"	"DN-101 Protocol No. 011-007"	"061"	"061-0004"	5	11	"Subsequent Cancer Therapy"	3077081003	3077081001	"Carboplatin"	176	290	1
+"187"	"DN-101 Protocol No. 011-007"	"061"	"061-0005"	5	11	"Subsequent Cancer Therapy"	3336013003	4201527001	"MITOXANTRONE"	154	NA	1
+"188"	"DN-101 Protocol No. 011-007"	"062"	"062-0006"	5	11	"Subsequent Cancer Therapy"	3522366003	4109329001	"Docetaxel"	91	NA	1
+"189"	"DN-101 Protocol No. 011-007"	"063"	"063-0004"	5	11	"Subsequent Cancer Therapy"	3008117003	3843657001	"Antisense Oligonucleotide"	190	NA	2
+"190"	"DN-101 Protocol No. 011-007"	"063"	"063-0005"	5	11	"Subsequent Cancer Therapy"	3018139003	4587396002	"Prednisone"	212	NA	1
+"191"	"DN-101 Protocol No. 011-007"	"063"	"063-0006"	5	11	"Subsequent Cancer Therapy"	3145075003	3612035001	"ANTISENSE OLIGONUCLEOTIDE"	106	NA	2
+"192"	"DN-101 Protocol No. 011-007"	"063"	"063-0007"	5	11	"Subsequent Cancer Therapy"	3369188003	4623589002	"Prednisone"	133	NA	1
+"193"	"DN-101 Protocol No. 011-007"	"063"	"063-0010"	5	11	"Subsequent Cancer Therapy"	3782847003	4613854002	"Docetaxel"	49	NA	1
+"194"	"DN-101 Protocol No. 011-007"	"063"	"063-0010"	5	11	"Subsequent Cancer Therapy"	4613854004	4613854002	"Prednisone"	49	NA	1
+"195"	"DN-101 Protocol No. 011-007"	"063"	"063-0012"	5	11	"Subsequent Cancer Therapy"	3832432003	4817569002	"Docetaxel"	44	NA	1
+"196"	"DN-101 Protocol No. 011-007"	"063"	"063-0012"	5	11	"Subsequent Cancer Therapy"	4817569004	4817569002	"Prednisone"	44	NA	1
+"197"	"DN-101 Protocol No. 011-007"	"064"	"064-0004"	5	11	"Subsequent Cancer Therapy"	3422958003	4274290001	"Docetaxel"	161	NA	1
+"198"	"DN-101 Protocol No. 011-007"	"064"	"064-0004"	5	11	"Subsequent Cancer Therapy"	4611555002	4274290001	"Prednisone"	161	NA	1
+"199"	"DN-101 Protocol No. 011-007"	"065"	"065-0001"	5	11	"Subsequent Cancer Therapy"	2563389003	4298075001	"Radiation to spine T1-T6 3000cGy over 10 fractions"	377	388	1
+"200"	"DN-101 Protocol No. 011-007"	"065"	"065-0001"	5	11	"Subsequent Cancer Therapy"	5163638002	4298075001	"Prednisone"	213	530	1
+"201"	"DN-101 Protocol No. 011-007"	"066"	"066-0001"	5	11	"Subsequent Cancer Therapy"	2855324003	3370569001	"Taxotere"	56	NA	1
+"202"	"DN-101 Protocol No. 011-007"	"067"	"067-0001"	5	11	"Subsequent Cancer Therapy"	2556619003	3236873001	"Mitoxantrone"	100	197	1
+"203"	"DN-101 Protocol No. 011-007"	"068"	"068-0006"	5	11	"Subsequent Cancer Therapy"	3177863003	4493033002	"prednisone"	187	NA	1
+"204"	"DN-101 Protocol No. 011-007"	"068"	"068-0006"	5	11	"Subsequent Cancer Therapy"	4493033004	4493033002	"taxotere"	200	NA	1
+"205"	"DN-101 Protocol No. 011-007"	"069"	"069-0001"	5	11	"Subsequent Cancer Therapy"	2768806003	5428604002	"Prednisone"	265	NA	1
+"206"	"DN-101 Protocol No. 011-007"	"069"	"069-0002"	5	11	"Subsequent Cancer Therapy"	2871140003	3212714001	"Prednisone"	91	NA	1
+"207"	"DN-101 Protocol No. 011-007"	"069"	"069-0002"	5	11	"Subsequent Cancer Therapy"	3212714003	3212714001	"Mitoxantrone"	114	258	1
+"208"	"DN-101 Protocol No. 011-007"	"069"	"069-0004"	5	11	"Subsequent Cancer Therapy"	3372322003	4404452002	"Docetaxel"	151	NA	1
+"209"	"DN-101 Protocol No. 011-007"	"069"	"069-0004"	5	11	"Subsequent Cancer Therapy"	4404452006	4404452002	"Prednisone"	151	NA	1
+"210"	"DN-101 Protocol No. 011-007"	"069"	"069-0006"	5	11	"Subsequent Cancer Therapy"	3580256003	4461626002	"docetaxel"	98	NA	1
+"211"	"DN-101 Protocol No. 011-007"	"069"	"069-0006"	5	11	"Subsequent Cancer Therapy"	4461626006	4461626002	"predinsone"	85	NA	1
+"212"	"DN-101 Protocol No. 011-007"	"069"	"069-0007"	5	11	"Subsequent Cancer Therapy"	3913059003	4207415001	"predisone"	30	NA	1
+"213"	"DN-101 Protocol No. 011-007"	"069"	"069-0007"	5	11	"Subsequent Cancer Therapy"	4395471002	4207415001	"docetaxel"	30	NA	1
+"214"	"DN-101 Protocol No. 011-007"	"071"	"071-0003"	5	11	"Subsequent Cancer Therapy"	2754585003	4481475002	"Prednisone"	238	288	1
+"215"	"DN-101 Protocol No. 011-007"	"071"	"071-0003"	5	11	"Subsequent Cancer Therapy"	4481475004	4481475002	"Mitoxantrone"	421	NA	1
+"216"	"DN-101 Protocol No. 011-007"	"071"	"071-0004"	5	11	"Subsequent Cancer Therapy"	2787996003	3811720001	"Halichondrin B"	181	230	2
+"217"	"DN-101 Protocol No. 011-007"	"071"	"071-0004"	5	11	"Subsequent Cancer Therapy"	5182960002	3811720001	"Prednisone"	84	154	1
+"218"	"DN-101 Protocol No. 011-007"	"071"	"071-0009"	5	11	"Subsequent Cancer Therapy"	3173495003	4343467001	"Prednisone"	201	235	1
+"219"	"DN-101 Protocol No. 011-007"	"071"	"071-0009"	5	11	"Subsequent Cancer Therapy"	4343467003	4343467001	"Docetaxel"	201	201	1
+"220"	"DN-101 Protocol No. 011-007"	"071"	"071-0010"	5	11	"Subsequent Cancer Therapy"	3307032003	4200934001	"Docetaxel"	157	201	1
+"221"	"DN-101 Protocol No. 011-007"	"071"	"071-0010"	5	11	"Subsequent Cancer Therapy"	4346400001	4200934001	"Prednisone"	157	202	1
+"222"	"DN-101 Protocol No. 011-007"	"071"	"071-0011"	5	11	"Subsequent Cancer Therapy"	3569427003	4348863001	"Taxotere"	97	97	1
+"223"	"DN-101 Protocol No. 011-007"	"071"	"071-0011"	5	11	"Subsequent Cancer Therapy"	4348863005	4348863001	"Prednisone"	97	125	1
+"224"	"DN-101 Protocol No. 011-007"	"072"	"072-0002"	5	11	"Subsequent Cancer Therapy"	2679177003	4514760002	"Nexavar"	389	NA	2
+"225"	"DN-101 Protocol No. 011-007"	"072"	"072-0002"	5	11	"Subsequent Cancer Therapy"	4514803002	4514760002	"Mitozantrone"	389	NA	2
+"226"	"DN-101 Protocol No. 011-007"	"072"	"072-0007"	5	11	"Subsequent Cancer Therapy"	3794090003	4480153002	"Prednisone"	57	NA	1
+"227"	"DN-101 Protocol No. 011-007"	"072"	"072-0007"	5	11	"Subsequent Cancer Therapy"	4480153004	4480153002	"Taxotere"	57	NA	1
+"228"	"DN-101 Protocol No. 011-007"	"074"	"074-0001"	5	11	"Subsequent Cancer Therapy"	2615046003	4065765001	"Taxotere"	541	630	1
+"229"	"DN-101 Protocol No. 011-007"	"074"	"074-0001"	5	11	"Subsequent Cancer Therapy"	5160178002	4065765001	"prednisone"	248	NA	1
+"230"	"DN-101 Protocol No. 011-007"	"077"	"077-0001"	5	11	"Subsequent Cancer Therapy"	3326202003	4575338002	"Docetaxel"	153	153	1
+"231"	"DN-101 Protocol No. 011-007"	"077"	"077-0001"	5	11	"Subsequent Cancer Therapy"	4575338006	4575338002	"Prednisone"	153	NA	1
+"232"	"DN-101 Protocol No. 011-007"	"077"	"077-0002"	5	11	"Subsequent Cancer Therapy"	3452972003	4588956002	"Docetaxel"	108	NA	1
+"233"	"DN-101 Protocol No. 011-007"	"077"	"077-0002"	5	11	"Subsequent Cancer Therapy"	4588956006	4588956002	"Prednisone"	108	NA	1
+"234"	"DN-101 Protocol No. 011-007"	"077"	"077-0003"	5	11	"Subsequent Cancer Therapy"	3545315003	4593500002	"Prednisone"	110	NA	1
+"235"	"DN-101 Protocol No. 011-007"	"077"	"077-0003"	5	11	"Subsequent Cancer Therapy"	4593500004	4593500002	"Docetaxel"	110	NA	1
+"236"	"DN-101 Protocol No. 011-007"	"078"	"078-0001"	5	11	"Subsequent Cancer Therapy"	3023528003	4386386001	"Prednisone"	238	275	1
+"237"	"DN-101 Protocol No. 011-007"	"081"	"081-0002"	5	11	"Subsequent Cancer Therapy"	2634760003	3553943001	"Mitoxantrone"	470	NA	1
+"238"	"DN-101 Protocol No. 011-007"	"081"	"081-0002"	5	11	"Subsequent Cancer Therapy"	4103267005	3553943001	"Prednisone"	470	NA	1
+"239"	"DN-101 Protocol No. 011-007"	"081"	"081-0002"	5	11	"Subsequent Cancer Therapy"	4103267001	3553943001	"Sorafenib"	470	NA	2
+"240"	"DN-101 Protocol No. 011-007"	"081"	"081-0004"	5	11	"Subsequent Cancer Therapy"	2658044003	3110940001	"Sorafenib"	245	287	2
+"241"	"DN-101 Protocol No. 011-007"	"081"	"081-0004"	5	11	"Subsequent Cancer Therapy"	3110940005	3110940001	"Prednisone"	245	NA	1
+"242"	"DN-101 Protocol No. 011-007"	"081"	"081-0004"	5	11	"Subsequent Cancer Therapy"	3110940003	3110940001	"Mitoxantrone"	245	287	2
+"243"	"DN-101 Protocol No. 011-007"	"082"	"082-0001"	5	11	"Subsequent Cancer Therapy"	2609735003	4278806001	"docetaxel"	512	NA	1
+"244"	"DN-101 Protocol No. 011-007"	"084"	"084-0001"	5	11	"Subsequent Cancer Therapy"	2843463003	3716156001	"XRP-6258"	198	345	2
+"245"	"DN-101 Protocol No. 011-007"	"084"	"084-0001"	5	11	"Subsequent Cancer Therapy"	4545612002	3716156001	"prednisone"	191	NA	1
+"246"	"DN-101 Protocol No. 011-007"	"086"	"086-0001"	5	11	"Subsequent Cancer Therapy"	2602318003	4118184001	"prednisone"	224	NA	1
+"247"	"DN-101 Protocol No. 011-007"	"086"	"086-0001"	5	11	"Subsequent Cancer Therapy"	4118184003	4118184001	"Radiation"	476	476	1
+"248"	"DN-101 Protocol No. 011-007"	"086"	"086-0002"	5	11	"Subsequent Cancer Therapy"	3505293003	4355124001	"Prednisone"	111	NA	1
+"249"	"DN-101 Protocol No. 011-007"	"086"	"086-0002"	5	11	"Subsequent Cancer Therapy"	4355138001	4355124001	"Docetaxel"	111	NA	1
+"250"	"DN-101 Protocol No. 011-007"	"086"	"086-0004"	5	11	"Subsequent Cancer Therapy"	3532577003	4360433001	"Docetaxel"	86	NA	1
+"251"	"DN-101 Protocol No. 011-007"	"086"	"086-0004"	5	11	"Subsequent Cancer Therapy"	4360433003	4360433001	"Prednisone"	86	NA	1
+"252"	"DN-101 Protocol No. 011-007"	"087"	"087-0001"	5	11	"Subsequent Cancer Therapy"	2568036003	4572404002	"novantrone"	581	NA	1
+"253"	"DN-101 Protocol No. 011-007"	"089"	"089-0002"	5	11	"Subsequent Cancer Therapy"	3035551003	3664348001	"Tapestry TPI 287-04 \"taxane\""	145	208	2
+"254"	"DN-101 Protocol No. 011-007"	"089"	"089-0002"	5	11	"Subsequent Cancer Therapy"	4330946001	3664348001	"Gefitinib"	220	269	1
+"255"	"DN-101 Protocol No. 011-007"	"089"	"089-0004"	5	11	"Subsequent Cancer Therapy"	3274834003	4291416001	"Docetaxel"	152	NA	1
+"256"	"DN-101 Protocol No. 011-007"	"089"	"089-0004"	5	11	"Subsequent Cancer Therapy"	4336134001	4291416001	"Prednisone"	152	NA	1
+"257"	"DN-101 Protocol No. 011-007"	"092"	"092-0001"	5	11	"Subsequent Cancer Therapy"	2791412003	4659181002	"Docetaxel"	416	NA	1
+"258"	"DN-101 Protocol No. 011-007"	"092"	"092-0001"	5	11	"Subsequent Cancer Therapy"	4779897002	4659181002	"Prednisone"	416	NA	1
+"259"	"DN-101 Protocol No. 011-007"	"092"	"092-0002"	5	11	"Subsequent Cancer Therapy"	2925109003	4728868002	"OGX-011"	227	NA	2
+"260"	"DN-101 Protocol No. 011-007"	"092"	"092-0002"	5	11	"Subsequent Cancer Therapy"	4728868006	4728868002	"Prednisone"	227	NA	1
+"261"	"DN-101 Protocol No. 011-007"	"092"	"092-0004"	5	11	"Subsequent Cancer Therapy"	3513841003	4732809002	"Prednisone"	105	NA	1
+"262"	"DN-101 Protocol No. 011-007"	"092"	"092-0004"	5	11	"Subsequent Cancer Therapy"	4732809004	4732809002	"Docetaxel"	105	NA	1
+"263"	"DN-101 Protocol No. 011-007"	"093"	"093-0003"	5	11	"Subsequent Cancer Therapy"	2788383003	4609013002	"Docetaxel"	354	354	1
+"264"	"DN-101 Protocol No. 011-007"	"094"	"094-0003"	5	11	"Subsequent Cancer Therapy"	3466788003	4866388002	"Estramustine"	98	131	1
+"265"	"DN-101 Protocol No. 011-007"	"097"	"097-0001"	5	11	"Subsequent Cancer Therapy"	2653653003	4143774001	"casodex"	486	NA	1
+"266"	"DN-101 Protocol No. 011-007"	"097"	"097-0003"	5	11	"Subsequent Cancer Therapy"	2902679003	3657599001	"docetaxel"	328	NA	1
+"267"	"DN-101 Protocol No. 011-007"	"097"	"097-0003"	5	11	"Subsequent Cancer Therapy"	4712252004	3657599001	"aredia"	328	NA	1
+"268"	"DN-101 Protocol No. 011-007"	"097"	"097-0003"	5	11	"Subsequent Cancer Therapy"	3657599003	3657599001	"Prednisone"	206	NA	1
+"269"	"DN-101 Protocol No. 011-007"	"098"	"098-0001"	5	11	"Subsequent Cancer Therapy"	2894099003	4901247002	"Velban"	308	308	1
+"270"	"DN-101 Protocol No. 011-007"	"098"	"098-0001"	5	11	"Subsequent Cancer Therapy"	4901346008	4901247002	"Navelbine"	379	379	1
+"271"	"DN-101 Protocol No. 011-007"	"098"	"098-0001"	5	11	"Subsequent Cancer Therapy"	4901346006	4901247002	"Navelbine"	372	372	1
+"272"	"DN-101 Protocol No. 011-007"	"098"	"098-0001"	5	11	"Subsequent Cancer Therapy"	4901254010	4901247002	"Velban"	317	317	1
+"273"	"DN-101 Protocol No. 011-007"	"098"	"098-0001"	5	11	"Subsequent Cancer Therapy"	4901254004	4901247002	"Velban"	296	296	1
+"274"	"DN-101 Protocol No. 011-007"	"098"	"098-0001"	5	11	"Subsequent Cancer Therapy"	4901254002	4901247002	"Velban"	289	289	1
+"275"	"DN-101 Protocol No. 011-007"	"098"	"098-0001"	5	11	"Subsequent Cancer Therapy"	4901247004	4901247002	"Prednisone"	177	NA	1
+"276"	"DN-101 Protocol No. 011-007"	"098"	"098-0001"	5	11	"Subsequent Cancer Therapy"	4901346004	4901247002	"Navelbine"	365	365	1
+"277"	"DN-101 Protocol No. 011-007"	"098"	"098-0001"	5	11	"Subsequent Cancer Therapy"	4901346002	4901247002	"Navelbine"	358	358	1
+"278"	"DN-101 Protocol No. 011-007"	"098"	"098-0001"	5	11	"Subsequent Cancer Therapy"	4901254006	4901247002	"Velban"	303	303	1
+"279"	"DN-101 Protocol No. 011-007"	"098"	"098-0001"	5	11	"Subsequent Cancer Therapy"	4901254012	4901247002	"Velban"	324	324	1
+"280"	"DN-101 Protocol No. 011-007"	"104"	"104-0002"	5	11	"Subsequent Cancer Therapy"	2707732003	4837358002	"PREDNISONE"	479	NA	1
+"281"	"DN-101 Protocol No. 011-007"	"104"	"104-0003"	5	11	"Subsequent Cancer Therapy"	2901577003	4832993002	"PREDNISONE"	134	NA	2
+"282"	"DN-101 Protocol No. 011-007"	"104"	"104-0003"	5	11	"Subsequent Cancer Therapy"	4832993004	4832993002	"SATRAPLATIN"	134	NA	2
+"283"	"DN-101 Protocol No. 011-007"	"104"	"104-0005"	5	11	"Subsequent Cancer Therapy"	3426370003	4515597002	"Docetaxel"	135	NA	1
+"284"	"DN-101 Protocol No. 011-007"	"104"	"104-0005"	5	11	"Subsequent Cancer Therapy"	4820115002	4515597002	"Prednisone"	135	NA	2
+"285"	"DN-101 Protocol No. 011-007"	"104"	"104-0007"	5	11	"Subsequent Cancer Therapy"	3449357003	4587851002	"DOCETAXEL"	112	NA	1
+"286"	"DN-101 Protocol No. 011-007"	"104"	"104-0007"	5	11	"Subsequent Cancer Therapy"	4740714002	4587851002	"PREDNISONE"	112	NA	1
+"287"	"DN-101 Protocol No. 011-007"	"104"	"104-0008"	5	11	"Subsequent Cancer Therapy"	3672710003	4586704002	"DOCETAXOL"	70	NA	1
+"288"	"DN-101 Protocol No. 011-007"	"104"	"104-0008"	5	11	"Subsequent Cancer Therapy"	4586752002	4586704002	"PREDNISONE"	70	NA	1
+"289"	"DN-101 Protocol No. 011-007"	"106"	"106-0002"	5	11	"Subsequent Cancer Therapy"	3095956003	4164466001	"prednisone"	210	221	1
+"290"	"DN-101 Protocol No. 011-007"	"106"	"106-0002"	5	11	"Subsequent Cancer Therapy"	4164466005	4164466001	"docetaxel"	210	210	1
+"291"	"DN-101 Protocol No. 011-007"	"106"	"106-0003"	5	11	"Subsequent Cancer Therapy"	3276986003	4126086001	"Decadron"	108	164	1
+"292"	"DN-101 Protocol No. 011-007"	"106"	"106-0003"	5	11	"Subsequent Cancer Therapy"	4126086003	4126086001	"Ketoconazaole"	108	164	1
+"293"	"DN-101 Protocol No. 011-007"	"108"	"108-0004"	5	11	"Subsequent Cancer Therapy"	3248857003	4236294001	"Taxotere"	174	174	1
+"294"	"DN-101 Protocol No. 011-007"	"108"	"108-0004"	5	11	"Subsequent Cancer Therapy"	4236294003	4236294001	"Prednisone"	174	NA	1
+"295"	"DN-101 Protocol No. 011-007"	"108"	"108-0005"	5	11	"Subsequent Cancer Therapy"	3301404003	4228931001	"prednisone"	154	NA	2
+"296"	"DN-101 Protocol No. 011-007"	"108"	"108-0005"	5	11	"Subsequent Cancer Therapy"	4228994001	4228931001	"Taxotere"	154	NA	1
+"297"	"DN-101 Protocol No. 011-007"	"108"	"108-0006"	5	11	"Subsequent Cancer Therapy"	3748104003	4345953001	"docetaxel"	56	NA	1
+"298"	"DN-101 Protocol No. 011-007"	"109"	"109-0002"	5	11	"Subsequent Cancer Therapy"	3122917003	4319023001	"prednisone"	205	217	1
+"299"	"DN-101 Protocol No. 011-007"	"110"	"110-0002"	5	11	"Subsequent Cancer Therapy"	2604892003	3296962001	"Mitoxantrone"	170	191	1
+"300"	"DN-101 Protocol No. 011-007"	"110"	"110-0002"	5	11	"Subsequent Cancer Therapy"	3296992001	3296962001	"prednisone"	170	217	1
+"301"	"DN-101 Protocol No. 011-007"	"110"	"110-0007"	5	11	"Subsequent Cancer Therapy"	3322577003	4619962002	"Taxotere"	163	NA	1
+"302"	"DN-101 Protocol No. 011-007"	"110"	"110-0007"	5	11	"Subsequent Cancer Therapy"	5162186002	4619962002	"Prednisone"	163	NA	1
+"303"	"DN-101 Protocol No. 011-007"	"110"	"110-0009"	5	11	"Subsequent Cancer Therapy"	3497115003	4966803002	"Taxotere"	112	NA	1
+"304"	"DN-101 Protocol No. 011-007"	"110"	"110-0010"	5	11	"Subsequent Cancer Therapy"	3551708003	4954113002	"Taxotere"	97	NA	1
+"305"	"DN-101 Protocol No. 011-007"	"110"	"110-0011"	5	11	"Subsequent Cancer Therapy"	3658001003	4435650002	"Taxotere"	77	NA	1
+"306"	"DN-101 Protocol No. 011-007"	"110"	"110-0011"	5	11	"Subsequent Cancer Therapy"	4435679002	4435650002	"Prednisone"	76	NA	1
+"307"	"DN-101 Protocol No. 011-007"	"110"	"110-0012"	5	11	"Subsequent Cancer Therapy"	3696148003	4943682002	"Taxotere"	75	NA	1
+"308"	"DN-101 Protocol No. 011-007"	"110"	"110-0013"	5	11	"Subsequent Cancer Therapy"	3697855003	4963841002	"Taxotere"	92	NA	1
+"309"	"DN-101 Protocol No. 011-007"	"110"	"110-0013"	5	11	"Subsequent Cancer Therapy"	4963859002	4963841002	"Prednisone"	92	NA	1
+"310"	"DN-101 Protocol No. 011-007"	"110"	"110-0014"	5	11	"Subsequent Cancer Therapy"	3749073003	4768272002	"Taxotere"	49	NA	1
+"311"	"DN-101 Protocol No. 011-007"	"110"	"110-0014"	5	11	"Subsequent Cancer Therapy"	4768303002	4768272002	"Prednisone"	49	NA	1
+"312"	"DN-101 Protocol No. 011-007"	"110"	"110-0015"	5	11	"Subsequent Cancer Therapy"	3854168003	4943980002	"Taxotere"	59	NA	1
+"313"	"DN-101 Protocol No. 011-007"	"110"	"110-0015"	5	11	"Subsequent Cancer Therapy"	5162366002	4943980002	"Prednisone"	39	NA	1
+"314"	"DN-101 Protocol No. 011-007"	"111"	"111-0001"	5	11	"Subsequent Cancer Therapy"	2628998003	2816231001	"Cytoxan"	173	282	1
+"315"	"DN-101 Protocol No. 011-007"	"111"	"111-0001"	5	11	"Subsequent Cancer Therapy"	2816234001	2816231001	"Carboplatin"	118	161	1
+"316"	"DN-101 Protocol No. 011-007"	"111"	"111-0001"	5	11	"Subsequent Cancer Therapy"	5442307006	2816231001	"Panitumumab"	NA	321	1
+"317"	"DN-101 Protocol No. 011-007"	"111"	"111-0001"	5	11	"Subsequent Cancer Therapy"	5442307004	2816231001	"Etoposide"	173	282	1
+"318"	"DN-101 Protocol No. 011-007"	"111"	"111-0001"	5	11	"Subsequent Cancer Therapy"	2816231003	2816231001	"Mitoxantrone"	328	328	1
+"319"	"DN-101 Protocol No. 011-007"	"112"	"112-0005"	5	11	"Subsequent Cancer Therapy"	3533945003	4117213001	"prednisone"	105	NA	1
+"320"	"DN-101 Protocol No. 011-007"	"113"	"113-0001"	5	11	"Subsequent Cancer Therapy"	3244435003	4123746001	"Docetaxel"	185	NA	1
+"321"	"DN-101 Protocol No. 011-007"	"113"	"113-0001"	5	11	"Subsequent Cancer Therapy"	4403767002	4123746001	"Estramustine"	185	NA	1
+"322"	"DN-101 Protocol No. 011-007"	"115"	"115-0001"	5	11	"Subsequent Cancer Therapy"	2621127003	3085076001	"Emcyt"	214	284	1
+"323"	"DN-101 Protocol No. 011-007"	"115"	"115-0001"	5	11	"Subsequent Cancer Therapy"	3085076003	3085076001	"Mitoxantrone"	216	284	1
+"324"	"DN-101 Protocol No. 011-007"	"115"	"115-0001"	5	11	"Subsequent Cancer Therapy"	3417997001	3085076001	"Navelbine"	339	347	1
+"325"	"DN-101 Protocol No. 011-007"	"116"	"116-0002"	5	11	"Subsequent Cancer Therapy"	3180812003	4304814001	"Docetaxel"	204	NA	1
+"326"	"DN-101 Protocol No. 011-007"	"116"	"116-0002"	5	11	"Subsequent Cancer Therapy"	4304857001	4304814001	"Prednisone"	204	NA	1
+"327"	"DN-101 Protocol No. 011-007"	"117"	"117-0001"	5	11	"Subsequent Cancer Therapy"	2564548003	3326822001	"prednisone"	236	NA	1
+"328"	"DN-101 Protocol No. 011-007"	"117"	"117-0001"	5	11	"Subsequent Cancer Therapy"	4735691002	3326822001	"vinflunine"	440	NA	2
+"329"	"DN-101 Protocol No. 011-007"	"117"	"117-0002"	5	11	"Subsequent Cancer Therapy"	2585834003	3343953001	"Prednisone"	189	NA	1
+"330"	"DN-101 Protocol No. 011-007"	"117"	"117-0004"	5	11	"Subsequent Cancer Therapy"	2614756003	3338280001	"casodex"	230	NA	1
+"331"	"DN-101 Protocol No. 011-007"	"117"	"117-0004"	5	11	"Subsequent Cancer Therapy"	4690608004	3338280001	"Emcyt"	377	NA	1
+"332"	"DN-101 Protocol No. 011-007"	"117"	"117-0004"	5	11	"Subsequent Cancer Therapy"	4691073002	3338280001	"Navelbine"	542	NA	1
+"333"	"DN-101 Protocol No. 011-007"	"117"	"117-0004"	5	11	"Subsequent Cancer Therapy"	3338280005	3338280001	"zometa"	202	NA	1
+"334"	"DN-101 Protocol No. 011-007"	"117"	"117-0006"	5	11	"Subsequent Cancer Therapy"	2869305003	3558362001	"Emcyt"	194	NA	2
+"335"	"DN-101 Protocol No. 011-007"	"117"	"117-0006"	5	11	"Subsequent Cancer Therapy"	3558362003	3558362001	"vinflunine"	148	169	2
+"336"	"DN-101 Protocol No. 011-007"	"117"	"117-0007"	5	11	"Subsequent Cancer Therapy"	2911970003	4266746001	"Vinflunine"	251	NA	2
+"337"	"DN-101 Protocol No. 011-007"	"117"	"117-0010"	5	11	"Subsequent Cancer Therapy"	3164223003	4549627002	"Prednisone"	203	NA	1
+"338"	"DN-101 Protocol No. 011-007"	"117"	"117-0010"	5	11	"Subsequent Cancer Therapy"	4549627004	4549627002	"Taxotere"	203	NA	1
+"339"	"DN-101 Protocol No. 011-007"	"117"	"117-0013"	5	11	"Subsequent Cancer Therapy"	3420672003	4706586002	"Docetaxel"	126	NA	1
+"340"	"DN-101 Protocol No. 011-007"	"117"	"117-0013"	5	11	"Subsequent Cancer Therapy"	5069202002	4706586002	"prednisone"	13	NA	1
+"341"	"DN-101 Protocol No. 011-007"	"117"	"117-0014"	5	11	"Subsequent Cancer Therapy"	3492067003	4734079002	"Vinflunine"	91	NA	2
+"342"	"DN-101 Protocol No. 011-007"	"117"	"117-0015"	5	11	"Subsequent Cancer Therapy"	3522557003	4358405001	"Docetaxel"	90	NA	1
+"343"	"DN-101 Protocol No. 011-007"	"117"	"117-0015"	5	11	"Subsequent Cancer Therapy"	4358405003	4358405001	"Prednisone"	90	NA	1
+"344"	"DN-101 Protocol No. 011-007"	"118"	"118-0001"	5	11	"Subsequent Cancer Therapy"	2914029003	4212839001	"Docetaxel"	279	NA	1
+"345"	"DN-101 Protocol No. 011-007"	"118"	"118-0001"	5	11	"Subsequent Cancer Therapy"	4780528002	4212839001	"Prednisone"	279	NA	1
+"346"	"DN-101 Protocol No. 011-007"	"123"	"123-0001"	5	11	"Subsequent Cancer Therapy"	2845998003	3761821001	"prednisone"	211	321	1
+"347"	"DN-101 Protocol No. 011-007"	"123"	"123-0001"	5	11	"Subsequent Cancer Therapy"	3761821003	3761821001	"Diethystilbestrol"	238	321	1
+"348"	"DN-101 Protocol No. 011-007"	"123"	"123-0002"	5	11	"Subsequent Cancer Therapy"	2971515003	4284288001	"Prednisone"	172	NA	1
+"349"	"DN-101 Protocol No. 011-007"	"123"	"123-0002"	5	11	"Subsequent Cancer Therapy"	4284288003	4284288001	"Paclitaxel"	172	NA	1
+"350"	"DN-101 Protocol No. 011-007"	"123"	"123-0003"	5	11	"Subsequent Cancer Therapy"	3149382003	4292872001	"TAXOTERE"	210	210	1
+"351"	"DN-101 Protocol No. 011-007"	"123"	"123-0003"	5	11	"Subsequent Cancer Therapy"	4292872005	4292872001	"PREDNISONE"	209	NA	1
+"352"	"DN-101 Protocol No. 011-007"	"123"	"123-0004"	5	11	"Subsequent Cancer Therapy"	3311184003	4812592002	"Predinisone 5 mg twice a  day"	152	NA	1
+"353"	"DN-101 Protocol No. 011-007"	"124"	"124-0003"	5	11	"Subsequent Cancer Therapy"	3655442003	4082661001	"taxotere"	95	NA	1
+"354"	"DN-101 Protocol No. 011-007"	"124"	"124-0003"	5	11	"Subsequent Cancer Therapy"	4879610002	4082661001	"prednisone"	95	NA	1
+"355"	"DN-101 Protocol No. 011-007"	"125"	"125-0001"	5	11	"Subsequent Cancer Therapy"	2614744003	5184519002	"Taxotere"	517	NA	1
+"356"	"DN-101 Protocol No. 011-007"	"125"	"125-0006"	5	11	"Subsequent Cancer Therapy"	2701470003	3674489001	"Radiation"	289	302	2
+"357"	"DN-101 Protocol No. 011-007"	"125"	"125-0006"	5	11	"Subsequent Cancer Therapy"	3674489003	3674489001	"vinflunine"	349	NA	2
+"358"	"DN-101 Protocol No. 011-007"	"125"	"125-0011"	5	11	"Subsequent Cancer Therapy"	2828712003	5188139002	"Trelstar LA"	337	NA	1
+"359"	"DN-101 Protocol No. 011-007"	"125"	"125-0013"	5	11	"Subsequent Cancer Therapy"	2837031003	3674496001	"Lupron Depot"	156	156	1
+"360"	"DN-101 Protocol No. 011-007"	"125"	"125-0013"	5	11	"Subsequent Cancer Therapy"	4495325002	3674496001	"satraplatin"	239	NA	2
+"361"	"DN-101 Protocol No. 011-007"	"125"	"125-0013"	5	11	"Subsequent Cancer Therapy"	4053770001	3674496001	"Novantrone"	143	143	1
+"362"	"DN-101 Protocol No. 011-007"	"125"	"125-0017"	5	11	"Subsequent Cancer Therapy"	2873046003	4910160002	"Satraplatin"	231	NA	2
+"363"	"DN-101 Protocol No. 011-007"	"125"	"125-0018"	5	11	"Subsequent Cancer Therapy"	2897308003	3704812001	"Novantrone"	131	142	1
+"364"	"DN-101 Protocol No. 011-007"	"125"	"125-0022"	5	11	"Subsequent Cancer Therapy"	2972813003	4109144001	"prednisone"	217	238	1
+"365"	"DN-101 Protocol No. 011-007"	"125"	"125-0029"	5	11	"Subsequent Cancer Therapy"	3797740003	4450125002	"taxotere"	61	NA	1
+"366"	"DN-101 Protocol No. 011-007"	"126"	"126-0001"	5	11	"Subsequent Cancer Therapy"	2589083003	4429534002	"Vinflunine"	506	NA	2
+"367"	"DN-101 Protocol No. 011-007"	"126"	"126-0002"	5	11	"Subsequent Cancer Therapy"	2593558003	4393279002	"prednisone"	218	503	1
+"368"	"DN-101 Protocol No. 011-007"	"126"	"126-0003"	5	11	"Subsequent Cancer Therapy"	2693911003	3765426001	"Vinflunine"	330	372	2
+"369"	"DN-101 Protocol No. 011-007"	"126"	"126-0005"	5	11	"Subsequent Cancer Therapy"	2939382003	3470037001	"zometa"	140	224	1
+"370"	"DN-101 Protocol No. 011-007"	"126"	"126-0005"	5	11	"Subsequent Cancer Therapy"	3765842001	3470037001	"Vinflunine"	189	210	2
+"371"	"DN-101 Protocol No. 011-007"	"126"	"126-0005"	5	11	"Subsequent Cancer Therapy"	3503467001	3470037001	"Estramustine"	98	154	1
+"372"	"DN-101 Protocol No. 011-007"	"126"	"126-0005"	5	11	"Subsequent Cancer Therapy"	3503503001	3470037001	"Radiation"	99	113	1
+"373"	"DN-101 Protocol No. 011-007"	"126"	"126-0005"	5	11	"Subsequent Cancer Therapy"	3470037003	3470037001	"Taxol"	98	154	1
+"374"	"DN-101 Protocol No. 011-007"	"126"	"126-0009"	5	11	"Subsequent Cancer Therapy"	3415722003	4394723002	"Taxotere"	132	NA	1
+"375"	"DN-101 Protocol No. 011-007"	"126"	"126-0009"	5	11	"Subsequent Cancer Therapy"	4463129004	4394723002	"Prednisone"	132	NA	1
+"376"	"DN-101 Protocol No. 011-007"	"126"	"126-0010"	5	11	"Subsequent Cancer Therapy"	3940139003	4410466002	"docetaxel"	27	27	1
+"377"	"DN-101 Protocol No. 011-007"	"126"	"126-0010"	5	11	"Subsequent Cancer Therapy"	4410506002	4410466002	"estramustine"	55	NA	1
+"378"	"DN-101 Protocol No. 011-007"	"126"	"126-0010"	5	11	"Subsequent Cancer Therapy"	4410466004	4410466002	"paclitaxel"	55	NA	1
+"379"	"DN-101 Protocol No. 011-007"	"127"	"127-0003"	5	11	"Subsequent Cancer Therapy"	2663088003	3399877001	"Ketoconazole"	446	NA	1
+"380"	"DN-101 Protocol No. 011-007"	"127"	"127-0005"	5	11	"Subsequent Cancer Therapy"	2697091003	3047526001	"MITOXANTRONE"	328	370	1
+"381"	"DN-101 Protocol No. 011-007"	"127"	"127-0005"	5	11	"Subsequent Cancer Therapy"	3047526003	3047526001	"Avastin"	147	279	1
+"382"	"DN-101 Protocol No. 011-007"	"127"	"127-0007"	5	11	"Subsequent Cancer Therapy"	2747604003	3403099001	"Avastin"	244	NA	1
+"383"	"DN-101 Protocol No. 011-007"	"127"	"127-0007"	5	11	"Subsequent Cancer Therapy"	5300580002	3403099001	"Docetaxel"	434	NA	1
+"384"	"DN-101 Protocol No. 011-007"	"127"	"127-0007"	5	11	"Subsequent Cancer Therapy"	3403099003	3403099001	"Cisplatin"	244	NA	1
+"385"	"DN-101 Protocol No. 011-007"	"127"	"127-0010"	5	11	"Subsequent Cancer Therapy"	2994752003	4019687001	"Docetaxel"	310	NA	1
+"386"	"DN-101 Protocol No. 011-007"	"128"	"128-0001"	5	11	"Subsequent Cancer Therapy"	3039470003	4866164002	"Docetaxel"	248	269	1
+"387"	"DN-101 Protocol No. 011-007"	"130"	"130-0002"	5	11	"Subsequent Cancer Therapy"	2590631003	2710945001	"mitoxantrone"	168	357	1
+"388"	"DN-101 Protocol No. 011-007"	"130"	"130-0002"	5	11	"Subsequent Cancer Therapy"	2880789001	2710945001	"prednisone"	91	407	1
+"389"	"DN-101 Protocol No. 011-007"	"130"	"130-0002"	5	11	"Subsequent Cancer Therapy"	2710945003	2710945001	"Cytoxan"	94	168	1
+"390"	"DN-101 Protocol No. 011-007"	"130"	"130-0003"	5	11	"Subsequent Cancer Therapy"	2618792003	2702605001	"cytoxan"	61	124	1
+"391"	"DN-101 Protocol No. 011-007"	"130"	"130-0003"	5	11	"Subsequent Cancer Therapy"	5071640002	2702605001	"prednisone"	57	77	1
+"392"	"DN-101 Protocol No. 011-007"	"130"	"130-0004"	5	11	"Subsequent Cancer Therapy"	2715083003	4184056001	"prednisone"	252	490	1
+"393"	"DN-101 Protocol No. 011-007"	"130"	"130-0004"	5	11	"Subsequent Cancer Therapy"	4707803002	4184056001	"docetaxol"	463	489	1
+"394"	"DN-101 Protocol No. 011-007"	"130"	"130-0005"	5	11	"Subsequent Cancer Therapy"	2754100003	3524608001	"prednisone"	239	330	1
+"395"	"DN-101 Protocol No. 011-007"	"130"	"130-0006"	5	11	"Subsequent Cancer Therapy"	2825540003	4201067001	"radiation to R shoulder and  C-spine + T11-L2"	301	313	1
+"396"	"DN-101 Protocol No. 011-007"	"130"	"130-0006"	5	11	"Subsequent Cancer Therapy"	4201067007	4201067001	"mitoxantrone"	337	NA	1
+"397"	"DN-101 Protocol No. 011-007"	"130"	"130-0006"	5	11	"Subsequent Cancer Therapy"	5073380002	4201067001	"prednisone"	244	NA	1
+"398"	"DN-101 Protocol No. 011-007"	"130"	"130-0006"	5	11	"Subsequent Cancer Therapy"	4201067003	4201067001	"radiation to lumber spine mets & T10"	271	280	1
+"399"	"DN-101 Protocol No. 011-007"	"130"	"130-0007"	5	11	"Subsequent Cancer Therapy"	2830874003	4190400001	"prednisone"	259	NA	1
+"400"	"DN-101 Protocol No. 011-007"	"130"	"130-0007"	5	11	"Subsequent Cancer Therapy"	5070233002	4190400001	"mitoxantrane"	428	NA	1
+"401"	"DN-101 Protocol No. 011-007"	"130"	"130-0007"	5	11	"Subsequent Cancer Therapy"	5298433002	4190400001	"docetaxel"	385	406	1
+"402"	"DN-101 Protocol No. 011-007"	"130"	"130-0008"	5	11	"Subsequent Cancer Therapy"	3223521003	4229451001	"cytoxan"	160	NA	1
+"403"	"DN-101 Protocol No. 011-007"	"131"	"131-0001"	5	11	"Subsequent Cancer Therapy"	2832712003	3687268001	"Palliative radiation Therapy"	148	162	1
+"404"	"DN-101 Protocol No. 011-007"	"131"	"131-0005"	5	11	"Subsequent Cancer Therapy"	3645246003	4086476001	"Prednisone"	93	NA	1
+"405"	"DN-101 Protocol No. 011-007"	"131"	"131-0005"	5	11	"Subsequent Cancer Therapy"	4086476003	4086476001	"Docetaxel"	93	NA	1
+"406"	"DN-101 Protocol No. 011-007"	"133"	"133-0001"	5	11	"Subsequent Cancer Therapy"	2763956003	4085009001	"OGX-011"	329	NA	2
+"407"	"DN-101 Protocol No. 011-007"	"133"	"133-0001"	5	11	"Subsequent Cancer Therapy"	5064685002	4085009001	"Prednisone"	220	311	1
+"408"	"DN-101 Protocol No. 011-007"	"133"	"133-0003"	5	11	"Subsequent Cancer Therapy"	2819357003	4929576002	"Prednisone"	211	NA	1
+"409"	"DN-101 Protocol No. 011-007"	"133"	"133-0009"	5	11	"Subsequent Cancer Therapy"	2969402003	4929796002	"Prednisone"	230	NA	1
+"410"	"DN-101 Protocol No. 011-007"	"133"	"133-0010"	5	11	"Subsequent Cancer Therapy"	3075302003	4930340002	"Prednisone"	225	NA	1
+"411"	"DN-101 Protocol No. 011-007"	"133"	"133-0012"	5	11	"Subsequent Cancer Therapy"	3240293003	4248124001	"Docetaxel"	174	NA	1
+"412"	"DN-101 Protocol No. 011-007"	"133"	"133-0012"	5	11	"Subsequent Cancer Therapy"	4248124005	4248124001	"Prednisone"	174	NA	1
+"413"	"DN-101 Protocol No. 011-007"	"133"	"133-0013"	5	11	"Subsequent Cancer Therapy"	3270681003	4248410001	"Prednisone"	165	NA	1
+"414"	"DN-101 Protocol No. 011-007"	"133"	"133-0013"	5	11	"Subsequent Cancer Therapy"	4248410003	4248410001	"Docetaxel"	166	NA	1
+"415"	"DN-101 Protocol No. 011-007"	"133"	"133-0015"	5	11	"Subsequent Cancer Therapy"	3377749003	4252998001	"Docetaxel"	132	NA	1
+"416"	"DN-101 Protocol No. 011-007"	"133"	"133-0015"	5	11	"Subsequent Cancer Therapy"	4252998005	4252998001	"Prednisone"	131	NA	1
+"417"	"DN-101 Protocol No. 011-007"	"133"	"133-0016"	5	11	"Subsequent Cancer Therapy"	3423346003	4253809001	"Prednisone"	139	NA	1
+"418"	"DN-101 Protocol No. 011-007"	"133"	"133-0016"	5	11	"Subsequent Cancer Therapy"	4253809003	4253809001	"Docetaxel"	140	NA	1
+"419"	"DN-101 Protocol No. 011-007"	"133"	"133-0017"	5	11	"Subsequent Cancer Therapy"	3537213003	4931667002	"Prednisone"	105	153	1
+"420"	"DN-101 Protocol No. 011-007"	"133"	"133-0020"	5	11	"Subsequent Cancer Therapy"	3900175003	4270123001	"Docetaxel"	29	NA	1
+"421"	"DN-101 Protocol No. 011-007"	"133"	"133-0020"	5	11	"Subsequent Cancer Therapy"	4270123005	4270123001	"Prednisone"	28	NA	1
+"422"	"DN-101 Protocol No. 011-007"	"133"	"133-0021"	5	11	"Subsequent Cancer Therapy"	3921775003	4266798001	"Prednisone"	26	NA	1
+"423"	"DN-101 Protocol No. 011-007"	"133"	"133-0021"	5	11	"Subsequent Cancer Therapy"	4266798003	4266798001	"Docetaxel"	27	NA	1
+"424"	"DN-101 Protocol No. 011-007"	"134"	"134-0001"	5	11	"Subsequent Cancer Therapy"	2817309003	3193310001	"docetaxel"	8	35	1
+"425"	"DN-101 Protocol No. 011-007"	"134"	"134-0001"	5	11	"Subsequent Cancer Therapy"	4217022001	3193310001	"Radiation - Palliation"	71	71	1
+"426"	"DN-101 Protocol No. 011-007"	"134"	"134-0001"	5	11	"Subsequent Cancer Therapy"	4919483002	3193310001	"dexamethasone"	7	NA	1
+"427"	"DN-101 Protocol No. 011-007"	"134"	"134-0001"	5	11	"Subsequent Cancer Therapy"	3385414001	3193310001	"Radiation- Palliative"	107	107	1
+"428"	"DN-101 Protocol No. 011-007"	"134"	"134-0001"	5	11	"Subsequent Cancer Therapy"	3385329001	3193310001	"Radiation - Palliation"	129	129	1
+"429"	"DN-101 Protocol No. 011-007"	"134"	"134-0001"	5	11	"Subsequent Cancer Therapy"	3872340001	3193310001	"prednisone"	7	229	1
+"430"	"DN-101 Protocol No. 011-007"	"134"	"134-0002"	5	11	"Subsequent Cancer Therapy"	3512530003	4240538001	"dexamethasone"	111	NA	1
+"431"	"DN-101 Protocol No. 011-007"	"134"	"134-0002"	5	11	"Subsequent Cancer Therapy"	4240538003	4240538001	"prednisone"	91	NA	1
+"432"	"DN-101 Protocol No. 011-007"	"134"	"134-0002"	5	11	"Subsequent Cancer Therapy"	4702294002	4240538001	"palliative radiation to the skull"	134	139	1
+"433"	"DN-101 Protocol No. 011-007"	"134"	"134-0002"	5	11	"Subsequent Cancer Therapy"	4702091002	4240538001	"docetaxol"	112	NA	1
+"434"	"DN-101 Protocol No. 011-007"	"134"	"134-0003"	5	11	"Subsequent Cancer Therapy"	3777417003	4232096001	"Prednisone"	64	NA	1
+"435"	"DN-101 Protocol No. 011-007"	"134"	"134-0003"	5	11	"Subsequent Cancer Therapy"	4928487004	4232096001	"docetaxol"	64	NA	1
+"436"	"DN-101 Protocol No. 011-007"	"134"	"134-0003"	5	11	"Subsequent Cancer Therapy"	4928487002	4232096001	"dexamethasone"	63	NA	1
+"437"	"DN-101 Protocol No. 011-007"	"136"	"136-0001"	5	11	"Subsequent Cancer Therapy"	2646040003	3745866001	"Mitoxantrone"	327	NA	1
+"438"	"DN-101 Protocol No. 011-007"	"137"	"137-0003"	5	11	"Subsequent Cancer Therapy"	3700174003	4406725002	"Docetaxel"	68	NA	1
+"439"	"DN-101 Protocol No. 011-007"	"137"	"137-0003"	5	11	"Subsequent Cancer Therapy"	4406761002	4406725002	"Prednisone"	69	NA	1
+"440"	"DN-101 Protocol No. 011-007"	"138"	"138-0001"	5	11	"Subsequent Cancer Therapy"	3040262003	4263390001	"prednisone"	170	NA	1
+"441"	"DN-101 Protocol No. 011-007"	"139"	"139-0002"	5	11	"Subsequent Cancer Therapy"	3139654003	4115756001	"Docetaxel"	209	219	1
+"442"	"DN-101 Protocol No. 011-007"	"139"	"139-0004"	5	11	"Subsequent Cancer Therapy"	3210884003	4115970001	"radiation therapy"	242	248	1
+"443"	"DN-101 Protocol No. 011-007"	"139"	"139-0005"	5	11	"Subsequent Cancer Therapy"	3230990003	4116057001	"Docetaxel"	202	202	1
+"444"	"DN-101 Protocol No. 011-007"	"139"	"139-0007"	5	11	"Subsequent Cancer Therapy"	3866509003	4292814001	"Docetaxel"	56	56	1
+"445"	"DN-101 Protocol No. 011-007"	"140"	"140-0002"	5	11	"Subsequent Cancer Therapy"	2983189003	4413741002	"prednisone"	254	NA	1
+"446"	"DN-101 Protocol No. 011-007"	"141"	"141-0003"	5	11	"Subsequent Cancer Therapy"	2881904003	3535450001	"Radiation Therapy 2400 cGy"	105	119	1
+"447"	"DN-101 Protocol No. 011-007"	"141"	"141-0007"	5	11	"Subsequent Cancer Therapy"	2985011003	4515648002	"prednisone"	216	336	1
+"448"	"DN-101 Protocol No. 011-007"	"141"	"141-0010"	5	11	"Subsequent Cancer Therapy"	3165024003	4282308001	"Prednisone"	238	NA	1
+"449"	"DN-101 Protocol No. 011-007"	"142"	"142-0002"	5	11	"Subsequent Cancer Therapy"	2597835003	3402795001	"Docetaxel"	509	NA	1
+"450"	"DN-101 Protocol No. 011-007"	"142"	"142-0002"	5	11	"Subsequent Cancer Therapy"	4134191001	3402795001	"Prednisone"	509	NA	1
+"451"	"DN-101 Protocol No. 011-007"	"142"	"142-0003"	5	11	"Subsequent Cancer Therapy"	2619306003	3142576001	"Navelbine"	102	228	1
+"452"	"DN-101 Protocol No. 011-007"	"142"	"142-0010"	5	11	"Subsequent Cancer Therapy"	3350540003	4142531001	"Prednisone"	140	NA	1
+"453"	"DN-101 Protocol No. 011-007"	"142"	"142-0010"	5	11	"Subsequent Cancer Therapy"	4142531003	4142531001	"Docetaxel"	140	NA	1
+"454"	"DN-101 Protocol No. 011-007"	"142"	"142-0011"	5	11	"Subsequent Cancer Therapy"	3565083003	4056761001	"Docetaxel"	87	NA	1
+"455"	"DN-101 Protocol No. 011-007"	"144"	"144-0001"	5	11	"Subsequent Cancer Therapy"	2684853003	3404045001	"Mitoxantrone"	420	420	1
+"456"	"DN-101 Protocol No. 011-007"	"144"	"144-0001"	5	11	"Subsequent Cancer Therapy"	3977353001	3404045001	"Cisplatin"	316	316	1
+"457"	"DN-101 Protocol No. 011-007"	"144"	"144-0001"	5	11	"Subsequent Cancer Therapy"	4550481002	3404045001	"Prednisone"	217	NA	1
+"458"	"DN-101 Protocol No. 011-007"	"144"	"144-0001"	5	11	"Subsequent Cancer Therapy"	3404045007	3404045001	"Cisplatin"	295	295	1
+"459"	"DN-101 Protocol No. 011-007"	"144"	"144-0001"	5	11	"Subsequent Cancer Therapy"	3404045003	3404045001	"Cisplatin"	252	252	1
+"460"	"DN-101 Protocol No. 011-007"	"144"	"144-0001"	5	11	"Subsequent Cancer Therapy"	3977421001	3404045001	"Mitoxantrone"	337	337	1
+"461"	"DN-101 Protocol No. 011-007"	"144"	"144-0001"	5	11	"Subsequent Cancer Therapy"	3404045005	3404045001	"Cisplatin"	274	274	1
+"462"	"DN-101 Protocol No. 011-007"	"144"	"144-0002"	5	11	"Subsequent Cancer Therapy"	3107964003	4520605002	"Prednisone"	92	154	1
+"463"	"DN-101 Protocol No. 011-007"	"144"	"144-0002"	5	11	"Subsequent Cancer Therapy"	4520605004	4520605002	"Tracon 93 (TRC-093):  Monoclonal Antibody"	133	189	2
+"464"	"DN-101 Protocol No. 011-007"	"145"	"145-0005"	5	11	"Subsequent Cancer Therapy"	3504874003	4941735002	"Prednisone"	105	NA	1
+"465"	"DN-101 Protocol No. 011-007"	"145"	"145-0005"	5	11	"Subsequent Cancer Therapy"	4941735004	4941735002	"Docetaxel"	105	NA	1
+"466"	"DN-101 Protocol No. 011-007"	"145"	"145-0006"	5	11	"Subsequent Cancer Therapy"	3562940003	4545690002	"Taxotere"	97	NA	1
+"467"	"DN-101 Protocol No. 011-007"	"145"	"145-0006"	5	11	"Subsequent Cancer Therapy"	4545748002	4545690002	"Prednisone"	85	NA	1
+"468"	"DN-101 Protocol No. 011-007"	"149"	"149-0001"	5	11	"Subsequent Cancer Therapy"	3171356003	4218697001	"prednisone"	208	NA	1
+"469"	"DN-101 Protocol No. 011-007"	"149"	"149-0001"	5	11	"Subsequent Cancer Therapy"	4218712001	4218697001	"docetaxel"	208	NA	1
+"470"	"DN-101 Protocol No. 011-007"	"150"	"150-0002"	5	11	"Subsequent Cancer Therapy"	2933704003	3641798001	"Carboplatin"	111	202	2
+"471"	"DN-101 Protocol No. 011-007"	"150"	"150-0002"	5	11	"Subsequent Cancer Therapy"	5103503002	3641798001	"prednisone"	111	NA	1
+"472"	"DN-101 Protocol No. 011-007"	"150"	"150-0002"	5	11	"Subsequent Cancer Therapy"	3798808001	3641798001	"mitoxantrone"	222	NA	1
+"473"	"DN-101 Protocol No. 011-007"	"150"	"150-0002"	5	11	"Subsequent Cancer Therapy"	3641798003	3641798001	"Taxol"	111	202	1
+"474"	"DN-101 Protocol No. 011-007"	"150"	"150-0003"	5	11	"Subsequent Cancer Therapy"	3612219003	4318381001	"prednisone"	75	NA	1
+"475"	"DN-101 Protocol No. 011-007"	"150"	"150-0003"	5	11	"Subsequent Cancer Therapy"	4318381003	4318381001	"Taxotere"	75	NA	1
+"476"	"DN-101 Protocol No. 011-007"	"154"	"154-0001"	5	11	"Subsequent Cancer Therapy"	2734817003	3737410001	"Mitoxantrone"	321	NA	1
+"477"	"DN-101 Protocol No. 011-007"	"155"	"155-0002"	5	11	"Subsequent Cancer Therapy"	2793723003	3471906001	"Radiation Therapy"	398	423	1
+"478"	"DN-101 Protocol No. 011-007"	"155"	"155-0012"	5	11	"Subsequent Cancer Therapy"	3813371003	4211704001	"Carboplatin"	64	NA	1
+"479"	"DN-101 Protocol No. 011-007"	"155"	"155-0012"	5	11	"Subsequent Cancer Therapy"	4212148001	4211704001	"Taxol"	64	NA	1
+"480"	"DN-101 Protocol No. 011-007"	"155"	"155-0012"	5	11	"Subsequent Cancer Therapy"	4211704003	4211704001	"Prednisone"	51	NA	1
+"481"	"DN-101 Protocol No. 011-007"	"156"	"156-0001"	5	11	"Subsequent Cancer Therapy"	2744899003	3358251001	"Ketoconazole 200mg 3 X Daily by mouth"	265	315	1
+"482"	"DN-101 Protocol No. 011-007"	"156"	"156-0001"	5	11	"Subsequent Cancer Therapy"	4606764002	3358251001	"Prednisone 5 mg 2 X Daily by mouth"	225	315	1
+"483"	"DN-101 Protocol No. 011-007"	"157"	"157-0006"	5	11	"Subsequent Cancer Therapy"	3259961003	4354253001	"Prednisone"	182	NA	1
+"484"	"DN-101 Protocol No. 011-007"	"157"	"157-0007"	5	11	"Subsequent Cancer Therapy"	3644871003	4395981002	"Docetaxel"	68	NA	1
+"485"	"DN-101 Protocol No. 011-007"	"157"	"157-0007"	5	11	"Subsequent Cancer Therapy"	4395981006	4395981002	"Prednisone"	66	NA	1
+"486"	"DN-101 Protocol No. 011-007"	"159"	"159-0004"	5	11	"Subsequent Cancer Therapy"	3224247003	4718702002	"prednisone"	182	NA	1
+"487"	"DN-101 Protocol No. 011-007"	"159"	"159-0004"	5	11	"Subsequent Cancer Therapy"	4718702006	4718702002	"taxotere"	182	NA	1
+"488"	"DN-101 Protocol No. 011-007"	"159"	"159-0005"	5	11	"Subsequent Cancer Therapy"	3913634003	4520857002	"Prednisone"	29	NA	1
+"489"	"DN-101 Protocol No. 011-007"	"159"	"159-0005"	5	11	"Subsequent Cancer Therapy"	4520857004	4520857002	"Taxotere"	29	NA	1
+"490"	"DN-101 Protocol No. 011-007"	"159"	"159-0006"	5	11	"Subsequent Cancer Therapy"	3970171003	4211315001	"Taxotere"	26	NA	1
+"491"	"DN-101 Protocol No. 011-007"	"159"	"159-0006"	5	11	"Subsequent Cancer Therapy"	4211315005	4211315001	"prednisone"	26	26	1
+"492"	"DN-101 Protocol No. 011-007"	"161"	"161-0001"	5	11	"Subsequent Cancer Therapy"	2829603003	3369860001	"enzastaurin HCL"	147	NA	2
+"493"	"DN-101 Protocol No. 011-007"	"161"	"161-0001"	5	11	"Subsequent Cancer Therapy"	3369860003	3369860001	"Oral Cytoxan"	156	NA	1
+"494"	"DN-101 Protocol No. 011-007"	"161"	"161-0002"	5	11	"Subsequent Cancer Therapy"	2903639003	5264971002	"prednisone"	157	165	1
+"495"	"DN-101 Protocol No. 011-007"	"161"	"161-0004"	5	11	"Subsequent Cancer Therapy"	3841392003	4629459002	"prednisone"	54	NA	1
+"496"	"DN-101 Protocol No. 011-007"	"161"	"161-0004"	5	11	"Subsequent Cancer Therapy"	4629459004	4629459002	"taxotere"	54	NA	1
+"497"	"DN-101 Protocol No. 011-007"	"164"	"164-0005"	5	11	"Subsequent Cancer Therapy"	3119360003	4145235001	"prednisone"	214	NA	1
+"498"	"DN-101 Protocol No. 011-007"	"164"	"164-0005"	5	11	"Subsequent Cancer Therapy"	4145262003	4145235001	"casodex"	214	NA	1
+"499"	"DN-101 Protocol No. 011-007"	"164"	"164-0005"	5	11	"Subsequent Cancer Therapy"	4145262001	4145235001	"taxotere"	214	NA	1
+"500"	"DN-101 Protocol No. 011-007"	"165"	"165-0002"	5	11	"Subsequent Cancer Therapy"	3245624003	4440215002	"mitoxantrone"	224	NA	1
+"501"	"DN-101 Protocol No. 011-007"	"165"	"165-0003"	5	11	"Subsequent Cancer Therapy"	3264485003	3666778001	"satraplatin"	94	NA	2
+"502"	"DN-101 Protocol No. 011-007"	"166"	"166-0001"	5	11	"Subsequent Cancer Therapy"	3591903003	4367707001	"Docetaxel"	90	NA	1
+"503"	"DN-101 Protocol No. 011-007"	"166"	"166-0003"	5	11	"Subsequent Cancer Therapy"	3747579003	4368541001	"taxotere"	47	NA	1
+"504"	"DN-101 Protocol No. 011-007"	"166"	"166-0005"	5	11	"Subsequent Cancer Therapy"	3980828003	4368926001	"taxotere"	13	56	1
+"505"	"DN-101 Protocol No. 011-007"	"170"	"170-0002"	5	11	"Subsequent Cancer Therapy"	3301506003	4135246001	"prednisone"	167	NA	1
+"506"	"DN-101 Protocol No. 011-007"	"170"	"170-0002"	5	11	"Subsequent Cancer Therapy"	4135246003	4135246001	"docetaxel"	166	NA	1
+"507"	"DN-101 Protocol No. 011-007"	"173"	"173-0001"	5	11	"Subsequent Cancer Therapy"	2961623003	4014143001	"satraplatin"	99	NA	2
+"508"	"DN-101 Protocol No. 011-007"	"180"	"180-0002"	5	11	"Subsequent Cancer Therapy"	3563041003	4221924001	"Docetaxel"	114	NA	1
+"509"	"DN-101 Protocol No. 011-007"	"180"	"180-0002"	5	11	"Subsequent Cancer Therapy"	4221961003	4221924001	"prednisone"	113	NA	1
+"510"	"DN-101 Protocol No. 011-007"	"181"	"181-0002"	5	11	"Subsequent Cancer Therapy"	3244930003	4388379001	"ketaconazole"	152	NA	1
+"511"	"DN-101 Protocol No. 011-007"	"181"	"181-0002"	5	11	"Subsequent Cancer Therapy"	4388379005	4388379001	"hydrocortisone"	152	NA	1
+"512"	"DN-101 Protocol No. 011-007"	"184"	"184-0004"	5	11	"Subsequent Cancer Therapy"	3675721003	4209833001	"Prednisone"	66	NA	1
+"513"	"DN-101 Protocol No. 011-007"	"184"	"184-0004"	5	11	"Subsequent Cancer Therapy"	4209833005	4209833001	"Docetaxel"	66	NA	1
+"514"	"DN-101 Protocol No. 011-007"	"186"	"186-0002"	5	11	"Subsequent Cancer Therapy"	3206029003	4023344001	"radiation therapy treatment - Right Scapula/humerus and Left lower ribcage area"	258	258	1
+"515"	"DN-101 Protocol No. 011-007"	"186"	"186-0002"	5	11	"Subsequent Cancer Therapy"	4335486001	4023344001	"Zometa"	204	NA	1
+"516"	"DN-101 Protocol No. 011-007"	"186"	"186-0002"	5	11	"Subsequent Cancer Therapy"	4023344003	4023344001	"radiation therapy treatment -vertebrae (T8 to L4)"	165	165	1
+"517"	"DN-101 Protocol No. 011-007"	"186"	"186-0002"	5	11	"Subsequent Cancer Therapy"	4872722002	4023344001	"Transurethral Prostate Resection"	216	216	1
+"518"	"DN-101 Protocol No. 011-007"	"186"	"186-0002"	5	11	"Subsequent Cancer Therapy"	4335698001	4023344001	"prednisone"	207	NA	1
+"519"	"DN-101 Protocol No. 011-007"	"188"	"188-0001"	5	11	"Subsequent Cancer Therapy"	3300962003	4105906001	"PREDNISONE"	169	177	1
+"520"	"DN-101 Protocol No. 011-007"	"188"	"188-0001"	5	11	"Subsequent Cancer Therapy"	4182147001	4105906001	"taxotere"	169	169	1
+"521"	"DN-101 Protocol No. 011-007"	"189"	"189-0001"	5	11	"Subsequent Cancer Therapy"	3293070003	4415638002	"Prednisone"	161	NA	1
+"522"	"DN-101 Protocol No. 011-007"	"189"	"189-0001"	5	11	"Subsequent Cancer Therapy"	4828920002	4415638002	"docetaxel"	161	NA	1
+"523"	"DN-101 Protocol No. 011-007"	"199"	"199-0001"	5	11	"Subsequent Cancer Therapy"	3892947003	4341781001	"Taxotere"	24	NA	1
+"524"	"DN-101 Protocol No. 011-007"	"199"	"199-0001"	5	11	"Subsequent Cancer Therapy"	4341781007	4341781001	"Lupron"	24	NA	1
+"525"	"DN-101 Protocol No. 011-007"	"199"	"199-0001"	5	11	"Subsequent Cancer Therapy"	4341781005	4341781001	"Zometa"	24	NA	1
+"526"	"DN-101 Protocol No. 011-007"	"501"	"501-0005"	5	11	"Subsequent Cancer Therapy"	3291907003	4560346002	"Decortin H"	104	NA	2
+"527"	"DN-101 Protocol No. 011-007"	"501"	"501-0005"	5	11	"Subsequent Cancer Therapy"	4560346004	4560346002	"XRP6258"	104	202	2
+"528"	"DN-101 Protocol No. 011-007"	"505"	"505-0001"	5	11	"Subsequent Cancer Therapy"	2818450003	4584636002	"Docetaxel"	261	NA	1
+"529"	"DN-101 Protocol No. 011-007"	"505"	"505-0002"	5	11	"Subsequent Cancer Therapy"	3010626003	5222502002	"Docetaxel"	322	NA	1
+"530"	"DN-101 Protocol No. 011-007"	"506"	"506-0003"	5	11	"Subsequent Cancer Therapy"	2858015003	4032487001	"Docetaxel"	349	NA	1
+"531"	"DN-101 Protocol No. 011-007"	"507"	"507-0003"	5	11	"Subsequent Cancer Therapy"	2817051003	3847980001	"Prednison"	221	227	1
+"532"	"DN-101 Protocol No. 011-007"	"507"	"507-0007"	5	11	"Subsequent Cancer Therapy"	2883211003	3848243001	"zoledronacid"	283	NA	1
+"533"	"DN-101 Protocol No. 011-007"	"507"	"507-0007"	5	11	"Subsequent Cancer Therapy"	3848243003	3848243001	"Radiatio"	250	NA	1
+"534"	"DN-101 Protocol No. 011-007"	"507"	"507-0018"	5	11	"Subsequent Cancer Therapy"	3169931003	4275462001	"Docetaxel"	190	190	1
+"535"	"DN-101 Protocol No. 011-007"	"507"	"507-0019"	5	11	"Subsequent Cancer Therapy"	3175154003	4275949001	"docetaxel"	196	196	1
+"536"	"DN-101 Protocol No. 011-007"	"507"	"507-0027"	5	11	"Subsequent Cancer Therapy"	3487393003	4416776002	"docetaxel"	133	NA	1
+"537"	"DN-101 Protocol No. 011-007"	"507"	"507-0028"	5	11	"Subsequent Cancer Therapy"	3525507003	4581016002	"docetaxel"	104	104	1
+"538"	"DN-101 Protocol No. 011-007"	"507"	"507-0032"	5	11	"Subsequent Cancer Therapy"	3698103003	4567021002	"docetaxel"	57	120	1
+"539"	"DN-101 Protocol No. 011-007"	"508"	"508-0001"	5	11	"Subsequent Cancer Therapy"	2900243003	3342487001	"Mitoxantron"	84	NA	1
+"540"	"DN-101 Protocol No. 011-007"	"509"	"509-0001"	5	11	"Subsequent Cancer Therapy"	2943359003	4674295002	"Docetaxel"	293	NA	1
+"541"	"DN-101 Protocol No. 011-007"	"509"	"509-0005"	5	11	"Subsequent Cancer Therapy"	3061079003	4676709002	"docetaxel"	236	NA	1
+"542"	"DN-101 Protocol No. 011-007"	"511"	"511-0001"	5	11	"Subsequent Cancer Therapy"	2763427004	4561308002	"Docetaxel"	413	NA	1
+"543"	"DN-101 Protocol No. 011-007"	"511"	"511-0001"	5	11	"Subsequent Cancer Therapy"	4808487002	4561308002	"Prednisone"	238	NA	1
+"544"	"DN-101 Protocol No. 011-007"	"511"	"511-0003"	5	11	"Subsequent Cancer Therapy"	2885635003	4754991002	"Prednisone"	289	NA	1
+"545"	"DN-101 Protocol No. 011-007"	"511"	"511-0003"	5	11	"Subsequent Cancer Therapy"	4754991004	4754991002	"Docetaxel"	290	332	1
+"546"	"DN-101 Protocol No. 011-007"	"511"	"511-0003"	5	11	"Subsequent Cancer Therapy"	5322974002	4754991002	"Zometa"	332	NA	1
+"547"	"DN-101 Protocol No. 011-007"	"511"	"511-0005"	5	11	"Subsequent Cancer Therapy"	2989091003	4733910002	"Docetaxel"	282	NA	1
+"548"	"DN-101 Protocol No. 011-007"	"511"	"511-0006"	5	11	"Subsequent Cancer Therapy"	3113949003	4561764002	"Docetaxel"	261	NA	1
+"549"	"DN-101 Protocol No. 011-007"	"511"	"511-0007"	5	11	"Subsequent Cancer Therapy"	3175671003	4561976002	"Docetaxel"	230	NA	1
+"550"	"DN-101 Protocol No. 011-007"	"511"	"511-0009"	5	11	"Subsequent Cancer Therapy"	3449838003	4562578002	"Docetaxel"	174	NA	1
+"551"	"DN-101 Protocol No. 011-007"	"514"	"514-0001"	5	11	"Subsequent Cancer Therapy"	3435090003	4789778002	"Docetaxel"	136	136	1
+"552"	"DN-101 Protocol No. 011-007"	"514"	"514-0001"	5	11	"Subsequent Cancer Therapy"	5107013004	4789778002	"Dexamethason"	157	157	1
+"553"	"DN-101 Protocol No. 011-007"	"514"	"514-0001"	5	11	"Subsequent Cancer Therapy"	4789778006	4789778002	"Docetaxel"	157	157	1
+"554"	"DN-101 Protocol No. 011-007"	"514"	"514-0001"	5	11	"Subsequent Cancer Therapy"	5107013002	4789778002	"Dexamethason"	136	136	1
+"555"	"DN-101 Protocol No. 011-007"	"515"	"515-0001"	5	11	"Subsequent Cancer Therapy"	2910083003	4701848002	"Taxotere"	287	287	1
+"556"	"DN-101 Protocol No. 011-007"	"515"	"515-0001"	5	11	"Subsequent Cancer Therapy"	4701893002	4701848002	"Prednisolon"	302	NA	1
+"557"	"DN-101 Protocol No. 011-007"	"515"	"515-0003"	5	11	"Subsequent Cancer Therapy"	2964464003	4915339002	"taxotere"	297	NA	1
+"558"	"DN-101 Protocol No. 011-007"	"515"	"515-0003"	5	11	"Subsequent Cancer Therapy"	4915339004	4915339002	"prednisolone"	239	NA	1
+"559"	"DN-101 Protocol No. 011-007"	"515"	"515-0004"	5	11	"Subsequent Cancer Therapy"	2964470003	4915766002	"prednisolone"	317	NA	1
+"560"	"DN-101 Protocol No. 011-007"	"515"	"515-0005"	5	11	"Subsequent Cancer Therapy"	3026451003	4823378002	"Docetaxel"	229	NA	1
+"561"	"DN-101 Protocol No. 011-007"	"515"	"515-0007"	5	11	"Subsequent Cancer Therapy"	3076265003	5073952002	"Docetaxel"	217	NA	1
+"562"	"DN-101 Protocol No. 011-007"	"515"	"515-0008"	5	11	"Subsequent Cancer Therapy"	3157031003	4823585002	"Prednisolon"	206	NA	1
+"563"	"DN-101 Protocol No. 011-007"	"515"	"515-0008"	5	11	"Subsequent Cancer Therapy"	4823585004	4823585002	"Docetaxel"	206	NA	1
+"564"	"DN-101 Protocol No. 011-007"	"515"	"515-0014"	5	11	"Subsequent Cancer Therapy"	3809791003	4617623002	"Docetaxel"	46	NA	1
+"565"	"DN-101 Protocol No. 011-007"	"518"	"518-0001"	5	11	"Subsequent Cancer Therapy"	3086987003	4191878001	"Docetaxel"	211	NA	1
+"566"	"DN-101 Protocol No. 011-007"	"518"	"518-0001"	5	11	"Subsequent Cancer Therapy"	4191878003	4191878001	"Prednisone"	211	NA	1
+"567"	"DN-101 Protocol No. 011-007"	"521"	"521-0002"	5	11	"Subsequent Cancer Therapy"	2883225003	3461521001	"Prednison"	238	NA	1
+"568"	"DN-101 Protocol No. 011-007"	"521"	"521-0002"	5	11	"Subsequent Cancer Therapy"	4323674001	3461521001	"Nizoral"	238	NA	1
+"569"	"DN-101 Protocol No. 011-007"	"521"	"521-0002"	5	11	"Subsequent Cancer Therapy"	4323674005	3461521001	"Vinorelbine"	299	NA	1
+"570"	"DN-101 Protocol No. 011-007"	"521"	"521-0002"	5	11	"Subsequent Cancer Therapy"	3461536001	3461521001	"Carboplatin"	133	211	1
+"571"	"DN-101 Protocol No. 011-007"	"521"	"521-0002"	5	11	"Subsequent Cancer Therapy"	4323674007	3461521001	"Mitoxantron"	299	NA	1
+"572"	"DN-101 Protocol No. 011-007"	"521"	"521-0002"	5	11	"Subsequent Cancer Therapy"	3461769001	3461521001	"Taxol"	133	211	1
+"573"	"DN-101 Protocol No. 011-007"	"521"	"521-0003"	5	11	"Subsequent Cancer Therapy"	2911848003	4324576001	"Nizoral"	265	NA	1
+"574"	"DN-101 Protocol No. 011-007"	"521"	"521-0003"	5	11	"Subsequent Cancer Therapy"	4324576005	4324576001	"Decortin"	265	NA	1
+"575"	"DN-101 Protocol No. 011-007"	"522"	"522-0006"	5	11	"Subsequent Cancer Therapy"	3153380003	4697796002	"Docetaxel 141mg"	197	197	1
+"576"	"DN-101 Protocol No. 011-007"	"522"	"522-0006"	5	11	"Subsequent Cancer Therapy"	4697855002	4697796002	"Prednison"	197	216	1
+"577"	"DN-101 Protocol No. 011-007"	"522"	"522-0007"	5	11	"Subsequent Cancer Therapy"	3156780003	4698079002	"Docetaxel 146mg"	197	197	1
+"578"	"DN-101 Protocol No. 011-007"	"522"	"522-0007"	5	11	"Subsequent Cancer Therapy"	4698079006	4698079002	"Prednison"	197	216	1
+"579"	"DN-101 Protocol No. 011-007"	"522"	"522-0009"	5	11	"Subsequent Cancer Therapy"	3275980003	4699448002	"Docetaxel 156mg"	177	177	1
+"580"	"DN-101 Protocol No. 011-007"	"522"	"522-0009"	5	11	"Subsequent Cancer Therapy"	5438025002	4699448002	"Docetaxel 156mg"	198	198	1
+"581"	"DN-101 Protocol No. 011-007"	"522"	"522-0009"	5	11	"Subsequent Cancer Therapy"	4699448004	4699448002	"Docetaxel 156mg"	156	156	1
+"582"	"DN-101 Protocol No. 011-007"	"522"	"522-0011"	5	11	"Subsequent Cancer Therapy"	3567815003	4701520002	"Docetaxel 146mg"	111	111	1
+"583"	"DN-101 Protocol No. 011-007"	"522"	"522-0011"	5	11	"Subsequent Cancer Therapy"	4701520004	4701520002	"Docetaxel 146mg"	90	90	1
+"584"	"DN-101 Protocol No. 011-007"	"522"	"522-0011"	5	11	"Subsequent Cancer Therapy"	4701520008	4701520002	"Docetaxel 146mg"	134	134	1
+"585"	"DN-101 Protocol No. 011-007"	"522"	"522-0012"	5	11	"Subsequent Cancer Therapy"	3572532003	4791275002	"Docetaxel 126mg"	111	111	1
+"586"	"DN-101 Protocol No. 011-007"	"522"	"522-0012"	5	11	"Subsequent Cancer Therapy"	4791275008	4791275002	"Docetaxel 126mg"	149	149	1
+"587"	"DN-101 Protocol No. 011-007"	"522"	"522-0012"	5	11	"Subsequent Cancer Therapy"	4791275004	4791275002	"Docetaxel 126mg"	90	90	1
+"588"	"DN-101 Protocol No. 011-007"	"523"	"523-0001"	5	11	"Subsequent Cancer Therapy"	2994191003	4756554002	"Prednison"	259	NA	1
+"589"	"DN-101 Protocol No. 011-007"	"523"	"523-0002"	5	11	"Subsequent Cancer Therapy"	3904047003	4756675002	"Docetaxel"	84	NA	1
+"590"	"DN-101 Protocol No. 011-007"	"523"	"523-0002"	5	11	"Subsequent Cancer Therapy"	4756675004	4756675002	"Prednisone"	36	NA	1
+"591"	"DN-101 Protocol No. 011-007"	"523"	"523-0003"	5	11	"Subsequent Cancer Therapy"	3904054003	4756691002	"Docetaxel"	80	NA	1
+"592"	"DN-101 Protocol No. 011-007"	"523"	"523-0003"	5	11	"Subsequent Cancer Therapy"	4756691004	4756691002	"Prednisone"	39	NA	1
+"593"	"DN-101 Protocol No. 011-007"	"524"	"524-0009"	5	11	"Subsequent Cancer Therapy"	3617030003	4681456002	"Chemo therapy Docetaxel"	69	NA	1
+"594"	"DN-101 Protocol No. 011-007"	"524"	"524-0011"	5	11	"Subsequent Cancer Therapy"	3747038003	4682869002	"Chemotherapy Docetaxel"	43	NA	1
+"595"	"DN-101 Protocol No. 011-007"	"524"	"524-0012"	5	11	"Subsequent Cancer Therapy"	3824391003	4683177002	"Docetaxel"	44	NA	1
+"596"	"DN-101 Protocol No. 011-007"	"525"	"525-0003"	5	11	"Subsequent Cancer Therapy"	3240649003	4250117001	"Prednison"	170	176	1
+"597"	"DN-101 Protocol No. 011-007"	"525"	"525-0007"	5	11	"Subsequent Cancer Therapy"	3516725003	4605167002	"Taxotere"	103	NA	1
+"598"	"DN-101 Protocol No. 011-007"	"525"	"525-0007"	5	11	"Subsequent Cancer Therapy"	5313386002	4605167002	"Prednison"	90	101	1
+"599"	"DN-101 Protocol No. 011-007"	"527"	"527-0001"	5	11	"Subsequent Cancer Therapy"	3616571003	4350991001	"Docetaxel"	78	NA	1
+"600"	"DN-101 Protocol No. 011-007"	"528"	"528-0003"	5	11	"Subsequent Cancer Therapy"	3362811003	4868962002	"Docetaxel"	133	133	1
+"601"	"DN-101 Protocol No. 011-007"	"529"	"529-0005"	5	11	"Subsequent Cancer Therapy"	3909447003	5223418002	"taxotere"	28	154	1
+"602"	"DN-101 Protocol No. 011-007"	"603"	"603-0001"	5	11	"Subsequent Cancer Therapy"	3583307003	4150018001	"Medrol"	90	91	1
+"603"	"DN-101 Protocol No. 011-007"	"603"	"603-0001"	5	11	"Subsequent Cancer Therapy"	4150054001	4150018001	"Prednisolone"	90	110	1
+"604"	"DN-101 Protocol No. 011-007"	"603"	"603-0001"	5	11	"Subsequent Cancer Therapy"	4150018003	4150018001	"Docetaxel"	90	90	1
+"605"	"DN-101 Protocol No. 011-007"	"603"	"603-0001"	5	11	"Subsequent Cancer Therapy"	4821933002	4150018001	"Oradexon"	111	111	1
+"606"	"DN-101 Protocol No. 011-007"	"604"	"604-0001"	5	11	"Subsequent Cancer Therapy"	3926963003	4192562001	"Docetaxel"	29	NA	1
+"607"	"DN-101 Protocol No. 011-007"	"604"	"604-0001"	5	11	"Subsequent Cancer Therapy"	4192567001	4192562001	"prednisolone"	29	NA	1
+"608"	"DN-101 Protocol No. 011-007"	"604"	"604-0002"	5	11	"Subsequent Cancer Therapy"	3926987003	4192936001	"Docetaxel"	43	NA	1
+"609"	"DN-101 Protocol No. 011-007"	"604"	"604-0002"	5	11	"Subsequent Cancer Therapy"	4193061001	4192936001	"Goserelin"	43	NA	1
+"610"	"DN-101 Protocol No. 011-007"	"604"	"604-0002"	5	11	"Subsequent Cancer Therapy"	4192960001	4192936001	"prednisolone"	43	NA	1
+"611"	"DN-101 Protocol No. 011-007"	"606"	"606-0002"	5	11	"Subsequent Cancer Therapy"	3521593003	4251572001	"calumid"	114	NA	1
+"612"	"DN-101 Protocol No. 011-007"	"606"	"606-0002"	5	11	"Subsequent Cancer Therapy"	4653946002	4251572001	"mitoxantrone"	42	42	1
+"613"	"DN-101 Protocol No. 011-007"	"606"	"606-0002"	5	11	"Subsequent Cancer Therapy"	4653984002	4251572001	"isotope therapy"	92	92	1
+"614"	"DN-101 Protocol No. 011-007"	"606"	"606-0002"	5	11	"Subsequent Cancer Therapy"	4251572003	4251572001	"radiation therapy"	49	56	1
+"615"	"DN-101 Protocol No. 011-007"	"606"	"606-0003"	5	11	"Subsequent Cancer Therapy"	3830137003	4252285001	"prednisolon"	49	NA	1
+"616"	"DN-101 Protocol No. 011-007"	"606"	"606-0003"	5	11	"Subsequent Cancer Therapy"	4252285003	4252285001	"docetaxel"	56	NA	1
+"617"	"DN-101 Protocol No. 011-007"	"606"	"606-0004"	5	11	"Subsequent Cancer Therapy"	3870383003	4420949002	"prednisolone"	41	NA	1
+"618"	"DN-101 Protocol No. 011-007"	"606"	"606-0004"	5	11	"Subsequent Cancer Therapy"	4420949004	4420949002	"docetaxel"	41	NA	1
+"619"	"DN-101 Protocol No. 011-007"	"606"	"606-0005"	5	11	"Subsequent Cancer Therapy"	3962934003	4420257002	"docetaxel"	33	NA	1
+"620"	"DN-101 Protocol No. 011-007"	"606"	"606-0005"	5	11	"Subsequent Cancer Therapy"	4420257006	4420257002	"prednisolone"	12	NA	1
+"621"	"DN-101 Protocol No. 011-007"	"610"	"610-0002"	5	11	"Subsequent Cancer Therapy"	3304857003	4521938002	"Docetaxel"	153	NA	1
+"622"	"DN-101 Protocol No. 011-007"	"610"	"610-0004"	5	11	"Subsequent Cancer Therapy"	3375008003	4522409002	"Docetaxel"	143	NA	1
+"623"	"DN-101 Protocol No. 011-007"	"613"	"613-0004"	5	11	"Subsequent Cancer Therapy"	3788923003	4438562002	"docetaxel"	49	NA	1
+"624"	"DN-101 Protocol No. 011-007"	"614"	"614-0001"	5	11	"Subsequent Cancer Therapy"	3354848003	4371487001	"Prednisone"	152	NA	1
+"625"	"DN-101 Protocol No. 011-007"	"614"	"614-0001"	5	11	"Subsequent Cancer Therapy"	4371487003	4371487001	"Docetaxel"	152	NA	1
+"626"	"DN-101 Protocol No. 011-007"	"616"	"616-0001"	5	11	"Subsequent Cancer Therapy"	3444852003	4088474001	"Taxotere"	113	NA	1
+"627"	"DN-101 Protocol No. 011-007"	"616"	"616-0001"	5	11	"Subsequent Cancer Therapy"	4088474003	4088474001	"Prednison"	113	NA	1
+"628"	"DN-101 Protocol No. 011-007"	"616"	"616-0003"	5	11	"Subsequent Cancer Therapy"	3457926003	4092679001	"Prednison"	113	NA	1
+"629"	"DN-101 Protocol No. 011-007"	"616"	"616-0003"	5	11	"Subsequent Cancer Therapy"	4092679003	4092679001	"Taxotere"	113	NA	1
+"630"	"DN-101 Protocol No. 011-007"	"616"	"616-0004"	5	11	"Subsequent Cancer Therapy"	3457940003	4092796001	"Taxotere"	116	NA	1
+"631"	"DN-101 Protocol No. 011-007"	"616"	"616-0004"	5	11	"Subsequent Cancer Therapy"	4507124002	4092796001	"Prednison"	116	NA	1
+"632"	"DN-101 Protocol No. 011-007"	"616"	"616-0008"	5	11	"Subsequent Cancer Therapy"	3616359003	4092883001	"Prednison"	79	NA	1
+"633"	"DN-101 Protocol No. 011-007"	"616"	"616-0008"	5	11	"Subsequent Cancer Therapy"	4092883003	4092883001	"Taxotere"	79	NA	1
+"634"	"DN-101 Protocol No. 011-007"	"616"	"616-0009"	5	11	"Subsequent Cancer Therapy"	3616365003	5160396002	"Xeloda"	NA	NA	1
+"635"	"DN-101 Protocol No. 011-007"	"616"	"616-0011"	5	11	"Subsequent Cancer Therapy"	3616377003	4509075002	"Taxotere"	76	NA	1
+"636"	"DN-101 Protocol No. 011-007"	"616"	"616-0011"	5	11	"Subsequent Cancer Therapy"	4509075006	4509075002	"Prednison"	76	NA	1
+"637"	"DN-101 Protocol No. 011-007"	"616"	"616-0013"	5	11	"Subsequent Cancer Therapy"	3624946003	4636142002	"Taxotere"	71	NA	1
+"638"	"DN-101 Protocol No. 011-007"	"616"	"616-0013"	5	11	"Subsequent Cancer Therapy"	4636142006	4636142002	"Prednizon"	71	NA	1
+"639"	"DN-101 Protocol No. 011-007"	"616"	"616-0014"	5	11	"Subsequent Cancer Therapy"	3753771003	4096780001	"Prednisone"	57	NA	1
+"640"	"DN-101 Protocol No. 011-007"	"616"	"616-0014"	5	11	"Subsequent Cancer Therapy"	4096780003	4096780001	"Taxotere"	57	NA	1
+"641"	"DN-101 Protocol No. 011-007"	"617"	"617-0001"	5	11	"Subsequent Cancer Therapy"	3519847003	4139886001	"Prednisone"	98	NA	1
+"642"	"DN-101 Protocol No. 011-007"	"617"	"617-0001"	5	11	"Subsequent Cancer Therapy"	4139886003	4139886001	"Taxotere"	98	NA	1
+"643"	"DN-101 Protocol No. 011-007"	"619"	"619-0005"	5	11	"Subsequent Cancer Therapy"	3276319003	4357900001	"Docetaxel (standard care for HRPC with Docetaxel)"	154	175	1
+"644"	"DN-101 Protocol No. 011-007"	"619"	"619-0005"	5	11	"Subsequent Cancer Therapy"	4568907002	4357900001	"Prednisone (standard care for HRPC with Docetaxel)"	154	175	1
+"645"	"DN-101 Protocol No. 011-007"	"619"	"619-0007"	5	11	"Subsequent Cancer Therapy"	3431078003	4357515001	"Prednisone (standard care for HRPC with Docetaxel)"	133	133	1
+"646"	"DN-101 Protocol No. 011-007"	"619"	"619-0007"	5	11	"Subsequent Cancer Therapy"	4357515003	4357515001	"Docetaxel (standard care for HRPC with Prednisone)"	133	133	1
+"647"	"DN-101 Protocol No. 011-007"	"619"	"619-0008"	5	11	"Subsequent Cancer Therapy"	3661584003	4358104001	"Carboplatin (800 mg)"	127	NA	1
+"648"	"DN-101 Protocol No. 011-007"	"619"	"619-0008"	5	11	"Subsequent Cancer Therapy"	4584319002	4358104001	"Prednisone (standard care for HRPC with Docetaxel)"	73	73	1
+"649"	"DN-101 Protocol No. 011-007"	"619"	"619-0008"	5	11	"Subsequent Cancer Therapy"	4358104003	4358104001	"Docetaxel (standard care for HRPC with Prednisone)"	73	73	1
+"650"	"DN-101 Protocol No. 011-007"	"620"	"620-0001"	5	11	"Subsequent Cancer Therapy"	3904207003	4116933001	"prednisone"	37	NA	1
+"651"	"DN-101 Protocol No. 011-007"	"620"	"620-0001"	5	11	"Subsequent Cancer Therapy"	4116933003	4116933001	"docetaxel"	37	NA	1
+"652"	"DN-101 Protocol No. 011-007"	"621"	"621-0001"	5	11	"Subsequent Cancer Therapy"	3250632003	4356187001	"Docetaxel"	176	NA	1
+"653"	"DN-101 Protocol No. 011-007"	"621"	"621-0001"	5	11	"Subsequent Cancer Therapy"	4356187003	4356187001	"Prednisone"	176	NA	1
+"654"	"DN-101 Protocol No. 011-007"	"621"	"621-0002"	5	11	"Subsequent Cancer Therapy"	3322721003	4504706002	"Docetaxel"	147	NA	1
+"655"	"DN-101 Protocol No. 011-007"	"621"	"621-0002"	5	11	"Subsequent Cancer Therapy"	5182117002	4504706002	"Prednisone"	147	NA	1
+"656"	"DN-101 Protocol No. 011-007"	"621"	"621-0004"	5	11	"Subsequent Cancer Therapy"	3876822003	4505079002	"Prednisone"	44	NA	1
+"657"	"DN-101 Protocol No. 011-007"	"621"	"621-0004"	5	11	"Subsequent Cancer Therapy"	4505079004	4505079002	"Docetaxel"	44	NA	1
+"658"	"DN-101 Protocol No. 011-007"	"625"	"625-0001"	5	11	"Subsequent Cancer Therapy"	3966666003	4356986001	"prednison"	51	NA	1
+"659"	"DN-101 Protocol No. 011-007"	"625"	"625-0001"	5	11	"Subsequent Cancer Therapy"	4356986003	4356986001	"docetaxel"	51	NA	1

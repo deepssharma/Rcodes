@@ -1,0 +1,477 @@
+"PROJ_ID"	"SITE_ID"	"SUBID"	"STATE"	"EVENT_ID"	"SETNAME"	"CLASS"	"CLASSLBL"	"IS_MON"
+"1"	"DN-101 Protocol No. 011-007"	"001"	"001-0003"	"2"	"Pre-Enrollment"	"lbchem"	"idc::nova::014::crf::LabPanel::ChemLocal"	"Local Chemistry Lab (If Requested)"	1
+"2"	"DN-101 Protocol No. 011-007"	"001"	"001-0004"	"2"	"Pre-Enrollment"	"lpsa"	"idc::nova::014::crf::LabPanel::PSALocal"	"Local PSA (If Requested)"	1
+"3"	"DN-101 Protocol No. 011-007"	"001"	"001-0005"	"2"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	1
+"4"	"DN-101 Protocol No. 011-007"	"001"	"001-0008"	"5"	"Pre-Enrollment"	"lbchem"	"idc::nova::014::crf::LabPanel::ChemLocal"	"Local Chemistry Lab (If Requested)"	0
+"5"	"DN-101 Protocol No. 011-007"	"001"	"001-0009"	"5"	"Pre-Enrollment"	"lpsa"	"idc::nova::014::crf::LabPanel::PSALocal"	"Local PSA (If Requested)"	0
+"6"	"DN-101 Protocol No. 011-007"	"001"	"001-0012"	"2"	"Pre-Enrollment"	"lpsa"	"idc::nova::014::crf::LabPanel::PSALocal"	"Local PSA (If Requested)"	1
+"7"	"DN-101 Protocol No. 011-007"	"001"	"001-0013"	"2"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	1
+"8"	"DN-101 Protocol No. 011-007"	"001"	"001-0014"	"2"	"Pre-Enrollment"	"lbhem"	"idc::nova::014::crf::LabPanel::HemLocal"	"Local Hematology Lab (If Requested)"	1
+"9"	"DN-101 Protocol No. 011-007"	"002"	"002-0001"	"2"	"Pre-Enrollment"	"lbhem"	"idc::nova::014::crf::LabPanel::HemLocal"	"Local Hematology Lab (If Requested)"	1
+"10"	"DN-101 Protocol No. 011-007"	"002"	"002-0008"	"2"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	1
+"11"	"DN-101 Protocol No. 011-007"	"002"	"002-0011"	"2"	"Pre-Enrollment"	"lbchem"	"idc::nova::014::crf::LabPanel::ChemLocal"	"Local Chemistry Lab (If Requested)"	0
+"12"	"DN-101 Protocol No. 011-007"	"002"	"002-0014"	"2"	"Pre-Enrollment"	"lbhem"	"idc::nova::014::crf::LabPanel::HemLocal"	"Local Hematology Lab (If Requested)"	1
+"13"	"DN-101 Protocol No. 011-007"	"002"	"002-0016"	"2"	"Pre-Enrollment"	"lpsa"	"idc::nova::014::crf::LabPanel::PSALocal"	"Local PSA (If Requested)"	1
+"14"	"DN-101 Protocol No. 011-007"	"002"	"002-0019"	"2"	"Pre-Enrollment"	"lbhem"	"idc::nova::014::crf::LabPanel::HemLocal"	"Local Hematology Lab (If Requested)"	1
+"15"	"DN-101 Protocol No. 011-007"	"002"	"002-0020"	"2"	"Pre-Enrollment"	"lbchem"	"idc::nova::014::crf::LabPanel::ChemLocal"	"Local Chemistry Lab (If Requested)"	1
+"16"	"DN-101 Protocol No. 011-007"	"003"	"003-0001"	"2"	"Pre-Enrollment"	"lpsa"	"idc::nova::014::crf::LabPanel::PSALocal"	"Local PSA (If Requested)"	1
+"17"	"DN-101 Protocol No. 011-007"	"003"	"003-0002"	"2"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	1
+"18"	"DN-101 Protocol No. 011-007"	"003"	"003-0003"	"2"	"Pre-Enrollment"	"lb"	"idc::nova::014::crf::LabPanel::Chem"	"Covance Lab"	0
+"19"	"DN-101 Protocol No. 011-007"	"003"	"003-0004"	"2"	"Pre-Enrollment"	"lbhem"	"idc::nova::014::crf::LabPanel::HemLocal"	"Local Hematology Lab (If Requested)"	1
+"20"	"DN-101 Protocol No. 011-007"	"003"	"003-0006"	"2"	"Pre-Enrollment"	"lpsa"	"idc::nova::014::crf::LabPanel::PSALocal"	"Local PSA (If Requested)"	1
+"21"	"DN-101 Protocol No. 011-007"	"003"	"003-0007"	"2"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	1
+"22"	"DN-101 Protocol No. 011-007"	"003"	"003-0009"	"2"	"Pre-Enrollment"	"lbchem"	"idc::nova::014::crf::LabPanel::ChemLocal"	"Local Chemistry Lab (If Requested)"	1
+"23"	"DN-101 Protocol No. 011-007"	"003"	"003-0010"	"2"	"Pre-Enrollment"	"lpsa"	"idc::nova::014::crf::LabPanel::PSALocal"	"Local PSA (If Requested)"	1
+"24"	"DN-101 Protocol No. 011-007"	"003"	"003-0011"	"2"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	1
+"25"	"DN-101 Protocol No. 011-007"	"003"	"003-0012"	"2"	"Pre-Enrollment"	"lb"	"idc::nova::014::crf::LabPanel::Chem"	"Covance Lab"	0
+"26"	"DN-101 Protocol No. 011-007"	"003"	"003-0013"	"2"	"Pre-Enrollment"	"lbhem"	"idc::nova::014::crf::LabPanel::HemLocal"	"Local Hematology Lab (If Requested)"	0
+"27"	"DN-101 Protocol No. 011-007"	"003"	"003-0014"	"2"	"Pre-Enrollment"	"lbchem"	"idc::nova::014::crf::LabPanel::ChemLocal"	"Local Chemistry Lab (If Requested)"	0
+"28"	"DN-101 Protocol No. 011-007"	"003"	"003-0015"	"2"	"Pre-Enrollment"	"lpsa"	"idc::nova::014::crf::LabPanel::PSALocal"	"Local PSA (If Requested)"	0
+"29"	"DN-101 Protocol No. 011-007"	"005"	"005-0001"	"2"	"Pre-Enrollment"	"lbchem"	"idc::nova::014::crf::LabPanel::ChemLocal"	"Local Chemistry Lab (If Requested)"	1
+"30"	"DN-101 Protocol No. 011-007"	"006"	"006-0001"	"2"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	1
+"31"	"DN-101 Protocol No. 011-007"	"006"	"006-0002"	"2"	"Pre-Enrollment"	"lbhem"	"idc::nova::014::crf::LabPanel::HemLocal"	"Local Hematology Lab (If Requested)"	0
+"32"	"DN-101 Protocol No. 011-007"	"008"	"008-0001"	"2"	"Pre-Enrollment"	"lpsa"	"idc::nova::014::crf::LabPanel::PSALocal"	"Local PSA (If Requested)"	0
+"33"	"DN-101 Protocol No. 011-007"	"009"	"009-0004"	"2"	"Pre-Enrollment"	"lpsa"	"idc::nova::014::crf::LabPanel::PSALocal"	"Local PSA (If Requested)"	1
+"34"	"DN-101 Protocol No. 011-007"	"009"	"009-0005"	"2"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	1
+"35"	"DN-101 Protocol No. 011-007"	"009"	"009-0008"	"2"	"Pre-Enrollment"	"lpsa"	"idc::nova::014::crf::LabPanel::PSALocal"	"Local PSA (If Requested)"	1
+"36"	"DN-101 Protocol No. 011-007"	"009"	"009-0009"	"2"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	1
+"37"	"DN-101 Protocol No. 011-007"	"009"	"009-0010"	"2"	"Pre-Enrollment"	"lbhem"	"idc::nova::014::crf::LabPanel::HemLocal"	"Local Hematology Lab (If Requested)"	0
+"38"	"DN-101 Protocol No. 011-007"	"011"	"011-0002"	"2"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	0
+"39"	"DN-101 Protocol No. 011-007"	"012"	"012-0001"	"2"	"Pre-Enrollment"	"lbchem"	"idc::nova::014::crf::LabPanel::ChemLocal"	"Local Chemistry Lab (If Requested)"	1
+"40"	"DN-101 Protocol No. 011-007"	"013"	"013-0001"	"2"	"Pre-Enrollment"	"lpsa"	"idc::nova::014::crf::LabPanel::PSALocal"	"Local PSA (If Requested)"	1
+"41"	"DN-101 Protocol No. 011-007"	"014"	"014-0001"	"2"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	1
+"42"	"DN-101 Protocol No. 011-007"	"014"	"014-0002"	"2"	"Pre-Enrollment"	"lbchem"	"idc::nova::014::crf::LabPanel::ChemLocal"	"Local Chemistry Lab (If Requested)"	0
+"43"	"DN-101 Protocol No. 011-007"	"014"	"014-0003"	"2"	"Pre-Enrollment"	"lpsa"	"idc::nova::014::crf::LabPanel::PSALocal"	"Local PSA (If Requested)"	0
+"44"	"DN-101 Protocol No. 011-007"	"014"	"014-0006"	"2"	"Pre-Enrollment"	"lbchem"	"idc::nova::014::crf::LabPanel::ChemLocal"	"Local Chemistry Lab (If Requested)"	1
+"45"	"DN-101 Protocol No. 011-007"	"016"	"016-0001"	"2"	"Pre-Enrollment"	"lpsa"	"idc::nova::014::crf::LabPanel::PSALocal"	"Local PSA (If Requested)"	1
+"46"	"DN-101 Protocol No. 011-007"	"016"	"016-0002"	"2"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	1
+"47"	"DN-101 Protocol No. 011-007"	"016"	"016-0003"	"2"	"Pre-Enrollment"	"lbhem"	"idc::nova::014::crf::LabPanel::HemLocal"	"Local Hematology Lab (If Requested)"	0
+"48"	"DN-101 Protocol No. 011-007"	"017"	"017-0001"	"2"	"Pre-Enrollment"	"lbchem"	"idc::nova::014::crf::LabPanel::ChemLocal"	"Local Chemistry Lab (If Requested)"	0
+"49"	"DN-101 Protocol No. 011-007"	"019"	"019-0001"	"2"	"Pre-Enrollment"	"lpsa"	"idc::nova::014::crf::LabPanel::PSALocal"	"Local PSA (If Requested)"	0
+"50"	"DN-101 Protocol No. 011-007"	"019"	"019-0003"	"2"	"Pre-Enrollment"	"lb"	"idc::nova::014::crf::LabPanel::Chem"	"Covance Lab"	1
+"51"	"DN-101 Protocol No. 011-007"	"022"	"022-0002"	"2"	"Pre-Enrollment"	"lbchem"	"idc::nova::014::crf::LabPanel::ChemLocal"	"Local Chemistry Lab (If Requested)"	1
+"52"	"DN-101 Protocol No. 011-007"	"022"	"022-0004"	"2"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	1
+"53"	"DN-101 Protocol No. 011-007"	"024"	"024-0002"	"2"	"Pre-Enrollment"	"lpsa"	"idc::nova::014::crf::LabPanel::PSALocal"	"Local PSA (If Requested)"	0
+"54"	"DN-101 Protocol No. 011-007"	"024"	"024-0003"	"2"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	0
+"55"	"DN-101 Protocol No. 011-007"	"024"	"024-0006"	"2"	"Pre-Enrollment"	"lpsa"	"idc::nova::014::crf::LabPanel::PSALocal"	"Local PSA (If Requested)"	1
+"56"	"DN-101 Protocol No. 011-007"	"024"	"024-0009"	"2"	"Pre-Enrollment"	"lbhem"	"idc::nova::014::crf::LabPanel::HemLocal"	"Local Hematology Lab (If Requested)"	0
+"57"	"DN-101 Protocol No. 011-007"	"025"	"025-0002"	"2"	"Pre-Enrollment"	"lpsa"	"idc::nova::014::crf::LabPanel::PSALocal"	"Local PSA (If Requested)"	0
+"58"	"DN-101 Protocol No. 011-007"	"027"	"027-0001"	"2"	"Pre-Enrollment"	"lbhem"	"idc::nova::014::crf::LabPanel::HemLocal"	"Local Hematology Lab (If Requested)"	1
+"59"	"DN-101 Protocol No. 011-007"	"027"	"027-0003"	"2"	"Pre-Enrollment"	"lpsa"	"idc::nova::014::crf::LabPanel::PSALocal"	"Local PSA (If Requested)"	1
+"60"	"DN-101 Protocol No. 011-007"	"028"	"028-0002"	"2"	"Pre-Enrollment"	"lbchem"	"idc::nova::014::crf::LabPanel::ChemLocal"	"Local Chemistry Lab (If Requested)"	1
+"61"	"DN-101 Protocol No. 011-007"	"030"	"030-0001"	"2"	"Pre-Enrollment"	"lpsa"	"idc::nova::014::crf::LabPanel::PSALocal"	"Local PSA (If Requested)"	1
+"62"	"DN-101 Protocol No. 011-007"	"030"	"030-0003"	"2"	"Pre-Enrollment"	"lbhem"	"idc::nova::014::crf::LabPanel::HemLocal"	"Local Hematology Lab (If Requested)"	1
+"63"	"DN-101 Protocol No. 011-007"	"030"	"030-0004"	"2"	"Pre-Enrollment"	"lbchem"	"idc::nova::014::crf::LabPanel::ChemLocal"	"Local Chemistry Lab (If Requested)"	1
+"64"	"DN-101 Protocol No. 011-007"	"030"	"030-0005"	"2"	"Pre-Enrollment"	"lpsa"	"idc::nova::014::crf::LabPanel::PSALocal"	"Local PSA (If Requested)"	1
+"65"	"DN-101 Protocol No. 011-007"	"030"	"030-0009"	"2"	"Pre-Enrollment"	"lpsa"	"idc::nova::014::crf::LabPanel::PSALocal"	"Local PSA (If Requested)"	1
+"66"	"DN-101 Protocol No. 011-007"	"030"	"030-0012"	"2"	"Pre-Enrollment"	"lbchem"	"idc::nova::014::crf::LabPanel::ChemLocal"	"Local Chemistry Lab (If Requested)"	1
+"67"	"DN-101 Protocol No. 011-007"	"030"	"030-0013"	"2"	"Pre-Enrollment"	"lpsa"	"idc::nova::014::crf::LabPanel::PSALocal"	"Local PSA (If Requested)"	1
+"68"	"DN-101 Protocol No. 011-007"	"031"	"031-0001"	"2"	"Pre-Enrollment"	"lbhem"	"idc::nova::014::crf::LabPanel::HemLocal"	"Local Hematology Lab (If Requested)"	1
+"69"	"DN-101 Protocol No. 011-007"	"034"	"034-0001"	"2"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	1
+"70"	"DN-101 Protocol No. 011-007"	"036"	"036-0003"	"2"	"Pre-Enrollment"	"lbhem"	"idc::nova::014::crf::LabPanel::HemLocal"	"Local Hematology Lab (If Requested)"	0
+"71"	"DN-101 Protocol No. 011-007"	"037"	"037-0002"	"2"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	0
+"72"	"DN-101 Protocol No. 011-007"	"037"	"037-0003"	"2"	"Pre-Enrollment"	"lb"	"idc::nova::014::crf::LabPanel::Chem"	"Covance Lab"	1
+"73"	"DN-101 Protocol No. 011-007"	"039"	"039-0001"	"2"	"Pre-Enrollment"	"lbchem"	"idc::nova::014::crf::LabPanel::ChemLocal"	"Local Chemistry Lab (If Requested)"	1
+"74"	"DN-101 Protocol No. 011-007"	"041"	"041-0001"	"2"	"Pre-Enrollment"	"lb"	"idc::nova::014::crf::LabPanel::Chem"	"Covance Lab"	0
+"75"	"DN-101 Protocol No. 011-007"	"041"	"041-0005"	"2"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	0
+"76"	"DN-101 Protocol No. 011-007"	"041"	"041-0006"	"2"	"Pre-Enrollment"	"lb"	"idc::nova::014::crf::LabPanel::Chem"	"Covance Lab"	0
+"77"	"DN-101 Protocol No. 011-007"	"041"	"041-0009"	"2"	"Pre-Enrollment"	"lpsa"	"idc::nova::014::crf::LabPanel::PSALocal"	"Local PSA (If Requested)"	0
+"78"	"DN-101 Protocol No. 011-007"	"041"	"041-0010"	"2"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	0
+"79"	"DN-101 Protocol No. 011-007"	"041"	"041-0011"	"2"	"Pre-Enrollment"	"lbhem"	"idc::nova::014::crf::LabPanel::HemLocal"	"Local Hematology Lab (If Requested)"	1
+"80"	"DN-101 Protocol No. 011-007"	"041"	"041-0013"	"2"	"Pre-Enrollment"	"lpsa"	"idc::nova::014::crf::LabPanel::PSALocal"	"Local PSA (If Requested)"	1
+"81"	"DN-101 Protocol No. 011-007"	"041"	"041-0018"	"2"	"Pre-Enrollment"	"lpsa"	"idc::nova::014::crf::LabPanel::PSALocal"	"Local PSA (If Requested)"	1
+"82"	"DN-101 Protocol No. 011-007"	"041"	"041-0020"	"2"	"Pre-Enrollment"	"lbhem"	"idc::nova::014::crf::LabPanel::HemLocal"	"Local Hematology Lab (If Requested)"	1
+"83"	"DN-101 Protocol No. 011-007"	"041"	"041-0022"	"2"	"Pre-Enrollment"	"lpsa"	"idc::nova::014::crf::LabPanel::PSALocal"	"Local PSA (If Requested)"	1
+"84"	"DN-101 Protocol No. 011-007"	"041"	"041-0024"	"2"	"Pre-Enrollment"	"lbhem"	"idc::nova::014::crf::LabPanel::HemLocal"	"Local Hematology Lab (If Requested)"	0
+"85"	"DN-101 Protocol No. 011-007"	"041"	"041-0025"	"2"	"Pre-Enrollment"	"lbchem"	"idc::nova::014::crf::LabPanel::ChemLocal"	"Local Chemistry Lab (If Requested)"	0
+"86"	"DN-101 Protocol No. 011-007"	"041"	"041-0029"	"2"	"Pre-Enrollment"	"lbchem"	"idc::nova::014::crf::LabPanel::ChemLocal"	"Local Chemistry Lab (If Requested)"	1
+"87"	"DN-101 Protocol No. 011-007"	"041"	"041-0033"	"2"	"Pre-Enrollment"	"lbchem"	"idc::nova::014::crf::LabPanel::ChemLocal"	"Local Chemistry Lab (If Requested)"	0
+"88"	"DN-101 Protocol No. 011-007"	"041"	"041-0035"	"2"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	0
+"89"	"DN-101 Protocol No. 011-007"	"041"	"041-0036"	"2"	"Pre-Enrollment"	"lb"	"idc::nova::014::crf::LabPanel::Chem"	"Covance Lab"	1
+"90"	"DN-101 Protocol No. 011-007"	"041"	"041-0037"	"2"	"Pre-Enrollment"	"lbhem"	"idc::nova::014::crf::LabPanel::HemLocal"	"Local Hematology Lab (If Requested)"	1
+"91"	"DN-101 Protocol No. 011-007"	"041"	"041-0038"	"2"	"Pre-Enrollment"	"lbchem"	"idc::nova::014::crf::LabPanel::ChemLocal"	"Local Chemistry Lab (If Requested)"	1
+"92"	"DN-101 Protocol No. 011-007"	"041"	"041-0039"	"2"	"Pre-Enrollment"	"lpsa"	"idc::nova::014::crf::LabPanel::PSALocal"	"Local PSA (If Requested)"	1
+"93"	"DN-101 Protocol No. 011-007"	"043"	"043-0002"	"2"	"Pre-Enrollment"	"lbchem"	"idc::nova::014::crf::LabPanel::ChemLocal"	"Local Chemistry Lab (If Requested)"	1
+"94"	"DN-101 Protocol No. 011-007"	"043"	"043-0003"	"2"	"Pre-Enrollment"	"lpsa"	"idc::nova::014::crf::LabPanel::PSALocal"	"Local PSA (If Requested)"	1
+"95"	"DN-101 Protocol No. 011-007"	"043"	"043-0004"	"2"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	1
+"96"	"DN-101 Protocol No. 011-007"	"043"	"043-0005"	"2"	"Pre-Enrollment"	"lb"	"idc::nova::014::crf::LabPanel::Chem"	"Covance Lab"	1
+"97"	"DN-101 Protocol No. 011-007"	"043"	"043-0007"	"2"	"Pre-Enrollment"	"lbchem"	"idc::nova::014::crf::LabPanel::ChemLocal"	"Local Chemistry Lab (If Requested)"	1
+"98"	"DN-101 Protocol No. 011-007"	"043"	"043-0010"	"2"	"Pre-Enrollment"	"lb"	"idc::nova::014::crf::LabPanel::Chem"	"Covance Lab"	1
+"99"	"DN-101 Protocol No. 011-007"	"044"	"044-0001"	"2"	"Pre-Enrollment"	"lbhem"	"idc::nova::014::crf::LabPanel::HemLocal"	"Local Hematology Lab (If Requested)"	1
+"100"	"DN-101 Protocol No. 011-007"	"044"	"044-0002"	"2"	"Pre-Enrollment"	"lbchem"	"idc::nova::014::crf::LabPanel::ChemLocal"	"Local Chemistry Lab (If Requested)"	1
+"101"	"DN-101 Protocol No. 011-007"	"045"	"045-0001"	"2"	"Pre-Enrollment"	"lpsa"	"idc::nova::014::crf::LabPanel::PSALocal"	"Local PSA (If Requested)"	1
+"102"	"DN-101 Protocol No. 011-007"	"046"	"046-0001"	"2"	"Pre-Enrollment"	"lbhem"	"idc::nova::014::crf::LabPanel::HemLocal"	"Local Hematology Lab (If Requested)"	0
+"103"	"DN-101 Protocol No. 011-007"	"047"	"047-0001"	"2"	"Pre-Enrollment"	"lbchem"	"idc::nova::014::crf::LabPanel::ChemLocal"	"Local Chemistry Lab (If Requested)"	0
+"104"	"DN-101 Protocol No. 011-007"	"049"	"049-0002"	"2"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	0
+"105"	"DN-101 Protocol No. 011-007"	"049"	"049-0003"	"2"	"Pre-Enrollment"	"lbhem"	"idc::nova::014::crf::LabPanel::HemLocal"	"Local Hematology Lab (If Requested)"	0
+"106"	"DN-101 Protocol No. 011-007"	"049"	"049-0006"	"2"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	0
+"107"	"DN-101 Protocol No. 011-007"	"050"	"050-0004"	"2"	"Pre-Enrollment"	"lpsa"	"idc::nova::014::crf::LabPanel::PSALocal"	"Local PSA (If Requested)"	1
+"108"	"DN-101 Protocol No. 011-007"	"050"	"050-0005"	"2"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	1
+"109"	"DN-101 Protocol No. 011-007"	"050"	"050-0006"	"2"	"Pre-Enrollment"	"lbhem"	"idc::nova::014::crf::LabPanel::HemLocal"	"Local Hematology Lab (If Requested)"	0
+"110"	"DN-101 Protocol No. 011-007"	"050"	"050-0007"	"2"	"Pre-Enrollment"	"lbchem"	"idc::nova::014::crf::LabPanel::ChemLocal"	"Local Chemistry Lab (If Requested)"	0
+"111"	"DN-101 Protocol No. 011-007"	"050"	"050-0012"	"2"	"Pre-Enrollment"	"lbchem"	"idc::nova::014::crf::LabPanel::ChemLocal"	"Local Chemistry Lab (If Requested)"	1
+"112"	"DN-101 Protocol No. 011-007"	"051"	"051-0001"	"2"	"Pre-Enrollment"	"lpsa"	"idc::nova::014::crf::LabPanel::PSALocal"	"Local PSA (If Requested)"	1
+"113"	"DN-101 Protocol No. 011-007"	"052"	"052-0001"	"2"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	1
+"114"	"DN-101 Protocol No. 011-007"	"052"	"052-0004"	"2"	"Pre-Enrollment"	"lbchem"	"idc::nova::014::crf::LabPanel::ChemLocal"	"Local Chemistry Lab (If Requested)"	1
+"115"	"DN-101 Protocol No. 011-007"	"053"	"053-0001"	"2"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	1
+"116"	"DN-101 Protocol No. 011-007"	"053"	"053-0002"	"2"	"Pre-Enrollment"	"lb"	"idc::nova::014::crf::LabPanel::Chem"	"Covance Lab"	0
+"117"	"DN-101 Protocol No. 011-007"	"055"	"055-0002"	"2"	"Pre-Enrollment"	"lpsa"	"idc::nova::014::crf::LabPanel::PSALocal"	"Local PSA (If Requested)"	0
+"118"	"DN-101 Protocol No. 011-007"	"056"	"056-0003"	"2"	"Pre-Enrollment"	"lbhem"	"idc::nova::014::crf::LabPanel::HemLocal"	"Local Hematology Lab (If Requested)"	1
+"119"	"DN-101 Protocol No. 011-007"	"056"	"056-0004"	"2"	"Pre-Enrollment"	"lbchem"	"idc::nova::014::crf::LabPanel::ChemLocal"	"Local Chemistry Lab (If Requested)"	1
+"120"	"DN-101 Protocol No. 011-007"	"059"	"059-0002"	"2"	"Pre-Enrollment"	"lbhem"	"idc::nova::014::crf::LabPanel::HemLocal"	"Local Hematology Lab (If Requested)"	1
+"121"	"DN-101 Protocol No. 011-007"	"060"	"060-0001"	"2"	"Pre-Enrollment"	"lbchem"	"idc::nova::014::crf::LabPanel::ChemLocal"	"Local Chemistry Lab (If Requested)"	1
+"122"	"DN-101 Protocol No. 011-007"	"061"	"061-0002"	"2"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	1
+"123"	"DN-101 Protocol No. 011-007"	"061"	"061-0003"	"2"	"Pre-Enrollment"	"lb"	"idc::nova::014::crf::LabPanel::Chem"	"Covance Lab"	1
+"124"	"DN-101 Protocol No. 011-007"	"061"	"061-0004"	"2"	"Pre-Enrollment"	"lbhem"	"idc::nova::014::crf::LabPanel::HemLocal"	"Local Hematology Lab (If Requested)"	1
+"125"	"DN-101 Protocol No. 011-007"	"061"	"061-0005"	"2"	"Pre-Enrollment"	"lbchem"	"idc::nova::014::crf::LabPanel::ChemLocal"	"Local Chemistry Lab (If Requested)"	1
+"126"	"DN-101 Protocol No. 011-007"	"062"	"062-0006"	"2"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	1
+"127"	"DN-101 Protocol No. 011-007"	"063"	"063-0001"	"2"	"Pre-Enrollment"	"lbhem"	"idc::nova::014::crf::LabPanel::HemLocal"	"Local Hematology Lab (If Requested)"	1
+"128"	"DN-101 Protocol No. 011-007"	"063"	"063-0003"	"2"	"Pre-Enrollment"	"lpsa"	"idc::nova::014::crf::LabPanel::PSALocal"	"Local PSA (If Requested)"	1
+"129"	"DN-101 Protocol No. 011-007"	"063"	"063-0004"	"2"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	1
+"130"	"DN-101 Protocol No. 011-007"	"063"	"063-0005"	"1"	"Pre-Enrollment"	"lbhem"	"idc::nova::014::crf::LabPanel::HemLocal"	"Local Hematology Lab (If Requested)"	0
+"131"	"DN-101 Protocol No. 011-007"	"063"	"063-0006"	"1"	"Pre-Enrollment"	"lbchem"	"idc::nova::014::crf::LabPanel::ChemLocal"	"Local Chemistry Lab (If Requested)"	0
+"132"	"DN-101 Protocol No. 011-007"	"063"	"063-0007"	"1"	"Pre-Enrollment"	"lpsa"	"idc::nova::014::crf::LabPanel::PSALocal"	"Local PSA (If Requested)"	0
+"133"	"DN-101 Protocol No. 011-007"	"063"	"063-0010"	"2"	"Pre-Enrollment"	"lb"	"idc::nova::014::crf::LabPanel::Chem"	"Covance Lab"	0
+"134"	"DN-101 Protocol No. 011-007"	"063"	"063-0012"	"2"	"Pre-Enrollment"	"lbchem"	"idc::nova::014::crf::LabPanel::ChemLocal"	"Local Chemistry Lab (If Requested)"	0
+"135"	"DN-101 Protocol No. 011-007"	"064"	"064-0002"	"2"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	0
+"136"	"DN-101 Protocol No. 011-007"	"064"	"064-0004"	"2"	"Pre-Enrollment"	"lbhem"	"idc::nova::014::crf::LabPanel::HemLocal"	"Local Hematology Lab (If Requested)"	1
+"137"	"DN-101 Protocol No. 011-007"	"065"	"065-0001"	"2"	"Pre-Enrollment"	"lbchem"	"idc::nova::014::crf::LabPanel::ChemLocal"	"Local Chemistry Lab (If Requested)"	1
+"138"	"DN-101 Protocol No. 011-007"	"065"	"065-0002"	"2"	"Pre-Enrollment"	"lpsa"	"idc::nova::014::crf::LabPanel::PSALocal"	"Local PSA (If Requested)"	1
+"139"	"DN-101 Protocol No. 011-007"	"066"	"066-0001"	"2"	"Pre-Enrollment"	"lb"	"idc::nova::014::crf::LabPanel::Chem"	"Covance Lab"	1
+"140"	"DN-101 Protocol No. 011-007"	"067"	"067-0001"	"2"	"Pre-Enrollment"	"lbchem"	"idc::nova::014::crf::LabPanel::ChemLocal"	"Local Chemistry Lab (If Requested)"	1
+"141"	"DN-101 Protocol No. 011-007"	"068"	"068-0006"	"2"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	1
+"142"	"DN-101 Protocol No. 011-007"	"069"	"069-0001"	"2"	"Pre-Enrollment"	"lbhem"	"idc::nova::014::crf::LabPanel::HemLocal"	"Local Hematology Lab (If Requested)"	1
+"143"	"DN-101 Protocol No. 011-007"	"069"	"069-0002"	"2"	"Pre-Enrollment"	"lbchem"	"idc::nova::014::crf::LabPanel::ChemLocal"	"Local Chemistry Lab (If Requested)"	1
+"144"	"DN-101 Protocol No. 011-007"	"069"	"069-0004"	"2"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	1
+"145"	"DN-101 Protocol No. 011-007"	"069"	"069-0006"	"2"	"Pre-Enrollment"	"lbhem"	"idc::nova::014::crf::LabPanel::HemLocal"	"Local Hematology Lab (If Requested)"	0
+"146"	"DN-101 Protocol No. 011-007"	"069"	"069-0007"	"2"	"Pre-Enrollment"	"lbchem"	"idc::nova::014::crf::LabPanel::ChemLocal"	"Local Chemistry Lab (If Requested)"	0
+"147"	"DN-101 Protocol No. 011-007"	"071"	"071-0003"	"2"	"Pre-Enrollment"	"lbchem"	"idc::nova::014::crf::LabPanel::ChemLocal"	"Local Chemistry Lab (If Requested)"	0
+"148"	"DN-101 Protocol No. 011-007"	"071"	"071-0004"	"2"	"Pre-Enrollment"	"lpsa"	"idc::nova::014::crf::LabPanel::PSALocal"	"Local PSA (If Requested)"	0
+"149"	"DN-101 Protocol No. 011-007"	"071"	"071-0009"	"2"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	0
+"150"	"DN-101 Protocol No. 011-007"	"071"	"071-0010"	"2"	"Pre-Enrollment"	"lb"	"idc::nova::014::crf::LabPanel::Chem"	"Covance Lab"	0
+"151"	"DN-101 Protocol No. 011-007"	"071"	"071-0011"	"2"	"Pre-Enrollment"	"lbhem"	"idc::nova::014::crf::LabPanel::HemLocal"	"Local Hematology Lab (If Requested)"	0
+"152"	"DN-101 Protocol No. 011-007"	"072"	"072-0001"	"2"	"Pre-Enrollment"	"lbchem"	"idc::nova::014::crf::LabPanel::ChemLocal"	"Local Chemistry Lab (If Requested)"	0
+"153"	"DN-101 Protocol No. 011-007"	"072"	"072-0002"	"2"	"Pre-Enrollment"	"lpsa"	"idc::nova::014::crf::LabPanel::PSALocal"	"Local PSA (If Requested)"	0
+"154"	"DN-101 Protocol No. 011-007"	"072"	"072-0007"	"2"	"Pre-Enrollment"	"lpsa"	"idc::nova::014::crf::LabPanel::PSALocal"	"Local PSA (If Requested)"	1
+"155"	"DN-101 Protocol No. 011-007"	"074"	"074-0001"	"2"	"Pre-Enrollment"	"lbchem"	"idc::nova::014::crf::LabPanel::ChemLocal"	"Local Chemistry Lab (If Requested)"	1
+"156"	"DN-101 Protocol No. 011-007"	"074"	"074-0003"	"2"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	1
+"157"	"DN-101 Protocol No. 011-007"	"074"	"074-0004"	"2"	"Pre-Enrollment"	"lbhem"	"idc::nova::014::crf::LabPanel::HemLocal"	"Local Hematology Lab (If Requested)"	1
+"158"	"DN-101 Protocol No. 011-007"	"075"	"075-0002"	"2"	"Pre-Enrollment"	"lpsa"	"idc::nova::014::crf::LabPanel::PSALocal"	"Local PSA (If Requested)"	1
+"159"	"DN-101 Protocol No. 011-007"	"077"	"077-0001"	"2"	"Pre-Enrollment"	"lbhem"	"idc::nova::014::crf::LabPanel::HemLocal"	"Local Hematology Lab (If Requested)"	0
+"160"	"DN-101 Protocol No. 011-007"	"077"	"077-0002"	"2"	"Pre-Enrollment"	"lbchem"	"idc::nova::014::crf::LabPanel::ChemLocal"	"Local Chemistry Lab (If Requested)"	0
+"161"	"DN-101 Protocol No. 011-007"	"077"	"077-0003"	"2"	"Pre-Enrollment"	"lpsa"	"idc::nova::014::crf::LabPanel::PSALocal"	"Local PSA (If Requested)"	0
+"162"	"DN-101 Protocol No. 011-007"	"078"	"078-0001"	"2"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	0
+"163"	"DN-101 Protocol No. 011-007"	"081"	"081-0002"	"2"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	1
+"164"	"DN-101 Protocol No. 011-007"	"081"	"081-0004"	"2"	"Pre-Enrollment"	"lbhem"	"idc::nova::014::crf::LabPanel::HemLocal"	"Local Hematology Lab (If Requested)"	1
+"165"	"DN-101 Protocol No. 011-007"	"082"	"082-0001"	"2"	"Pre-Enrollment"	"lb"	"idc::nova::014::crf::LabPanel::Chem"	"Covance Lab"	1
+"166"	"DN-101 Protocol No. 011-007"	"084"	"084-0001"	"2"	"Pre-Enrollment"	"lbhem"	"idc::nova::014::crf::LabPanel::HemLocal"	"Local Hematology Lab (If Requested)"	1
+"167"	"DN-101 Protocol No. 011-007"	"086"	"086-0001"	"2"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	1
+"168"	"DN-101 Protocol No. 011-007"	"086"	"086-0002"	"2"	"Pre-Enrollment"	"lb"	"idc::nova::014::crf::LabPanel::Chem"	"Covance Lab"	1
+"169"	"DN-101 Protocol No. 011-007"	"086"	"086-0004"	"2"	"Pre-Enrollment"	"lbchem"	"idc::nova::014::crf::LabPanel::ChemLocal"	"Local Chemistry Lab (If Requested)"	1
+"170"	"DN-101 Protocol No. 011-007"	"087"	"087-0001"	"2"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	1
+"171"	"DN-101 Protocol No. 011-007"	"088"	"088-0001"	"2"	"Pre-Enrollment"	"lbhem"	"idc::nova::014::crf::LabPanel::HemLocal"	"Local Hematology Lab (If Requested)"	1
+"172"	"DN-101 Protocol No. 011-007"	"089"	"089-0002"	"2"	"Pre-Enrollment"	"lpsa"	"idc::nova::014::crf::LabPanel::PSALocal"	"Local PSA (If Requested)"	1
+"173"	"DN-101 Protocol No. 011-007"	"089"	"089-0004"	"2"	"Pre-Enrollment"	"lb"	"idc::nova::014::crf::LabPanel::Chem"	"Covance Lab"	1
+"174"	"DN-101 Protocol No. 011-007"	"091"	"091-0002"	"2"	"Pre-Enrollment"	"lpsa"	"idc::nova::014::crf::LabPanel::PSALocal"	"Local PSA (If Requested)"	1
+"175"	"DN-101 Protocol No. 011-007"	"092"	"092-0001"	"2"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	1
+"176"	"DN-101 Protocol No. 011-007"	"092"	"092-0002"	"2"	"Pre-Enrollment"	"lbhem"	"idc::nova::014::crf::LabPanel::HemLocal"	"Local Hematology Lab (If Requested)"	1
+"177"	"DN-101 Protocol No. 011-007"	"092"	"092-0004"	"2"	"Pre-Enrollment"	"lpsa"	"idc::nova::014::crf::LabPanel::PSALocal"	"Local PSA (If Requested)"	1
+"178"	"DN-101 Protocol No. 011-007"	"093"	"093-0003"	"2"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	1
+"179"	"DN-101 Protocol No. 011-007"	"094"	"094-0002"	"2"	"Pre-Enrollment"	"lbchem"	"idc::nova::014::crf::LabPanel::ChemLocal"	"Local Chemistry Lab (If Requested)"	1
+"180"	"DN-101 Protocol No. 011-007"	"094"	"094-0003"	"2"	"Pre-Enrollment"	"lpsa"	"idc::nova::014::crf::LabPanel::PSALocal"	"Local PSA (If Requested)"	1
+"181"	"DN-101 Protocol No. 011-007"	"096"	"096-0001"	"2"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	1
+"182"	"DN-101 Protocol No. 011-007"	"096"	"096-0004"	"1"	"Pre-Enrollment"	"lpsa"	"idc::nova::014::crf::LabPanel::PSALocal"	"Local PSA (If Requested)"	0
+"183"	"DN-101 Protocol No. 011-007"	"097"	"097-0001"	"1"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	0
+"184"	"DN-101 Protocol No. 011-007"	"097"	"097-0002"	"2"	"Pre-Enrollment"	"lbhem"	"idc::nova::014::crf::LabPanel::HemLocal"	"Local Hematology Lab (If Requested)"	1
+"185"	"DN-101 Protocol No. 011-007"	"097"	"097-0003"	"2"	"Pre-Enrollment"	"lbchem"	"idc::nova::014::crf::LabPanel::ChemLocal"	"Local Chemistry Lab (If Requested)"	1
+"186"	"DN-101 Protocol No. 011-007"	"098"	"098-0001"	"2"	"Pre-Enrollment"	"lpsa"	"idc::nova::014::crf::LabPanel::PSALocal"	"Local PSA (If Requested)"	1
+"187"	"DN-101 Protocol No. 011-007"	"099"	"099-0002"	"2"	"Pre-Enrollment"	"lbchem"	"idc::nova::014::crf::LabPanel::ChemLocal"	"Local Chemistry Lab (If Requested)"	1
+"188"	"DN-101 Protocol No. 011-007"	"104"	"104-0002"	"2"	"Pre-Enrollment"	"lbchem"	"idc::nova::014::crf::LabPanel::ChemLocal"	"Local Chemistry Lab (If Requested)"	1
+"189"	"DN-101 Protocol No. 011-007"	"104"	"104-0003"	"2"	"Pre-Enrollment"	"lpsa"	"idc::nova::014::crf::LabPanel::PSALocal"	"Local PSA (If Requested)"	1
+"190"	"DN-101 Protocol No. 011-007"	"104"	"104-0005"	"2"	"Pre-Enrollment"	"lbhem"	"idc::nova::014::crf::LabPanel::HemLocal"	"Local Hematology Lab (If Requested)"	0
+"191"	"DN-101 Protocol No. 011-007"	"104"	"104-0007"	"2"	"Pre-Enrollment"	"lpsa"	"idc::nova::014::crf::LabPanel::PSALocal"	"Local PSA (If Requested)"	0
+"192"	"DN-101 Protocol No. 011-007"	"104"	"104-0008"	"2"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	0
+"193"	"DN-101 Protocol No. 011-007"	"106"	"106-0002"	"2"	"Pre-Enrollment"	"lpsa"	"idc::nova::014::crf::LabPanel::PSALocal"	"Local PSA (If Requested)"	0
+"194"	"DN-101 Protocol No. 011-007"	"106"	"106-0003"	"2"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	0
+"195"	"DN-101 Protocol No. 011-007"	"108"	"108-0002"	"2"	"Pre-Enrollment"	"lbchem"	"idc::nova::014::crf::LabPanel::ChemLocal"	"Local Chemistry Lab (If Requested)"	0
+"196"	"DN-101 Protocol No. 011-007"	"108"	"108-0004"	"2"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	0
+"197"	"DN-101 Protocol No. 011-007"	"108"	"108-0005"	"2"	"Pre-Enrollment"	"lbhem"	"idc::nova::014::crf::LabPanel::HemLocal"	"Local Hematology Lab (If Requested)"	1
+"198"	"DN-101 Protocol No. 011-007"	"108"	"108-0006"	"2"	"Pre-Enrollment"	"lbchem"	"idc::nova::014::crf::LabPanel::ChemLocal"	"Local Chemistry Lab (If Requested)"	1
+"199"	"DN-101 Protocol No. 011-007"	"109"	"109-0002"	"2"	"Pre-Enrollment"	"lbhem"	"idc::nova::014::crf::LabPanel::HemLocal"	"Local Hematology Lab (If Requested)"	1
+"200"	"DN-101 Protocol No. 011-007"	"110"	"110-0002"	"2"	"Pre-Enrollment"	"lbhem"	"idc::nova::014::crf::LabPanel::HemLocal"	"Local Hematology Lab (If Requested)"	1
+"201"	"DN-101 Protocol No. 011-007"	"110"	"110-0005"	"2"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	1
+"202"	"DN-101 Protocol No. 011-007"	"110"	"110-0007"	"2"	"Pre-Enrollment"	"lbchem"	"idc::nova::014::crf::LabPanel::ChemLocal"	"Local Chemistry Lab (If Requested)"	1
+"203"	"DN-101 Protocol No. 011-007"	"110"	"110-0009"	"2"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	1
+"204"	"DN-101 Protocol No. 011-007"	"110"	"110-0010"	"1"	"Pre-Enrollment"	"lb"	"idc::nova::014::crf::LabPanel::Chem"	"Covance Lab"	0
+"205"	"DN-101 Protocol No. 011-007"	"110"	"110-0011"	"1"	"Pre-Enrollment"	"lbhem"	"idc::nova::014::crf::LabPanel::HemLocal"	"Local Hematology Lab (If Requested)"	0
+"206"	"DN-101 Protocol No. 011-007"	"110"	"110-0012"	"1"	"Pre-Enrollment"	"lbchem"	"idc::nova::014::crf::LabPanel::ChemLocal"	"Local Chemistry Lab (If Requested)"	0
+"207"	"DN-101 Protocol No. 011-007"	"110"	"110-0013"	"1"	"Pre-Enrollment"	"lpsa"	"idc::nova::014::crf::LabPanel::PSALocal"	"Local PSA (If Requested)"	0
+"208"	"DN-101 Protocol No. 011-007"	"110"	"110-0014"	"1"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	0
+"209"	"DN-101 Protocol No. 011-007"	"110"	"110-0015"	"1"	"Eligibility"	"el"	"idc::nova::014::trans::RandomizationData"	"Eligibility"	0
+"210"	"DN-101 Protocol No. 011-007"	"111"	"111-0001"	"2"	"Pre-Enrollment"	"lbhem"	"idc::nova::014::crf::LabPanel::HemLocal"	"Local Hematology Lab (If Requested)"	0
+"211"	"DN-101 Protocol No. 011-007"	"112"	"112-0005"	"2"	"Pre-Enrollment"	"lbhem"	"idc::nova::014::crf::LabPanel::HemLocal"	"Local Hematology Lab (If Requested)"	1
+"212"	"DN-101 Protocol No. 011-007"	"113"	"113-0001"	"2"	"Pre-Enrollment"	"lbchem"	"idc::nova::014::crf::LabPanel::ChemLocal"	"Local Chemistry Lab (If Requested)"	1
+"213"	"DN-101 Protocol No. 011-007"	"115"	"115-0001"	"2"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	1
+"214"	"DN-101 Protocol No. 011-007"	"116"	"116-0001"	"2"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	1
+"215"	"DN-101 Protocol No. 011-007"	"116"	"116-0002"	"2"	"Pre-Enrollment"	"lb"	"idc::nova::014::crf::LabPanel::Chem"	"Covance Lab"	0
+"216"	"DN-101 Protocol No. 011-007"	"117"	"117-0001"	"2"	"Pre-Enrollment"	"lbhem"	"idc::nova::014::crf::LabPanel::HemLocal"	"Local Hematology Lab (If Requested)"	0
+"217"	"DN-101 Protocol No. 011-007"	"117"	"117-0002"	"2"	"Pre-Enrollment"	"lbchem"	"idc::nova::014::crf::LabPanel::ChemLocal"	"Local Chemistry Lab (If Requested)"	0
+"218"	"DN-101 Protocol No. 011-007"	"117"	"117-0004"	"2"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	0
+"219"	"DN-101 Protocol No. 011-007"	"117"	"117-0006"	"2"	"Pre-Enrollment"	"lbchem"	"idc::nova::014::crf::LabPanel::ChemLocal"	"Local Chemistry Lab (If Requested)"	0
+"220"	"DN-101 Protocol No. 011-007"	"117"	"117-0007"	"2"	"Pre-Enrollment"	"lpsa"	"idc::nova::014::crf::LabPanel::PSALocal"	"Local PSA (If Requested)"	0
+"221"	"DN-101 Protocol No. 011-007"	"117"	"117-0010"	"2"	"Pre-Enrollment"	"lbchem"	"idc::nova::014::crf::LabPanel::ChemLocal"	"Local Chemistry Lab (If Requested)"	0
+"222"	"DN-101 Protocol No. 011-007"	"117"	"117-0011"	"2"	"Pre-Enrollment"	"lpsa"	"idc::nova::014::crf::LabPanel::PSALocal"	"Local PSA (If Requested)"	0
+"223"	"DN-101 Protocol No. 011-007"	"117"	"117-0013"	"2"	"Pre-Enrollment"	"lbhem"	"idc::nova::014::crf::LabPanel::HemLocal"	"Local Hematology Lab (If Requested)"	0
+"224"	"DN-101 Protocol No. 011-007"	"117"	"117-0014"	"2"	"Pre-Enrollment"	"lbchem"	"idc::nova::014::crf::LabPanel::ChemLocal"	"Local Chemistry Lab (If Requested)"	0
+"225"	"DN-101 Protocol No. 011-007"	"117"	"117-0015"	"2"	"Pre-Enrollment"	"lpsa"	"idc::nova::014::crf::LabPanel::PSALocal"	"Local PSA (If Requested)"	0
+"226"	"DN-101 Protocol No. 011-007"	"118"	"118-0001"	"2"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	0
+"227"	"DN-101 Protocol No. 011-007"	"119"	"119-0002"	"2"	"Pre-Enrollment"	"lbchem"	"idc::nova::014::crf::LabPanel::ChemLocal"	"Local Chemistry Lab (If Requested)"	0
+"228"	"DN-101 Protocol No. 011-007"	"120"	"120-0001"	"2"	"Pre-Enrollment"	"lpsa"	"idc::nova::014::crf::LabPanel::PSALocal"	"Local PSA (If Requested)"	0
+"229"	"DN-101 Protocol No. 011-007"	"121"	"121-0001"	"2"	"Pre-Enrollment"	"lbhem"	"idc::nova::014::crf::LabPanel::HemLocal"	"Local Hematology Lab (If Requested)"	1
+"230"	"DN-101 Protocol No. 011-007"	"123"	"123-0001"	"1"	"Pre-Enrollment"	"lbhem"	"idc::nova::014::crf::LabPanel::HemLocal"	"Local Hematology Lab (If Requested)"	0
+"231"	"DN-101 Protocol No. 011-007"	"123"	"123-0002"	"1"	"Pre-Enrollment"	"lbchem"	"idc::nova::014::crf::LabPanel::ChemLocal"	"Local Chemistry Lab (If Requested)"	0
+"232"	"DN-101 Protocol No. 011-007"	"123"	"123-0003"	"1"	"Pre-Enrollment"	"lpsa"	"idc::nova::014::crf::LabPanel::PSALocal"	"Local PSA (If Requested)"	0
+"233"	"DN-101 Protocol No. 011-007"	"123"	"123-0004"	"1"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	0
+"234"	"DN-101 Protocol No. 011-007"	"124"	"124-0001"	"1"	"Eligibility"	"el"	"idc::nova::014::trans::RandomizationData"	"Eligibility"	1
+"235"	"DN-101 Protocol No. 011-007"	"124"	"124-0003"	"2"	"Pre-Enrollment"	"lbchem"	"idc::nova::014::crf::LabPanel::ChemLocal"	"Local Chemistry Lab (If Requested)"	0
+"236"	"DN-101 Protocol No. 011-007"	"125"	"125-0001"	"2"	"Pre-Enrollment"	"lpsa"	"idc::nova::014::crf::LabPanel::PSALocal"	"Local PSA (If Requested)"	0
+"237"	"DN-101 Protocol No. 011-007"	"125"	"125-0005"	"2"	"Pre-Enrollment"	"lpsa"	"idc::nova::014::crf::LabPanel::PSALocal"	"Local PSA (If Requested)"	0
+"238"	"DN-101 Protocol No. 011-007"	"125"	"125-0006"	"2"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	0
+"239"	"DN-101 Protocol No. 011-007"	"125"	"125-0009"	"2"	"Pre-Enrollment"	"lbchem"	"idc::nova::014::crf::LabPanel::ChemLocal"	"Local Chemistry Lab (If Requested)"	1
+"240"	"DN-101 Protocol No. 011-007"	"125"	"125-0011"	"2"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	1
+"241"	"DN-101 Protocol No. 011-007"	"125"	"125-0013"	"1"	"Pre-Enrollment"	"lbhem"	"idc::nova::014::crf::LabPanel::HemLocal"	"Local Hematology Lab (If Requested)"	1
+"242"	"DN-101 Protocol No. 011-007"	"125"	"125-0017"	"1"	"Eligibility"	"el"	"idc::nova::014::trans::RandomizationData"	"Eligibility"	1
+"243"	"DN-101 Protocol No. 011-007"	"125"	"125-0018"	"2"	"Pre-Enrollment"	"lbhem"	"idc::nova::014::crf::LabPanel::HemLocal"	"Local Hematology Lab (If Requested)"	1
+"244"	"DN-101 Protocol No. 011-007"	"125"	"125-0022"	"2"	"Pre-Enrollment"	"lbhem"	"idc::nova::014::crf::LabPanel::HemLocal"	"Local Hematology Lab (If Requested)"	0
+"245"	"DN-101 Protocol No. 011-007"	"125"	"125-0029"	"2"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	0
+"246"	"DN-101 Protocol No. 011-007"	"126"	"126-0001"	"2"	"Pre-Enrollment"	"lpsa"	"idc::nova::014::crf::LabPanel::PSALocal"	"Local PSA (If Requested)"	1
+"247"	"DN-101 Protocol No. 011-007"	"126"	"126-0002"	"2"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	1
+"248"	"DN-101 Protocol No. 011-007"	"126"	"126-0003"	"2"	"Pre-Enrollment"	"lbhem"	"idc::nova::014::crf::LabPanel::HemLocal"	"Local Hematology Lab (If Requested)"	0
+"249"	"DN-101 Protocol No. 011-007"	"126"	"126-0004"	"2"	"Pre-Enrollment"	"lbchem"	"idc::nova::014::crf::LabPanel::ChemLocal"	"Local Chemistry Lab (If Requested)"	0
+"250"	"DN-101 Protocol No. 011-007"	"126"	"126-0005"	"2"	"Pre-Enrollment"	"lpsa"	"idc::nova::014::crf::LabPanel::PSALocal"	"Local PSA (If Requested)"	0
+"251"	"DN-101 Protocol No. 011-007"	"126"	"126-0009"	"2"	"Pre-Enrollment"	"lpsa"	"idc::nova::014::crf::LabPanel::PSALocal"	"Local PSA (If Requested)"	1
+"252"	"DN-101 Protocol No. 011-007"	"126"	"126-0010"	"2"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	1
+"253"	"DN-101 Protocol No. 011-007"	"127"	"127-0003"	"2"	"Pre-Enrollment"	"lpsa"	"idc::nova::014::crf::LabPanel::PSALocal"	"Local PSA (If Requested)"	1
+"254"	"DN-101 Protocol No. 011-007"	"127"	"127-0004"	"2"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	1
+"255"	"DN-101 Protocol No. 011-007"	"127"	"127-0005"	"2"	"Pre-Enrollment"	"lb"	"idc::nova::014::crf::LabPanel::Chem"	"Covance Lab"	0
+"256"	"DN-101 Protocol No. 011-007"	"127"	"127-0006"	"2"	"Pre-Enrollment"	"lbhem"	"idc::nova::014::crf::LabPanel::HemLocal"	"Local Hematology Lab (If Requested)"	0
+"257"	"DN-101 Protocol No. 011-007"	"127"	"127-0007"	"2"	"Pre-Enrollment"	"lbchem"	"idc::nova::014::crf::LabPanel::ChemLocal"	"Local Chemistry Lab (If Requested)"	0
+"258"	"DN-101 Protocol No. 011-007"	"127"	"127-0009"	"2"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	0
+"259"	"DN-101 Protocol No. 011-007"	"127"	"127-0010"	"2"	"Pre-Enrollment"	"lbhem"	"idc::nova::014::crf::LabPanel::HemLocal"	"Local Hematology Lab (If Requested)"	0
+"260"	"DN-101 Protocol No. 011-007"	"127"	"127-0011"	"2"	"Pre-Enrollment"	"lbchem"	"idc::nova::014::crf::LabPanel::ChemLocal"	"Local Chemistry Lab (If Requested)"	0
+"261"	"DN-101 Protocol No. 011-007"	"127"	"127-0013"	"2"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	0
+"262"	"DN-101 Protocol No. 011-007"	"127"	"127-0016"	"1"	"Pre-Enrollment"	"lpsa"	"idc::nova::014::crf::LabPanel::PSALocal"	"Local PSA (If Requested)"	0
+"263"	"DN-101 Protocol No. 011-007"	"128"	"128-0001"	"1"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	0
+"264"	"DN-101 Protocol No. 011-007"	"130"	"130-0002"	"2"	"Pre-Enrollment"	"lbhem"	"idc::nova::014::crf::LabPanel::HemLocal"	"Local Hematology Lab (If Requested)"	1
+"265"	"DN-101 Protocol No. 011-007"	"130"	"130-0003"	"2"	"Pre-Enrollment"	"lbchem"	"idc::nova::014::crf::LabPanel::ChemLocal"	"Local Chemistry Lab (If Requested)"	1
+"266"	"DN-101 Protocol No. 011-007"	"130"	"130-0004"	"2"	"Pre-Enrollment"	"lpsa"	"idc::nova::014::crf::LabPanel::PSALocal"	"Local PSA (If Requested)"	1
+"267"	"DN-101 Protocol No. 011-007"	"130"	"130-0005"	"2"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	1
+"268"	"DN-101 Protocol No. 011-007"	"130"	"130-0006"	"1"	"Pre-Enrollment"	"lbhem"	"idc::nova::014::crf::LabPanel::HemLocal"	"Local Hematology Lab (If Requested)"	1
+"269"	"DN-101 Protocol No. 011-007"	"130"	"130-0007"	"1"	"Pre-Enrollment"	"lbchem"	"idc::nova::014::crf::LabPanel::ChemLocal"	"Local Chemistry Lab (If Requested)"	1
+"270"	"DN-101 Protocol No. 011-007"	"130"	"130-0008"	"1"	"Pre-Enrollment"	"lpsa"	"idc::nova::014::crf::LabPanel::PSALocal"	"Local PSA (If Requested)"	1
+"271"	"DN-101 Protocol No. 011-007"	"131"	"131-0001"	"1"	"Pre-Enrollment"	"lb"	"idc::nova::014::crf::LabPanel::Chem"	"Covance Lab"	0
+"272"	"DN-101 Protocol No. 011-007"	"131"	"131-0005"	"1"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	0
+"273"	"DN-101 Protocol No. 011-007"	"133"	"133-0001"	"2"	"Pre-Enrollment"	"lbchem"	"idc::nova::014::crf::LabPanel::ChemLocal"	"Local Chemistry Lab (If Requested)"	0
+"274"	"DN-101 Protocol No. 011-007"	"133"	"133-0003"	"2"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	0
+"275"	"DN-101 Protocol No. 011-007"	"133"	"133-0009"	"1"	"Pre-Enrollment"	"lbhem"	"idc::nova::014::crf::LabPanel::HemLocal"	"Local Hematology Lab (If Requested)"	1
+"276"	"DN-101 Protocol No. 011-007"	"133"	"133-0010"	"1"	"Pre-Enrollment"	"lbchem"	"idc::nova::014::crf::LabPanel::ChemLocal"	"Local Chemistry Lab (If Requested)"	1
+"277"	"DN-101 Protocol No. 011-007"	"133"	"133-0012"	"1"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	1
+"278"	"DN-101 Protocol No. 011-007"	"133"	"133-0013"	"1"	"Eligibility"	"el"	"idc::nova::014::trans::RandomizationData"	"Eligibility"	1
+"279"	"DN-101 Protocol No. 011-007"	"133"	"133-0014"	"2"	"Pre-Enrollment"	"lbhem"	"idc::nova::014::crf::LabPanel::HemLocal"	"Local Hematology Lab (If Requested)"	1
+"280"	"DN-101 Protocol No. 011-007"	"133"	"133-0015"	"2"	"Pre-Enrollment"	"lbchem"	"idc::nova::014::crf::LabPanel::ChemLocal"	"Local Chemistry Lab (If Requested)"	1
+"281"	"DN-101 Protocol No. 011-007"	"133"	"133-0016"	"2"	"Pre-Enrollment"	"lpsa"	"idc::nova::014::crf::LabPanel::PSALocal"	"Local PSA (If Requested)"	1
+"282"	"DN-101 Protocol No. 011-007"	"133"	"133-0017"	"2"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	1
+"283"	"DN-101 Protocol No. 011-007"	"133"	"133-0018"	"2"	"Pre-Enrollment"	"lbhem"	"idc::nova::014::crf::LabPanel::HemLocal"	"Local Hematology Lab (If Requested)"	0
+"284"	"DN-101 Protocol No. 011-007"	"133"	"133-0020"	"2"	"Pre-Enrollment"	"lpsa"	"idc::nova::014::crf::LabPanel::PSALocal"	"Local PSA (If Requested)"	0
+"285"	"DN-101 Protocol No. 011-007"	"133"	"133-0021"	"2"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	0
+"286"	"DN-101 Protocol No. 011-007"	"134"	"134-0001"	"2"	"Pre-Enrollment"	"lbchem"	"idc::nova::014::crf::LabPanel::ChemLocal"	"Local Chemistry Lab (If Requested)"	1
+"287"	"DN-101 Protocol No. 011-007"	"134"	"134-0002"	"2"	"Pre-Enrollment"	"lpsa"	"idc::nova::014::crf::LabPanel::PSALocal"	"Local PSA (If Requested)"	1
+"288"	"DN-101 Protocol No. 011-007"	"134"	"134-0003"	"2"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	1
+"289"	"DN-101 Protocol No. 011-007"	"136"	"136-0001"	"2"	"Pre-Enrollment"	"lb"	"idc::nova::014::crf::LabPanel::Chem"	"Covance Lab"	1
+"290"	"DN-101 Protocol No. 011-007"	"137"	"137-0002"	"2"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	1
+"291"	"DN-101 Protocol No. 011-007"	"137"	"137-0003"	"2"	"Pre-Enrollment"	"lbhem"	"idc::nova::014::crf::LabPanel::HemLocal"	"Local Hematology Lab (If Requested)"	0
+"292"	"DN-101 Protocol No. 011-007"	"138"	"138-0001"	"2"	"Pre-Enrollment"	"lbchem"	"idc::nova::014::crf::LabPanel::ChemLocal"	"Local Chemistry Lab (If Requested)"	0
+"293"	"DN-101 Protocol No. 011-007"	"139"	"139-0002"	"2"	"Pre-Enrollment"	"lb"	"idc::nova::014::crf::LabPanel::Chem"	"Covance Lab"	0
+"294"	"DN-101 Protocol No. 011-007"	"139"	"139-0004"	"2"	"Pre-Enrollment"	"lbhem"	"idc::nova::014::crf::LabPanel::HemLocal"	"Local Hematology Lab (If Requested)"	0
+"295"	"DN-101 Protocol No. 011-007"	"139"	"139-0005"	"2"	"Pre-Enrollment"	"lbchem"	"idc::nova::014::crf::LabPanel::ChemLocal"	"Local Chemistry Lab (If Requested)"	0
+"296"	"DN-101 Protocol No. 011-007"	"139"	"139-0007"	"2"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	0
+"297"	"DN-101 Protocol No. 011-007"	"140"	"140-0001"	"1"	"Pre-Enrollment"	"lbhem"	"idc::nova::014::crf::LabPanel::HemLocal"	"Local Hematology Lab (If Requested)"	1
+"298"	"DN-101 Protocol No. 011-007"	"140"	"140-0002"	"1"	"Pre-Enrollment"	"lbchem"	"idc::nova::014::crf::LabPanel::ChemLocal"	"Local Chemistry Lab (If Requested)"	1
+"299"	"DN-101 Protocol No. 011-007"	"141"	"141-0001"	"1"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	1
+"300"	"DN-101 Protocol No. 011-007"	"141"	"141-0003"	"2"	"Pre-Enrollment"	"lbhem"	"idc::nova::014::crf::LabPanel::HemLocal"	"Local Hematology Lab (If Requested)"	1
+"301"	"DN-101 Protocol No. 011-007"	"141"	"141-0006"	"2"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	1
+"302"	"DN-101 Protocol No. 011-007"	"141"	"141-0007"	"2"	"Pre-Enrollment"	"lbhem"	"idc::nova::014::crf::LabPanel::HemLocal"	"Local Hematology Lab (If Requested)"	1
+"303"	"DN-101 Protocol No. 011-007"	"141"	"141-0010"	"2"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	1
+"304"	"DN-101 Protocol No. 011-007"	"141"	"141-0011"	"2"	"Pre-Enrollment"	"lb"	"idc::nova::014::crf::LabPanel::Chem"	"Covance Lab"	1
+"305"	"DN-101 Protocol No. 011-007"	"142"	"142-0001"	"2"	"Pre-Enrollment"	"lbchem"	"idc::nova::014::crf::LabPanel::ChemLocal"	"Local Chemistry Lab (If Requested)"	1
+"306"	"DN-101 Protocol No. 011-007"	"142"	"142-0002"	"2"	"Pre-Enrollment"	"lpsa"	"idc::nova::014::crf::LabPanel::PSALocal"	"Local PSA (If Requested)"	1
+"307"	"DN-101 Protocol No. 011-007"	"142"	"142-0003"	"2"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	1
+"308"	"DN-101 Protocol No. 011-007"	"142"	"142-0004"	"1"	"Pre-Enrollment"	"lbhem"	"idc::nova::014::crf::LabPanel::HemLocal"	"Local Hematology Lab (If Requested)"	1
+"309"	"DN-101 Protocol No. 011-007"	"142"	"142-0007"	"1"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	1
+"310"	"DN-101 Protocol No. 011-007"	"142"	"142-0010"	"1"	"Pre-Enrollment"	"lbchem"	"idc::nova::014::crf::LabPanel::ChemLocal"	"Local Chemistry Lab (If Requested)"	1
+"311"	"DN-101 Protocol No. 011-007"	"142"	"142-0011"	"1"	"Pre-Enrollment"	"lpsa"	"idc::nova::014::crf::LabPanel::PSALocal"	"Local PSA (If Requested)"	1
+"312"	"DN-101 Protocol No. 011-007"	"144"	"144-0001"	"2"	"Pre-Enrollment"	"lbhem"	"idc::nova::014::crf::LabPanel::HemLocal"	"Local Hematology Lab (If Requested)"	1
+"313"	"DN-101 Protocol No. 011-007"	"144"	"144-0002"	"2"	"Pre-Enrollment"	"lbchem"	"idc::nova::014::crf::LabPanel::ChemLocal"	"Local Chemistry Lab (If Requested)"	1
+"314"	"DN-101 Protocol No. 011-007"	"145"	"145-0003"	"1"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	1
+"315"	"DN-101 Protocol No. 011-007"	"145"	"145-0005"	"2"	"Pre-Enrollment"	"lb"	"idc::nova::014::crf::LabPanel::Chem"	"Covance Lab"	0
+"316"	"DN-101 Protocol No. 011-007"	"145"	"145-0006"	"2"	"Pre-Enrollment"	"lbhem"	"idc::nova::014::crf::LabPanel::HemLocal"	"Local Hematology Lab (If Requested)"	0
+"317"	"DN-101 Protocol No. 011-007"	"146"	"146-0002"	"2"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	0
+"318"	"DN-101 Protocol No. 011-007"	"146"	"146-0004"	"1"	"Pre-Enrollment"	"lbchem"	"idc::nova::014::crf::LabPanel::ChemLocal"	"Local Chemistry Lab (If Requested)"	1
+"319"	"DN-101 Protocol No. 011-007"	"149"	"149-0001"	"2"	"Pre-Enrollment"	"lbhem"	"idc::nova::014::crf::LabPanel::HemLocal"	"Local Hematology Lab (If Requested)"	1
+"320"	"DN-101 Protocol No. 011-007"	"150"	"150-0002"	"2"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	1
+"321"	"DN-101 Protocol No. 011-007"	"150"	"150-0003"	"2"	"Pre-Enrollment"	"lb"	"idc::nova::014::crf::LabPanel::Chem"	"Covance Lab"	1
+"322"	"DN-101 Protocol No. 011-007"	"151"	"151-0001"	"2"	"Pre-Enrollment"	"lbhem"	"idc::nova::014::crf::LabPanel::HemLocal"	"Local Hematology Lab (If Requested)"	1
+"323"	"DN-101 Protocol No. 011-007"	"154"	"154-0001"	"2"	"Pre-Enrollment"	"lbchem"	"idc::nova::014::crf::LabPanel::ChemLocal"	"Local Chemistry Lab (If Requested)"	0
+"324"	"DN-101 Protocol No. 011-007"	"154"	"154-0002"	"2"	"Pre-Enrollment"	"lpsa"	"idc::nova::014::crf::LabPanel::PSALocal"	"Local PSA (If Requested)"	0
+"325"	"DN-101 Protocol No. 011-007"	"155"	"155-0001"	"2"	"Pre-Enrollment"	"lbchem"	"idc::nova::014::crf::LabPanel::ChemLocal"	"Local Chemistry Lab (If Requested)"	1
+"326"	"DN-101 Protocol No. 011-007"	"155"	"155-0002"	"2"	"Pre-Enrollment"	"lpsa"	"idc::nova::014::crf::LabPanel::PSALocal"	"Local PSA (If Requested)"	1
+"327"	"DN-101 Protocol No. 011-007"	"155"	"155-0004"	"1"	"Pre-Enrollment"	"lbhem"	"idc::nova::014::crf::LabPanel::HemLocal"	"Local Hematology Lab (If Requested)"	0
+"328"	"DN-101 Protocol No. 011-007"	"155"	"155-0009"	"2"	"Pre-Enrollment"	"lbhem"	"idc::nova::014::crf::LabPanel::HemLocal"	"Local Hematology Lab (If Requested)"	1
+"329"	"DN-101 Protocol No. 011-007"	"155"	"155-0010"	"2"	"Pre-Enrollment"	"lbchem"	"idc::nova::014::crf::LabPanel::ChemLocal"	"Local Chemistry Lab (If Requested)"	1
+"330"	"DN-101 Protocol No. 011-007"	"155"	"155-0012"	"2"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	1
+"331"	"DN-101 Protocol No. 011-007"	"156"	"156-0001"	"1"	"Pre-Enrollment"	"lb"	"idc::nova::014::crf::LabPanel::Chem"	"Covance Lab"	1
+"332"	"DN-101 Protocol No. 011-007"	"156"	"156-0002"	"1"	"Pre-Enrollment"	"lbhem"	"idc::nova::014::crf::LabPanel::HemLocal"	"Local Hematology Lab (If Requested)"	1
+"333"	"DN-101 Protocol No. 011-007"	"157"	"157-0002"	"1"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	1
+"334"	"DN-101 Protocol No. 011-007"	"157"	"157-0006"	"2"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	1
+"335"	"DN-101 Protocol No. 011-007"	"157"	"157-0007"	"1"	"Pre-Enrollment"	"lbhem"	"idc::nova::014::crf::LabPanel::HemLocal"	"Local Hematology Lab (If Requested)"	0
+"336"	"DN-101 Protocol No. 011-007"	"159"	"159-0004"	"1"	"Eligibility"	"el"	"idc::nova::014::trans::RandomizationData"	"Eligibility"	0
+"337"	"DN-101 Protocol No. 011-007"	"159"	"159-0005"	"1"	"Pre-Enrollment"	"lbhem"	"idc::nova::014::crf::LabPanel::HemLocal"	"Local Hematology Lab (If Requested)"	1
+"338"	"DN-101 Protocol No. 011-007"	"159"	"159-0006"	"1"	"Pre-Enrollment"	"lbchem"	"idc::nova::014::crf::LabPanel::ChemLocal"	"Local Chemistry Lab (If Requested)"	1
+"339"	"DN-101 Protocol No. 011-007"	"161"	"161-0001"	"1"	"Pre-Enrollment"	"lpsa"	"idc::nova::014::crf::LabPanel::PSALocal"	"Local PSA (If Requested)"	1
+"340"	"DN-101 Protocol No. 011-007"	"161"	"161-0002"	"1"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	1
+"341"	"DN-101 Protocol No. 011-007"	"161"	"161-0004"	"1"	"Pre-Enrollment"	"lbhem"	"idc::nova::014::crf::LabPanel::HemLocal"	"Local Hematology Lab (If Requested)"	1
+"342"	"DN-101 Protocol No. 011-007"	"164"	"164-0001"	"1"	"Pre-Enrollment"	"lpsa"	"idc::nova::014::crf::LabPanel::PSALocal"	"Local PSA (If Requested)"	1
+"343"	"DN-101 Protocol No. 011-007"	"164"	"164-0004"	"1"	"Pre-Enrollment"	"lbhem"	"idc::nova::014::crf::LabPanel::HemLocal"	"Local Hematology Lab (If Requested)"	0
+"344"	"DN-101 Protocol No. 011-007"	"164"	"164-0005"	"1"	"Pre-Enrollment"	"lbchem"	"idc::nova::014::crf::LabPanel::ChemLocal"	"Local Chemistry Lab (If Requested)"	0
+"345"	"DN-101 Protocol No. 011-007"	"165"	"165-0001"	"1"	"Pre-Enrollment"	"lpsa"	"idc::nova::014::crf::LabPanel::PSALocal"	"Local PSA (If Requested)"	0
+"346"	"DN-101 Protocol No. 011-007"	"165"	"165-0002"	"1"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	0
+"347"	"DN-101 Protocol No. 011-007"	"165"	"165-0003"	"1"	"Eligibility"	"el"	"idc::nova::014::trans::RandomizationData"	"Eligibility"	0
+"348"	"DN-101 Protocol No. 011-007"	"166"	"166-0001"	"1"	"Pre-Enrollment"	"lbhem"	"idc::nova::014::crf::LabPanel::HemLocal"	"Local Hematology Lab (If Requested)"	0
+"349"	"DN-101 Protocol No. 011-007"	"166"	"166-0003"	"1"	"Pre-Enrollment"	"lpsa"	"idc::nova::014::crf::LabPanel::PSALocal"	"Local PSA (If Requested)"	0
+"350"	"DN-101 Protocol No. 011-007"	"166"	"166-0005"	"1"	"Eligibility"	"el"	"idc::nova::014::trans::RandomizationData"	"Eligibility"	0
+"351"	"DN-101 Protocol No. 011-007"	"170"	"170-0002"	"1"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	0
+"352"	"DN-101 Protocol No. 011-007"	"171"	"171-0001"	"1"	"Eligibility"	"el"	"idc::nova::014::trans::RandomizationData"	"Eligibility"	0
+"353"	"DN-101 Protocol No. 011-007"	"173"	"173-0001"	"1"	"Pre-Enrollment"	"lb"	"idc::nova::014::crf::LabPanel::Chem"	"Covance Lab"	1
+"354"	"DN-101 Protocol No. 011-007"	"180"	"180-0002"	"1"	"Pre-Enrollment"	"lpsa"	"idc::nova::014::crf::LabPanel::PSALocal"	"Local PSA (If Requested)"	1
+"355"	"DN-101 Protocol No. 011-007"	"181"	"181-0002"	"1"	"Pre-Enrollment"	"lbhem"	"idc::nova::014::crf::LabPanel::HemLocal"	"Local Hematology Lab (If Requested)"	1
+"356"	"DN-101 Protocol No. 011-007"	"184"	"184-0001"	"1"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	1
+"357"	"DN-101 Protocol No. 011-007"	"184"	"184-0004"	"1"	"Pre-Enrollment"	"lbchem"	"idc::nova::014::crf::LabPanel::ChemLocal"	"Local Chemistry Lab (If Requested)"	0
+"358"	"DN-101 Protocol No. 011-007"	"186"	"186-0002"	"1"	"Eligibility"	"el"	"idc::nova::014::trans::RandomizationData"	"Eligibility"	0
+"359"	"DN-101 Protocol No. 011-007"	"188"	"188-0001"	"1"	"Pre-Enrollment"	"lpsa"	"idc::nova::014::crf::LabPanel::PSALocal"	"Local PSA (If Requested)"	1
+"360"	"DN-101 Protocol No. 011-007"	"189"	"189-0001"	"1"	"Eligibility"	"el"	"idc::nova::014::trans::RandomizationData"	"Eligibility"	1
+"361"	"DN-101 Protocol No. 011-007"	"199"	"199-0001"	"1"	"Pre-Enrollment"	"lpsa"	"idc::nova::014::crf::LabPanel::PSALocal"	"Local PSA (If Requested)"	1
+"362"	"DN-101 Protocol No. 011-007"	"501"	"501-0001"	"1"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	1
+"363"	"DN-101 Protocol No. 011-007"	"501"	"501-0005"	"1"	"Pre-Enrollment"	"lpsa"	"idc::nova::014::crf::LabPanel::PSALocal"	"Local PSA (If Requested)"	1
+"364"	"DN-101 Protocol No. 011-007"	"503"	"503-0003"	"1"	"Pre-Enrollment"	"lbhem"	"idc::nova::014::crf::LabPanel::HemLocal"	"Local Hematology Lab (If Requested)"	1
+"365"	"DN-101 Protocol No. 011-007"	"504"	"504-0004"	"1"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	0
+"366"	"DN-101 Protocol No. 011-007"	"504"	"504-0005"	"1"	"Eligibility"	"el"	"idc::nova::014::trans::RandomizationData"	"Eligibility"	0
+"367"	"DN-101 Protocol No. 011-007"	"505"	"505-0001"	"1"	"Pre-Enrollment"	"lbhem"	"idc::nova::014::crf::LabPanel::HemLocal"	"Local Hematology Lab (If Requested)"	0
+"368"	"DN-101 Protocol No. 011-007"	"505"	"505-0002"	"1"	"Pre-Enrollment"	"lbchem"	"idc::nova::014::crf::LabPanel::ChemLocal"	"Local Chemistry Lab (If Requested)"	0
+"369"	"DN-101 Protocol No. 011-007"	"505"	"505-0003"	"1"	"Pre-Enrollment"	"lpsa"	"idc::nova::014::crf::LabPanel::PSALocal"	"Local PSA (If Requested)"	0
+"370"	"DN-101 Protocol No. 011-007"	"506"	"506-0001"	"1"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	0
+"371"	"DN-101 Protocol No. 011-007"	"506"	"506-0003"	"1"	"Pre-Enrollment"	"lbhem"	"idc::nova::014::crf::LabPanel::HemLocal"	"Local Hematology Lab (If Requested)"	1
+"372"	"DN-101 Protocol No. 011-007"	"506"	"506-0004"	"1"	"Pre-Enrollment"	"lbchem"	"idc::nova::014::crf::LabPanel::ChemLocal"	"Local Chemistry Lab (If Requested)"	1
+"373"	"DN-101 Protocol No. 011-007"	"507"	"507-0003"	"1"	"Pre-Enrollment"	"lbchem"	"idc::nova::014::crf::LabPanel::ChemLocal"	"Local Chemistry Lab (If Requested)"	0
+"374"	"DN-101 Protocol No. 011-007"	"507"	"507-0004"	"1"	"Pre-Enrollment"	"lpsa"	"idc::nova::014::crf::LabPanel::PSALocal"	"Local PSA (If Requested)"	0
+"375"	"DN-101 Protocol No. 011-007"	"507"	"507-0006"	"1"	"Eligibility"	"el"	"idc::nova::014::trans::RandomizationData"	"Eligibility"	0
+"376"	"DN-101 Protocol No. 011-007"	"507"	"507-0007"	"1"	"Pre-Enrollment"	"lbhem"	"idc::nova::014::crf::LabPanel::HemLocal"	"Local Hematology Lab (If Requested)"	0
+"377"	"DN-101 Protocol No. 011-007"	"507"	"507-0011"	"1"	"Eligibility"	"el"	"idc::nova::014::trans::RandomizationData"	"Eligibility"	0
+"378"	"DN-101 Protocol No. 011-007"	"507"	"507-0012"	"1"	"Pre-Enrollment"	"lb"	"idc::nova::014::crf::LabPanel::Chem"	"Covance Lab"	0
+"379"	"DN-101 Protocol No. 011-007"	"507"	"507-0013"	"1"	"Pre-Enrollment"	"lbhem"	"idc::nova::014::crf::LabPanel::HemLocal"	"Local Hematology Lab (If Requested)"	0
+"380"	"DN-101 Protocol No. 011-007"	"507"	"507-0014"	"1"	"Pre-Enrollment"	"lbchem"	"idc::nova::014::crf::LabPanel::ChemLocal"	"Local Chemistry Lab (If Requested)"	0
+"381"	"DN-101 Protocol No. 011-007"	"507"	"507-0015"	"1"	"Pre-Enrollment"	"lpsa"	"idc::nova::014::crf::LabPanel::PSALocal"	"Local PSA (If Requested)"	0
+"382"	"DN-101 Protocol No. 011-007"	"507"	"507-0018"	"1"	"Pre-Enrollment"	"lb"	"idc::nova::014::crf::LabPanel::Chem"	"Covance Lab"	1
+"383"	"DN-101 Protocol No. 011-007"	"507"	"507-0019"	"1"	"Pre-Enrollment"	"lbhem"	"idc::nova::014::crf::LabPanel::HemLocal"	"Local Hematology Lab (If Requested)"	1
+"384"	"DN-101 Protocol No. 011-007"	"507"	"507-0023"	"1"	"Eligibility"	"el"	"idc::nova::014::trans::RandomizationData"	"Eligibility"	1
+"385"	"DN-101 Protocol No. 011-007"	"507"	"507-0025"	"1"	"Pre-Enrollment"	"lbchem"	"idc::nova::014::crf::LabPanel::ChemLocal"	"Local Chemistry Lab (If Requested)"	1
+"386"	"DN-101 Protocol No. 011-007"	"507"	"507-0026"	"1"	"Pre-Enrollment"	"lpsa"	"idc::nova::014::crf::LabPanel::PSALocal"	"Local PSA (If Requested)"	1
+"387"	"DN-101 Protocol No. 011-007"	"507"	"507-0027"	"1"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	1
+"388"	"DN-101 Protocol No. 011-007"	"507"	"507-0028"	"1"	"Eligibility"	"el"	"idc::nova::014::trans::RandomizationData"	"Eligibility"	1
+"389"	"DN-101 Protocol No. 011-007"	"507"	"507-0031"	"1"	"Pre-Enrollment"	"lbchem"	"idc::nova::014::crf::LabPanel::ChemLocal"	"Local Chemistry Lab (If Requested)"	0
+"390"	"DN-101 Protocol No. 011-007"	"507"	"507-0032"	"1"	"Pre-Enrollment"	"lpsa"	"idc::nova::014::crf::LabPanel::PSALocal"	"Local PSA (If Requested)"	0
+"391"	"DN-101 Protocol No. 011-007"	"508"	"508-0001"	"1"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	0
+"392"	"DN-101 Protocol No. 011-007"	"508"	"508-0003"	"1"	"Pre-Enrollment"	"lb"	"idc::nova::014::crf::LabPanel::Chem"	"Covance Lab"	0
+"393"	"DN-101 Protocol No. 011-007"	"508"	"508-0006"	"1"	"Pre-Enrollment"	"lpsa"	"idc::nova::014::crf::LabPanel::PSALocal"	"Local PSA (If Requested)"	0
+"394"	"DN-101 Protocol No. 011-007"	"508"	"508-0008"	"1"	"Eligibility"	"el"	"idc::nova::014::trans::RandomizationData"	"Eligibility"	0
+"395"	"DN-101 Protocol No. 011-007"	"509"	"509-0001"	"5"	"Pre-Enrollment"	"lbchem"	"idc::nova::014::crf::LabPanel::ChemLocal"	"Local Chemistry Lab (If Requested)"	1
+"396"	"DN-101 Protocol No. 011-007"	"509"	"509-0005"	"5"	"Follow-Up Phase #07"	"ex"	"idc::nova::014::crf::ExposureDN101"	"DN-101 Dosing"	1
+"397"	"DN-101 Protocol No. 011-007"	"511"	"511-0001"	"5"	"Follow-Up Phase #07"	"exd"	"idc::nova::014::crf::ExposureDocetaxel"	"Docetaxel Dosing"	1
+"398"	"DN-101 Protocol No. 011-007"	"511"	"511-0003"	"5"	"Follow-Up Phase #02"	"ex"	"idc::nova::014::crf::ExposureDN101"	"DN-101 Dosing"	1
+"399"	"DN-101 Protocol No. 011-007"	"511"	"511-0005"	"5"	"Follow-Up Phase #03"	"ex"	"idc::nova::014::crf::ExposureDN101"	"DN-101 Dosing"	1
+"400"	"DN-101 Protocol No. 011-007"	"511"	"511-0006"	"5"	"Follow-Up Phase #03"	"ex"	"idc::nova::014::crf::ExposureDN101"	"DN-101 Dosing"	1
+"401"	"DN-101 Protocol No. 011-007"	"511"	"511-0007"	"5"	"Follow-Up Phase #03"	"exd"	"idc::nova::014::crf::ExposureDocetaxel"	"Docetaxel Dosing"	1
+"402"	"DN-101 Protocol No. 011-007"	"511"	"511-0009"	"5"	"Follow-Up Phase #04"	"ex"	"idc::nova::014::crf::ExposureDN101"	"DN-101 Dosing"	1
+"403"	"DN-101 Protocol No. 011-007"	"513"	"513-0003"	"5"	"Follow-Up Phase #06"	"ex"	"idc::nova::014::crf::ExposureDN101"	"DN-101 Dosing"	1
+"404"	"DN-101 Protocol No. 011-007"	"514"	"514-0001"	"5"	"Follow-Up Phase #06"	"exd"	"idc::nova::014::crf::ExposureDocetaxel"	"Docetaxel Dosing"	1
+"405"	"DN-101 Protocol No. 011-007"	"515"	"515-0001"	"5"	"Pre-Enrollment"	"lbhem"	"idc::nova::014::crf::LabPanel::HemLocal"	"Local Hematology Lab (If Requested)"	1
+"406"	"DN-101 Protocol No. 011-007"	"515"	"515-0003"	"5"	"Pre-Enrollment"	"lpsa"	"idc::nova::014::crf::LabPanel::PSALocal"	"Local PSA (If Requested)"	1
+"407"	"DN-101 Protocol No. 011-007"	"515"	"515-0004"	"5"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	1
+"408"	"DN-101 Protocol No. 011-007"	"515"	"515-0005"	"5"	"Cycle #07"	"exd"	"idc::nova::014::crf::ExposureDocetaxel"	"Docetaxel Dosing"	1
+"409"	"DN-101 Protocol No. 011-007"	"515"	"515-0007"	"5"	"Cycle #07"	"exd"	"idc::nova::014::crf::ExposureDocetaxel"	"Docetaxel Dosing"	1
+"410"	"DN-101 Protocol No. 011-007"	"515"	"515-0008"	"5"	"Follow-Up Phase #01"	"ex"	"idc::nova::014::crf::ExposureDN101"	"DN-101 Dosing"	1
+"411"	"DN-101 Protocol No. 011-007"	"515"	"515-0012"	"5"	"Follow-Up Phase #02"	"exd"	"idc::nova::014::crf::ExposureDocetaxel"	"Docetaxel Dosing"	1
+"412"	"DN-101 Protocol No. 011-007"	"515"	"515-0014"	"5"	"Follow-Up Phase #03"	"ex"	"idc::nova::014::crf::ExposureDN101"	"DN-101 Dosing"	1
+"413"	"DN-101 Protocol No. 011-007"	"518"	"518-0001"	"5"	"Follow-Up Phase #04"	"exd"	"idc::nova::014::crf::ExposureDocetaxel"	"Docetaxel Dosing"	1
+"414"	"DN-101 Protocol No. 011-007"	"518"	"518-0002"	"5"	"Follow-Up Phase #05"	"ex"	"idc::nova::014::crf::ExposureDN101"	"DN-101 Dosing"	1
+"415"	"DN-101 Protocol No. 011-007"	"518"	"518-0003"	"5"	"Follow-Up Phase #05"	"ex"	"idc::nova::014::crf::ExposureDN101"	"DN-101 Dosing"	1
+"416"	"DN-101 Protocol No. 011-007"	"521"	"521-0002"	"5"	"Follow-Up Phase #06"	"exd"	"idc::nova::014::crf::ExposureDocetaxel"	"Docetaxel Dosing"	1
+"417"	"DN-101 Protocol No. 011-007"	"521"	"521-0003"	"5"	"Pre-Enrollment"	"lbhem"	"idc::nova::014::crf::LabPanel::HemLocal"	"Local Hematology Lab (If Requested)"	1
+"418"	"DN-101 Protocol No. 011-007"	"522"	"522-0001"	"5"	"Follow-Up Phase #01"	"exd"	"idc::nova::014::crf::ExposureDocetaxel"	"Docetaxel Dosing"	1
+"419"	"DN-101 Protocol No. 011-007"	"522"	"522-0004"	"5"	"Follow-Up Phase #04"	"exd"	"idc::nova::014::crf::ExposureDocetaxel"	"Docetaxel Dosing"	1
+"420"	"DN-101 Protocol No. 011-007"	"522"	"522-0005"	"5"	"Pre-Enrollment"	"lbhem"	"idc::nova::014::crf::LabPanel::HemLocal"	"Local Hematology Lab (If Requested)"	1
+"421"	"DN-101 Protocol No. 011-007"	"522"	"522-0006"	"5"	"Pre-Enrollment"	"lbchem"	"idc::nova::014::crf::LabPanel::ChemLocal"	"Local Chemistry Lab (If Requested)"	1
+"422"	"DN-101 Protocol No. 011-007"	"522"	"522-0007"	"5"	"Pre-Enrollment"	"lpsa"	"idc::nova::014::crf::LabPanel::PSALocal"	"Local PSA (If Requested)"	1
+"423"	"DN-101 Protocol No. 011-007"	"522"	"522-0009"	"5"	"Follow-Up Phase #01"	"exd"	"idc::nova::014::crf::ExposureDocetaxel"	"Docetaxel Dosing"	1
+"424"	"DN-101 Protocol No. 011-007"	"522"	"522-0011"	"5"	"Follow-Up Phase #02"	"exd"	"idc::nova::014::crf::ExposureDocetaxel"	"Docetaxel Dosing"	1
+"425"	"DN-101 Protocol No. 011-007"	"522"	"522-0012"	"5"	"Pre-Enrollment"	"lbhem"	"idc::nova::014::crf::LabPanel::HemLocal"	"Local Hematology Lab (If Requested)"	1
+"426"	"DN-101 Protocol No. 011-007"	"523"	"523-0001"	"5"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	1
+"427"	"DN-101 Protocol No. 011-007"	"523"	"523-0002"	"5"	"Follow-Up Phase #01"	"sre"	"idc::nova::014::crf::SREEvaluation"	"Skeletal-Related Events"	1
+"428"	"DN-101 Protocol No. 011-007"	"523"	"523-0003"	"5"	"Follow-Up Phase #01"	"te"	"idc::nova::014::crf::Thrombo"	"Thromboembolic Events"	1
+"429"	"DN-101 Protocol No. 011-007"	"523"	"523-0004"	"5"	"Follow-Up Phase #01"	"exd"	"idc::nova::014::crf::ExposureDocetaxel"	"Docetaxel Dosing"	1
+"430"	"DN-101 Protocol No. 011-007"	"524"	"524-0001"	"5"	"Follow-Up Phase #01"	"gi"	"idc::nova::014::crf::GI"	"Gastrointestinal Events"	1
+"431"	"DN-101 Protocol No. 011-007"	"524"	"524-0002"	"5"	"48 Week F/U Completion/Discontinuation"	"fu"	"idc::nova::014::crf::FollowUp"	"48 Week F/U Completion/Discontinuation"	1
+"432"	"DN-101 Protocol No. 011-007"	"524"	"524-0007"	"5"	"Pre-Enrollment"	"lbhem"	"idc::nova::014::crf::LabPanel::HemLocal"	"Local Hematology Lab (If Requested)"	1
+"433"	"DN-101 Protocol No. 011-007"	"524"	"524-0009"	"5"	"Pre-Enrollment"	"lpsa"	"idc::nova::014::crf::LabPanel::PSALocal"	"Local PSA (If Requested)"	1
+"434"	"DN-101 Protocol No. 011-007"	"524"	"524-0011"	"5"	"Follow-Up Phase #01"	"ex"	"idc::nova::014::crf::ExposureDN101"	"DN-101 Dosing"	1
+"435"	"DN-101 Protocol No. 011-007"	"524"	"524-0012"	"5"	"Follow-Up Phase #01"	"ex"	"idc::nova::014::crf::ExposureDN101"	"DN-101 Dosing"	1
+"436"	"DN-101 Protocol No. 011-007"	"525"	"525-0002"	"5"	"Protocol Violation/Deviation"	"dv"	"idc::nova::014::crf::ProtocolDeviation"	"Protocol Violation/Deviation"	1
+"437"	"DN-101 Protocol No. 011-007"	"525"	"525-0003"	"5"	"Subsequent Cancer Therapy"	"sct"	"idc::nova::014::crf::SubsequentCancerTherapy"	"Subsequent Cancer Therapy"	1
+"438"	"DN-101 Protocol No. 011-007"	"525"	"525-0004"	"5"	"Follow-Up Phase #05"	"ex"	"idc::nova::014::crf::ExposureDN101"	"DN-101 Dosing"	1
+"439"	"DN-101 Protocol No. 011-007"	"525"	"525-0005"	"5"	"Follow-Up Phase #05"	"ex"	"idc::nova::014::crf::ExposureDN101"	"DN-101 Dosing"	1
+"440"	"DN-101 Protocol No. 011-007"	"525"	"525-0007"	"5"	"Follow-Up Phase #02"	"ex"	"idc::nova::014::crf::ExposureDN101"	"DN-101 Dosing"	1
+"441"	"DN-101 Protocol No. 011-007"	"527"	"527-0001"	"5"	"Follow-Up Phase #02"	"exd"	"idc::nova::014::crf::ExposureDocetaxel"	"Docetaxel Dosing"	1
+"442"	"DN-101 Protocol No. 011-007"	"528"	"528-0001"	"5"	"Follow-Up Phase #03"	"ex"	"idc::nova::014::crf::ExposureDN101"	"DN-101 Dosing"	1
+"443"	"DN-101 Protocol No. 011-007"	"528"	"528-0003"	"5"	"Follow-Up Phase #03"	"exd"	"idc::nova::014::crf::ExposureDocetaxel"	"Docetaxel Dosing"	1
+"444"	"DN-101 Protocol No. 011-007"	"529"	"529-0001"	"5"	"Follow-Up Phase #04"	"exd"	"idc::nova::014::crf::ExposureDocetaxel"	"Docetaxel Dosing"	1
+"445"	"DN-101 Protocol No. 011-007"	"529"	"529-0005"	"5"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	1
+"446"	"DN-101 Protocol No. 011-007"	"603"	"603-0001"	"5"	"Follow-Up Phase #01"	"ex"	"idc::nova::014::crf::ExposureDN101"	"DN-101 Dosing"	1
+"447"	"DN-101 Protocol No. 011-007"	"604"	"604-0001"	"5"	"Follow-Up Phase #01"	"exd"	"idc::nova::014::crf::ExposureDocetaxel"	"Docetaxel Dosing"	1
+"448"	"DN-101 Protocol No. 011-007"	"604"	"604-0002"	"5"	"Cycle #03"	"exd"	"idc::nova::014::crf::ExposureDocetaxel"	"Docetaxel Dosing"	1
+"449"	"DN-101 Protocol No. 011-007"	"606"	"606-0002"	"5"	"Follow-Up Phase #02"	"ex"	"idc::nova::014::crf::ExposureDN101"	"DN-101 Dosing"	1
+"450"	"DN-101 Protocol No. 011-007"	"606"	"606-0003"	"5"	"Follow-Up Phase #02"	"exd"	"idc::nova::014::crf::ExposureDocetaxel"	"Docetaxel Dosing"	1
+"451"	"DN-101 Protocol No. 011-007"	"606"	"606-0004"	"5"	"Pre-Enrollment"	"lbhem"	"idc::nova::014::crf::LabPanel::HemLocal"	"Local Hematology Lab (If Requested)"	1
+"452"	"DN-101 Protocol No. 011-007"	"606"	"606-0005"	"5"	"Pre-Enrollment"	"lbchem"	"idc::nova::014::crf::LabPanel::ChemLocal"	"Local Chemistry Lab (If Requested)"	1
+"453"	"DN-101 Protocol No. 011-007"	"610"	"610-0002"	"5"	"Pre-Enrollment"	"lbchem"	"idc::nova::014::crf::LabPanel::ChemLocal"	"Local Chemistry Lab (If Requested)"	1
+"454"	"DN-101 Protocol No. 011-007"	"610"	"610-0004"	"5"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	1
+"455"	"DN-101 Protocol No. 011-007"	"613"	"613-0002"	"5"	"Follow-Up Phase #05"	"exd"	"idc::nova::014::crf::ExposureDocetaxel"	"Docetaxel Dosing"	1
+"456"	"DN-101 Protocol No. 011-007"	"613"	"613-0003"	"5"	"Follow-Up Phase #02"	"exd"	"idc::nova::014::crf::ExposureDocetaxel"	"Docetaxel Dosing"	1
+"457"	"DN-101 Protocol No. 011-007"	"613"	"613-0004"	"5"	"Follow-Up Phase #03"	"exd"	"idc::nova::014::crf::ExposureDocetaxel"	"Docetaxel Dosing"	1
+"458"	"DN-101 Protocol No. 011-007"	"614"	"614-0001"	"5"	"Follow-Up Phase #06"	"exd"	"idc::nova::014::crf::ExposureDocetaxel"	"Docetaxel Dosing"	1
+"459"	"DN-101 Protocol No. 011-007"	"616"	"616-0001"	"5"	"Pre-Enrollment"	"lbhem"	"idc::nova::014::crf::LabPanel::HemLocal"	"Local Hematology Lab (If Requested)"	1
+"460"	"DN-101 Protocol No. 011-007"	"616"	"616-0003"	"5"	"Pre-Enrollment"	"lpsa"	"idc::nova::014::crf::LabPanel::PSALocal"	"Local PSA (If Requested)"	1
+"461"	"DN-101 Protocol No. 011-007"	"616"	"616-0004"	"5"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	1
+"462"	"DN-101 Protocol No. 011-007"	"616"	"616-0008"	"5"	"Follow-Up Phase #04"	"exd"	"idc::nova::014::crf::ExposureDocetaxel"	"Docetaxel Dosing"	1
+"463"	"DN-101 Protocol No. 011-007"	"616"	"616-0009"	"5"	"Follow-Up Phase #02"	"exd"	"idc::nova::014::crf::ExposureDocetaxel"	"Docetaxel Dosing"	1
+"464"	"DN-101 Protocol No. 011-007"	"616"	"616-0011"	"5"	"Follow-Up Phase #03"	"exd"	"idc::nova::014::crf::ExposureDocetaxel"	"Docetaxel Dosing"	1
+"465"	"DN-101 Protocol No. 011-007"	"616"	"616-0013"	"5"	"Pre-Enrollment"	"lbchem"	"idc::nova::014::crf::LabPanel::ChemLocal"	"Local Chemistry Lab (If Requested)"	1
+"466"	"DN-101 Protocol No. 011-007"	"616"	"616-0014"	"5"	"Pre-Enrollment"	"lpsa"	"idc::nova::014::crf::LabPanel::PSALocal"	"Local PSA (If Requested)"	1
+"467"	"DN-101 Protocol No. 011-007"	"617"	"617-0001"	"5"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	1
+"468"	"DN-101 Protocol No. 011-007"	"619"	"619-0004"	"5"	"Follow-Up Phase #02"	"gi"	"idc::nova::014::crf::GI"	"Gastrointestinal Events"	1
+"469"	"DN-101 Protocol No. 011-007"	"619"	"619-0005"	"5"	"Pre-Enrollment"	"lbhem"	"idc::nova::014::crf::LabPanel::HemLocal"	"Local Hematology Lab (If Requested)"	1
+"470"	"DN-101 Protocol No. 011-007"	"619"	"619-0007"	"5"	"Pre-Enrollment"	"lpsa"	"idc::nova::014::crf::LabPanel::PSALocal"	"Local PSA (If Requested)"	1
+"471"	"DN-101 Protocol No. 011-007"	"619"	"619-0008"	"5"	"Pre-Enrollment"	"lst"	"idc::nova::014::crf::LabPanel::STLocal"	"Local Serum Testosterone (If Requested)"	1
+"472"	"DN-101 Protocol No. 011-007"	"620"	"620-0001"	"5"	"Protocol Violation/Deviation"	"dv"	"idc::nova::014::crf::ProtocolDeviation"	"Protocol Violation/Deviation"	1
+"473"	"DN-101 Protocol No. 011-007"	"621"	"621-0001"	"5"	"Pre-Enrollment"	"lbchem"	"idc::nova::014::crf::LabPanel::ChemLocal"	"Local Chemistry Lab (If Requested)"	1
+"474"	"DN-101 Protocol No. 011-007"	"621"	"621-0002"	"5"	"Pre-Enrollment"	"lpsa"	"idc::nova::014::crf::LabPanel::PSALocal"	"Local PSA (If Requested)"	1
+"475"	"DN-101 Protocol No. 011-007"	"621"	"621-0004"	"5"	"Follow-Up Phase #01"	"sre"	"idc::nova::014::crf::SREEvaluation"	"Skeletal-Related Events"	1
+"476"	"DN-101 Protocol No. 011-007"	"625"	"625-0001"	"5"	"Follow-Up Phase #01"	"exd"	"idc::nova::014::crf::ExposureDocetaxel"	"Docetaxel Dosing"	1

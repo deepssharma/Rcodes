@@ -1,0 +1,523 @@
+"RPT"	"RINVSITE"	"STUDY"	"VISIT"	"VISNAME"	"PKSAMPN"	"PKSAMP"	"TYPEPKN"	"TYPEPK"	"PKDAY"	"VISDAY"
+"1"	"00001"	"143"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"2"	"00002"	"089"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"3"	"00003"	"126"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"4"	"00004"	"074"	"CC-5013-PC-002"	1	"Screening"	1	""	1	"Sparse"	8	0
+"5"	"00005"	"051"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"6"	"00006"	"111"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"7"	"00007"	"076"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"8"	"00008"	"144"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"9"	"00009"	"015"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	5
+"10"	"00010"	"032"	"CC-5013-PC-002"	1	"Screening"	1	""	1	"Sparse"	0	0
+"11"	"00011"	"144"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"12"	"00012"	"143"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"13"	"00013"	"132"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"14"	"00014"	"035"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"15"	"00015"	"097"	"CC-5013-PC-002"	1	"Screening"	1	""	1	"Sparse"	0	0
+"16"	"00016"	"062"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"17"	"00017"	"105"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"18"	"00018"	"107"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"19"	"00019"	"046"	"CC-5013-PC-002"	1	"Screening"	1	""	2	"Intensive"	0	4
+"20"	"00020"	"063"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"21"	"00021"	"071"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"22"	"00022"	"094"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"23"	"00023"	"104"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"24"	"00024"	"011"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"25"	"00025"	"122"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"26"	"00026"	"020"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"27"	"00027"	"110"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"28"	"00028"	"083"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"29"	"00029"	"054"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"30"	"00030"	"122"	"CC-5013-PC-002"	1	"Screening"	1	""	1	"Sparse"	0	0
+"31"	"00031"	"110"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	1
+"32"	"00032"	"039"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"33"	"00033"	"082"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"34"	"00034"	"050"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	7
+"35"	"00035"	"050"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"36"	"00036"	"137"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"37"	"00037"	"008"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"38"	"00038"	"086"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"39"	"00039"	"042"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"40"	"00040"	"032"	"CC-5013-PC-002"	1	"Screening"	1	""	1	"Sparse"	0	0
+"41"	"00041"	"015"	"CC-5013-PC-002"	1	"Screening"	1	""	1	"Sparse"	0	5
+"42"	"00042"	"156"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"43"	"00043"	"128"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"44"	"00044"	"143"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"45"	"00045"	"009"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"46"	"00046"	"004"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"47"	"00047"	"134"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"48"	"00048"	"124"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"49"	"00049"	"131"	"CC-5013-PC-002"	1	"Screening"	1	""	2	"Intensive"	0	0
+"50"	"00050"	"136"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"51"	"00051"	"044"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"52"	"00052"	"126"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"53"	"00053"	"015"	"CC-5013-PC-002"	1	"Screening"	1	""	1	"Sparse"	0	14
+"54"	"00054"	"136"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"55"	"00055"	"073"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"56"	"00056"	"141"	"CC-5013-PC-002"	1	"Screening"	1	""	1	"Sparse"	0	0
+"57"	"00057"	"076"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"58"	"00058"	"033"	"CC-5013-PC-002"	1	"Screening"	NA	""	NA	""	NA	0
+"59"	"00059"	"130"	"CC-5013-PC-002"	1	"Screening"	1	""	1	"Sparse"	0	0
+"60"	"00060"	"017"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"61"	"00061"	"025"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"62"	"00062"	"051"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"63"	"00063"	"042"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"64"	"00064"	"106"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"65"	"00065"	"126"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"66"	"00066"	"080"	"CC-5013-PC-002"	1	"Screening"	1	""	1	"Sparse"	0	0
+"67"	"00067"	"062"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	21
+"68"	"00068"	"071"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"69"	"00069"	"026"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"70"	"00070"	"015"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"71"	"00071"	"125"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"72"	"00072"	"022"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"73"	"00073"	"076"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"74"	"00074"	"062"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"75"	"00075"	"062"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"76"	"00076"	"104"	"CC-5013-PC-002"	1	"Screening"	1	""	1	"Sparse"	0	4
+"77"	"00077"	"026"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"78"	"00078"	"073"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"79"	"00079"	"085"	"CC-5013-PC-002"	1	"Screening"	1	""	1	"Sparse"	0	0
+"80"	"00080"	"074"	"CC-5013-PC-002"	1	"Screening"	1	""	1	"Sparse"	0	10
+"81"	"00081"	"145"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"82"	"00082"	"077"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"83"	"00083"	"126"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"84"	"00084"	"079"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"85"	"00085"	"161"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"86"	"00086"	"023"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"87"	"00087"	"142"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"88"	"00088"	"142"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	4
+"89"	"00089"	"015"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"90"	"00090"	"015"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	35
+"91"	"00091"	"019"	"CC-5013-PC-002"	1	"Screening"	1	""	1	"Sparse"	0	0
+"92"	"00092"	"163"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"93"	"00093"	"059"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"94"	"00094"	"007"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"95"	"00095"	"032"	"CC-5013-PC-002"	1	"Screening"	1	""	1	"Sparse"	0	0
+"96"	"00096"	"151"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"97"	"00097"	"038"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"98"	"00098"	"125"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"99"	"00099"	"162"	"CC-5013-PC-002"	1	"Screening"	1	""	1	"Sparse"	0	0
+"100"	"00100"	"111"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	1
+"101"	"00101"	"137"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"102"	"00102"	"050"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	3
+"103"	"00103"	"032"	"CC-5013-PC-002"	1	"Screening"	1	""	1	"Sparse"	0	0
+"104"	"00104"	"041"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"105"	"00105"	"109"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"106"	"00106"	"143"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"107"	"00107"	"109"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"108"	"00108"	"129"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	20
+"109"	"00109"	"050"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"110"	"00110"	"146"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"111"	"00111"	"054"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"112"	"00112"	"078"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"113"	"00113"	"104"	"CC-5013-PC-002"	1	"Screening"	1	""	2	"Intensive"	0	0
+"114"	"00114"	"030"	"CC-5013-PC-002"	1	"Screening"	1	""	1	"Sparse"	0	0
+"115"	"00115"	"008"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"116"	"00116"	"089"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"117"	"00117"	"085"	"CC-5013-PC-002"	1	"Screening"	1	""	1	"Sparse"	0	0
+"118"	"00118"	"124"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"119"	"00119"	"066"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	14
+"120"	"00120"	"062"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	13
+"121"	"00121"	"001"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"122"	"00122"	"042"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"123"	"00123"	"042"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"124"	"00125"	"144"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"125"	"00126"	"070"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"126"	"00127"	"111"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	4
+"127"	"00128"	"158"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"128"	"00129"	"101"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	7
+"129"	"00130"	"098"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"130"	"00131"	"152"	"CC-5013-PC-002"	1	"Screening"	1	""	1	"Sparse"	0	11
+"131"	"00132"	"027"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"132"	"00133"	"001"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"133"	"00134"	"057"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"134"	"00135"	"076"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"135"	"00136"	"020"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"136"	"00137"	"036"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"137"	"00138"	"098"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"138"	"00139"	"118"	"CC-5013-PC-002"	1	"Screening"	1	""	2	"Intensive"	0	0
+"139"	"00140"	"160"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"140"	"00141"	"089"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	4
+"141"	"00142"	"122"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"142"	"00143"	"120"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"143"	"00144"	"018"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"144"	"00145"	"098"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"145"	"00146"	"148"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	11
+"146"	"00147"	"118"	"CC-5013-PC-002"	1	"Screening"	1	""	1	"Sparse"	0	0
+"147"	"00148"	"009"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	1
+"148"	"00149"	"138"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"149"	"00150"	"118"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"150"	"00151"	"023"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"151"	"00152"	"127"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"152"	"00153"	"122"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"153"	"00154"	"152"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"154"	"00155"	"099"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	10
+"155"	"00156"	"142"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"156"	"00157"	"076"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"157"	"00158"	"108"	"CC-5013-PC-002"	1	"Screening"	1	""	1	"Sparse"	0	0
+"158"	"00159"	"049"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"159"	"00160"	"133"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	17
+"160"	"00161"	"095"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"161"	"00162"	"109"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	20
+"162"	"00163"	"142"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"163"	"00164"	"132"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"164"	"00165"	"051"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"165"	"00166"	"084"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"166"	"00167"	"082"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"167"	"00168"	"054"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"168"	"00169"	"074"	"CC-5013-PC-002"	1	"Screening"	1	""	1	"Sparse"	0	0
+"169"	"00170"	"030"	"CC-5013-PC-002"	1	"Screening"	1	""	1	"Sparse"	0	0
+"170"	"00171"	"093"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"171"	"00172"	"010"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"172"	"00173"	"136"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"173"	"00174"	"155"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"174"	"00175"	"028"	"CC-5013-PC-002"	1	"Screening"	1	""	1	"Sparse"	0	0
+"175"	"00176"	"087"	"CC-5013-PC-002"	1	"Screening"	1	""	2	"Intensive"	0	0
+"176"	"00177"	"111"	"CC-5013-PC-002"	1	"Screening"	1	""	1	"Sparse"	0	0
+"177"	"00178"	"002"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"178"	"00179"	"140"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"179"	"00180"	"092"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"180"	"00181"	"074"	"CC-5013-PC-002"	1	"Screening"	1	""	2	"Intensive"	5	0
+"181"	"00182"	"063"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"182"	"00183"	"095"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"183"	"00184"	"076"	"CC-5013-PC-002"	1	"Screening"	1	""	1	"Sparse"	0	5
+"184"	"00185"	"113"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"185"	"00186"	"149"	"CC-5013-PC-002"	1	"Screening"	1	""	2	"Intensive"	0	0
+"186"	"00187"	"107"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	24
+"187"	"00188"	"118"	"CC-5013-PC-002"	1	"Screening"	1	""	1	"Sparse"	27	0
+"188"	"00189"	"089"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	3
+"189"	"00190"	"157"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	14
+"190"	"00191"	"151"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"191"	"00192"	"122"	"CC-5013-PC-002"	1	"Screening"	1	""	2	"Intensive"	0	0
+"192"	"00193"	"011"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"193"	"00194"	"119"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"194"	"00195"	"091"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"195"	"00196"	"153"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"196"	"00197"	"112"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"197"	"00198"	"009"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	2
+"198"	"00199"	"014"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"199"	"00200"	"082"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"200"	"00201"	"050"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"201"	"00202"	"004"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"202"	"00203"	"082"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"203"	"00204"	"008"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"204"	"00205"	"015"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"205"	"00206"	"154"	"CC-5013-PC-002"	1	"Screening"	1	""	1	"Sparse"	0	0
+"206"	"00207"	"126"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"207"	"00208"	"011"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"208"	"00209"	"107"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"209"	"00210"	"048"	"CC-5013-PC-002"	1	"Screening"	1	""	1	"Sparse"	0	0
+"210"	"00211"	"058"	"CC-5013-PC-002"	1	"Screening"	1	""	1	"Sparse"	7	0
+"211"	"00212"	"128"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	24
+"212"	"00213"	"111"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"213"	"00214"	"059"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"214"	"00215"	"103"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"215"	"00216"	"008"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"216"	"00217"	"042"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"217"	"00218"	"086"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"218"	"00219"	"081"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"219"	"00220"	"103"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"220"	"00221"	"105"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"221"	"00222"	"088"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"222"	"00223"	"081"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"223"	"00224"	"158"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"224"	"00225"	"044"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"225"	"00226"	"076"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"226"	"00227"	"029"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"227"	"00228"	"004"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"228"	"00229"	"141"	"CC-5013-PC-002"	1	"Screening"	1	""	1	"Sparse"	0	0
+"229"	"00230"	"040"	"CC-5013-PC-002"	1	"Screening"	1	""	2	"Intensive"	0	0
+"230"	"00231"	"161"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"231"	"00232"	"044"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"232"	"00233"	"139"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"233"	"00234"	"122"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"234"	"00235"	"134"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"235"	"00236"	"074"	"CC-5013-PC-002"	1	"Screening"	1	""	2	"Intensive"	15	15
+"236"	"00237"	"050"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"237"	"00238"	"005"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"238"	"00239"	"027"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"239"	"00240"	"107"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"240"	"00241"	"146"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"241"	"00242"	"089"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	3
+"242"	"00243"	"163"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"243"	"00244"	"051"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"244"	"00245"	"012"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	4
+"245"	"00246"	"125"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"246"	"00247"	"114"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	18
+"247"	"00248"	"044"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"248"	"00249"	"126"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"249"	"00250"	"032"	"CC-5013-PC-002"	1	"Screening"	1	""	1	"Sparse"	0	0
+"250"	"00251"	"020"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"251"	"00252"	"007"	"CC-5013-PC-002"	1	"Screening"	1	""	2	"Intensive"	0	0
+"252"	"00253"	"006"	"CC-5013-PC-002"	1	"Screening"	1	""	1	"Sparse"	28	0
+"253"	"00254"	"130"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"254"	"00256"	"085"	"CC-5013-PC-002"	1	"Screening"	1	""	1	"Sparse"	0	0
+"255"	"00257"	"039"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	1
+"256"	"00258"	"034"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"257"	"00259"	"164"	"CC-5013-PC-002"	1	"Screening"	1	""	1	"Sparse"	25	0
+"258"	"00260"	"083"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	5
+"259"	"00261"	"013"	"CC-5013-PC-002"	1	"Screening"	1	""	1	"Sparse"	0	0
+"260"	"00262"	"089"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	4
+"261"	"00263"	"153"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"262"	"00264"	"151"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"263"	"00265"	"010"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"264"	"00266"	"142"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"265"	"00267"	"083"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	12
+"266"	"00269"	"074"	"CC-5013-PC-002"	1	"Screening"	1	""	1	"Sparse"	0	0
+"267"	"00270"	"019"	"CC-5013-PC-002"	1	"Screening"	1	""	1	"Sparse"	0	0
+"268"	"00271"	"001"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"269"	"00272"	"138"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	14
+"270"	"00273"	"150"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"271"	"00274"	"060"	"CC-5013-PC-002"	1	"Screening"	1	""	1	"Sparse"	0	0
+"272"	"00275"	"114"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	1
+"273"	"00276"	"049"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"274"	"00277"	"005"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"275"	"00278"	"067"	"CC-5013-PC-002"	1	"Screening"	1	""	1	"Sparse"	0	0
+"276"	"00279"	"038"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"277"	"00280"	"050"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"278"	"00281"	"019"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"279"	"00282"	"098"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"280"	"00283"	"005"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"281"	"00284"	"137"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"282"	"00285"	"071"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"283"	"00286"	"050"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"284"	"00287"	"131"	"CC-5013-PC-002"	1	"Screening"	1	""	2	"Intensive"	0	0
+"285"	"00288"	"065"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"286"	"00289"	"015"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	14
+"287"	"00290"	"161"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"288"	"00291"	"070"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"289"	"00292"	"141"	"CC-5013-PC-002"	1	"Screening"	1	""	1	"Sparse"	0	0
+"290"	"00293"	"010"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"291"	"00294"	"009"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	1
+"292"	"00295"	"055"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"293"	"00296"	"159"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"294"	"00297"	"115"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"295"	"00298"	"050"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"296"	"00299"	"062"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"297"	"00300"	"042"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"298"	"00301"	"117"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"299"	"00302"	"121"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	2
+"300"	"00303"	"126"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"301"	"00304"	"008"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"302"	"00305"	"096"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"303"	"00306"	"111"	"CC-5013-PC-002"	1	"Screening"	1	""	1	"Sparse"	0	0
+"304"	"00307"	"085"	"CC-5013-PC-002"	1	"Screening"	1	""	1	"Sparse"	0	0
+"305"	"00308"	"060"	"CC-5013-PC-002"	1	"Screening"	1	""	1	"Sparse"	0	0
+"306"	"00309"	"156"	"CC-5013-PC-002"	1	"Screening"	1	""	1	"Sparse"	0	0
+"307"	"00310"	"151"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"308"	"00311"	"007"	"CC-5013-PC-002"	1	"Screening"	1	""	2	"Intensive"	0	0
+"309"	"00312"	"014"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"310"	"00313"	"151"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"311"	"00314"	"050"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"312"	"00315"	"157"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	15
+"313"	"00316"	"072"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"314"	"00317"	"118"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"315"	"00318"	"157"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	7
+"316"	"00319"	"112"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"317"	"00320"	"157"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	28
+"318"	"00321"	"024"	"CC-5013-PC-002"	1	"Screening"	1	""	1	"Sparse"	0	0
+"319"	"00322"	"061"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"320"	"00323"	"050"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"321"	"00324"	"035"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"322"	"00325"	"019"	"CC-5013-PC-002"	1	"Screening"	1	""	1	"Sparse"	0	0
+"323"	"00326"	"032"	"CC-5013-PC-002"	1	"Screening"	1	""	1	"Sparse"	0	1
+"324"	"00327"	"127"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	4
+"325"	"00328"	"004"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"326"	"00329"	"049"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"327"	"00330"	"007"	"CC-5013-PC-002"	1	"Screening"	1	""	2	"Intensive"	0	0
+"328"	"00331"	"073"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"329"	"00332"	"063"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	-35
+"330"	"00333"	"042"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"331"	"00334"	"085"	"CC-5013-PC-002"	1	"Screening"	1	""	1	"Sparse"	0	0
+"332"	"00335"	"123"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"333"	"00336"	"046"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	1
+"334"	"00337"	"156"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"335"	"00338"	"042"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"336"	"00339"	"092"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"337"	"00340"	"082"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"338"	"00341"	"090"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"339"	"00342"	"081"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"340"	"00343"	"059"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	21
+"341"	"00344"	"017"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"342"	"00345"	"081"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"343"	"00346"	"102"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"344"	"00347"	"091"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"345"	"00348"	"062"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"346"	"00349"	"053"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"347"	"00350"	"094"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"348"	"00351"	"109"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	13
+"349"	"00352"	"141"	"CC-5013-PC-002"	1	"Screening"	1	""	1	"Sparse"	0	0
+"350"	"00353"	"098"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"351"	"00354"	"150"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	32
+"352"	"00355"	"094"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"353"	"00356"	"003"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"354"	"00357"	"126"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"355"	"00358"	"015"	"CC-5013-PC-002"	1	"Screening"	1	""	1	"Sparse"	0	18
+"356"	"00359"	"046"	"CC-5013-PC-002"	1	"Screening"	1	""	2	"Intensive"	0	13
+"357"	"00360"	"051"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"358"	"00361"	"034"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"359"	"00362"	"129"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"360"	"00363"	"011"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	1
+"361"	"00364"	"071"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"362"	"00365"	"139"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"363"	"00366"	"114"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	4
+"364"	"00367"	"016"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"365"	"00368"	"135"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"366"	"00369"	"007"	"CC-5013-PC-002"	1	"Screening"	1	""	2	"Intensive"	0	0
+"367"	"00370"	"014"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	-8
+"368"	"00371"	"015"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	15
+"369"	"00372"	"120"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"370"	"00373"	"026"	"CC-5013-PC-002"	1	"Screening"	1	""	1	"Sparse"	0	0
+"371"	"00374"	"050"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"372"	"00375"	"156"	"CC-5013-PC-002"	1	"Screening"	1	""	2	"Intensive"	17	0
+"373"	"00376"	"048"	"CC-5013-PC-002"	1	"Screening"	1	""	2	"Intensive"	0	0
+"374"	"00377"	"150"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"375"	"00378"	"125"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"376"	"00379"	"042"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"377"	"00380"	"021"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"378"	"00381"	"090"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	32
+"379"	"00382"	"098"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"380"	"00383"	"091"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"381"	"00384"	"021"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"382"	"00385"	"148"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"383"	"00386"	"126"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"384"	"00387"	"061"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"385"	"00388"	"082"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"386"	"00389"	"051"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"387"	"00390"	"098"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"388"	"00391"	"098"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	3
+"389"	"00392"	"026"	"CC-5013-PC-002"	1	"Screening"	1	""	1	"Sparse"	0	0
+"390"	"00393"	"157"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	34
+"391"	"00394"	"043"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	11
+"392"	"00395"	"037"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"393"	"00396"	"032"	"CC-5013-PC-002"	1	"Screening"	1	""	1	"Sparse"	0	0
+"394"	"00397"	"134"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"395"	"00398"	"051"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"396"	"00399"	"050"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"397"	"00400"	"116"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	9
+"398"	"00401"	"154"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"399"	"00402"	"015"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"400"	"00403"	"111"	"CC-5013-PC-002"	1	"Screening"	1	""	1	"Sparse"	0	0
+"401"	"00404"	"006"	"CC-5013-PC-002"	1	"Screening"	1	""	1	"Sparse"	0	0
+"402"	"00405"	"025"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"403"	"00406"	"111"	"CC-5013-PC-002"	1	"Screening"	1	""	1	"Sparse"	0	0
+"404"	"00407"	"143"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"405"	"00408"	"045"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"406"	"00409"	"107"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	16
+"407"	"00410"	"133"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"408"	"00411"	"004"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"409"	"00412"	"101"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	14
+"410"	"00413"	"152"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"411"	"00414"	"015"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"412"	"00415"	"048"	"CC-5013-PC-002"	1	"Screening"	1	""	2	"Intensive"	0	0
+"413"	"00416"	"126"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"414"	"00417"	"074"	"CC-5013-PC-002"	1	"Screening"	1	""	1	"Sparse"	0	0
+"415"	"00418"	"125"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"416"	"00419"	"058"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"417"	"00420"	"069"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"418"	"00421"	"059"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"419"	"00422"	"148"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	23
+"420"	"00423"	"060"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"421"	"00424"	"100"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"422"	"00425"	"027"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"423"	"00426"	"052"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"424"	"00427"	"009"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	14
+"425"	"00428"	"075"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"426"	"00429"	"050"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	61
+"427"	"00430"	"118"	"CC-5013-PC-002"	1	"Screening"	1	""	2	"Intensive"	0	0
+"428"	"00431"	"066"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"429"	"00432"	"044"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	-10
+"430"	"00433"	"076"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"431"	"00434"	"068"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	24
+"432"	"00435"	"098"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"433"	"00436"	"149"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"434"	"00437"	"071"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"435"	"00438"	"101"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	19
+"436"	"00439"	"019"	"CC-5013-PC-002"	1	"Screening"	1	""	1	"Sparse"	0	0
+"437"	"00440"	"065"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	6
+"438"	"00441"	"004"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"439"	"00442"	"115"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"440"	"00443"	"134"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"441"	"00444"	"050"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"442"	"00445"	"097"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"443"	"00446"	"103"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"444"	"00447"	"076"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"445"	"00448"	"009"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"446"	"00449"	"006"	"CC-5013-PC-002"	1	"Screening"	1	""	1	"Sparse"	0	0
+"447"	"00450"	"069"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"448"	"00451"	"090"	"CC-5013-PC-002"	1	"Screening"	1	""	1	"Sparse"	0	0
+"449"	"00452"	"122"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"450"	"00453"	"025"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"451"	"00454"	"137"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"452"	"00455"	"052"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"453"	"00456"	"031"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"454"	"00457"	"098"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"455"	"00458"	"141"	"CC-5013-PC-002"	1	"Screening"	1	""	1	"Sparse"	0	0
+"456"	"00459"	"142"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"457"	"00460"	"048"	"CC-5013-PC-002"	1	"Screening"	1	""	2	"Intensive"	0	0
+"458"	"00461"	"151"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"459"	"00462"	"141"	"CC-5013-PC-002"	1	"Screening"	1	""	1	"Sparse"	0	0
+"460"	"00463"	"110"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"461"	"00464"	"090"	"CC-5013-PC-002"	1	"Screening"	1	""	1	"Sparse"	0	0
+"462"	"00465"	"140"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"463"	"00466"	"066"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"464"	"00467"	"050"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"465"	"00468"	"039"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"466"	"00469"	"056"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	7
+"467"	"00470"	"082"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"468"	"00471"	"031"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"469"	"00472"	"007"	"CC-5013-PC-002"	1	"Screening"	1	""	2	"Intensive"	0	0
+"470"	"00473"	"064"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"471"	"00474"	"008"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"472"	"00475"	"007"	"CC-5013-PC-002"	1	"Screening"	1	""	2	"Intensive"	0	11
+"473"	"00476"	"042"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"474"	"00477"	"018"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"475"	"00478"	"088"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"476"	"00479"	"007"	"CC-5013-PC-002"	1	"Screening"	1	""	2	"Intensive"	0	0
+"477"	"00480"	"042"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"478"	"00481"	"130"	"CC-5013-PC-002"	1	"Screening"	1	""	1	"Sparse"	0	0
+"479"	"00482"	"065"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"480"	"00484"	"005"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"481"	"00485"	"039"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"482"	"00486"	"071"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"483"	"00487"	"028"	"CC-5013-PC-002"	1	"Screening"	1	""	2	"Intensive"	0	0
+"484"	"00488"	"149"	"CC-5013-PC-002"	1	"Screening"	1	""	2	"Intensive"	0	0
+"485"	"00489"	"118"	"CC-5013-PC-002"	1	"Screening"	1	""	1	"Sparse"	0	0
+"486"	"00490"	"087"	"CC-5013-PC-002"	1	"Screening"	1	""	2	"Intensive"	13	13
+"487"	"00491"	"114"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	7
+"488"	"00492"	"066"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"489"	"00493"	"047"	"CC-5013-PC-002"	1	"Screening"	1	""	2	"Intensive"	0	8
+"490"	"00494"	"122"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"491"	"00495"	"017"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"492"	"00496"	"133"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	3
+"493"	"00497"	"111"	"CC-5013-PC-002"	1	"Screening"	1	""	1	"Sparse"	0	0
+"494"	"00498"	"147"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"495"	"00499"	"018"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"496"	"00500"	"156"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"497"	"00501"	"010"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"498"	"00502"	"122"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	7
+"499"	"00503"	"066"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"500"	"00504"	"122"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"501"	"00505"	"046"	"CC-5013-PC-002"	1	"Screening"	1	""	2	"Intensive"	0	5
+"502"	"00506"	"008"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"503"	"00507"	"082"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"504"	"00508"	"019"	"CC-5013-PC-002"	1	"Screening"	1	""	1	"Sparse"	0	-35
+"505"	"00509"	"114"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"506"	"00510"	"061"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"507"	"00511"	"083"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"508"	"00512"	"127"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	5
+"509"	"00513"	"009"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	3
+"510"	"00514"	"015"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	4
+"511"	"00515"	"024"	"CC-5013-PC-002"	1	"Screening"	1	""	1	"Sparse"	0	0
+"512"	"00516"	"041"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"513"	"00517"	"062"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"514"	"00518"	"043"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"515"	"00519"	"087"	"CC-5013-PC-002"	1	"Screening"	1	""	1	"Sparse"	0	0
+"516"	"00520"	"122"	"CC-5013-PC-002"	1	"Screening"	1	""	1	"Sparse"	0	0
+"517"	"00521"	"008"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"518"	"00522"	"144"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"519"	"00523"	"019"	"CC-5013-PC-002"	1	"Screening"	1	""	1	"Sparse"	0	0
+"520"	"00524"	"073"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"521"	"00525"	"076"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	0
+"522"	"00526"	"116"	"CC-5013-PC-002"	1	"Screening"	94	"Not Applicable"	NA	""	NA	2

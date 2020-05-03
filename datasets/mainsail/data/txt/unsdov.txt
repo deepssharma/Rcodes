@@ -1,0 +1,210 @@
+"RPT"	"RINVSITE"	"STUDY"	"VISIT"	"VISNAME"	"VITALS"	"ECG"	"ECOG2"	"CLABHEM"	"CLABCHEM"	"CLABURI"	"TUMOR"	"PROASM1"	"VISDAY"
+"1"	"00001"	"143"	"CC-5013-PC-002"	99	"Unscheduled"	"Vital Signs"	""	"ECOG"	"Hematology"	"Blood Chemistry"	"Urinalysis"	""	"Patient Reported Outcomes (PROASM1)"	79
+"2"	"00001"	"143"	"CC-5013-PC-002"	99	"Unscheduled"	"Vital Signs"	""	"ECOG"	"Hematology"	"Blood Chemistry"	"Urinalysis"	""	""	128
+"3"	"00001"	"143"	"CC-5013-PC-002"	99	"Unscheduled"	"Vital Signs"	""	"ECOG"	""	""	"Urinalysis"	""	""	177
+"4"	"00001"	"143"	"CC-5013-PC-002"	99	"Unscheduled"	"Vital Signs"	""	"ECOG"	"Hematology"	"Blood Chemistry"	""	""	""	184
+"5"	"00002"	"089"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	"Blood Chemistry"	""	""	""	-25
+"6"	"00002"	"089"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	"Blood Chemistry"	""	""	""	-10
+"7"	"00002"	"089"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	"Blood Chemistry"	""	""	""	-4
+"8"	"00002"	"089"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	"Blood Chemistry"	""	""	""	94
+"9"	"00003"	"126"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	"Blood Chemistry"	""	""	""	188
+"10"	"00004"	"074"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	"Blood Chemistry"	""	""	""	8
+"11"	"00006"	"111"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	"Blood Chemistry"	""	""	""	7
+"12"	"00009"	"015"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	"Blood Chemistry"	"Urinalysis"	""	""	98
+"13"	"00015"	"097"	"CC-5013-PC-002"	99	"Unscheduled"	"Vital Signs"	""	"ECOG"	"Hematology"	"Blood Chemistry"	"Urinalysis"	""	"Patient Reported Outcomes (PROASM1)"	145
+"14"	"00018"	"107"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	"Blood Chemistry"	"Urinalysis"	""	""	-5
+"15"	"00021"	"071"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	"Blood Chemistry"	""	""	""	12
+"16"	"00022"	"094"	"CC-5013-PC-002"	99	"Unscheduled"	"Vital Signs"	""	"ECOG"	"Hematology"	"Blood Chemistry"	"Urinalysis"	""	"Patient Reported Outcomes (PROASM1)"	54
+"17"	"00023"	"104"	"CC-5013-PC-002"	99	"Unscheduled"	"Vital Signs"	""	"ECOG"	""	""	""	""	""	198
+"18"	"00028"	"083"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	"Blood Chemistry"	""	""	""	21
+"19"	"00033"	"082"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	""	""	""	"Tumor Assessments"	""	61
+"20"	"00034"	"050"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	"Blood Chemistry"	""	""	""	11
+"21"	"00036"	"137"	"CC-5013-PC-002"	99	"Unscheduled"	"Vital Signs"	""	"ECOG"	""	""	""	""	""	61
+"22"	"00037"	"008"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	"Blood Chemistry"	""	""	""	9
+"23"	"00038"	"086"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	""	""	""	""	99
+"24"	"00041"	"015"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	"Blood Chemistry"	"Urinalysis"	""	""	0
+"25"	"00045"	"009"	"CC-5013-PC-002"	99	"Unscheduled"	"Vital Signs"	"ECG"	"ECOG"	"Hematology"	"Blood Chemistry"	"Urinalysis"	""	""	-9
+"26"	"00047"	"134"	"CC-5013-PC-002"	99	"Unscheduled"	"Vital Signs"	""	"ECOG"	""	""	""	""	""	69
+"27"	"00051"	"044"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	"ECOG"	""	""	""	""	""	194
+"28"	"00051"	"044"	"CC-5013-PC-002"	99	"Unscheduled"	""	"ECG"	""	""	""	""	""	""	271
+"29"	"00053"	"015"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	"Blood Chemistry"	"Urinalysis"	""	""	168
+"30"	"00056"	"141"	"CC-5013-PC-002"	99	"Unscheduled"	"Vital Signs"	""	""	"Hematology"	"Blood Chemistry"	""	""	""	23
+"31"	"00056"	"141"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	""	""	""	"Tumor Assessments"	""	142
+"32"	"00057"	"076"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	"Blood Chemistry"	"Urinalysis"	""	""	247
+"33"	"00058"	"033"	"CC-5013-PC-002"	99	"Unscheduled"	""	"ECG"	""	""	""	""	""	""	90
+"34"	"00063"	"042"	"CC-5013-PC-002"	99	"Unscheduled"	"Vital Signs"	""	"ECOG"	"Hematology"	"Blood Chemistry"	"Urinalysis"	""	""	280
+"35"	"00067"	"062"	"CC-5013-PC-002"	99	"Unscheduled"	"Vital Signs"	""	"ECOG"	"Hematology"	"Blood Chemistry"	"Urinalysis"	""	"Patient Reported Outcomes (PROASM1)"	75
+"36"	"00067"	"062"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	"Blood Chemistry"	""	""	""	84
+"37"	"00069"	"026"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	""	""	""	""	6
+"38"	"00072"	"022"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	"Blood Chemistry"	""	""	""	7
+"39"	"00076"	"104"	"CC-5013-PC-002"	99	"Unscheduled"	"Vital Signs"	""	"ECOG"	"Hematology"	"Blood Chemistry"	"Urinalysis"	""	""	31
+"40"	"00077"	"026"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	"Blood Chemistry"	""	""	""	192
+"41"	"00078"	"073"	"CC-5013-PC-002"	99	"Unscheduled"	"Vital Signs"	""	""	""	""	""	""	""	13
+"42"	"00088"	"142"	"CC-5013-PC-002"	99	"Unscheduled"	"Vital Signs"	""	""	"Hematology"	""	""	""	""	18
+"43"	"00088"	"142"	"CC-5013-PC-002"	99	"Unscheduled"	"Vital Signs"	""	""	"Hematology"	"Blood Chemistry"	"Urinalysis"	""	""	275
+"44"	"00088"	"142"	"CC-5013-PC-002"	99	"Unscheduled"	"Vital Signs"	""	"ECOG"	"Hematology"	"Blood Chemistry"	"Urinalysis"	""	""	323
+"45"	"00101"	"137"	"CC-5013-PC-002"	99	"Unscheduled"	"Vital Signs"	""	"ECOG"	""	""	"Urinalysis"	""	"Patient Reported Outcomes (PROASM1)"	265
+"46"	"00109"	"050"	"CC-5013-PC-002"	99	"Unscheduled"	"Vital Signs"	""	"ECOG"	"Hematology"	"Blood Chemistry"	"Urinalysis"	""	"Patient Reported Outcomes (PROASM1)"	72
+"47"	"00109"	"050"	"CC-5013-PC-002"	99	"Unscheduled"	"Vital Signs"	""	"ECOG"	"Hematology"	"Blood Chemistry"	"Urinalysis"	""	""	80
+"48"	"00113"	"104"	"CC-5013-PC-002"	99	"Unscheduled"	"Vital Signs"	""	"ECOG"	"Hematology"	"Blood Chemistry"	"Urinalysis"	""	""	158
+"49"	"00113"	"104"	"CC-5013-PC-002"	99	"Unscheduled"	"Vital Signs"	""	"ECOG"	""	""	""	""	""	263
+"50"	"00114"	"030"	"CC-5013-PC-002"	99	"Unscheduled"	"Vital Signs"	""	""	""	""	""	""	""	154
+"51"	"00115"	"008"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	"Blood Chemistry"	""	""	""	217
+"52"	"00119"	"066"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	"Blood Chemistry"	""	""	""	131
+"53"	"00119"	"066"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	"Blood Chemistry"	""	""	""	187
+"54"	"00127"	"111"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	"Blood Chemistry"	""	""	""	69
+"55"	"00128"	"158"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	"Blood Chemistry"	"Urinalysis"	""	""	43
+"56"	"00133"	"001"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	"Blood Chemistry"	"Urinalysis"	""	""	113
+"57"	"00133"	"001"	"CC-5013-PC-002"	99	"Unscheduled"	"Vital Signs"	""	""	"Hematology"	"Blood Chemistry"	"Urinalysis"	""	"Patient Reported Outcomes (PROASM1)"	259
+"58"	"00139"	"118"	"CC-5013-PC-002"	99	"Unscheduled"	""	"ECG"	""	""	""	""	""	""	69
+"59"	"00145"	"098"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	"Blood Chemistry"	""	""	""	28
+"60"	"00149"	"138"	"CC-5013-PC-002"	99	"Unscheduled"	"Vital Signs"	""	"ECOG"	"Hematology"	"Blood Chemistry"	""	""	""	91
+"61"	"00154"	"152"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	"Blood Chemistry"	"Urinalysis"	""	""	-9
+"62"	"00159"	"049"	"CC-5013-PC-002"	99	"Unscheduled"	"Vital Signs"	""	"ECOG"	"Hematology"	"Blood Chemistry"	"Urinalysis"	""	""	48
+"63"	"00159"	"049"	"CC-5013-PC-002"	99	"Unscheduled"	"Vital Signs"	""	""	"Hematology"	"Blood Chemistry"	""	""	""	112
+"64"	"00162"	"109"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	"Blood Chemistry"	"Urinalysis"	""	""	14
+"65"	"00163"	"142"	"CC-5013-PC-002"	99	"Unscheduled"	"Vital Signs"	""	""	""	""	""	""	""	54
+"66"	"00163"	"142"	"CC-5013-PC-002"	99	"Unscheduled"	"Vital Signs"	""	"ECOG"	"Hematology"	"Blood Chemistry"	""	""	""	66
+"67"	"00163"	"142"	"CC-5013-PC-002"	99	"Unscheduled"	"Vital Signs"	""	""	""	""	""	""	""	80
+"68"	"00175"	"028"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	""	"Blood Chemistry"	""	""	""	283
+"69"	"00179"	"140"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	"Blood Chemistry"	"Urinalysis"	""	"Patient Reported Outcomes (PROASM1)"	119
+"70"	"00185"	"113"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	"Blood Chemistry"	"Urinalysis"	""	""	-199
+"71"	"00191"	"151"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	"Blood Chemistry"	"Urinalysis"	""	""	139
+"72"	"00194"	"119"	"CC-5013-PC-002"	99	"Unscheduled"	"Vital Signs"	""	""	"Hematology"	"Blood Chemistry"	""	""	""	14
+"73"	"00194"	"119"	"CC-5013-PC-002"	99	"Unscheduled"	"Vital Signs"	""	""	"Hematology"	"Blood Chemistry"	"Urinalysis"	""	""	69
+"74"	"00194"	"119"	"CC-5013-PC-002"	99	"Unscheduled"	"Vital Signs"	""	""	"Hematology"	"Blood Chemistry"	""	""	""	123
+"75"	"00194"	"119"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	"Blood Chemistry"	"Urinalysis"	""	""	140
+"76"	"00200"	"082"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	"Blood Chemistry"	"Urinalysis"	""	""	255
+"77"	"00201"	"050"	"CC-5013-PC-002"	99	"Unscheduled"	"Vital Signs"	""	"ECOG"	"Hematology"	"Blood Chemistry"	"Urinalysis"	""	""	356
+"78"	"00204"	"008"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	"Blood Chemistry"	""	""	""	-19
+"79"	"00206"	"154"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	"Blood Chemistry"	""	""	""	58
+"80"	"00206"	"154"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	""	""	""	""	81
+"81"	"00206"	"154"	"CC-5013-PC-002"	99	"Unscheduled"	"Vital Signs"	""	"ECOG"	"Hematology"	"Blood Chemistry"	"Urinalysis"	""	""	122
+"82"	"00206"	"154"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	"Blood Chemistry"	""	""	""	158
+"83"	"00206"	"154"	"CC-5013-PC-002"	99	"Unscheduled"	"Vital Signs"	""	""	"Hematology"	"Blood Chemistry"	"Urinalysis"	""	""	192
+"84"	"00206"	"154"	"CC-5013-PC-002"	99	"Unscheduled"	"Vital Signs"	""	"ECOG"	"Hematology"	"Blood Chemistry"	"Urinalysis"	""	""	199
+"85"	"00206"	"154"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	""	""	""	""	235
+"86"	"00214"	"059"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	""	""	""	""	-25
+"87"	"00214"	"059"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	"Blood Chemistry"	""	""	""	20
+"88"	"00214"	"059"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	""	""	""	""	22
+"89"	"00214"	"059"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	""	""	""	""	24
+"90"	"00219"	"081"	"CC-5013-PC-002"	99	"Unscheduled"	"Vital Signs"	""	"ECOG"	""	""	""	""	""	101
+"91"	"00223"	"081"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	""	"Blood Chemistry"	""	""	""	-8
+"92"	"00223"	"081"	"CC-5013-PC-002"	99	"Unscheduled"	"Vital Signs"	""	"ECOG"	"Hematology"	"Blood Chemistry"	"Urinalysis"	""	"Patient Reported Outcomes (PROASM1)"	217
+"93"	"00230"	"040"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	"Blood Chemistry"	"Urinalysis"	""	""	-23
+"94"	"00237"	"050"	"CC-5013-PC-002"	99	"Unscheduled"	"Vital Signs"	""	""	"Hematology"	""	""	""	""	100
+"95"	"00237"	"050"	"CC-5013-PC-002"	99	"Unscheduled"	""	"ECG"	""	"Hematology"	"Blood Chemistry"	"Urinalysis"	""	""	273
+"96"	"00244"	"051"	"CC-5013-PC-002"	99	"Unscheduled"	"Vital Signs"	""	""	"Hematology"	"Blood Chemistry"	"Urinalysis"	""	""	164
+"97"	"00244"	"051"	"CC-5013-PC-002"	99	"Unscheduled"	"Vital Signs"	""	""	"Hematology"	""	""	""	""	165
+"98"	"00248"	"044"	"CC-5013-PC-002"	99	"Unscheduled"	"Vital Signs"	""	""	""	""	""	""	"Patient Reported Outcomes (PROASM1)"	21
+"99"	"00257"	"039"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	"Blood Chemistry"	""	""	""	188
+"100"	"00260"	"083"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	"Blood Chemistry"	""	""	""	13
+"101"	"00261"	"013"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	""	""	""	""	9
+"102"	"00262"	"089"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	"Blood Chemistry"	""	""	""	124
+"103"	"00262"	"089"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	"Blood Chemistry"	""	""	""	186
+"104"	"00266"	"142"	"CC-5013-PC-002"	99	"Unscheduled"	"Vital Signs"	""	""	"Hematology"	""	""	""	""	45
+"105"	"00270"	"019"	"CC-5013-PC-002"	99	"Unscheduled"	"Vital Signs"	""	"ECOG"	"Hematology"	"Blood Chemistry"	"Urinalysis"	""	"Patient Reported Outcomes (PROASM1)"	215
+"106"	"00282"	"098"	"CC-5013-PC-002"	99	"Unscheduled"	"Vital Signs"	""	""	""	""	""	""	""	3
+"107"	"00294"	"009"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	"Blood Chemistry"	"Urinalysis"	""	""	85
+"108"	"00300"	"042"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	""	""	""	""	""	104
+"109"	"00307"	"085"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	""	""	""	"Tumor Assessments"	""	144
+"110"	"00309"	"156"	"CC-5013-PC-002"	99	"Unscheduled"	"Vital Signs"	""	"ECOG"	""	""	""	""	""	64
+"111"	"00312"	"014"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	""	""	""	"Tumor Assessments"	""	39
+"112"	"00314"	"050"	"CC-5013-PC-002"	99	"Unscheduled"	"Vital Signs"	""	"ECOG"	"Hematology"	"Blood Chemistry"	"Urinalysis"	""	""	76
+"113"	"00316"	"072"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	""	""	""	"Tumor Assessments"	""	186
+"114"	"00321"	"024"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	""	""	""	"Tumor Assessments"	""	256
+"115"	"00321"	"024"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	""	""	""	"Tumor Assessments"	""	264
+"116"	"00324"	"035"	"CC-5013-PC-002"	99	"Unscheduled"	"Vital Signs"	""	"ECOG"	"Hematology"	"Blood Chemistry"	"Urinalysis"	""	""	77
+"117"	"00332"	"063"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	"Blood Chemistry"	"Urinalysis"	""	""	-7
+"118"	"00333"	"042"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	""	""	""	""	""	0
+"119"	"00337"	"156"	"CC-5013-PC-002"	99	"Unscheduled"	"Vital Signs"	""	"ECOG"	"Hematology"	""	""	""	""	20
+"120"	"00338"	"042"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	""	""	""	""	""	-3
+"121"	"00344"	"017"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	"Blood Chemistry"	""	""	""	21
+"122"	"00344"	"017"	"CC-5013-PC-002"	99	"Unscheduled"	"Vital Signs"	""	"ECOG"	"Hematology"	"Blood Chemistry"	"Urinalysis"	"Tumor Assessments"	""	154
+"123"	"00345"	"081"	"CC-5013-PC-002"	99	"Unscheduled"	"Vital Signs"	""	"ECOG"	""	""	""	""	""	53
+"124"	"00345"	"081"	"CC-5013-PC-002"	99	"Unscheduled"	"Vital Signs"	""	"ECOG"	"Hematology"	"Blood Chemistry"	"Urinalysis"	""	"Patient Reported Outcomes (PROASM1)"	112
+"125"	"00350"	"094"	"CC-5013-PC-002"	99	"Unscheduled"	"Vital Signs"	""	""	""	""	""	""	"Patient Reported Outcomes (PROASM1)"	123
+"126"	"00350"	"094"	"CC-5013-PC-002"	99	"Unscheduled"	"Vital Signs"	"ECG"	""	"Hematology"	"Blood Chemistry"	"Urinalysis"	""	""	137
+"127"	"00351"	"109"	"CC-5013-PC-002"	99	"Unscheduled"	"Vital Signs"	""	"ECOG"	"Hematology"	"Blood Chemistry"	"Urinalysis"	""	""	104
+"128"	"00351"	"109"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	"ECOG"	""	""	""	""	""	110
+"129"	"00352"	"141"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	"ECOG"	""	""	""	""	""	77
+"130"	"00353"	"098"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	"Blood Chemistry"	""	""	""	199
+"131"	"00355"	"094"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	""	""	""	""	12
+"132"	"00355"	"094"	"CC-5013-PC-002"	99	"Unscheduled"	"Vital Signs"	""	"ECOG"	"Hematology"	"Blood Chemistry"	"Urinalysis"	""	""	175
+"133"	"00358"	"015"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	"Blood Chemistry"	"Urinalysis"	""	""	89
+"134"	"00360"	"051"	"CC-5013-PC-002"	99	"Unscheduled"	"Vital Signs"	""	""	"Hematology"	""	""	""	""	37
+"135"	"00360"	"051"	"CC-5013-PC-002"	99	"Unscheduled"	"Vital Signs"	""	""	""	""	""	""	""	38
+"136"	"00360"	"051"	"CC-5013-PC-002"	99	"Unscheduled"	"Vital Signs"	""	""	"Hematology"	""	""	""	""	39
+"137"	"00360"	"051"	"CC-5013-PC-002"	99	"Unscheduled"	"Vital Signs"	""	""	""	""	""	""	""	40
+"138"	"00360"	"051"	"CC-5013-PC-002"	99	"Unscheduled"	"Vital Signs"	""	""	""	""	""	""	""	41
+"139"	"00360"	"051"	"CC-5013-PC-002"	99	"Unscheduled"	"Vital Signs"	""	"ECOG"	"Hematology"	""	""	""	""	56
+"140"	"00360"	"051"	"CC-5013-PC-002"	99	"Unscheduled"	"Vital Signs"	""	""	"Hematology"	""	""	""	""	57
+"141"	"00360"	"051"	"CC-5013-PC-002"	99	"Unscheduled"	"Vital Signs"	""	""	"Hematology"	""	""	""	""	58
+"142"	"00360"	"051"	"CC-5013-PC-002"	99	"Unscheduled"	"Vital Signs"	""	""	"Hematology"	""	""	""	""	60
+"143"	"00360"	"051"	"CC-5013-PC-002"	99	"Unscheduled"	"Vital Signs"	""	""	"Hematology"	""	""	""	""	101
+"144"	"00360"	"051"	"CC-5013-PC-002"	99	"Unscheduled"	"Vital Signs"	""	""	""	""	""	""	""	102
+"145"	"00362"	"129"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	""	""	""	""	""	7
+"146"	"00364"	"071"	"CC-5013-PC-002"	99	"Unscheduled"	"Vital Signs"	""	""	"Hematology"	"Blood Chemistry"	"Urinalysis"	""	""	182
+"147"	"00368"	"135"	"CC-5013-PC-002"	99	"Unscheduled"	"Vital Signs"	""	"ECOG"	"Hematology"	"Blood Chemistry"	"Urinalysis"	""	""	40
+"148"	"00370"	"014"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	"Blood Chemistry"	"Urinalysis"	""	""	35
+"149"	"00371"	"015"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	""	""	""	""	"Patient Reported Outcomes (PROASM1)"	194
+"150"	"00372"	"120"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	"Blood Chemistry"	"Urinalysis"	""	""	84
+"151"	"00373"	"026"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	"Blood Chemistry"	""	""	""	45
+"152"	"00375"	"156"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	"Blood Chemistry"	"Urinalysis"	""	""	106
+"153"	"00378"	"125"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	"Blood Chemistry"	""	""	""	21
+"154"	"00380"	"021"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	"Blood Chemistry"	""	""	""	12
+"155"	"00384"	"021"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	"Blood Chemistry"	""	""	""	7
+"156"	"00387"	"061"	"CC-5013-PC-002"	99	"Unscheduled"	"Vital Signs"	""	""	""	""	"Urinalysis"	""	"Patient Reported Outcomes (PROASM1)"	117
+"157"	"00388"	"082"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	"ECOG"	"Hematology"	""	""	""	""	41
+"158"	"00390"	"098"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	"Blood Chemistry"	""	""	""	-29
+"159"	"00397"	"134"	"CC-5013-PC-002"	99	"Unscheduled"	"Vital Signs"	""	"ECOG"	""	""	""	""	""	194
+"160"	"00401"	"154"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	""	""	""	""	84
+"161"	"00407"	"143"	"CC-5013-PC-002"	99	"Unscheduled"	"Vital Signs"	""	"ECOG"	"Hematology"	"Blood Chemistry"	""	""	"Patient Reported Outcomes (PROASM1)"	302
+"162"	"00414"	"015"	"CC-5013-PC-002"	99	"Unscheduled"	"Vital Signs"	""	""	"Hematology"	"Blood Chemistry"	"Urinalysis"	""	""	141
+"163"	"00417"	"074"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	"Blood Chemistry"	"Urinalysis"	""	""	297
+"164"	"00418"	"125"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	"Blood Chemistry"	"Urinalysis"	""	""	40
+"165"	"00419"	"058"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	"Blood Chemistry"	"Urinalysis"	""	""	17
+"166"	"00419"	"058"	"CC-5013-PC-002"	99	"Unscheduled"	"Vital Signs"	"ECG"	"ECOG"	"Hematology"	"Blood Chemistry"	"Urinalysis"	""	"Patient Reported Outcomes (PROASM1)"	83
+"167"	"00419"	"058"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	""	""	""	""	""	106
+"168"	"00420"	"069"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	"Blood Chemistry"	"Urinalysis"	""	""	-56
+"169"	"00421"	"059"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	"Blood Chemistry"	"Urinalysis"	""	""	10
+"170"	"00421"	"059"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	"Blood Chemistry"	""	""	""	46
+"171"	"00421"	"059"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	"Blood Chemistry"	"Urinalysis"	""	""	52
+"172"	"00421"	"059"	"CC-5013-PC-002"	99	"Unscheduled"	"Vital Signs"	""	"ECOG"	"Hematology"	"Blood Chemistry"	"Urinalysis"	""	"Patient Reported Outcomes (PROASM1)"	96
+"173"	"00421"	"059"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	"Blood Chemistry"	"Urinalysis"	""	""	124
+"174"	"00421"	"059"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	"Blood Chemistry"	"Urinalysis"	""	""	166
+"175"	"00421"	"059"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	"Blood Chemistry"	"Urinalysis"	""	""	172
+"176"	"00421"	"059"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	"Blood Chemistry"	"Urinalysis"	""	"Patient Reported Outcomes (PROASM1)"	200
+"177"	"00421"	"059"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	"Blood Chemistry"	"Urinalysis"	""	""	243
+"178"	"00423"	"060"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	"ECOG"	"Hematology"	"Blood Chemistry"	"Urinalysis"	""	""	177
+"179"	"00423"	"060"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	"ECOG"	"Hematology"	"Blood Chemistry"	"Urinalysis"	""	""	185
+"180"	"00426"	"052"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	"Blood Chemistry"	""	""	""	418
+"181"	"00429"	"050"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	""	""	""	""	"Patient Reported Outcomes (PROASM1)"	258
+"182"	"00430"	"118"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	"Blood Chemistry"	""	""	""	134
+"183"	"00440"	"065"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	"Blood Chemistry"	""	""	""	55
+"184"	"00443"	"134"	"CC-5013-PC-002"	99	"Unscheduled"	"Vital Signs"	""	""	""	""	""	""	""	6
+"185"	"00445"	"097"	"CC-5013-PC-002"	99	"Unscheduled"	"Vital Signs"	""	"ECOG"	"Hematology"	"Blood Chemistry"	"Urinalysis"	""	"Patient Reported Outcomes (PROASM1)"	270
+"186"	"00452"	"122"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	""	""	""	"Tumor Assessments"	""	113
+"187"	"00453"	"025"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	"Blood Chemistry"	"Urinalysis"	""	""	13
+"188"	"00456"	"031"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	"Blood Chemistry"	""	""	""	6
+"189"	"00456"	"031"	"CC-5013-PC-002"	99	"Unscheduled"	"Vital Signs"	""	"ECOG"	"Hematology"	"Blood Chemistry"	"Urinalysis"	""	""	119
+"190"	"00458"	"141"	"CC-5013-PC-002"	99	"Unscheduled"	"Vital Signs"	""	"ECOG"	""	""	""	""	""	95
+"191"	"00459"	"142"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	"Blood Chemistry"	"Urinalysis"	""	""	24
+"192"	"00459"	"142"	"CC-5013-PC-002"	99	"Unscheduled"	"Vital Signs"	""	"ECOG"	"Hematology"	"Blood Chemistry"	"Urinalysis"	""	"Patient Reported Outcomes (PROASM1)"	243
+"193"	"00465"	"140"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	"Blood Chemistry"	""	""	""	-19
+"194"	"00465"	"140"	"CC-5013-PC-002"	99	"Unscheduled"	"Vital Signs"	""	"ECOG"	"Hematology"	"Blood Chemistry"	""	""	"Patient Reported Outcomes (PROASM1)"	28
+"195"	"00470"	"082"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	"Blood Chemistry"	"Urinalysis"	""	""	-7
+"196"	"00471"	"031"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	"Blood Chemistry"	""	""	""	9
+"197"	"00471"	"031"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	"Blood Chemistry"	""	""	""	14
+"198"	"00476"	"042"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	"Blood Chemistry"	""	""	""	70
+"199"	"00478"	"088"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	""	"Blood Chemistry"	""	""	""	-21
+"200"	"00481"	"130"	"CC-5013-PC-002"	99	"Unscheduled"	""	"ECG"	""	""	""	""	""	""	258
+"201"	"00482"	"065"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	"Blood Chemistry"	"Urinalysis"	""	""	12
+"202"	"00482"	"065"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	"Blood Chemistry"	"Urinalysis"	""	""	82
+"203"	"00482"	"065"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	"Blood Chemistry"	"Urinalysis"	""	""	92
+"204"	"00482"	"065"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	"Blood Chemistry"	"Urinalysis"	""	""	195
+"205"	"00484"	"005"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	""	""	""	""	14
+"206"	"00495"	"017"	"CC-5013-PC-002"	99	"Unscheduled"	"Vital Signs"	""	"ECOG"	"Hematology"	"Blood Chemistry"	""	""	""	7
+"207"	"00507"	"082"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	"Blood Chemistry"	"Urinalysis"	""	""	67
+"208"	"00512"	"127"	"CC-5013-PC-002"	99	"Unscheduled"	""	""	""	"Hematology"	"Blood Chemistry"	""	""	""	11
+"209"	"00512"	"127"	"CC-5013-PC-002"	99	"Unscheduled"	"Vital Signs"	""	"ECOG"	""	""	""	""	""	106

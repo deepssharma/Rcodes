@@ -1,0 +1,609 @@
+"RPT"	"RINVSITE"	"STUDY"	"VISIT"	"VISNAME"	"STNONEN"	"STNONE"	"STTERM"	"STSTOGN"	"STSTOG"	"STENOGN"	"STENOG"	"STENDAY"	"STSTDAY"	"VISDAY"
+"1"	"00001"	"143"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	312
+"2"	"00002"	"089"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	277
+"3"	"00004"	"074"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	155
+"4"	"00004"	"074"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"radiotherapy to pelvis"	0	""	2	""	207	205	239
+"5"	"00007"	"076"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	91
+"6"	"00007"	"076"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	172
+"7"	"00009"	"015"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"ABIRATERONE"	0	""	1	"Ongoing"	NA	313	371
+"8"	"00009"	"015"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"abiraterone"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	434
+"9"	"00009"	"015"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"abiraterone"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	469
+"10"	"00011"	"144"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	335
+"11"	"00011"	"144"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"abiraterone"	0	""	2	""	488	405	427
+"12"	"00011"	"144"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"prednisone"	0	""	2	""	538	427	427
+"13"	"00011"	"144"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	538
+"14"	"00015"	"097"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Radiation T10-T12"	0	""	2	""	297	284	361
+"15"	"00015"	"097"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	445
+"16"	"00015"	"097"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"zytiga"	0	""	1	"Ongoing"	NA	473	529
+"17"	"00015"	"097"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"prednisone"	0	""	1	"Ongoing"	NA	473	529
+"18"	"00015"	"097"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"pamidronate"	0	""	1	"Ongoing"	NA	608	608
+"19"	"00015"	"097"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"zytiga"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	608
+"20"	"00015"	"097"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"prednisone"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	608
+"21"	"00016"	"062"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	371
+"22"	"00016"	"062"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	434
+"23"	"00016"	"062"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Abiraterone"	0	""	1	"Ongoing"	NA	455	511
+"24"	"00018"	"107"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Abiraterone"	0	""	1	"Ongoing"	NA	384	426
+"25"	"00018"	"107"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Abiraterone"	1	"Ongoing from previous visit"	2	""	511	NA	511
+"26"	"00021"	"071"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Cabazitaxel"	0	""	1	"Ongoing"	NA	154	189
+"27"	"00021"	"071"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"PREDNISOLONE"	0	""	1	"Ongoing"	NA	267	267
+"28"	"00021"	"071"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"CABAZITAXEL"	1	"Ongoing from previous visit"	2	""	230	NA	267
+"29"	"00021"	"071"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"DEXAMETHASONE"	0	""	1	"Ongoing"	NA	245	267
+"30"	"00021"	"071"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"RADIOTHERAPY TO T11 - L3 FOR SPINAL CORD COMPRESSION AT THE LEVEL OF T12"	0	""	2	""	257	251	267
+"31"	"00022"	"094"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Orteronol vs.Placebo"	0	""	1	"Ongoing"	NA	172	215
+"32"	"00023"	"104"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	419
+"33"	"00025"	"122"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Taxotere"	0	""	1	"Ongoing"	NA	56	168
+"34"	"00030"	"122"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Taxotere"	0	""	1	"Ongoing"	NA	414	414
+"35"	"00032"	"039"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	161
+"36"	"00032"	"039"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	224
+"37"	"00032"	"039"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Taxotere"	0	""	1	"Ongoing"	NA	280	329
+"38"	"00032"	"039"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Taxotere"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	420
+"39"	"00036"	"137"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	344
+"40"	"00036"	"137"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Ipilimumab/placebo trial"	0	""	1	"Ongoing"	NA	396	446
+"41"	"00036"	"137"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Ipilimumab/placebo trial"	1	"Ongoing from previous visit"	2	""	462	NA	538
+"42"	"00036"	"137"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Cyclophosphamide"	0	""	1	"Ongoing"	NA	484	538
+"43"	"00036"	"137"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Dexamethasone"	0	""	1	"Ongoing"	NA	484	538
+"44"	"00039"	"042"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	440
+"45"	"00043"	"128"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Docetaxel"	0	""	2	""	203	140	224
+"46"	"00049"	"131"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Cabazitaxel"	0	""	1	"Ongoing"	NA	93	133
+"47"	"00049"	"131"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Prednisone"	0	""	1	"Ongoing"	NA	93	133
+"48"	"00049"	"131"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"cabazitaxel"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	259
+"49"	"00049"	"131"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"prednison"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	259
+"50"	"00052"	"126"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	342
+"51"	"00052"	"126"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"study treatment (hormone)"	0	""	2	""	425	357	428
+"52"	"00054"	"136"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"abiraterone"	0	""	1	"Ongoing"	NA	535	610
+"53"	"00055"	"073"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Orteronel/placebo"	0	""	1	"Ongoing"	NA	394	422
+"54"	"00055"	"073"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Prednisone"	0	""	1	"Ongoing"	NA	394	422
+"55"	"00055"	"073"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Orteronel/placebo"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	513
+"56"	"00055"	"073"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"prednisone"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	513
+"57"	"00055"	"073"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"oreteronel/placebo"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	598
+"58"	"00055"	"073"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"prednisone"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	598
+"59"	"00059"	"130"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	294
+"60"	"00060"	"017"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Zometa"	0	""	1	"Ongoing"	NA	77	163
+"61"	"00061"	"025"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Jevtana"	0	""	2	""	148	126	183
+"62"	"00062"	"051"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Zytiga"	0	""	1	"Ongoing"	NA	492	575
+"63"	"00064"	"106"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Hydrokortison"	0	""	2	""	232	151	214
+"64"	"00064"	"106"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Mitoxantron"	0	""	2	""	232	151	214
+"65"	"00064"	"106"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Cabazitaxel"	0	""	1	"Ongoing"	NA	280	302
+"66"	"00064"	"106"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Prednisolon"	0	""	1	"Ongoing"	NA	280	302
+"67"	"00064"	"106"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	393
+"68"	"00064"	"106"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Cabazitaxel"	0	""	1	"Ongoing"	NA	428	477
+"69"	"00064"	"106"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Cabazitaxel"	1	"Ongoing from previous visit"	2	""	574	NA	574
+"70"	"00065"	"126"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"cabacitaxel"	0	""	2	""	185	185	228
+"71"	"00065"	"126"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"radiotherapy"	0	""	2	""	175	175	228
+"72"	"00065"	"126"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"radiotherapy"	0	""	2	""	224	224	228
+"73"	"00069"	"026"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Zytiga"	0	""	1	"Ongoing"	NA	260	336
+"74"	"00070"	"015"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"ABIRATERONE"	0	""	1	"Ongoing"	NA	200	287
+"75"	"00070"	"015"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"abiraterone"	0	""	2	""	394	200	382
+"76"	"00070"	"015"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"cabazitaxel"	0	""	1	"Ongoing"	NA	419	449
+"77"	"00072"	"022"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"cabazitaxel"	0	""	1	"Ongoing"	NA	137	200
+"78"	"00072"	"022"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"radiation to the left humerus-12Gy"	0	""	2	""	113	110	200
+"79"	"00072"	"022"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"external beam radiotherapy to T2-T10 30Gy"	0	""	2	""	258	242	285
+"80"	"00072"	"022"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"external beam radiotherapy left hip 30Gy"	0	""	2	""	258	242	285
+"81"	"00072"	"022"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"cabazitaxel"	1	"Ongoing from previous visit"	2	""	221	NA	285
+"82"	"00072"	"022"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"ketaconazole"	0	""	1	"Ongoing"	NA	221	285
+"83"	"00072"	"022"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"hydrocortizone"	0	""	1	"Ongoing"	NA	221	285
+"84"	"00072"	"022"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"ketaconazole"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	389
+"85"	"00072"	"022"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"hydrocortisone"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	389
+"86"	"00072"	"022"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"diethylstilbestrol"	0	""	1	"Ongoing"	NA	463	488
+"87"	"00072"	"022"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Diethylbestrol"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	581
+"88"	"00073"	"076"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Prednisone 5mg PO BiD"	0	""	1	"Ongoing"	NA	238	267
+"89"	"00073"	"076"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	383
+"90"	"00073"	"076"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	470
+"91"	"00073"	"076"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	503
+"92"	"00075"	"062"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	238
+"93"	"00077"	"026"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Radiatio"	0	""	2	""	308	279	333
+"94"	"00077"	"026"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Zoledronat"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	333
+"95"	"00077"	"026"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Zoledronat"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	426
+"96"	"00077"	"026"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Samarium-153 therapy"	0	""	2	""	370	370	426
+"97"	"00077"	"026"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Zoledronat"	1	"Ongoing from previous visit"	2	""	445	NA	511
+"98"	"00077"	"026"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Samarium-153 therapy"	0	""	2	""	440	440	511
+"99"	"00077"	"026"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Denosumab"	0	""	1	"Ongoing"	NA	460	511
+"100"	"00077"	"026"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Zytiga"	0	""	2	""	549	515	607
+"101"	"00078"	"073"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Orteronel"	0	""	1	"Ongoing"	NA	434	462
+"102"	"00078"	"073"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"prednisone"	0	""	1	"Ongoing"	NA	434	462
+"103"	"00078"	"073"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Orteronel"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	553
+"104"	"00078"	"073"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"prednisone"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	553
+"105"	"00078"	"073"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"orteronel"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	644
+"106"	"00078"	"073"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"prednisone"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	644
+"107"	"00079"	"085"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Cabacitaxel"	0	""	2	""	163	100	190
+"108"	"00079"	"085"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Abiraterone"	0	""	1	"Ongoing"	NA	190	190
+"109"	"00081"	"145"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"VINORELBINE"	0	""	1	"Ongoing"	NA	280	362
+"110"	"00081"	"145"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"clinical trials Chemotherapy"	0	""	2	""	426	425	467
+"111"	"00081"	"145"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Vinorelbine"	0	""	2	""	369	286	467
+"112"	"00084"	"079"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Abiraterone"	0	""	2	""	370	328	402
+"113"	"00089"	"015"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"ASP 9521 (clinical trial drug)"	0	""	1	"Ongoing"	NA	428	494
+"114"	"00090"	"015"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"ipilimumab ou placebo"	0	""	1	"Ongoing"	NA	309	350
+"115"	"00090"	"015"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"radiotherapy"	0	""	2	""	309	309	350
+"116"	"00090"	"015"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"ipilimumab ou placebo"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	469
+"117"	"00091"	"019"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Zytiga"	NA	""	1	"Ongoing"	NA	NA	337
+"118"	"00091"	"019"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"zytiga"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	435
+"119"	"00094"	"007"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"TAXOTERE"	0	""	2	""	135	30	114
+"120"	"00094"	"007"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	182
+"121"	"00094"	"007"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"ACETATE ABIRATERONE"	0	""	1	"Ongoing"	NA	271	301
+"122"	"00097"	"038"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"provenge"	0	""	2	""	463	435	471
+"123"	"00097"	"038"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Abiraterone"	0	""	1	"Ongoing"	NA	504	558
+"124"	"00111"	"054"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Docetaxel"	0	""	2	""	188	124	214
+"125"	"00112"	"078"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Taxotere"	0	""	2	""	178	80	129
+"126"	"00113"	"104"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"cabazitaxel"	0	""	1	"Ongoing"	NA	354	375
+"127"	"00114"	"030"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	336
+"128"	"00116"	"089"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	392
+"129"	"00127"	"111"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"denosumab"	0	""	1	"Ongoing"	NA	420	444
+"130"	"00127"	"111"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"zytiga"	0	""	1	"Ongoing"	NA	411	444
+"131"	"00127"	"111"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Denosumab"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	532
+"132"	"00131"	"152"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Abiraterone"	0	""	2	""	348	264	348
+"133"	"00133"	"001"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Cabazitaxel"	0	""	2	""	331	287	352
+"134"	"00133"	"001"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Encephal radiotherapie"	0	""	2	""	350	337	352
+"135"	"00134"	"057"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"docetaxel"	0	""	1	"Ongoing"	NA	364	455
+"136"	"00135"	"076"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Taxotere"	0	""	2	""	451	365	451
+"137"	"00136"	"020"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"cabaxitaxel"	1	"Ongoing from previous visit"	2	""	152	NA	182
+"138"	"00136"	"020"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"abiraterone"	0	""	1	"Ongoing"	NA	152	182
+"139"	"00136"	"020"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"abiraterone"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	232
+"140"	"00137"	"036"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"taxotere"	0	""	2	""	157	157	255
+"141"	"00139"	"118"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	308
+"142"	"00139"	"118"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	397
+"143"	"00142"	"122"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	364
+"144"	"00148"	"009"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	187
+"145"	"00151"	"023"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"cabazitaxel"	0	""	NA	""	NA	375	462
+"146"	"00152"	"127"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Mitozantrone"	0	""	1	"Ongoing"	NA	141	204
+"147"	"00152"	"127"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Mitoxantrone"	1	"Ongoing from previous visit"	2	""	246	NA	283
+"148"	"00152"	"127"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	407
+"149"	"00152"	"127"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	493
+"150"	"00153"	"122"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Cabazitaxel"	0	""	1	"Ongoing"	NA	309	309
+"151"	"00155"	"099"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Zytiga"	0	""	1	"Ongoing"	NA	204	206
+"152"	"00155"	"099"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Jevtana"	0	""	2	""	162	116	206
+"153"	"00155"	"099"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Radiatio cerebral"	0	""	2	""	199	186	206
+"154"	"00155"	"099"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Radiation left eye"	0	""	2	""	137	120	206
+"155"	"00156"	"142"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Abiaterone"	0	""	1	"Ongoing"	NA	256	321
+"156"	"00158"	"108"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Docetaxel"	0	""	2	""	303	303	301
+"157"	"00158"	"108"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"INV Sorafenib"	0	""	2	""	301	301	301
+"158"	"00158"	"108"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Cabazitaxel"	0	""	2	""	375	375	391
+"159"	"00158"	"108"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"dexamethazone sodium"	0	""	2	""	478	375	480
+"160"	"00162"	"109"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Orteronel/Placebo"	0	""	1	"Ongoing"	NA	467	522
+"161"	"00163"	"142"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Zytiga"	0	""	2	""	102	102	179
+"162"	"00164"	"132"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Docetaxel"	0	""	1	"Ongoing"	NA	77	152
+"163"	"00164"	"132"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Zometa"	0	""	1	"Ongoing"	NA	77	152
+"164"	"00164"	"132"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Docetaxel"	0	""	2	""	217	77	232
+"165"	"00164"	"132"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Zoladronic Acid 4mg"	0	""	2	""	217	77	232
+"166"	"00164"	"132"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	320
+"167"	"00168"	"054"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	298
+"168"	"00168"	"054"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"mitoxantrone"	0	""	1	"Ongoing"	NA	383	383
+"169"	"00168"	"054"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"prednisone"	0	""	1	"Ongoing"	NA	383	383
+"170"	"00168"	"054"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"mitoxantrone"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	470
+"171"	"00168"	"054"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"prednisone"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	470
+"172"	"00168"	"054"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Mitoxantrone"	1	"Ongoing from previous visit"	2	""	488	NA	561
+"173"	"00168"	"054"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Prednisone"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	561
+"174"	"00168"	"054"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Abiraterone"	0	""	1	"Ongoing"	NA	541	561
+"175"	"00168"	"054"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Abiraterone"	0	""	2	""	638	541	651
+"176"	"00171"	"093"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"abiraterone"	0	""	1	"Ongoing"	NA	344	409
+"177"	"00172"	"010"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Ketoconazole"	0	""	1	"Ongoing"	NA	265	351
+"178"	"00172"	"010"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Hydrocortisone"	0	""	1	"Ongoing"	NA	265	351
+"179"	"00172"	"010"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Avodart"	0	""	1	"Ongoing"	NA	265	351
+"180"	"00172"	"010"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Avodart"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	428
+"181"	"00172"	"010"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Ketoconazole"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	428
+"182"	"00172"	"010"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Hydrocortizone"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	428
+"183"	"00172"	"010"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Cabazitaxel"	0	""	1	"Ongoing"	NA	464	526
+"184"	"00172"	"010"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"prednisone"	0	""	1	"Ongoing"	NA	464	526
+"185"	"00172"	"010"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	575
+"186"	"00172"	"010"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	625
+"187"	"00172"	"010"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Docetaxel"	0	""	1	"Ongoing"	NA	638	659
+"188"	"00175"	"028"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"investigational product + prednisone"	0	""	1	"Ongoing"	NA	353	427
+"189"	"00175"	"028"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Investigational product and prednisone"	0	""	2	""	465	353	518
+"190"	"00177"	"111"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"zytiga"	0	""	1	"Ongoing"	NA	80	105
+"191"	"00178"	"002"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Taxotere"	0	""	1	"Ongoing"	NA	36	120
+"192"	"00178"	"002"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Prednisone"	0	""	1	"Ongoing"	NA	36	120
+"193"	"00178"	"002"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Lupron"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	120
+"194"	"00178"	"002"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Taxotere"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	204
+"195"	"00178"	"002"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Prednisone"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	204
+"196"	"00178"	"002"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Lupron"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	204
+"197"	"00178"	"002"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Taxotere"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	302
+"198"	"00178"	"002"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Prednisone"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	302
+"199"	"00178"	"002"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Lupron"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	302
+"200"	"00178"	"002"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Taxotere"	1	"Ongoing from previous visit"	2	""	346	NA	406
+"201"	"00178"	"002"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Prednisone"	1	"Ongoing from previous visit"	2	""	360	NA	406
+"202"	"00178"	"002"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Lupron"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	406
+"203"	"00178"	"002"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Radiation to para-aortics/pelvic bone"	0	""	1	"Ongoing"	NA	478	483
+"204"	"00178"	"002"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Lupron"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	483
+"205"	"00180"	"092"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	174
+"206"	"00180"	"092"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"metroxantone"	0	""	2	""	249	249	252
+"207"	"00180"	"092"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	357
+"208"	"00180"	"092"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	432
+"209"	"00187"	"107"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Mitoxantrone"	0	""	1	"Ongoing"	NA	151	184
+"210"	"00187"	"107"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Zoledronic acid"	0	""	1	"Ongoing"	NA	207	276
+"211"	"00187"	"107"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Carboplatine"	0	""	1	"Ongoing"	NA	234	276
+"212"	"00187"	"107"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Mitoxantrone"	1	"Ongoing from previous visit"	2	""	207	NA	276
+"213"	"00187"	"107"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Carboplatino"	1	"Ongoing from previous visit"	2	""	298	NA	366
+"214"	"00187"	"107"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Ac. Zoledronico (Zometa)"	1	"Ongoing from previous visit"	2	""	298	NA	366
+"215"	"00187"	"107"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Nizoral"	0	""	1	"Ongoing"	NA	421	450
+"216"	"00187"	"107"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Nizoral"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	555
+"217"	"00188"	"118"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"abiraterone"	0	""	1	"Ongoing"	NA	192	248
+"218"	"00191"	"151"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	335
+"219"	"00192"	"122"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	273
+"220"	"00193"	"011"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Orteronel/Placebo"	0	""	2	""	335	251	336
+"221"	"00194"	"119"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	333
+"222"	"00199"	"014"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Decapeptyl"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	202
+"223"	"00199"	"014"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Decapeptyl"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	321
+"224"	"00199"	"014"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Decapeptyl"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	406
+"225"	"00199"	"014"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Abiraterone"	0	""	1	"Ongoing"	NA	378	406
+"226"	"00201"	"050"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Abiraterone acetate"	0	""	1	"Ongoing"	NA	412	475
+"227"	"00201"	"050"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Abiraterone acetate"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	566
+"228"	"00202"	"004"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"palliative external beam radiotherapy - cervical"	0	""	2	""	170	156	219
+"229"	"00205"	"015"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"orteronel/placebo"	0	""	1	"Ongoing"	NA	350	406
+"230"	"00206"	"154"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"DOCETAXEL"	0	""	1	"Ongoing"	NA	301	344
+"231"	"00207"	"126"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"CABAZITAXEL"	0	""	1	"Ongoing"	NA	198	218
+"232"	"00209"	"107"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Abiraterone"	0	""	1	"Ongoing"	NA	391	448
+"233"	"00209"	"107"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Abiraterone"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	532
+"234"	"00212"	"128"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Docetaxel"	0	""	1	"Ongoing"	NA	93	177
+"235"	"00214"	"059"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	125
+"236"	"00214"	"059"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Casodex"	0	""	1	"Ongoing"	NA	148	211
+"237"	"00215"	"103"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"zometa"	0	""	1	"Ongoing"	NA	231	279
+"238"	"00216"	"008"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	342
+"239"	"00219"	"081"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	181
+"240"	"00219"	"081"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	293
+"241"	"00219"	"081"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	363
+"242"	"00223"	"081"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"radiation given to the T2-T6 levels of thoracic spine"	0	""	2	""	405	405	399
+"243"	"00225"	"044"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	357
+"244"	"00225"	"044"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Orteronel/ placebo and prednisone"	0	""	1	"Ongoing"	NA	370	455
+"245"	"00225"	"044"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Orteronel/or placebo 400 mg po bd & Prednisone 5 mg po bd."	0	""	2	""	511	370	539
+"246"	"00227"	"029"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Taxotere"	0	""	1	"Ongoing"	NA	71	186
+"247"	"00228"	"004"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Novantrone"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	175
+"248"	"00228"	"004"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Aredia"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	175
+"249"	"00229"	"141"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"abiraterone"	0	""	1	"Ongoing"	NA	319	351
+"250"	"00230"	"040"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	267
+"251"	"00230"	"040"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	357
+"252"	"00230"	"040"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	366
+"253"	"00233"	"139"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	201
+"254"	"00234"	"122"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Docetaxel"	0	""	1	"Ongoing"	NA	27	126
+"255"	"00234"	"122"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Prednisone"	0	""	1	"Ongoing"	NA	27	126
+"256"	"00235"	"134"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	195
+"257"	"00235"	"134"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"abiraterone"	0	""	1	"Ongoing"	NA	211	259
+"258"	"00235"	"134"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"abiraterone"	0	""	2	""	355	211	356
+"259"	"00235"	"134"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"navelbine"	0	""	1	"Ongoing"	NA	356	356
+"260"	"00235"	"134"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"NAVELBINE"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	440
+"261"	"00236"	"074"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	198
+"262"	"00236"	"074"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	289
+"263"	"00236"	"074"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"cabazitaxel"	0	""	1	"Ongoing"	NA	325	380
+"264"	"00237"	"050"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	336
+"265"	"00237"	"050"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	424
+"266"	"00237"	"050"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Provenge"	0	""	2	""	480	452	508
+"267"	"00240"	"107"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Abiraterone acetate"	0	""	1	"Ongoing"	NA	317	317
+"268"	"00240"	"107"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Abiraterone acetate"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	373
+"269"	"00241"	"146"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"dexamethasone"	0	""	1	"Ongoing"	NA	288	288
+"270"	"00241"	"146"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"samarium"	0	""	2	""	301	301	378
+"271"	"00241"	"146"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"dexamethasone"	0	""	1	"Ongoing"	NA	288	378
+"272"	"00241"	"146"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"cytoxan"	0	""	1	"Ongoing"	NA	323	378
+"273"	"00241"	"146"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"dexamethasone"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	474
+"274"	"00241"	"146"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"cytoxan"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	474
+"275"	"00243"	"163"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"bicalutamide"	0	""	1	"Ongoing"	NA	236	306
+"276"	"00243"	"163"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"leuproreline"	0	""	1	"Ongoing"	NA	236	306
+"277"	"00243"	"163"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"zolendronic acid"	0	""	1	"Ongoing"	NA	236	306
+"278"	"00243"	"163"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"zolendronic acid"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	404
+"279"	"00243"	"163"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"leuprorelide"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	404
+"280"	"00243"	"163"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"bicalutamide"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	404
+"281"	"00243"	"163"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"zolendronic acid"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	488
+"282"	"00243"	"163"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"leuprorelide"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	488
+"283"	"00243"	"163"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"bicalutamide"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	488
+"284"	"00244"	"051"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	413
+"285"	"00247"	"114"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"docetaxel"	0	""	2	""	194	107	195
+"286"	"00247"	"114"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"prednisone"	0	""	2	""	194	107	195
+"287"	"00247"	"114"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	309
+"288"	"00247"	"114"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	441
+"289"	"00249"	"126"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"prednisona"	0	""	1	"Ongoing"	NA	364	410
+"290"	"00249"	"126"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"study treatment"	0	""	1	"Ongoing"	NA	364	410
+"291"	"00249"	"126"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"ciclofosfamida"	0	""	1	"Ongoing"	NA	433	512
+"292"	"00250"	"032"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	358
+"293"	"00250"	"032"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"abiraterone"	0	""	1	"Ongoing"	NA	378	435
+"294"	"00252"	"007"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"ABIRATERONE"	0	""	1	"Ongoing"	NA	319	350
+"295"	"00253"	"006"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Zytiga"	0	""	1	"Ongoing"	NA	427	511
+"296"	"00256"	"085"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Abiraterone"	0	""	1	"Ongoing"	NA	170	214
+"297"	"00256"	"085"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Abiraterone"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	297
+"298"	"00256"	"085"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Cabazitaxel"	0	""	1	"Ongoing"	NA	373	394
+"299"	"00256"	"085"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Abiraterone"	1	"Ongoing from previous visit"	2	""	365	NA	394
+"300"	"00256"	"085"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Cabazitaxel"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	485
+"301"	"00257"	"039"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"megace"	0	""	1	"Ongoing"	NA	210	216
+"302"	"00257"	"039"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"radiation therapy"	0	""	2	""	174	159	216
+"303"	"00257"	"039"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"megace"	0	""	1	"Ongoing"	NA	210	321
+"304"	"00257"	"039"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Abiraterone"	0	""	1	"Ongoing"	NA	369	398
+"305"	"00257"	"039"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"megace"	0	""	2	""	365	210	398
+"306"	"00257"	"039"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Abiraterone"	0	""	1	"Ongoing"	NA	369	503
+"307"	"00257"	"039"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"denosumab"	0	""	1	"Ongoing"	NA	475	503
+"308"	"00257"	"039"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"abiraterone"	0	""	1	"Ongoing"	NA	369	587
+"309"	"00257"	"039"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"denosumab"	0	""	1	"Ongoing"	NA	475	587
+"310"	"00259"	"164"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"docetaxel"	0	""	2	""	117	94	196
+"311"	"00263"	"153"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Radiotherapy"	0	""	2	""	181	161	222
+"312"	"00266"	"142"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"MDV/Placebo"	0	""	2	""	134	73	134
+"313"	"00266"	"142"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Zometa"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	134
+"314"	"00266"	"142"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Cabazitaxel"	0	""	1	"Ongoing"	NA	164	227
+"315"	"00266"	"142"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Zometa"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	227
+"316"	"00266"	"142"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Prednisone"	0	""	1	"Ongoing"	NA	164	227
+"317"	"00266"	"142"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Pallative Radiation Therapy-Hip and Groin-3000cGy in 10 fractions"	0	""	2	""	317	317	323
+"318"	"00266"	"142"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Zometa"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	323
+"319"	"00266"	"142"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Carbazitaxel"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	323
+"320"	"00266"	"142"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Zometa"	1	"Ongoing from previous visit"	2	""	523	NA	417
+"321"	"00266"	"142"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Carbazitaxel"	1	"Ongoing from previous visit"	2	""	396	NA	417
+"322"	"00266"	"142"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Prednisone"	1	"Ongoing from previous visit"	2	""	523	NA	417
+"323"	"00268"	"099"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	288
+"324"	"00268"	"099"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Jevtana"	0	""	2	""	412	348	370
+"325"	"00268"	"099"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	463
+"326"	"00268"	"099"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Jevtana"	0	""	2	""	512	491	553
+"327"	"00269"	"074"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	408
+"328"	"00270"	"019"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	291
+"329"	"00270"	"019"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"ketoconazole"	0	""	1	"Ongoing"	NA	343	392
+"330"	"00270"	"019"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"abiraterone"	0	""	1	"Ongoing"	NA	411	497
+"331"	"00270"	"019"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"prednisone"	0	""	1	"Ongoing"	NA	432	497
+"332"	"00270"	"019"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"abiraterone"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	593
+"333"	"00275"	"114"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Mitoxantrone"	0	""	1	"Ongoing"	NA	107	212
+"334"	"00275"	"114"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Prednisone"	0	""	1	"Ongoing"	NA	107	212
+"335"	"00275"	"114"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"mitoxantrone"	1	"Ongoing from previous visit"	2	""	324	NA	324
+"336"	"00275"	"114"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"prednisone"	1	"Ongoing from previous visit"	2	""	324	NA	324
+"337"	"00276"	"049"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"ORTERONEL (TAK-700)/PLACEBO"	0	""	1	"Ongoing"	NA	282	328
+"338"	"00276"	"049"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"ABIRATERONE"	0	""	1	"Ongoing"	NA	372	427
+"339"	"00279"	"038"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Abiraterone"	0	""	1	"Ongoing"	NA	201	258
+"340"	"00280"	"050"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Taxotere"	0	""	2	""	265	180	265
+"341"	"00281"	"019"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Zytiga"	0	""	1	"Ongoing"	NA	329	329
+"342"	"00284"	"137"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	167
+"343"	"00284"	"137"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	216
+"344"	"00286"	"050"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"PSMA-ADC 1301- study drug"	0	""	1	"Ongoing"	NA	447	513
+"345"	"00289"	"015"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"abiraterone"	0	""	1	"Ongoing"	NA	492	527
+"346"	"00292"	"141"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"ABIRATERONE"	0	""	1	"Ongoing"	NA	311	354
+"347"	"00292"	"141"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"ABIRATERONE"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	451
+"348"	"00292"	"141"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"ABIRATERONE"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	522
+"349"	"00293"	"010"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	112
+"350"	"00293"	"010"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Provenge"	0	""	2	""	164	128	204
+"351"	"00295"	"055"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"zytiga"	0	""	1	"Ongoing"	NA	556	597
+"352"	"00296"	"159"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Zytiga"	0	""	1	"Ongoing"	NA	312	350
+"353"	"00296"	"159"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Zytiga"	0	""	1	"Ongoing"	NA	312	434
+"354"	"00296"	"159"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Zytiga"	0	""	1	"Ongoing"	NA	312	476
+"355"	"00300"	"042"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	321
+"356"	"00300"	"042"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	411
+"357"	"00301"	"117"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Zytiga"	0	""	1	"Ongoing"	NA	192	274
+"358"	"00302"	"121"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"taxotere"	0	""	1	"Ongoing"	NA	105	178
+"359"	"00302"	"121"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"TAXOTERE"	0	""	1	"Ongoing"	NA	105	272
+"360"	"00302"	"121"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"TAXOTERE"	0	""	2	""	343	105	343
+"361"	"00302"	"121"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	441
+"362"	"00304"	"008"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	401
+"363"	"00309"	"156"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Docetaxel"	0	""	2	""	99	67	162
+"364"	"00309"	"156"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Carboplatin"	0	""	2	""	99	67	162
+"365"	"00309"	"156"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Radiation to Prostate"	0	""	2	""	100	78	162
+"366"	"00309"	"156"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Docetaxel"	0	""	1	"Ongoing"	NA	121	162
+"367"	"00309"	"156"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Carboplatin"	0	""	1	"Ongoing"	NA	121	162
+"368"	"00309"	"156"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Radiation to T-spine"	0	""	1	"Ongoing"	NA	149	162
+"369"	"00311"	"007"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"CABAZITAXEL"	0	""	1	"Ongoing"	NA	175	217
+"370"	"00311"	"007"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"CABAZITAXEL"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	300
+"371"	"00312"	"014"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"oxycontin"	NA	""	1	"Ongoing"	NA	NA	192
+"372"	"00314"	"050"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	231
+"373"	"00317"	"118"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Abiraterone"	0	""	1	"Ongoing"	NA	282	322
+"374"	"00322"	"061"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"E- Carbo - F"	0	""	2	""	345	317	345
+"375"	"00325"	"019"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"zytiga"	0	""	1	"Ongoing"	NA	326	344
+"376"	"00325"	"019"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"prednisone"	0	""	1	"Ongoing"	NA	326	344
+"377"	"00325"	"019"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Zytiga"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	442
+"378"	"00325"	"019"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"prednisone"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	442
+"379"	"00325"	"019"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"zytiga"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	553
+"380"	"00325"	"019"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"prednisone"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	553
+"381"	"00331"	"073"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"orteronel"	0	""	1	"Ongoing"	NA	420	464
+"382"	"00331"	"073"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"prednisone"	0	""	1	"Ongoing"	NA	420	464
+"383"	"00333"	"042"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Mitoxantron"	0	""	1	"Ongoing"	NA	119	145
+"384"	"00333"	"042"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Investigational product"	0	""	1	"Ongoing"	NA	119	145
+"385"	"00333"	"042"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"mitoxantron"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	229
+"386"	"00333"	"042"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"investigational product"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	229
+"387"	"00333"	"042"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"mitoxantron"	1	"Ongoing from previous visit"	2	""	294	NA	320
+"388"	"00333"	"042"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Investigational Product"	1	"Ongoing from previous visit"	2	""	299	NA	320
+"389"	"00334"	"085"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Abiraterone"	0	""	1	"Ongoing"	NA	353	383
+"390"	"00334"	"085"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Abiraterone"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	442
+"391"	"00335"	"123"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"abiraterone"	0	""	1	"Ongoing"	NA	176	189
+"392"	"00335"	"123"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"abiraterone"	0	""	2	""	207	176	260
+"393"	"00335"	"123"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"zometa"	0	""	1	"Ongoing"	NA	242	260
+"394"	"00338"	"042"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	186
+"395"	"00338"	"042"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Mitoxantron"	0	""	2	""	255	206	277
+"396"	"00339"	"092"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	224
+"397"	"00339"	"092"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	279
+"398"	"00341"	"090"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"abiraterone acetate"	0	""	1	"Ongoing"	NA	337	397
+"399"	"00341"	"090"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"abiraterone acetate"	1	"Ongoing from previous visit"	2	""	425	NA	491
+"400"	"00341"	"090"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"CABACITAXEL"	0	""	2	""	471	428	491
+"401"	"00342"	"081"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Androurcor"	0	""	1	"Ongoing"	NA	184	221
+"402"	"00342"	"081"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Bondronat"	0	""	1	"Ongoing"	NA	183	221
+"403"	"00342"	"081"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Suprefact injection"	0	""	1	"Ongoing"	NA	-649	221
+"404"	"00346"	"102"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Abiraterone"	0	""	1	"Ongoing"	NA	392	434
+"405"	"00347"	"091"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	102
+"406"	"00347"	"091"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Abiraterone"	0	""	1	"Ongoing"	NA	103	168
+"407"	"00349"	"053"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"abiraterone"	0	""	1	"Ongoing"	NA	276	346
+"408"	"00350"	"094"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Taxotere"	0	""	1	"Ongoing"	NA	158	179
+"409"	"00352"	"141"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"DOCETAXEL"	0	""	1	"Ongoing"	NA	112	182
+"410"	"00352"	"141"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"DOCETAXEL"	1	"Ongoing from previous visit"	2	""	232	NA	267
+"411"	"00352"	"141"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	358
+"412"	"00358"	"015"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"ipilimumab/placebo"	0	""	2	""	222	180	240
+"413"	"00358"	"015"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	" Radiotherapy (Lumbar vertebrae) 800 cGy"	0	""	2	""	179	179	240
+"414"	"00358"	"015"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"abiraterone"	0	""	2	""	303	240	335
+"415"	"00358"	"015"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"custirsen/placebo (OGX-011-10 study)"	0	""	1	"Ongoing"	NA	331	335
+"416"	"00360"	"051"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	251
+"417"	"00360"	"051"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	330
+"418"	"00360"	"051"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	422
+"419"	"00360"	"051"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	502
+"420"	"00362"	"129"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	350
+"421"	"00362"	"129"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	436
+"422"	"00362"	"129"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	519
+"423"	"00362"	"129"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Mitoxantrone 24mg IVPB"	0	""	1	"Ongoing"	NA	547	568
+"424"	"00363"	"011"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Orterenol/Placebo"	0	""	1	"Ongoing"	NA	270	353
+"425"	"00365"	"139"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Abiraterone"	0	""	2	""	387	317	392
+"426"	"00367"	"016"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Zytiga"	0	""	1	"Ongoing"	NA	134	224
+"427"	"00369"	"007"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"CABAZITAXEL"	0	""	1	"Ongoing"	NA	224	287
+"428"	"00369"	"007"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"cabazitaxel"	1	"Ongoing from previous visit"	2	""	328	NA	392
+"429"	"00369"	"007"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"novantrone"	0	""	1	"Ongoing"	NA	392	392
+"430"	"00370"	"014"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Morphine"	0	""	1	"Ongoing"	NA	202	216
+"431"	"00370"	"014"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Desametasone"	0	""	1	"Ongoing"	NA	202	216
+"432"	"00371"	"015"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"radiotherapy (+/- Ipilimumab)"	0	""	1	"Ongoing"	NA	239	258
+"433"	"00373"	"026"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Zytiga"	0	""	1	"Ongoing"	NA	376	447
+"434"	"00374"	"050"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Zytiga"	0	""	1	"Ongoing"	NA	378	439
+"435"	"00374"	"050"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Zytiga"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	531
+"436"	"00375"	"156"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Cabazitaxel"	0	""	1	"Ongoing"	NA	247	311
+"437"	"00375"	"156"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Prednisone"	0	""	1	"Ongoing"	NA	247	311
+"438"	"00375"	"156"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Cabazitaxel"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	395
+"439"	"00375"	"156"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Prednisone"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	395
+"440"	"00375"	"156"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Cabazitaxel"	1	"Ongoing from previous visit"	2	""	444	NA	491
+"441"	"00375"	"156"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Prednisone"	1	"Ongoing from previous visit"	2	""	444	NA	491
+"442"	"00379"	"042"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"mitoxantron"	0	""	1	"Ongoing"	NA	217	266
+"443"	"00383"	"091"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	285
+"444"	"00385"	"148"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	260
+"445"	"00385"	"148"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	355
+"446"	"00386"	"126"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"ciclophosphamide"	1	"Ongoing from previous visit"	2	""	229	NA	230
+"447"	"00386"	"126"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"dexametasone"	1	"Ongoing from previous visit"	2	""	229	NA	230
+"448"	"00387"	"061"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	442
+"449"	"00392"	"026"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Zytiga"	0	""	1	"Ongoing"	NA	170	260
+"450"	"00392"	"026"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Xgeva"	0	""	1	"Ongoing"	NA	169	260
+"451"	"00392"	"026"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Trenantone"	0	""	1	"Ongoing"	NA	184	260
+"452"	"00401"	"154"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"DOCETAXEL"	0	""	1	"Ongoing"	NA	127	169
+"453"	"00401"	"154"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"TAXOTERE"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	253
+"454"	"00401"	"154"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"TAXOTERE"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	350
+"455"	"00401"	"154"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"TAXOTERE"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	434
+"456"	"00401"	"154"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"TAXOTERE"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	518
+"457"	"00401"	"154"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"TAXOTERE"	1	"Ongoing from previous visit"	2	""	617	NA	631
+"458"	"00401"	"154"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"TAXOTERE"	1	"Ongoing from previous visit"	2	""	680	NA	699
+"459"	"00401"	"154"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"ZYTIGA"	0	""	1	"Ongoing"	NA	694	699
+"460"	"00402"	"015"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"taxotere"	0	""	1	"Ongoing"	NA	24	108
+"461"	"00404"	"006"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Zytiga-Abiraterone"	0	""	1	"Ongoing"	NA	326	455
+"462"	"00406"	"111"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	272
+"463"	"00411"	"004"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"docetaxel"	0	""	1	"Ongoing"	NA	45	127
+"464"	"00411"	"004"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"aredia"	0	""	1	"Ongoing"	NA	45	127
+"465"	"00411"	"004"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"decapeptyl"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	127
+"466"	"00411"	"004"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"docetaxel"	1	"Ongoing from previous visit"	2	""	170	NA	214
+"467"	"00411"	"004"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Decapeptyl"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	214
+"468"	"00411"	"004"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"aredia"	1	"Ongoing from previous visit"	2	""	198	NA	214
+"469"	"00411"	"004"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"zometa"	0	""	1	"Ongoing"	NA	198	214
+"470"	"00411"	"004"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"6th cervical - 2nd dorsal bone radiotherapy"	0	""	2	""	214	210	214
+"471"	"00411"	"004"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Androcur"	0	""	1	"Ongoing"	NA	198	214
+"472"	"00414"	"015"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"ABIRATERONE"	0	""	2	""	216	189	230
+"473"	"00414"	"015"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"RADIOTHERAPY"	0	""	2	""	167	161	230
+"474"	"00414"	"015"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"cabazitaxel"	0	""	1	"Ongoing"	NA	239	309
+"475"	"00414"	"015"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"radiotherapy"	0	""	2	""	400	386	405
+"476"	"00414"	"015"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"cabazitaxel"	0	""	2	""	351	239	405
+"477"	"00416"	"126"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"study drug"	0	""	1	"Ongoing"	NA	429	485
+"478"	"00416"	"126"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"clinical trial"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	569
+"479"	"00417"	"074"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	352
+"480"	"00418"	"125"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	399
+"481"	"00419"	"058"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"abiraterone"	0	""	1	"Ongoing"	NA	162	216
+"482"	"00420"	"069"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"prednisone 5mg bid"	0	""	1	"Ongoing"	NA	189	266
+"483"	"00432"	"044"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Docetaxel"	0	""	1	"Ongoing"	NA	46	102
+"484"	"00432"	"044"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	188
+"485"	"00432"	"044"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	244
+"486"	"00432"	"044"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	356
+"487"	"00433"	"076"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Abiraterone"	0	""	1	"Ongoing"	NA	332	347
+"488"	"00433"	"076"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Abiraterone"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	425
+"489"	"00438"	"101"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"ZYTIGA"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	313
+"490"	"00439"	"019"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"orteronel/placebo"	0	""	1	"Ongoing"	NA	334	334
+"491"	"00439"	"019"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"prednisone"	0	""	1	"Ongoing"	NA	334	334
+"492"	"00439"	"019"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"orteronel/placebo"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	419
+"493"	"00439"	"019"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"prednisone"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	419
+"494"	"00439"	"019"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"orteronel/placebo"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	503
+"495"	"00439"	"019"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"prednisone"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	503
+"496"	"00440"	"065"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	465
+"497"	"00440"	"065"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"zytiga iiii/IV 250mg  p.o. qd"	0	""	1	"Ongoing"	NA	549	549
+"498"	"00440"	"065"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	645
+"499"	"00441"	"004"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Taxotere"	0	""	2	""	435	393	456
+"500"	"00441"	"004"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"zometa"	0	""	1	"Ongoing"	NA	387	456
+"501"	"00443"	"134"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"jevtana"	0	""	1	"Ongoing"	NA	339	409
+"502"	"00444"	"050"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Docetaxel"	0	""	1	"Ongoing"	NA	47	138
+"503"	"00444"	"050"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Prednisone"	0	""	1	"Ongoing"	NA	47	138
+"504"	"00445"	"097"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	442
+"505"	"00445"	"097"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	521
+"506"	"00447"	"076"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Zytiga"	0	""	2	""	217	139	164
+"507"	"00450"	"069"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	237
+"508"	"00454"	"137"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Mitoxantrone"	0	""	1	"Ongoing"	NA	97	162
+"509"	"00454"	"137"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Stilboestrol"	0	""	1	"Ongoing"	NA	175	252
+"510"	"00454"	"137"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Mitoxantrone"	1	"Ongoing from previous visit"	2	""	164	NA	252
+"511"	"00454"	"137"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Stilboestrol"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	342
+"512"	"00454"	"137"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Stilboestrol"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	419
+"513"	"00457"	"098"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"docetaxel"	0	""	1	"Ongoing"	NA	158	242
+"514"	"00457"	"098"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"docetaxel"	0	""	2	""	285	158	327
+"515"	"00462"	"141"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"CABAZITAXEL"	0	""	2	""	163	143	233
+"516"	"00462"	"141"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"carboplatine"	0	""	1	"Ongoing"	NA	184	233
+"517"	"00462"	"141"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"etoposide"	0	""	1	"Ongoing"	NA	184	233
+"518"	"00464"	"090"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"MONOCLONAL ANTIBODY. INVESTIGATIONAL PRODUCT"	0	""	1	"Ongoing"	NA	279	341
+"519"	"00464"	"090"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"MITOXANTRONE"	0	""	1	"Ongoing"	NA	279	341
+"520"	"00464"	"090"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"PREDNISONE"	0	""	1	"Ongoing"	NA	279	341
+"521"	"00468"	"039"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Docetaxel"	0	""	1	"Ongoing"	NA	79	119
+"522"	"00468"	"039"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Docetaxel"	0	""	1	"Ongoing"	NA	79	203
+"523"	"00468"	"039"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Docetaxel"	1	"Ongoing from previous visit"	2	""	287	NA	287
+"524"	"00469"	"056"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	276
+"525"	"00469"	"056"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	353
+"526"	"00469"	"056"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	442
+"527"	"00469"	"056"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Docetaxel"	0	""	2	""	469	469	525
+"528"	"00472"	"007"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	341
+"529"	"00474"	"008"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	365
+"530"	"00476"	"042"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	231
+"531"	"00480"	"042"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Mitoxantron"	0	""	1	"Ongoing"	NA	272	328
+"532"	"00481"	"130"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Abiraterone"	0	""	2	""	412	356	356
+"533"	"00481"	"130"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Prednisone"	0	""	2	""	412	356	356
+"534"	"00481"	"130"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Abiraterone"	0	""	2	""	455	413	413
+"535"	"00481"	"130"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Prednisone"	0	""	2	""	455	413	413
+"536"	"00483"	"078"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	315
+"537"	"00483"	"078"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	427
+"538"	"00486"	"071"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"ABIRATERONE ACETATE"	0	""	1	"Ongoing"	NA	442	442
+"539"	"00486"	"071"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"PREDNISILONE"	0	""	1	"Ongoing"	NA	442	442
+"540"	"00487"	"028"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	212
+"541"	"00487"	"028"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Abiraterone"	0	""	1	"Ongoing"	NA	280	304
+"542"	"00487"	"028"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Prednisone"	0	""	1	"Ongoing"	NA	280	304
+"543"	"00487"	"028"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Intensity-modulated radiation therapy (IMRT)"	0	""	1	"Ongoing"	NA	304	304
+"544"	"00487"	"028"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"stereotactic radiation"	0	""	1	"Ongoing"	NA	304	304
+"545"	"00488"	"149"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	332
+"546"	"00488"	"149"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Abiraterone"	0	""	1	"Ongoing"	NA	361	406
+"547"	"00491"	"114"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	475
+"548"	"00492"	"066"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Docetaxel"	0	""	1	"Ongoing"	NA	224	273
+"549"	"00494"	"122"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Docetaxel"	0	""	1	"Ongoing"	NA	77	129
+"550"	"00494"	"122"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Docetaxol"	1	"Ongoing from previous visit"	2	""	130	NA	207
+"551"	"00494"	"122"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Radiation"	0	""	1	"Ongoing"	NA	204	207
+"552"	"00494"	"122"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Abriaterone"	0	""	1	"Ongoing"	NA	157	207
+"553"	"00495"	"017"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Docetaxel"	0	""	2	""	92	92	120
+"554"	"00495"	"017"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	204
+"555"	"00495"	"017"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	287
+"556"	"00498"	"147"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	222
+"557"	"00498"	"147"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Jevtana-based therapy"	0	""	1	"Ongoing"	NA	281	323
+"558"	"00499"	"018"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"mitoxantrone"	0	""	2	""	183	141	281
+"559"	"00499"	"018"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"vinorelbina"	0	""	2	""	267	207	281
+"560"	"00500"	"156"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Docetaxel"	0	""	1	"Ongoing"	NA	268	372
+"561"	"00500"	"156"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Zometa"	0	""	1	"Ongoing"	NA	268	372
+"562"	"00500"	"156"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Docetaxel"	1	"Ongoing from previous visit"	2	""	421	NA	470
+"563"	"00500"	"156"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Zometa"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	470
+"564"	"00500"	"156"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Abiraterone"	0	""	1	"Ongoing"	NA	538	568
+"565"	"00500"	"156"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Zometa"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	568
+"566"	"00500"	"156"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Zytiga"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	665
+"567"	"00500"	"156"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Zometa"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	665
+"568"	"00500"	"156"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Zytiga"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	750
+"569"	"00500"	"156"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Zometa"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	750
+"570"	"00500"	"156"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Lupron"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	750
+"571"	"00500"	"156"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Prednisone"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	750
+"572"	"00500"	"156"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Zytiga"	0	""	1	"Ongoing"	NA	603	841
+"573"	"00501"	"010"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Cabazitaxel"	0	""	1	"Ongoing"	NA	324	372
+"574"	"00503"	"066"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Abiraterone"	0	""	1	"Ongoing"	NA	217	245
+"575"	"00503"	"066"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Abiraterone"	0	""	1	"Ongoing"	NA	217	340
+"576"	"00503"	"066"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Abirateron"	0	""	1	"Ongoing"	NA	217	424
+"577"	"00505"	"046"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	301
+"578"	"00505"	"046"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	385
+"579"	"00508"	"019"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Ketoconazole"	0	""	1	"Ongoing"	NA	195	202
+"580"	"00508"	"019"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"doxorubicin"	0	""	1	"Ongoing"	NA	195	202
+"581"	"00508"	"019"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"vinblastine sulfate"	0	""	1	"Ongoing"	NA	195	202
+"582"	"00508"	"019"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"estramustine phosphate sodium"	0	""	1	"Ongoing"	NA	195	202
+"583"	"00508"	"019"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"doxorubicin"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	286
+"584"	"00508"	"019"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"ketoconazole"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	286
+"585"	"00508"	"019"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"vinblastine sulfate"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	286
+"586"	"00508"	"019"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"estramustine phosphate sodium"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	286
+"587"	"00508"	"019"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Ketoconazole"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	398
+"588"	"00508"	"019"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"doxorubicin"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	398
+"589"	"00508"	"019"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"vinblastine sulfate"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	398
+"590"	"00508"	"019"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"estramustine phosphate sodium"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	398
+"591"	"00508"	"019"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"zytiga"	1	"Ongoing from previous visit"	1	"Ongoing"	NA	NA	494
+"592"	"00510"	"061"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	455
+"593"	"00514"	"015"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"abiraterone"	0	""	1	"Ongoing"	NA	245	259
+"594"	"00515"	"024"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Abiraterone"	0	""	1	"Ongoing"	NA	302	365
+"595"	"00515"	"024"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Abiraterone"	0	""	1	"Ongoing"	NA	302	451
+"596"	"00518"	"043"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Phenergan (Promethazine)"	0	""	2	""	414	371	414
+"597"	"00518"	"043"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Zantac (Ranitidine)"	0	""	2	""	414	371	414
+"598"	"00518"	"043"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Dexamethasone"	0	""	2	""	414	371	414
+"599"	"00518"	"043"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Kytril (Granisetron)"	0	""	2	""	414	371	414
+"600"	"00518"	"043"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Jevtana (cabazitaxel)"	0	""	2	""	414	371	414
+"601"	"00518"	"043"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Abirateron"	0	""	1	"Ongoing"	NA	461	490
+"602"	"00519"	"087"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	273
+"603"	"00519"	"087"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	350
+"604"	"00520"	"122"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Decadron"	0	""	1	"Ongoing"	NA	121	170
+"605"	"00520"	"122"	"CC-5013-PC-002"	22	"Long Term Survival"	1	"Yes"	"Decadron"	0	""	2	""	240	121	267
+"606"	"00524"	"073"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	349
+"607"	"00524"	"073"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	440
+"608"	"00524"	"073"	"CC-5013-PC-002"	22	"Long Term Survival"	2	"No"	""	NA	""	NA	""	NA	NA	510

@@ -1,0 +1,2091 @@
+"RPT"	"RINVSITE"	"STUDY"	"VISIT"	"VISNAME"	"TARGETQN"	"TARGETQ"	"NONTARQN"	"NONTARQ"	"VISDAY"
+"1"	"00001"	"143"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"2"	"00001"	"143"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	86
+"3"	"00001"	"143"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	156
+"4"	"00001"	"143"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	235
+"5"	"00002"	"089"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"6"	"00002"	"089"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	80
+"7"	"00002"	"089"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	145
+"8"	"00003"	"126"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"9"	"00003"	"126"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	85
+"10"	"00003"	"126"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	148
+"11"	"00003"	"126"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	218
+"12"	"00003"	"126"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	260
+"13"	"00004"	"074"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"14"	"00004"	"074"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	79
+"15"	"00005"	"051"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"16"	"00005"	"051"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	68
+"17"	"00006"	"111"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"18"	"00006"	"111"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	89
+"19"	"00007"	"076"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"20"	"00007"	"076"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	NA	""	NA	""	64
+"21"	"00008"	"144"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"22"	"00008"	"144"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	91
+"23"	"00008"	"144"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	NA	""	NA	""	179
+"24"	"00009"	"015"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	2	"No"	5
+"25"	"00009"	"015"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	2	"No"	77
+"26"	"00009"	"015"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	2	"No"	154
+"27"	"00009"	"015"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	2	"No"	217
+"28"	"00009"	"015"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	2	"No"	288
+"29"	"00010"	"032"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"30"	"00010"	"032"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	73
+"31"	"00011"	"144"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"32"	"00011"	"144"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	69
+"33"	"00011"	"144"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	133
+"34"	"00011"	"144"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	202
+"35"	"00012"	"143"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"36"	"00012"	"143"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	78
+"37"	"00013"	"132"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"38"	"00013"	"132"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	70
+"39"	"00014"	"035"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"40"	"00014"	"035"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	85
+"41"	"00014"	"035"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	148
+"42"	"00014"	"035"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	202
+"43"	"00015"	"097"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"44"	"00015"	"097"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	74
+"45"	"00015"	"097"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	137
+"46"	"00015"	"097"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	214
+"47"	"00015"	"097"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	1	"Yes"	1	"Yes"	277
+"48"	"00015"	"097"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	2	"No"	298
+"49"	"00016"	"062"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"50"	"00016"	"062"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	85
+"51"	"00016"	"062"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	148
+"52"	"00016"	"062"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	211
+"53"	"00016"	"062"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	232
+"54"	"00017"	"105"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"55"	"00017"	"105"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	74
+"56"	"00018"	"107"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"57"	"00018"	"107"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	72
+"58"	"00018"	"107"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	135
+"59"	"00018"	"107"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	198
+"60"	"00018"	"107"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	1	"Yes"	1	"Yes"	260
+"61"	"00018"	"107"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	1	"Yes"	1	"Yes"	323
+"62"	"00018"	"107"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	NA	""	NA	""	345
+"63"	"00019"	"046"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	2	"No"	4
+"64"	"00019"	"046"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	2	"No"	77
+"65"	"00019"	"046"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	2	"No"	140
+"66"	"00019"	"046"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	2	"No"	203
+"67"	"00019"	"046"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"No"	2	"No"	266
+"68"	"00019"	"046"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	2	"No"	287
+"69"	"00020"	"063"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"70"	"00020"	"063"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	84
+"71"	"00021"	"071"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"72"	"00021"	"071"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	91
+"73"	"00022"	"094"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"74"	"00022"	"094"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	88
+"75"	"00022"	"094"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	151
+"76"	"00023"	"104"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"77"	"00023"	"104"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	72
+"78"	"00023"	"104"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	135
+"79"	"00023"	"104"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	1	"Yes"	1	"Yes"	268
+"80"	"00024"	"011"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"81"	"00024"	"011"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	71
+"82"	"00025"	"122"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"83"	"00025"	"122"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	56
+"84"	"00026"	"020"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"85"	"00026"	"020"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	70
+"86"	"00026"	"020"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	133
+"87"	"00026"	"020"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	196
+"88"	"00027"	"110"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"89"	"00027"	"110"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	91
+"90"	"00027"	"110"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	161
+"91"	"00027"	"110"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	225
+"92"	"00027"	"110"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"No"	1	"Yes"	302
+"93"	"00027"	"110"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	2	"No"	1	"Yes"	379
+"94"	"00028"	"083"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"95"	"00028"	"083"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	82
+"96"	"00029"	"054"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"97"	"00030"	"122"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"98"	"00030"	"122"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	71
+"99"	"00030"	"122"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	134
+"100"	"00030"	"122"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	197
+"101"	"00030"	"122"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"No"	1	"Yes"	260
+"102"	"00030"	"122"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	302
+"103"	"00031"	"110"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	1
+"104"	"00032"	"039"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"105"	"00032"	"039"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	161
+"106"	"00033"	"082"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"107"	"00033"	"082"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	84
+"108"	"00033"	"082"	"CC-5013-PC-002"	99	"Unscheduled"	1	"Yes"	1	"Yes"	61
+"109"	"00034"	"050"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	7
+"110"	"00035"	"050"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"111"	"00035"	"050"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	92
+"112"	"00035"	"050"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	NA	""	NA	""	127
+"113"	"00036"	"137"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"114"	"00036"	"137"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	89
+"115"	"00036"	"137"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	155
+"116"	"00036"	"137"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	222
+"117"	"00036"	"137"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	263
+"118"	"00037"	"008"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"119"	"00037"	"008"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	86
+"120"	"00037"	"008"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	149
+"121"	"00038"	"086"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"122"	"00038"	"086"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	74
+"123"	"00038"	"086"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	137
+"124"	"00039"	"042"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"125"	"00039"	"042"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	76
+"126"	"00039"	"042"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	139
+"127"	"00039"	"042"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	202
+"128"	"00039"	"042"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"No"	1	"Yes"	265
+"129"	"00039"	"042"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	2	"No"	1	"Yes"	335
+"130"	"00040"	"032"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"131"	"00040"	"032"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	78
+"132"	"00040"	"032"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	141
+"133"	"00040"	"032"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	204
+"134"	"00040"	"032"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"No"	1	"Yes"	267
+"135"	"00040"	"032"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	2	"No"	1	"Yes"	330
+"136"	"00040"	"032"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	391
+"137"	"00041"	"015"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	5
+"138"	"00041"	"015"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	67
+"139"	"00041"	"015"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	130
+"140"	"00041"	"015"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	175
+"141"	"00042"	"156"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"142"	"00042"	"156"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	78
+"143"	"00042"	"156"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	146
+"144"	"00042"	"156"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	209
+"145"	"00042"	"156"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	259
+"146"	"00043"	"128"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"147"	"00043"	"128"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	77
+"148"	"00043"	"128"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	140
+"149"	"00044"	"143"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	2	"No"	0
+"150"	"00045"	"009"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"151"	"00045"	"009"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	68
+"152"	"00045"	"009"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	131
+"153"	"00045"	"009"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	194
+"154"	"00046"	"004"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"155"	"00046"	"004"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	72
+"156"	"00046"	"004"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	135
+"157"	"00046"	"004"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	198
+"158"	"00046"	"004"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	1	"Yes"	1	"Yes"	262
+"159"	"00046"	"004"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	1	"Yes"	1	"Yes"	324
+"160"	"00046"	"004"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	366
+"161"	"00047"	"134"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"162"	"00047"	"134"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	76
+"163"	"00047"	"134"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	2	"No"	163
+"164"	"00048"	"124"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"165"	"00048"	"124"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	70
+"166"	"00049"	"131"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"167"	"00049"	"131"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	86
+"168"	"00050"	"136"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"169"	"00050"	"136"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	77
+"170"	"00050"	"136"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	140
+"171"	"00050"	"136"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	203
+"172"	"00050"	"136"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	1	"Yes"	1	"Yes"	269
+"173"	"00050"	"136"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	1	"Yes"	1	"Yes"	329
+"174"	"00051"	"044"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"175"	"00051"	"044"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	89
+"176"	"00051"	"044"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	154
+"177"	"00051"	"044"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	229
+"178"	"00051"	"044"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"No"	1	"Yes"	292
+"179"	"00051"	"044"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	NA	""	NA	""	313
+"180"	"00052"	"126"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"181"	"00052"	"126"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	70
+"182"	"00052"	"126"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	132
+"183"	"00052"	"126"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	197
+"184"	"00052"	"126"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	263
+"185"	"00053"	"015"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	14
+"186"	"00053"	"015"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	84
+"187"	"00053"	"015"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	146
+"188"	"00053"	"015"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	217
+"189"	"00053"	"015"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	NA	""	NA	""	238
+"190"	"00054"	"136"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"191"	"00054"	"136"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	68
+"192"	"00054"	"136"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	133
+"193"	"00054"	"136"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	199
+"194"	"00054"	"136"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	1	"Yes"	1	"Yes"	259
+"195"	"00054"	"136"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	1	"Yes"	1	"Yes"	322
+"196"	"00054"	"136"	"CC-5013-PC-002"	19	"Cycle 19 Day 1"	1	"Yes"	1	"Yes"	385
+"197"	"00054"	"136"	"CC-5013-PC-002"	19	"Cycle 22 Day 1"	1	"Yes"	1	"Yes"	448
+"198"	"00054"	"136"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	511
+"199"	"00055"	"073"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"200"	"00055"	"073"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	77
+"201"	"00055"	"073"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	140
+"202"	"00055"	"073"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	220
+"203"	"00055"	"073"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"No"	1	"Yes"	282
+"204"	"00055"	"073"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	346
+"205"	"00056"	"141"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"206"	"00056"	"141"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	99
+"207"	"00056"	"141"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	NA	""	NA	""	166
+"208"	"00056"	"141"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	238
+"209"	"00056"	"141"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	308
+"210"	"00056"	"141"	"CC-5013-PC-002"	99	"Unscheduled"	1	"Yes"	1	"Yes"	142
+"211"	"00057"	"076"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"212"	"00057"	"076"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	82
+"213"	"00057"	"076"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	145
+"214"	"00057"	"076"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	209
+"215"	"00057"	"076"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	285
+"216"	"00058"	"033"	"CC-5013-PC-002"	1	"Screening"	2	"No"	2	"No"	0
+"217"	"00058"	"033"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	2	"No"	90
+"218"	"00058"	"033"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	2	"No"	151
+"219"	"00059"	"130"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"220"	"00059"	"130"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	82
+"221"	"00059"	"130"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	145
+"222"	"00059"	"130"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	208
+"223"	"00060"	"017"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"224"	"00060"	"017"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	77
+"225"	"00061"	"025"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	2	"No"	0
+"226"	"00061"	"025"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	2	"No"	71
+"227"	"00061"	"025"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	NA	""	NA	""	113
+"228"	"00062"	"051"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"229"	"00062"	"051"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	78
+"230"	"00062"	"051"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	141
+"231"	"00062"	"051"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	204
+"232"	"00062"	"051"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	1	"Yes"	1	"Yes"	267
+"233"	"00062"	"051"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	1	"Yes"	1	"Yes"	331
+"234"	"00062"	"051"	"CC-5013-PC-002"	19	"Cycle 19 Day 1"	1	"Yes"	1	"Yes"	393
+"235"	"00062"	"051"	"CC-5013-PC-002"	19	"Cycle 22 Day 1"	1	"Yes"	1	"Yes"	456
+"236"	"00062"	"051"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	486
+"237"	"00063"	"042"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"238"	"00063"	"042"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	90
+"239"	"00063"	"042"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	154
+"240"	"00063"	"042"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	217
+"241"	"00063"	"042"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	1	"Yes"	1	"Yes"	294
+"242"	"00063"	"042"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	1	"Yes"	1	"Yes"	356
+"243"	"00063"	"042"	"CC-5013-PC-002"	19	"Cycle 19 Day 1"	1	"Yes"	1	"Yes"	419
+"244"	"00064"	"106"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"245"	"00064"	"106"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	67
+"246"	"00064"	"106"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	130
+"247"	"00064"	"106"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	151
+"248"	"00065"	"126"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"249"	"00065"	"126"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	73
+"250"	"00065"	"126"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	135
+"251"	"00066"	"080"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"252"	"00066"	"080"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	75
+"253"	"00066"	"080"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	138
+"254"	"00066"	"080"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	201
+"255"	"00066"	"080"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	257
+"256"	"00067"	"062"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	21
+"257"	"00067"	"062"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	98
+"258"	"00067"	"062"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	161
+"259"	"00067"	"062"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	224
+"260"	"00067"	"062"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	266
+"261"	"00068"	"071"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	2	"No"	0
+"262"	"00068"	"071"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	2	"No"	90
+"263"	"00068"	"071"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	2	"No"	156
+"264"	"00068"	"071"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	2	"No"	219
+"265"	"00068"	"071"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	274
+"266"	"00069"	"026"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"267"	"00069"	"026"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	92
+"268"	"00069"	"026"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	155
+"269"	"00069"	"026"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	218
+"270"	"00069"	"026"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	259
+"271"	"00070"	"015"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"272"	"00070"	"015"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	76
+"273"	"00070"	"015"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	137
+"274"	"00070"	"015"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	189
+"275"	"00071"	"125"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"276"	"00071"	"125"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	90
+"277"	"00071"	"125"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	154
+"278"	"00071"	"125"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	217
+"279"	"00071"	"125"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	1	"Yes"	1	"Yes"	280
+"280"	"00071"	"125"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	1	"Yes"	1	"Yes"	342
+"281"	"00071"	"125"	"CC-5013-PC-002"	19	"Cycle 19 Day 1"	1	"Yes"	1	"Yes"	406
+"282"	"00072"	"022"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"283"	"00072"	"022"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	77
+"284"	"00072"	"022"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	NA	""	NA	""	82
+"285"	"00073"	"076"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"286"	"00073"	"076"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	2	"No"	70
+"287"	"00073"	"076"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	133
+"288"	"00074"	"062"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"289"	"00074"	"062"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	91
+"290"	"00074"	"062"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	154
+"291"	"00074"	"062"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	217
+"292"	"00075"	"062"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	2	"No"	0
+"293"	"00075"	"062"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	2	"No"	91
+"294"	"00075"	"062"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	2	"No"	154
+"295"	"00076"	"104"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	4
+"296"	"00076"	"104"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	80
+"297"	"00077"	"026"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"298"	"00077"	"026"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	97
+"299"	"00077"	"026"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	158
+"300"	"00077"	"026"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	228
+"301"	"00077"	"026"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	2	"No"	249
+"302"	"00078"	"073"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"303"	"00078"	"073"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	75
+"304"	"00078"	"073"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	138
+"305"	"00078"	"073"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	201
+"306"	"00078"	"073"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"No"	1	"Yes"	264
+"307"	"00078"	"073"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	2	"No"	1	"Yes"	327
+"308"	"00078"	"073"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	393
+"309"	"00079"	"085"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"310"	"00079"	"085"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	79
+"311"	"00079"	"085"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	NA	""	NA	""	90
+"312"	"00080"	"074"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	10
+"313"	"00080"	"074"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	84
+"314"	"00080"	"074"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	151
+"315"	"00080"	"074"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	215
+"316"	"00080"	"074"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	1	"Yes"	1	"Yes"	278
+"317"	"00081"	"145"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"318"	"00081"	"145"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	75
+"319"	"00081"	"145"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	138
+"320"	"00081"	"145"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	202
+"321"	"00081"	"145"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	265
+"322"	"00082"	"077"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"323"	"00082"	"077"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	75
+"324"	"00082"	"077"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	137
+"325"	"00082"	"077"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	202
+"326"	"00082"	"077"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	1	"Yes"	1	"Yes"	265
+"327"	"00082"	"077"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	1	"Yes"	1	"Yes"	328
+"328"	"00082"	"077"	"CC-5013-PC-002"	19	"Cycle 19 Day 1"	1	"Yes"	1	"Yes"	391
+"329"	"00082"	"077"	"CC-5013-PC-002"	19	"Cycle 22 Day 1"	1	"Yes"	1	"Yes"	453
+"330"	"00082"	"077"	"CC-5013-PC-002"	19	"Cycle 25 Day 1"	1	"Yes"	1	"Yes"	517
+"331"	"00083"	"126"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"332"	"00083"	"126"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	79
+"333"	"00083"	"126"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	141
+"334"	"00084"	"079"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"335"	"00084"	"079"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	73
+"336"	"00084"	"079"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	138
+"337"	"00084"	"079"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	199
+"338"	"00084"	"079"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	1	"Yes"	1	"Yes"	264
+"339"	"00084"	"079"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	328
+"340"	"00085"	"161"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"341"	"00085"	"161"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	92
+"342"	"00086"	"023"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"343"	"00086"	"023"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	68
+"344"	"00087"	"142"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"345"	"00087"	"142"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	70
+"346"	"00087"	"142"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	NA	""	NA	""	133
+"347"	"00087"	"142"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	196
+"348"	"00087"	"142"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	1	"Yes"	1	"Yes"	266
+"349"	"00087"	"142"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	1	"Yes"	1	"Yes"	329
+"350"	"00087"	"142"	"CC-5013-PC-002"	19	"Cycle 19 Day 1"	1	"Yes"	1	"Yes"	397
+"351"	"00087"	"142"	"CC-5013-PC-002"	19	"Cycle 22 Day 1"	1	"Yes"	1	"Yes"	462
+"352"	"00087"	"142"	"CC-5013-PC-002"	19	"Cycle 25 Day 1"	1	"Yes"	1	"Yes"	525
+"353"	"00088"	"142"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	4
+"354"	"00088"	"142"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	73
+"355"	"00088"	"142"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	140
+"356"	"00088"	"142"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	211
+"357"	"00088"	"142"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"No"	1	"Yes"	283
+"358"	"00088"	"142"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	2	"No"	1	"Yes"	357
+"359"	"00088"	"142"	"CC-5013-PC-002"	19	"Cycle 19 Day 1"	2	"No"	1	"Yes"	442
+"360"	"00088"	"142"	"CC-5013-PC-002"	19	"Cycle 20 Day 1"	NA	""	NA	""	462
+"361"	"00088"	"142"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	514
+"362"	"00089"	"015"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"363"	"00089"	"015"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	74
+"364"	"00089"	"015"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	140
+"365"	"00089"	"015"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	203
+"366"	"00089"	"015"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"No"	1	"Yes"	266
+"367"	"00089"	"015"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	2	"No"	1	"Yes"	329
+"368"	"00089"	"015"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	392
+"369"	"00090"	"015"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	35
+"370"	"00090"	"015"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	105
+"371"	"00090"	"015"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	169
+"372"	"00090"	"015"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	230
+"373"	"00090"	"015"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	295
+"374"	"00091"	"019"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"375"	"00091"	"019"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	69
+"376"	"00091"	"019"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	132
+"377"	"00091"	"019"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	195
+"378"	"00092"	"163"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"379"	"00093"	"059"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"380"	"00093"	"059"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	77
+"381"	"00094"	"007"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"382"	"00095"	"032"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"383"	"00095"	"032"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	91
+"384"	"00095"	"032"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	154
+"385"	"00096"	"151"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"386"	"00096"	"151"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	84
+"387"	"00096"	"151"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	99
+"388"	"00097"	"038"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"389"	"00097"	"038"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	77
+"390"	"00097"	"038"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	140
+"391"	"00097"	"038"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	203
+"392"	"00097"	"038"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	1	"Yes"	1	"Yes"	266
+"393"	"00097"	"038"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	1	"Yes"	1	"Yes"	329
+"394"	"00097"	"038"	"CC-5013-PC-002"	19	"Cycle 19 Day 1"	1	"Yes"	1	"Yes"	392
+"395"	"00097"	"038"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	406
+"396"	"00098"	"125"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"397"	"00098"	"125"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	92
+"398"	"00098"	"125"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	156
+"399"	"00098"	"125"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	219
+"400"	"00098"	"125"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"No"	1	"Yes"	282
+"401"	"00098"	"125"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	353
+"402"	"00099"	"162"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"403"	"00099"	"162"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	92
+"404"	"00099"	"162"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	155
+"405"	"00100"	"111"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	1
+"406"	"00101"	"137"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"407"	"00101"	"137"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	71
+"408"	"00101"	"137"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	135
+"409"	"00101"	"137"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	203
+"410"	"00101"	"137"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"No"	1	"Yes"	279
+"411"	"00101"	"137"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	2	"No"	1	"Yes"	351
+"412"	"00101"	"137"	"CC-5013-PC-002"	19	"Cycle 19 Day 1"	2	"No"	1	"Yes"	421
+"413"	"00101"	"137"	"CC-5013-PC-002"	19	"Cycle 22 Day 1"	NA	""	NA	""	491
+"414"	"00102"	"050"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	3
+"415"	"00102"	"050"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	82
+"416"	"00102"	"050"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	144
+"417"	"00102"	"050"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	194
+"418"	"00103"	"032"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"419"	"00103"	"032"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	70
+"420"	"00103"	"032"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	133
+"421"	"00103"	"032"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	196
+"422"	"00103"	"032"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"No"	1	"Yes"	259
+"423"	"00103"	"032"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	300
+"424"	"00104"	"041"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"425"	"00104"	"041"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	2	"No"	76
+"426"	"00105"	"109"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"427"	"00105"	"109"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	69
+"428"	"00105"	"109"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	132
+"429"	"00105"	"109"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	198
+"430"	"00105"	"109"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	1	"Yes"	1	"Yes"	264
+"431"	"00106"	"143"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	2	"No"	0
+"432"	"00106"	"143"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	2	"No"	79
+"433"	"00106"	"143"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	2	"No"	149
+"434"	"00107"	"109"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"435"	"00107"	"109"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	90
+"436"	"00108"	"129"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	20
+"437"	"00109"	"050"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"438"	"00109"	"050"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	88
+"439"	"00109"	"050"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	155
+"440"	"00109"	"050"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	211
+"441"	"00110"	"146"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"442"	"00110"	"146"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	71
+"443"	"00110"	"146"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	135
+"444"	"00110"	"146"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	205
+"445"	"00110"	"146"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	280
+"446"	"00111"	"054"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"447"	"00111"	"054"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	82
+"448"	"00111"	"054"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	124
+"449"	"00112"	"078"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"450"	"00112"	"078"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	NA	""	NA	""	54
+"451"	"00113"	"104"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"452"	"00113"	"104"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	74
+"453"	"00113"	"104"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	137
+"454"	"00113"	"104"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	207
+"455"	"00113"	"104"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	284
+"456"	"00114"	"030"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"457"	"00114"	"030"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	71
+"458"	"00114"	"030"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	134
+"459"	"00114"	"030"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	195
+"460"	"00115"	"008"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"461"	"00115"	"008"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	79
+"462"	"00115"	"008"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	142
+"463"	"00115"	"008"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	207
+"464"	"00115"	"008"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	268
+"465"	"00116"	"089"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"466"	"00116"	"089"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	85
+"467"	"00116"	"089"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	147
+"468"	"00116"	"089"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	210
+"469"	"00116"	"089"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	251
+"470"	"00117"	"085"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"471"	"00117"	"085"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	79
+"472"	"00117"	"085"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	142
+"473"	"00117"	"085"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	205
+"474"	"00117"	"085"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	1	"Yes"	1	"Yes"	275
+"475"	"00117"	"085"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	NA	""	NA	""	317
+"476"	"00118"	"124"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"477"	"00118"	"124"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	70
+"478"	"00118"	"124"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	133
+"479"	"00119"	"066"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	14
+"480"	"00119"	"066"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	91
+"481"	"00119"	"066"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	168
+"482"	"00119"	"066"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	238
+"483"	"00119"	"066"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	1	"Yes"	1	"Yes"	299
+"484"	"00120"	"062"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	13
+"485"	"00120"	"062"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	91
+"486"	"00120"	"062"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	154
+"487"	"00120"	"062"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	217
+"488"	"00120"	"062"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	238
+"489"	"00121"	"001"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"490"	"00122"	"042"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"491"	"00122"	"042"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	84
+"492"	"00122"	"042"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	147
+"493"	"00123"	"042"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"494"	"00123"	"042"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	84
+"495"	"00123"	"042"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	147
+"496"	"00123"	"042"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	210
+"497"	"00123"	"042"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"No"	1	"Yes"	273
+"498"	"00124"	"052"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"499"	"00124"	"052"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	77
+"500"	"00124"	"052"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	141
+"501"	"00124"	"052"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	205
+"502"	"00124"	"052"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"No"	1	"Yes"	268
+"503"	"00124"	"052"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	2	"No"	1	"Yes"	331
+"504"	"00124"	"052"	"CC-5013-PC-002"	19	"Cycle 19 Day 1"	2	"No"	1	"Yes"	400
+"505"	"00124"	"052"	"CC-5013-PC-002"	19	"Cycle 22 Day 1"	2	"No"	1	"Yes"	471
+"506"	"00125"	"144"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"507"	"00126"	"070"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"508"	"00126"	"070"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	98
+"509"	"00126"	"070"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	119
+"510"	"00127"	"111"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	4
+"511"	"00127"	"111"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	82
+"512"	"00127"	"111"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	145
+"513"	"00127"	"111"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	208
+"514"	"00127"	"111"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"No"	1	"Yes"	271
+"515"	"00127"	"111"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	2	"No"	1	"Yes"	341
+"516"	"00127"	"111"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	NA	""	NA	""	362
+"517"	"00128"	"158"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"518"	"00128"	"158"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	71
+"519"	"00128"	"158"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	134
+"520"	"00128"	"158"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	175
+"521"	"00129"	"101"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	7
+"522"	"00129"	"101"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	76
+"523"	"00130"	"098"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"524"	"00130"	"098"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	72
+"525"	"00130"	"098"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	135
+"526"	"00131"	"152"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	11
+"527"	"00131"	"152"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	82
+"528"	"00131"	"152"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	145
+"529"	"00131"	"152"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	208
+"530"	"00131"	"152"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	264
+"531"	"00132"	"027"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"532"	"00132"	"027"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	84
+"533"	"00133"	"001"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"534"	"00133"	"001"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	68
+"535"	"00133"	"001"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	141
+"536"	"00133"	"001"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	203
+"537"	"00133"	"001"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	280
+"538"	"00134"	"057"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"539"	"00134"	"057"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	70
+"540"	"00134"	"057"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	133
+"541"	"00134"	"057"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	196
+"542"	"00134"	"057"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	1	"Yes"	1	"Yes"	259
+"543"	"00134"	"057"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	1	"Yes"	1	"Yes"	322
+"544"	"00134"	"057"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	NA	""	NA	""	364
+"545"	"00135"	"076"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"546"	"00135"	"076"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	80
+"547"	"00135"	"076"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	146
+"548"	"00135"	"076"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	209
+"549"	"00135"	"076"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"No"	1	"Yes"	281
+"550"	"00136"	"020"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"551"	"00136"	"020"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	NA	""	NA	""	NA
+"552"	"00136"	"020"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	77
+"553"	"00137"	"036"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"554"	"00137"	"036"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	73
+"555"	"00137"	"036"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	136
+"556"	"00137"	"036"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	NA	""	NA	""	155
+"557"	"00138"	"098"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"558"	"00138"	"098"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	64
+"559"	"00138"	"098"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	127
+"560"	"00139"	"118"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"561"	"00139"	"118"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	91
+"562"	"00139"	"118"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	154
+"563"	"00139"	"118"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	217
+"564"	"00139"	"118"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	245
+"565"	"00140"	"160"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"566"	"00141"	"089"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	4
+"567"	"00141"	"089"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	88
+"568"	"00142"	"122"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"569"	"00142"	"122"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	68
+"570"	"00142"	"122"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	131
+"571"	"00142"	"122"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	1	"Yes"	1	"Yes"	257
+"572"	"00142"	"122"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	1	"Yes"	1	"Yes"	320
+"573"	"00142"	"122"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	NA	""	NA	""	335
+"574"	"00143"	"120"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"575"	"00143"	"120"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	78
+"576"	"00143"	"120"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	141
+"577"	"00144"	"018"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"578"	"00144"	"018"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	72
+"579"	"00144"	"018"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	135
+"580"	"00145"	"098"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"581"	"00145"	"098"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	69
+"582"	"00146"	"148"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	11
+"583"	"00146"	"148"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	82
+"584"	"00147"	"118"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"585"	"00147"	"118"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	83
+"586"	"00148"	"009"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	1
+"587"	"00148"	"009"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	77
+"588"	"00148"	"009"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	98
+"589"	"00149"	"138"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"590"	"00149"	"138"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	84
+"591"	"00149"	"138"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	154
+"592"	"00149"	"138"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	217
+"593"	"00150"	"118"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	2	"No"	0
+"594"	"00151"	"023"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"595"	"00151"	"023"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	81
+"596"	"00151"	"023"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	144
+"597"	"00151"	"023"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	207
+"598"	"00151"	"023"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	1	"Yes"	1	"Yes"	267
+"599"	"00151"	"023"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	1	"Yes"	1	"Yes"	333
+"600"	"00151"	"023"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	375
+"601"	"00152"	"127"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"602"	"00152"	"127"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	70
+"603"	"00152"	"127"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	112
+"604"	"00153"	"122"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"605"	"00153"	"122"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	71
+"606"	"00153"	"122"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	2	"No"	134
+"607"	"00153"	"122"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	197
+"608"	"00154"	"152"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	2	"No"	0
+"609"	"00154"	"152"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	2	"No"	85
+"610"	"00155"	"099"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	10
+"611"	"00155"	"099"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	NA	""	NA	""	92
+"612"	"00155"	"099"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	2	"No"	113
+"613"	"00156"	"142"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"614"	"00156"	"142"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	69
+"615"	"00156"	"142"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	132
+"616"	"00156"	"142"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	193
+"617"	"00156"	"142"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	256
+"618"	"00157"	"076"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"619"	"00157"	"076"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	78
+"620"	"00158"	"108"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"621"	"00158"	"108"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	72
+"622"	"00158"	"108"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	133
+"623"	"00158"	"108"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	NA	""	NA	""	NA
+"624"	"00158"	"108"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	217
+"625"	"00159"	"049"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"626"	"00159"	"049"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	84
+"627"	"00159"	"049"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	148
+"628"	"00159"	"049"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	203
+"629"	"00160"	"133"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	17
+"630"	"00160"	"133"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	87
+"631"	"00160"	"133"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	150
+"632"	"00160"	"133"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	220
+"633"	"00160"	"133"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	2	"No"	250
+"634"	"00161"	"095"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"635"	"00161"	"095"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	77
+"636"	"00162"	"109"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	20
+"637"	"00162"	"109"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	87
+"638"	"00162"	"109"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	152
+"639"	"00162"	"109"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	216
+"640"	"00162"	"109"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"No"	1	"Yes"	278
+"641"	"00162"	"109"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	2	"No"	1	"Yes"	340
+"642"	"00162"	"109"	"CC-5013-PC-002"	19	"Cycle 19 Day 1"	2	"No"	1	"Yes"	403
+"643"	"00163"	"142"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"644"	"00163"	"142"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	95
+"645"	"00163"	"142"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	NA	""	NA	""	102
+"646"	"00164"	"132"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"647"	"00164"	"132"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	54
+"648"	"00165"	"051"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"649"	"00165"	"051"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	75
+"650"	"00165"	"051"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	138
+"651"	"00165"	"051"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	201
+"652"	"00165"	"051"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	1	"Yes"	1	"Yes"	264
+"653"	"00165"	"051"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	1	"Yes"	1	"Yes"	327
+"654"	"00165"	"051"	"CC-5013-PC-002"	19	"Cycle 19 Day 1"	1	"Yes"	1	"Yes"	397
+"655"	"00165"	"051"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	NA	""	NA	""	418
+"656"	"00166"	"084"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"657"	"00167"	"082"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"658"	"00167"	"082"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	78
+"659"	"00168"	"054"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"660"	"00168"	"054"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	83
+"661"	"00168"	"054"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	146
+"662"	"00168"	"054"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	208
+"663"	"00169"	"074"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"664"	"00169"	"074"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	86
+"665"	"00169"	"074"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	155
+"666"	"00169"	"074"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	216
+"667"	"00169"	"074"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	1	"Yes"	1	"Yes"	279
+"668"	"00169"	"074"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	358
+"669"	"00170"	"030"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"670"	"00170"	"030"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	79
+"671"	"00170"	"030"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	142
+"672"	"00171"	"093"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"673"	"00171"	"093"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	72
+"674"	"00171"	"093"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	135
+"675"	"00171"	"093"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	198
+"676"	"00171"	"093"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	1	"Yes"	1	"Yes"	261
+"677"	"00171"	"093"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	324
+"678"	"00172"	"010"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"679"	"00172"	"010"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	78
+"680"	"00172"	"010"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	139
+"681"	"00172"	"010"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	204
+"682"	"00172"	"010"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	265
+"683"	"00173"	"136"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"684"	"00173"	"136"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	69
+"685"	"00173"	"136"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	133
+"686"	"00173"	"136"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	196
+"687"	"00173"	"136"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	1	"Yes"	1	"Yes"	259
+"688"	"00173"	"136"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	1	"Yes"	1	"Yes"	323
+"689"	"00173"	"136"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	357
+"690"	"00174"	"155"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"691"	"00174"	"155"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	NA	""	NA	""	57
+"692"	"00175"	"028"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"693"	"00175"	"028"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	81
+"694"	"00175"	"028"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	144
+"695"	"00175"	"028"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	207
+"696"	"00175"	"028"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"No"	1	"Yes"	266
+"697"	"00175"	"028"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	328
+"698"	"00176"	"087"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"699"	"00176"	"087"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	71
+"700"	"00176"	"087"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	134
+"701"	"00176"	"087"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	197
+"702"	"00176"	"087"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"No"	1	"Yes"	260
+"703"	"00177"	"111"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"704"	"00178"	"002"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"705"	"00178"	"002"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	2	"No"	36
+"706"	"00179"	"140"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	2	"No"	0
+"707"	"00179"	"140"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	2	"No"	77
+"708"	"00179"	"140"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	2	"No"	153
+"709"	"00179"	"140"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	2	"No"	190
+"710"	"00180"	"092"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"711"	"00180"	"092"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	77
+"712"	"00181"	"074"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"713"	"00181"	"074"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	83
+"714"	"00181"	"074"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	147
+"715"	"00181"	"074"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	222
+"716"	"00181"	"074"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"No"	1	"Yes"	279
+"717"	"00181"	"074"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	2	"No"	1	"Yes"	347
+"718"	"00181"	"074"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	389
+"719"	"00182"	"063"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"720"	"00182"	"063"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	94
+"721"	"00183"	"095"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	2	"No"	0
+"722"	"00184"	"076"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	5
+"723"	"00184"	"076"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	92
+"724"	"00184"	"076"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	155
+"725"	"00184"	"076"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	2	"No"	232
+"726"	"00184"	"076"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	251
+"727"	"00185"	"113"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"728"	"00185"	"113"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	87
+"729"	"00186"	"149"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"730"	"00186"	"149"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	74
+"731"	"00186"	"149"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	137
+"732"	"00187"	"107"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	24
+"733"	"00187"	"107"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	91
+"734"	"00187"	"107"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	NA	""	NA	""	102
+"735"	"00188"	"118"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"736"	"00188"	"118"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	98
+"737"	"00188"	"118"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	164
+"738"	"00189"	"089"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	3
+"739"	"00189"	"089"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	82
+"740"	"00190"	"157"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	14
+"741"	"00190"	"157"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	84
+"742"	"00190"	"157"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	147
+"743"	"00190"	"157"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	200
+"744"	"00191"	"151"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"745"	"00191"	"151"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	73
+"746"	"00191"	"151"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	147
+"747"	"00191"	"151"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	210
+"748"	"00191"	"151"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	232
+"749"	"00192"	"122"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"750"	"00192"	"122"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	67
+"751"	"00192"	"122"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	129
+"752"	"00192"	"122"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	2	"No"	151
+"753"	"00193"	"011"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"754"	"00193"	"011"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	76
+"755"	"00193"	"011"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	139
+"756"	"00193"	"011"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	202
+"757"	"00193"	"011"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	NA	""	NA	""	223
+"758"	"00194"	"119"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"759"	"00194"	"119"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	81
+"760"	"00194"	"119"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	144
+"761"	"00195"	"091"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"762"	"00195"	"091"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	70
+"763"	"00195"	"091"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	133
+"764"	"00195"	"091"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	208
+"765"	"00195"	"091"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	231
+"766"	"00196"	"153"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"767"	"00197"	"112"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"768"	"00197"	"112"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	84
+"769"	"00197"	"112"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	147
+"770"	"00198"	"009"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	2
+"771"	"00198"	"009"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	76
+"772"	"00198"	"009"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	139
+"773"	"00198"	"009"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	202
+"774"	"00198"	"009"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"No"	1	"Yes"	265
+"775"	"00199"	"014"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"776"	"00199"	"014"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	73
+"777"	"00199"	"014"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	2	"No"	133
+"778"	"00200"	"082"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"779"	"00200"	"082"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	74
+"780"	"00200"	"082"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	136
+"781"	"00200"	"082"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	207
+"782"	"00201"	"050"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"783"	"00201"	"050"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	98
+"784"	"00201"	"050"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	161
+"785"	"00201"	"050"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	230
+"786"	"00201"	"050"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"No"	1	"Yes"	293
+"787"	"00201"	"050"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	2	"No"	1	"Yes"	363
+"788"	"00201"	"050"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	412
+"789"	"00202"	"004"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"790"	"00202"	"004"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	70
+"791"	"00202"	"004"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	135
+"792"	"00203"	"082"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"793"	"00203"	"082"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	99
+"794"	"00204"	"008"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"795"	"00204"	"008"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	72
+"796"	"00204"	"008"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	135
+"797"	"00204"	"008"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	198
+"798"	"00204"	"008"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	219
+"799"	"00205"	"015"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"800"	"00205"	"015"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	70
+"801"	"00205"	"015"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	132
+"802"	"00205"	"015"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	196
+"803"	"00205"	"015"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"No"	1	"Yes"	259
+"804"	"00206"	"154"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"805"	"00206"	"154"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	87
+"806"	"00206"	"154"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	164
+"807"	"00206"	"154"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	241
+"808"	"00207"	"126"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"809"	"00207"	"126"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	86
+"810"	"00207"	"126"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	152
+"811"	"00208"	"011"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"812"	"00208"	"011"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	78
+"813"	"00208"	"011"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	141
+"814"	"00209"	"107"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"815"	"00209"	"107"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	71
+"816"	"00209"	"107"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	134
+"817"	"00209"	"107"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	198
+"818"	"00209"	"107"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"No"	1	"Yes"	260
+"819"	"00209"	"107"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	2	"No"	1	"Yes"	322
+"820"	"00209"	"107"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	NA	""	NA	""	365
+"821"	"00210"	"048"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"822"	"00210"	"048"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	71
+"823"	"00210"	"048"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	134
+"824"	"00211"	"058"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"825"	"00211"	"058"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	70
+"826"	"00211"	"058"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	133
+"827"	"00211"	"058"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	196
+"828"	"00212"	"128"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	24
+"829"	"00212"	"128"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	93
+"830"	"00213"	"111"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"831"	"00213"	"111"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	NA	""	NA	""	77
+"832"	"00214"	"059"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"833"	"00214"	"059"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	106
+"834"	"00215"	"103"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"835"	"00215"	"103"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	68
+"836"	"00215"	"103"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	131
+"837"	"00215"	"103"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	173
+"838"	"00216"	"008"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"839"	"00216"	"008"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	90
+"840"	"00216"	"008"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	152
+"841"	"00216"	"008"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	216
+"842"	"00217"	"042"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"843"	"00217"	"042"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	76
+"844"	"00217"	"042"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	139
+"845"	"00217"	"042"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	202
+"846"	"00217"	"042"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"No"	1	"Yes"	266
+"847"	"00217"	"042"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	2	"No"	1	"Yes"	328
+"848"	"00217"	"042"	"CC-5013-PC-002"	19	"Cycle 19 Day 1"	2	"No"	1	"Yes"	391
+"849"	"00217"	"042"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	2	"No"	419
+"850"	"00218"	"086"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"851"	"00218"	"086"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	78
+"852"	"00218"	"086"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	141
+"853"	"00218"	"086"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	204
+"854"	"00218"	"086"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"No"	1	"Yes"	267
+"855"	"00219"	"081"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"856"	"00219"	"081"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	70
+"857"	"00219"	"081"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	2	"No"	112
+"858"	"00220"	"103"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"859"	"00220"	"103"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	67
+"860"	"00220"	"103"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	130
+"861"	"00220"	"103"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	NA	""	NA	""	151
+"862"	"00221"	"105"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"863"	"00221"	"105"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	87
+"864"	"00221"	"105"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	150
+"865"	"00221"	"105"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	198
+"866"	"00222"	"088"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	2	"No"	0
+"867"	"00222"	"088"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	2	"No"	95
+"868"	"00222"	"088"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	NA	""	NA	""	153
+"869"	"00223"	"081"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"870"	"00223"	"081"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	70
+"871"	"00223"	"081"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	133
+"872"	"00223"	"081"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	196
+"873"	"00223"	"081"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"No"	1	"Yes"	266
+"874"	"00223"	"081"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	2	"No"	1	"Yes"	329
+"875"	"00223"	"081"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	392
+"876"	"00224"	"158"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"877"	"00224"	"158"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	85
+"878"	"00224"	"158"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	152
+"879"	"00224"	"158"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	217
+"880"	"00225"	"044"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"881"	"00225"	"044"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	70
+"882"	"00225"	"044"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	133
+"883"	"00225"	"044"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	204
+"884"	"00225"	"044"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	266
+"885"	"00226"	"076"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"886"	"00226"	"076"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	2	"No"	57
+"887"	"00227"	"029"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"888"	"00227"	"029"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	71
+"889"	"00228"	"004"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"890"	"00228"	"004"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	70
+"891"	"00229"	"141"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"892"	"00229"	"141"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	77
+"893"	"00229"	"141"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	140
+"894"	"00229"	"141"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	203
+"895"	"00229"	"141"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	266
+"896"	"00230"	"040"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"897"	"00230"	"040"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	76
+"898"	"00230"	"040"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	139
+"899"	"00230"	"040"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	202
+"900"	"00231"	"161"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"901"	"00231"	"161"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	78
+"902"	"00231"	"161"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	140
+"903"	"00232"	"044"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"904"	"00232"	"044"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	70
+"905"	"00232"	"044"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	133
+"906"	"00232"	"044"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	196
+"907"	"00233"	"139"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"908"	"00233"	"139"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	82
+"909"	"00234"	"122"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"910"	"00235"	"134"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"911"	"00235"	"134"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	69
+"912"	"00235"	"134"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	2	"No"	103
+"913"	"00236"	"074"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	15
+"914"	"00236"	"074"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	86
+"915"	"00236"	"074"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	148
+"916"	"00237"	"050"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"917"	"00237"	"050"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	72
+"918"	"00237"	"050"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	134
+"919"	"00237"	"050"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	203
+"920"	"00237"	"050"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	245
+"921"	"00238"	"005"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"922"	"00238"	"005"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	78
+"923"	"00238"	"005"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	148
+"924"	"00238"	"005"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	225
+"925"	"00239"	"027"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"926"	"00239"	"027"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	91
+"927"	"00240"	"107"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"928"	"00240"	"107"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	71
+"929"	"00240"	"107"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	139
+"930"	"00240"	"107"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	205
+"931"	"00241"	"146"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"932"	"00241"	"146"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	77
+"933"	"00241"	"146"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	140
+"934"	"00242"	"089"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	3
+"935"	"00242"	"089"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	89
+"936"	"00242"	"089"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	152
+"937"	"00242"	"089"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	215
+"938"	"00242"	"089"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	1	"Yes"	1	"Yes"	279
+"939"	"00242"	"089"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	1	"Yes"	1	"Yes"	342
+"940"	"00243"	"163"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"941"	"00243"	"163"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	88
+"942"	"00243"	"163"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	151
+"943"	"00243"	"163"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	214
+"944"	"00244"	"051"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"945"	"00244"	"051"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	73
+"946"	"00244"	"051"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	136
+"947"	"00244"	"051"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	197
+"948"	"00244"	"051"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"No"	1	"Yes"	268
+"949"	"00245"	"012"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	4
+"950"	"00245"	"012"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	78
+"951"	"00245"	"012"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	141
+"952"	"00245"	"012"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	204
+"953"	"00245"	"012"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	225
+"954"	"00246"	"125"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"955"	"00246"	"125"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	86
+"956"	"00247"	"114"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	18
+"957"	"00247"	"114"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	2	"No"	106
+"958"	"00248"	"044"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"959"	"00248"	"044"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	63
+"960"	"00249"	"126"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"961"	"00249"	"126"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	78
+"962"	"00249"	"126"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	141
+"963"	"00249"	"126"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	209
+"964"	"00249"	"126"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"No"	1	"Yes"	274
+"965"	"00249"	"126"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	337
+"966"	"00250"	"032"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"967"	"00250"	"032"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	72
+"968"	"00250"	"032"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	134
+"969"	"00250"	"032"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	197
+"970"	"00250"	"032"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	1	"Yes"	1	"Yes"	260
+"971"	"00250"	"032"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	2	"No"	281
+"972"	"00251"	"020"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"973"	"00251"	"020"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	71
+"974"	"00251"	"020"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	133
+"975"	"00251"	"020"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	197
+"976"	"00252"	"007"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"977"	"00252"	"007"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	74
+"978"	"00252"	"007"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	137
+"979"	"00252"	"007"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	203
+"980"	"00252"	"007"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	263
+"981"	"00253"	"006"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"982"	"00253"	"006"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	91
+"983"	"00253"	"006"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	166
+"984"	"00253"	"006"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	229
+"985"	"00253"	"006"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	1	"Yes"	1	"Yes"	294
+"986"	"00253"	"006"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	1	"Yes"	1	"Yes"	357
+"987"	"00253"	"006"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	NA	""	NA	""	399
+"988"	"00254"	"130"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"989"	"00254"	"130"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	76
+"990"	"00254"	"130"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	154
+"991"	"00254"	"130"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	210
+"992"	"00255"	"109"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"993"	"00255"	"109"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	83
+"994"	"00255"	"109"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	147
+"995"	"00255"	"109"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	211
+"996"	"00255"	"109"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"No"	1	"Yes"	280
+"997"	"00255"	"109"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	2	"No"	1	"Yes"	345
+"998"	"00255"	"109"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	NA	""	385
+"999"	"00256"	"085"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1000"	"00256"	"085"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	73
+"1001"	"00256"	"085"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	136
+"1002"	"00257"	"039"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	1
+"1003"	"00257"	"039"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	72
+"1004"	"00257"	"039"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	NA	""	NA	""	134
+"1005"	"00257"	"039"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	155
+"1006"	"00258"	"034"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"1007"	"00258"	"034"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	69
+"1008"	"00258"	"034"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	132
+"1009"	"00259"	"164"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1010"	"00259"	"164"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	94
+"1011"	"00260"	"083"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	5
+"1012"	"00260"	"083"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	92
+"1013"	"00261"	"013"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1014"	"00261"	"013"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	83
+"1015"	"00261"	"013"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	146
+"1016"	"00261"	"013"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	209
+"1017"	"00261"	"013"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	1	"Yes"	1	"Yes"	272
+"1018"	"00261"	"013"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	1	"Yes"	1	"Yes"	342
+"1019"	"00261"	"013"	"CC-5013-PC-002"	19	"Cycle 19 Day 1"	1	"Yes"	1	"Yes"	405
+"1020"	"00261"	"013"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	444
+"1021"	"00262"	"089"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	4
+"1022"	"00262"	"089"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	81
+"1023"	"00262"	"089"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	151
+"1024"	"00262"	"089"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	221
+"1025"	"00262"	"089"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	251
+"1026"	"00263"	"153"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	2	"No"	0
+"1027"	"00263"	"153"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	2	"No"	75
+"1028"	"00263"	"153"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	2	"No"	144
+"1029"	"00264"	"151"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1030"	"00264"	"151"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	79
+"1031"	"00264"	"151"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	144
+"1032"	"00264"	"151"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	205
+"1033"	"00265"	"010"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1034"	"00266"	"142"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1035"	"00266"	"142"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	52
+"1036"	"00267"	"083"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	12
+"1037"	"00267"	"083"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	91
+"1038"	"00267"	"083"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	155
+"1039"	"00268"	"099"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	2	"No"	15
+"1040"	"00268"	"099"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	2	"No"	91
+"1041"	"00268"	"099"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	2	"No"	162
+"1042"	"00268"	"099"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	2	"No"	204
+"1043"	"00269"	"074"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1044"	"00269"	"074"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	72
+"1045"	"00269"	"074"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	135
+"1046"	"00269"	"074"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	199
+"1047"	"00269"	"074"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	1	"Yes"	1	"Yes"	262
+"1048"	"00269"	"074"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	325
+"1049"	"00270"	"019"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"1050"	"00270"	"019"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	97
+"1051"	"00270"	"019"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	174
+"1052"	"00270"	"019"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	193
+"1053"	"00271"	"001"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1054"	"00271"	"001"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	85
+"1055"	"00271"	"001"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	148
+"1056"	"00271"	"001"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	211
+"1057"	"00272"	"138"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	14
+"1058"	"00272"	"138"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	84
+"1059"	"00272"	"138"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	147
+"1060"	"00273"	"150"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"1061"	"00273"	"150"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	70
+"1062"	"00273"	"150"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	133
+"1063"	"00273"	"150"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	196
+"1064"	"00274"	"060"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"1065"	"00274"	"060"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	88
+"1066"	"00274"	"060"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	151
+"1067"	"00274"	"060"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	214
+"1068"	"00274"	"060"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	2	"No"	234
+"1069"	"00275"	"114"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	1
+"1070"	"00275"	"114"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	78
+"1071"	"00275"	"114"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	79
+"1072"	"00276"	"049"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	2	"No"	0
+"1073"	"00276"	"049"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	2	"No"	83
+"1074"	"00276"	"049"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	2	"No"	147
+"1075"	"00276"	"049"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	2	"No"	209
+"1076"	"00276"	"049"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	2	"No"	251
+"1077"	"00277"	"005"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"1078"	"00278"	"067"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1079"	"00278"	"067"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	72
+"1080"	"00278"	"067"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	135
+"1081"	"00278"	"067"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	198
+"1082"	"00278"	"067"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	1	"Yes"	1	"Yes"	261
+"1083"	"00278"	"067"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	1	"Yes"	1	"Yes"	324
+"1084"	"00278"	"067"	"CC-5013-PC-002"	19	"Cycle 19 Day 1"	1	"Yes"	1	"Yes"	387
+"1085"	"00279"	"038"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1086"	"00279"	"038"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	89
+"1087"	"00279"	"038"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	155
+"1088"	"00280"	"050"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1089"	"00280"	"050"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	82
+"1090"	"00280"	"050"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	152
+"1091"	"00280"	"050"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	180
+"1092"	"00281"	"019"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"1093"	"00281"	"019"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	71
+"1094"	"00281"	"019"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	135
+"1095"	"00281"	"019"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	198
+"1096"	"00281"	"019"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	NA	""	NA	""	217
+"1097"	"00282"	"098"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1098"	"00282"	"098"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	70
+"1099"	"00282"	"098"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	133
+"1100"	"00282"	"098"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	196
+"1101"	"00282"	"098"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	1	"Yes"	1	"Yes"	260
+"1102"	"00283"	"005"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1103"	"00283"	"005"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	77
+"1104"	"00284"	"137"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1105"	"00284"	"137"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	49
+"1106"	"00285"	"071"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1107"	"00285"	"071"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	70
+"1108"	"00286"	"050"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"1109"	"00286"	"050"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	79
+"1110"	"00286"	"050"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	147
+"1111"	"00286"	"050"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	212
+"1112"	"00286"	"050"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"No"	1	"Yes"	275
+"1113"	"00286"	"050"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	2	"No"	1	"Yes"	344
+"1114"	"00286"	"050"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	428
+"1115"	"00287"	"131"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"1116"	"00287"	"131"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	80
+"1117"	"00288"	"065"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	2	"No"	0
+"1118"	"00288"	"065"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	2	"No"	85
+"1119"	"00288"	"065"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	2	"No"	148
+"1120"	"00288"	"065"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	2	"No"	211
+"1121"	"00289"	"015"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	14
+"1122"	"00289"	"015"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	91
+"1123"	"00289"	"015"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	155
+"1124"	"00289"	"015"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	217
+"1125"	"00289"	"015"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"No"	1	"Yes"	280
+"1126"	"00289"	"015"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	2	"No"	1	"Yes"	343
+"1127"	"00289"	"015"	"CC-5013-PC-002"	19	"Cycle 19 Day 1"	2	"No"	1	"Yes"	406
+"1128"	"00289"	"015"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	469
+"1129"	"00290"	"161"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"1130"	"00290"	"161"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	2	"No"	75
+"1131"	"00290"	"161"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	2	"No"	139
+"1132"	"00291"	"070"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"1133"	"00291"	"070"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	84
+"1134"	"00291"	"070"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	148
+"1135"	"00292"	"141"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1136"	"00292"	"141"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	87
+"1137"	"00292"	"141"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	150
+"1138"	"00292"	"141"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	211
+"1139"	"00292"	"141"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	276
+"1140"	"00293"	"010"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1141"	"00293"	"010"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	23
+"1142"	"00294"	"009"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	1
+"1143"	"00294"	"009"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	79
+"1144"	"00294"	"009"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	142
+"1145"	"00294"	"009"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	205
+"1146"	"00294"	"009"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	1	"Yes"	1	"Yes"	268
+"1147"	"00294"	"009"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	1	"Yes"	1	"Yes"	331
+"1148"	"00295"	"055"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"1149"	"00295"	"055"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	72
+"1150"	"00295"	"055"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	135
+"1151"	"00295"	"055"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	198
+"1152"	"00295"	"055"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"No"	1	"Yes"	261
+"1153"	"00295"	"055"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	2	"No"	1	"Yes"	324
+"1154"	"00295"	"055"	"CC-5013-PC-002"	19	"Cycle 19 Day 1"	2	"No"	1	"Yes"	387
+"1155"	"00295"	"055"	"CC-5013-PC-002"	19	"Cycle 22 Day 1"	2	"No"	1	"Yes"	485
+"1156"	"00295"	"055"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	527
+"1157"	"00296"	"159"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"1158"	"00296"	"159"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	91
+"1159"	"00296"	"159"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	154
+"1160"	"00296"	"159"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	217
+"1161"	"00296"	"159"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	280
+"1162"	"00297"	"115"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"1163"	"00298"	"050"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"1164"	"00298"	"050"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	83
+"1165"	"00299"	"062"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1166"	"00299"	"062"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	85
+"1167"	"00299"	"062"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	148
+"1168"	"00299"	"062"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	211
+"1169"	"00300"	"042"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1170"	"00300"	"042"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	85
+"1171"	"00300"	"042"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	147
+"1172"	"00300"	"042"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	210
+"1173"	"00301"	"117"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"1174"	"00301"	"117"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	78
+"1175"	"00301"	"117"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	140
+"1176"	"00302"	"121"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	2
+"1177"	"00302"	"121"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	86
+"1178"	"00303"	"126"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"1179"	"00303"	"126"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	86
+"1180"	"00303"	"126"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	148
+"1181"	"00303"	"126"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	219
+"1182"	"00304"	"008"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"1183"	"00304"	"008"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	79
+"1184"	"00304"	"008"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	142
+"1185"	"00304"	"008"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	206
+"1186"	"00304"	"008"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	268
+"1187"	"00305"	"096"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1188"	"00305"	"096"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	70
+"1189"	"00305"	"096"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	133
+"1190"	"00305"	"096"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	196
+"1191"	"00306"	"111"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"1192"	"00306"	"111"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	75
+"1193"	"00306"	"111"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	152
+"1194"	"00306"	"111"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	222
+"1195"	"00306"	"111"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"No"	1	"Yes"	285
+"1196"	"00306"	"111"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	2	"No"	1	"Yes"	348
+"1197"	"00306"	"111"	"CC-5013-PC-002"	19	"Cycle 19 Day 1"	2	"No"	1	"Yes"	411
+"1198"	"00306"	"111"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	NA	""	NA	""	453
+"1199"	"00307"	"085"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"1200"	"00307"	"085"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	81
+"1201"	"00307"	"085"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	161
+"1202"	"00307"	"085"	"CC-5013-PC-002"	99	"Unscheduled"	2	"No"	1	"Yes"	144
+"1203"	"00308"	"060"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1204"	"00308"	"060"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	74
+"1205"	"00308"	"060"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	137
+"1206"	"00308"	"060"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	200
+"1207"	"00308"	"060"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	2	"No"	214
+"1208"	"00309"	"156"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1209"	"00309"	"156"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	66
+"1210"	"00309"	"156"	"CC-5013-PC-002"	99	"Unscheduled"	2	"No"	2	"No"	64
+"1211"	"00310"	"151"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1212"	"00310"	"151"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	70
+"1213"	"00310"	"151"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	133
+"1214"	"00311"	"007"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1215"	"00311"	"007"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	77
+"1216"	"00311"	"007"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	140
+"1217"	"00312"	"014"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"1218"	"00312"	"014"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	72
+"1219"	"00312"	"014"	"CC-5013-PC-002"	99	"Unscheduled"	2	"No"	1	"Yes"	39
+"1220"	"00313"	"151"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1221"	"00313"	"151"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	2	"No"	62
+"1222"	"00314"	"050"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"1223"	"00314"	"050"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	86
+"1224"	"00315"	"157"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	15
+"1225"	"00315"	"157"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	84
+"1226"	"00315"	"157"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	147
+"1227"	"00315"	"157"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	191
+"1228"	"00316"	"072"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	2	"No"	0
+"1229"	"00316"	"072"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	2	"No"	95
+"1230"	"00316"	"072"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	2	"No"	218
+"1231"	"00316"	"072"	"CC-5013-PC-002"	99	"Unscheduled"	1	"Yes"	2	"No"	186
+"1232"	"00317"	"118"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1233"	"00317"	"118"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	78
+"1234"	"00317"	"118"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	142
+"1235"	"00317"	"118"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	205
+"1236"	"00318"	"157"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	7
+"1237"	"00318"	"157"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	77
+"1238"	"00318"	"157"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	142
+"1239"	"00319"	"112"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1240"	"00319"	"112"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	77
+"1241"	"00319"	"112"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	140
+"1242"	"00319"	"112"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	203
+"1243"	"00320"	"157"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	28
+"1244"	"00320"	"157"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	98
+"1245"	"00320"	"157"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	175
+"1246"	"00320"	"157"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	198
+"1247"	"00321"	"024"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"1248"	"00321"	"024"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	70
+"1249"	"00321"	"024"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	140
+"1250"	"00321"	"024"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	217
+"1251"	"00321"	"024"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	263
+"1252"	"00321"	"024"	"CC-5013-PC-002"	99	"Unscheduled"	2	"No"	1	"Yes"	256
+"1253"	"00321"	"024"	"CC-5013-PC-002"	99	"Unscheduled"	2	"No"	1	"Yes"	264
+"1254"	"00322"	"061"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1255"	"00322"	"061"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	65
+"1256"	"00322"	"061"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	NA	""	NA	""	128
+"1257"	"00322"	"061"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	191
+"1258"	"00322"	"061"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	254
+"1259"	"00323"	"050"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"1260"	"00323"	"050"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	69
+"1261"	"00324"	"035"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"1262"	"00324"	"035"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	85
+"1263"	"00325"	"019"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"1264"	"00325"	"019"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	113
+"1265"	"00325"	"019"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	176
+"1266"	"00325"	"019"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	239
+"1267"	"00325"	"019"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	NA	""	NA	""	260
+"1268"	"00326"	"032"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	1
+"1269"	"00326"	"032"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	74
+"1270"	"00326"	"032"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	137
+"1271"	"00326"	"032"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	200
+"1272"	"00326"	"032"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	1	"Yes"	1	"Yes"	263
+"1273"	"00326"	"032"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	281
+"1274"	"00327"	"127"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	4
+"1275"	"00327"	"127"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	81
+"1276"	"00328"	"004"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"1277"	"00328"	"004"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	69
+"1278"	"00328"	"004"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	132
+"1279"	"00329"	"049"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1280"	"00329"	"049"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	91
+"1281"	"00329"	"049"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	161
+"1282"	"00329"	"049"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	224
+"1283"	"00329"	"049"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	266
+"1284"	"00330"	"007"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"1285"	"00330"	"007"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	74
+"1286"	"00330"	"007"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	137
+"1287"	"00330"	"007"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	200
+"1288"	"00330"	"007"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"No"	1	"Yes"	263
+"1289"	"00330"	"007"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	2	"No"	1	"Yes"	326
+"1290"	"00330"	"007"	"CC-5013-PC-002"	19	"Cycle 19 Day 1"	2	"No"	1	"Yes"	396
+"1291"	"00330"	"007"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	438
+"1292"	"00331"	"073"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1293"	"00331"	"073"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	72
+"1294"	"00331"	"073"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	133
+"1295"	"00331"	"073"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	197
+"1296"	"00331"	"073"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	1	"Yes"	1	"Yes"	259
+"1297"	"00331"	"073"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	1	"Yes"	1	"Yes"	325
+"1298"	"00331"	"073"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	387
+"1299"	"00332"	"063"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	-35
+"1300"	"00332"	"063"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	63
+"1301"	"00332"	"063"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	130
+"1302"	"00332"	"063"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	193
+"1303"	"00332"	"063"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"No"	1	"Yes"	256
+"1304"	"00332"	"063"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	312
+"1305"	"00333"	"042"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1306"	"00333"	"042"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	NA	""	NA	""	NA
+"1307"	"00333"	"042"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	70
+"1308"	"00334"	"085"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"1309"	"00334"	"085"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	76
+"1310"	"00334"	"085"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	139
+"1311"	"00334"	"085"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	208
+"1312"	"00334"	"085"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	271
+"1313"	"00335"	"123"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1314"	"00335"	"123"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	91
+"1315"	"00336"	"046"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	1
+"1316"	"00336"	"046"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	2	"No"	73
+"1317"	"00337"	"156"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"1318"	"00337"	"156"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	76
+"1319"	"00337"	"156"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	139
+"1320"	"00337"	"156"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	202
+"1321"	"00337"	"156"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"No"	1	"Yes"	272
+"1322"	"00337"	"156"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	2	"No"	293
+"1323"	"00338"	"042"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1324"	"00338"	"042"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	82
+"1325"	"00338"	"042"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	145
+"1326"	"00338"	"042"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	NA	""	NA	""	166
+"1327"	"00339"	"092"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1328"	"00339"	"092"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	63
+"1329"	"00339"	"092"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	126
+"1330"	"00339"	"092"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	189
+"1331"	"00340"	"082"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1332"	"00340"	"082"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	70
+"1333"	"00341"	"090"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"1334"	"00341"	"090"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	76
+"1335"	"00341"	"090"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	139
+"1336"	"00341"	"090"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	202
+"1337"	"00341"	"090"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"No"	1	"Yes"	267
+"1338"	"00341"	"090"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	307
+"1339"	"00342"	"081"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1340"	"00342"	"081"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	78
+"1341"	"00342"	"081"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	141
+"1342"	"00343"	"059"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	21
+"1343"	"00343"	"059"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	92
+"1344"	"00343"	"059"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	155
+"1345"	"00343"	"059"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	218
+"1346"	"00343"	"059"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	1	"Yes"	1	"Yes"	283
+"1347"	"00343"	"059"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	1	"Yes"	1	"Yes"	344
+"1348"	"00343"	"059"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	386
+"1349"	"00344"	"017"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1350"	"00344"	"017"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	91
+"1351"	"00344"	"017"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	161
+"1352"	"00344"	"017"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	231
+"1353"	"00344"	"017"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	1	"Yes"	1	"Yes"	301
+"1354"	"00344"	"017"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	1	"Yes"	1	"Yes"	371
+"1355"	"00344"	"017"	"CC-5013-PC-002"	19	"Cycle 19 Day 1"	1	"Yes"	1	"Yes"	434
+"1356"	"00344"	"017"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	504
+"1357"	"00344"	"017"	"CC-5013-PC-002"	99	"Unscheduled"	1	"Yes"	1	"Yes"	154
+"1358"	"00345"	"081"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"1359"	"00345"	"081"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	70
+"1360"	"00345"	"081"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	138
+"1361"	"00345"	"081"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	201
+"1362"	"00345"	"081"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"No"	1	"Yes"	273
+"1363"	"00346"	"102"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"1364"	"00346"	"102"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	77
+"1365"	"00346"	"102"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	140
+"1366"	"00346"	"102"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	203
+"1367"	"00346"	"102"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"No"	1	"Yes"	273
+"1368"	"00346"	"102"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	2	"No"	1	"Yes"	336
+"1369"	"00346"	"102"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	357
+"1370"	"00347"	"091"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"1371"	"00347"	"091"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	77
+"1372"	"00348"	"062"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1373"	"00348"	"062"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	92
+"1374"	"00348"	"062"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	155
+"1375"	"00349"	"053"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	2	"No"	0
+"1376"	"00349"	"053"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	2	"No"	74
+"1377"	"00349"	"053"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	2	"No"	137
+"1378"	"00349"	"053"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	2	"No"	199
+"1379"	"00349"	"053"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	2	"No"	263
+"1380"	"00350"	"094"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1381"	"00350"	"094"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	84
+"1382"	"00350"	"094"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	158
+"1383"	"00351"	"109"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	13
+"1384"	"00351"	"109"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	84
+"1385"	"00351"	"109"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	161
+"1386"	"00352"	"141"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1387"	"00352"	"141"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	92
+"1388"	"00353"	"098"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"1389"	"00353"	"098"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	73
+"1390"	"00353"	"098"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	137
+"1391"	"00353"	"098"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	210
+"1392"	"00353"	"098"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"No"	1	"Yes"	274
+"1393"	"00353"	"098"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	2	"No"	1	"Yes"	337
+"1394"	"00354"	"150"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	32
+"1395"	"00354"	"150"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	100
+"1396"	"00355"	"094"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1397"	"00355"	"094"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	89
+"1398"	"00355"	"094"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	154
+"1399"	"00355"	"094"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	215
+"1400"	"00356"	"003"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1401"	"00356"	"003"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	72
+"1402"	"00356"	"003"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	135
+"1403"	"00357"	"126"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1404"	"00357"	"126"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	80
+"1405"	"00357"	"126"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	140
+"1406"	"00357"	"126"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	202
+"1407"	"00357"	"126"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	1	"Yes"	1	"Yes"	269
+"1408"	"00357"	"126"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	1	"Yes"	1	"Yes"	332
+"1409"	"00357"	"126"	"CC-5013-PC-002"	19	"Cycle 19 Day 1"	1	"Yes"	1	"Yes"	391
+"1410"	"00357"	"126"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	462
+"1411"	"00358"	"015"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	18
+"1412"	"00358"	"015"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	96
+"1413"	"00358"	"015"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	158
+"1414"	"00359"	"046"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	13
+"1415"	"00359"	"046"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	84
+"1416"	"00359"	"046"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	147
+"1417"	"00360"	"051"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1418"	"00360"	"051"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	70
+"1419"	"00360"	"051"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	133
+"1420"	"00361"	"034"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"1421"	"00362"	"129"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"1422"	"00362"	"129"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	72
+"1423"	"00362"	"129"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	135
+"1424"	"00362"	"129"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	198
+"1425"	"00362"	"129"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"No"	1	"Yes"	261
+"1426"	"00362"	"129"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	316
+"1427"	"00363"	"011"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	1
+"1428"	"00363"	"011"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	80
+"1429"	"00363"	"011"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	143
+"1430"	"00363"	"011"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	206
+"1431"	"00363"	"011"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	227
+"1432"	"00364"	"071"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1433"	"00364"	"071"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	98
+"1434"	"00364"	"071"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	161
+"1435"	"00364"	"071"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	231
+"1436"	"00364"	"071"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	301
+"1437"	"00365"	"139"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"1438"	"00365"	"139"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	72
+"1439"	"00365"	"139"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	135
+"1440"	"00365"	"139"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	198
+"1441"	"00365"	"139"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"No"	1	"Yes"	261
+"1442"	"00365"	"139"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	2	"No"	310
+"1443"	"00366"	"114"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	4
+"1444"	"00366"	"114"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	81
+"1445"	"00366"	"114"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	145
+"1446"	"00366"	"114"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	208
+"1447"	"00366"	"114"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	1	"Yes"	1	"Yes"	272
+"1448"	"00366"	"114"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	1	"Yes"	1	"Yes"	335
+"1449"	"00366"	"114"	"CC-5013-PC-002"	19	"Cycle 19 Day 1"	1	"Yes"	1	"Yes"	398
+"1450"	"00366"	"114"	"CC-5013-PC-002"	19	"Cycle 22 Day 1"	1	"Yes"	1	"Yes"	461
+"1451"	"00366"	"114"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	NA	""	NA	""	482
+"1452"	"00367"	"016"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"1453"	"00367"	"016"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	84
+"1454"	"00368"	"135"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"1455"	"00368"	"135"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	75
+"1456"	"00369"	"007"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"1457"	"00369"	"007"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	77
+"1458"	"00369"	"007"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	140
+"1459"	"00369"	"007"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	203
+"1460"	"00370"	"014"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	-8
+"1461"	"00370"	"014"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	79
+"1462"	"00370"	"014"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	NA	""	NA	""	NA
+"1463"	"00370"	"014"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	142
+"1464"	"00371"	"015"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	15
+"1465"	"00371"	"015"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	82
+"1466"	"00371"	"015"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	145
+"1467"	"00371"	"015"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	189
+"1468"	"00372"	"120"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1469"	"00372"	"120"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	90
+"1470"	"00372"	"120"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	133
+"1471"	"00373"	"026"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1472"	"00373"	"026"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	95
+"1473"	"00373"	"026"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	159
+"1474"	"00373"	"026"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	222
+"1475"	"00373"	"026"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	1	"Yes"	1	"Yes"	287
+"1476"	"00373"	"026"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	1	"Yes"	1	"Yes"	356
+"1477"	"00373"	"026"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	2	"No"	376
+"1478"	"00374"	"050"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1479"	"00374"	"050"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	91
+"1480"	"00374"	"050"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	154
+"1481"	"00374"	"050"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	216
+"1482"	"00374"	"050"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	1	"Yes"	1	"Yes"	280
+"1483"	"00374"	"050"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	350
+"1484"	"00375"	"156"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"1485"	"00375"	"156"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	80
+"1486"	"00375"	"156"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	150
+"1487"	"00375"	"156"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	213
+"1488"	"00376"	"048"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1489"	"00376"	"048"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	67
+"1490"	"00376"	"048"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	130
+"1491"	"00377"	"150"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"1492"	"00377"	"150"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	90
+"1493"	"00377"	"150"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	153
+"1494"	"00377"	"150"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	224
+"1495"	"00377"	"150"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	257
+"1496"	"00378"	"125"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"1497"	"00378"	"125"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	89
+"1498"	"00379"	"042"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1499"	"00379"	"042"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	91
+"1500"	"00379"	"042"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	154
+"1501"	"00380"	"021"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"1502"	"00380"	"021"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	75
+"1503"	"00381"	"090"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	32
+"1504"	"00381"	"090"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	119
+"1505"	"00381"	"090"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	182
+"1506"	"00381"	"090"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	250
+"1507"	"00381"	"090"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	1	"Yes"	1	"Yes"	313
+"1508"	"00381"	"090"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	391
+"1509"	"00382"	"098"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"1510"	"00383"	"091"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"1511"	"00383"	"091"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	65
+"1512"	"00383"	"091"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	128
+"1513"	"00383"	"091"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	NA	""	NA	""	NA
+"1514"	"00383"	"091"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	198
+"1515"	"00384"	"021"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"1516"	"00384"	"021"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	76
+"1517"	"00384"	"021"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	139
+"1518"	"00384"	"021"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	202
+"1519"	"00384"	"021"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	251
+"1520"	"00385"	"148"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"1521"	"00385"	"148"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	78
+"1522"	"00385"	"148"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	141
+"1523"	"00386"	"126"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1524"	"00386"	"126"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	71
+"1525"	"00386"	"126"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	133
+"1526"	"00387"	"061"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"1527"	"00387"	"061"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	77
+"1528"	"00387"	"061"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	147
+"1529"	"00387"	"061"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	210
+"1530"	"00387"	"061"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"No"	1	"Yes"	280
+"1531"	"00387"	"061"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	2	"No"	1	"Yes"	343
+"1532"	"00387"	"061"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	364
+"1533"	"00388"	"082"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1534"	"00388"	"082"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	101
+"1535"	"00389"	"051"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"1536"	"00389"	"051"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	85
+"1537"	"00389"	"051"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	150
+"1538"	"00389"	"051"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	214
+"1539"	"00389"	"051"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"No"	1	"Yes"	276
+"1540"	"00389"	"051"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	2	"No"	1	"Yes"	337
+"1541"	"00389"	"051"	"CC-5013-PC-002"	19	"Cycle 19 Day 1"	2	"No"	1	"Yes"	402
+"1542"	"00389"	"051"	"CC-5013-PC-002"	19	"Cycle 22 Day 1"	2	"No"	1	"Yes"	477
+"1543"	"00389"	"051"	"CC-5013-PC-002"	19	"Cycle 25 Day 1"	2	"No"	1	"Yes"	547
+"1544"	"00389"	"051"	"CC-5013-PC-002"	19	"Cycle 28 Day 1"	2	"No"	1	"Yes"	612
+"1545"	"00389"	"051"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	675
+"1546"	"00390"	"098"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1547"	"00390"	"098"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	68
+"1548"	"00391"	"098"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	3
+"1549"	"00391"	"098"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	68
+"1550"	"00391"	"098"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	131
+"1551"	"00392"	"026"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1552"	"00392"	"026"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	86
+"1553"	"00392"	"026"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	149
+"1554"	"00392"	"026"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	2	"No"	169
+"1555"	"00393"	"157"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	34
+"1556"	"00393"	"157"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	104
+"1557"	"00393"	"157"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	167
+"1558"	"00393"	"157"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	230
+"1559"	"00393"	"157"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	295
+"1560"	"00394"	"043"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	11
+"1561"	"00394"	"043"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	80
+"1562"	"00394"	"043"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	147
+"1563"	"00395"	"037"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"1564"	"00395"	"037"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	88
+"1565"	"00396"	"032"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"1566"	"00396"	"032"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	69
+"1567"	"00396"	"032"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	132
+"1568"	"00396"	"032"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	194
+"1569"	"00396"	"032"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	NA	""	215
+"1570"	"00397"	"134"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"1571"	"00397"	"134"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	69
+"1572"	"00397"	"134"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	132
+"1573"	"00397"	"134"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	195
+"1574"	"00398"	"051"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"1575"	"00398"	"051"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	72
+"1576"	"00398"	"051"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	136
+"1577"	"00398"	"051"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	197
+"1578"	"00398"	"051"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	2	"No"	204
+"1579"	"00399"	"050"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1580"	"00400"	"116"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	9
+"1581"	"00400"	"116"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	90
+"1582"	"00400"	"116"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	153
+"1583"	"00400"	"116"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	216
+"1584"	"00401"	"154"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1585"	"00401"	"154"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	92
+"1586"	"00401"	"154"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	NA	""	NA	""	99
+"1587"	"00402"	"015"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1588"	"00403"	"111"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1589"	"00403"	"111"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	70
+"1590"	"00403"	"111"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	133
+"1591"	"00403"	"111"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	196
+"1592"	"00403"	"111"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	NA	""	NA	""	240
+"1593"	"00404"	"006"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1594"	"00404"	"006"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	68
+"1595"	"00404"	"006"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	131
+"1596"	"00404"	"006"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	193
+"1597"	"00404"	"006"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	1	"Yes"	1	"Yes"	257
+"1598"	"00404"	"006"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	336
+"1599"	"00405"	"025"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1600"	"00405"	"025"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	NA	""	NA	""	52
+"1601"	"00406"	"111"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1602"	"00406"	"111"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	75
+"1603"	"00406"	"111"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	140
+"1604"	"00407"	"143"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1605"	"00407"	"143"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	70
+"1606"	"00407"	"143"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	134
+"1607"	"00407"	"143"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	195
+"1608"	"00407"	"143"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	1	"Yes"	1	"Yes"	261
+"1609"	"00408"	"045"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1610"	"00408"	"045"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	86
+"1611"	"00408"	"045"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	149
+"1612"	"00408"	"045"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	213
+"1613"	"00409"	"107"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	16
+"1614"	"00409"	"107"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	92
+"1615"	"00409"	"107"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	157
+"1616"	"00409"	"107"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	220
+"1617"	"00409"	"107"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	1	"Yes"	1	"Yes"	281
+"1618"	"00409"	"107"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	1	"Yes"	1	"Yes"	344
+"1619"	"00410"	"133"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1620"	"00410"	"133"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	71
+"1621"	"00411"	"004"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1622"	"00411"	"004"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	NA	""	NA	""	NA
+"1623"	"00411"	"004"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	45
+"1624"	"00412"	"101"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	14
+"1625"	"00412"	"101"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	79
+"1626"	"00412"	"101"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	141
+"1627"	"00413"	"152"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1628"	"00413"	"152"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	69
+"1629"	"00413"	"152"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	132
+"1630"	"00413"	"152"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	195
+"1631"	"00413"	"152"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	1	"Yes"	1	"Yes"	258
+"1632"	"00413"	"152"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	1	"Yes"	1	"Yes"	321
+"1633"	"00413"	"152"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	352
+"1634"	"00414"	"015"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"1635"	"00414"	"015"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	71
+"1636"	"00414"	"015"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	134
+"1637"	"00414"	"015"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	NA	""	NA	""	148
+"1638"	"00415"	"048"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1639"	"00415"	"048"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	79
+"1640"	"00415"	"048"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	142
+"1641"	"00415"	"048"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	205
+"1642"	"00415"	"048"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	1	"Yes"	1	"Yes"	268
+"1643"	"00416"	"126"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1644"	"00416"	"126"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	86
+"1645"	"00416"	"126"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	152
+"1646"	"00416"	"126"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	212
+"1647"	"00416"	"126"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	1	"Yes"	1	"Yes"	274
+"1648"	"00416"	"126"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	1	"Yes"	1	"Yes"	338
+"1649"	"00416"	"126"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	401
+"1650"	"00417"	"074"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"1651"	"00417"	"074"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	81
+"1652"	"00417"	"074"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	143
+"1653"	"00417"	"074"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	210
+"1654"	"00417"	"074"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	269
+"1655"	"00418"	"125"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1656"	"00418"	"125"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	96
+"1657"	"00418"	"125"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	161
+"1658"	"00419"	"058"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1659"	"00419"	"058"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	91
+"1660"	"00419"	"058"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	118
+"1661"	"00420"	"069"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"1662"	"00420"	"069"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	77
+"1663"	"00420"	"069"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	140
+"1664"	"00420"	"069"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	189
+"1665"	"00421"	"059"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1666"	"00421"	"059"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	76
+"1667"	"00421"	"059"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	146
+"1668"	"00421"	"059"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	223
+"1669"	"00421"	"059"	"CC-5013-PC-002"	99	"Unscheduled"	NA	""	NA	""	200
+"1670"	"00422"	"148"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	23
+"1671"	"00422"	"148"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	92
+"1672"	"00423"	"060"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"1673"	"00423"	"060"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	86
+"1674"	"00423"	"060"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	149
+"1675"	"00423"	"060"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	213
+"1676"	"00423"	"060"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"No"	1	"Yes"	276
+"1677"	"00423"	"060"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	315
+"1678"	"00424"	"100"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1679"	"00424"	"100"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	75
+"1680"	"00424"	"100"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	137
+"1681"	"00424"	"100"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	201
+"1682"	"00424"	"100"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	NA	""	NA	""	220
+"1683"	"00425"	"027"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1684"	"00425"	"027"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	93
+"1685"	"00425"	"027"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	155
+"1686"	"00426"	"052"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	2	"No"	0
+"1687"	"00426"	"052"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	2	"No"	63
+"1688"	"00426"	"052"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	2	"No"	126
+"1689"	"00426"	"052"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	2	"No"	190
+"1690"	"00426"	"052"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	1	"Yes"	2	"No"	252
+"1691"	"00426"	"052"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	1	"Yes"	2	"No"	315
+"1692"	"00426"	"052"	"CC-5013-PC-002"	19	"Cycle 19 Day 1"	1	"Yes"	2	"No"	378
+"1693"	"00426"	"052"	"CC-5013-PC-002"	19	"Cycle 22 Day 1"	1	"Yes"	2	"No"	446
+"1694"	"00427"	"009"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	14
+"1695"	"00427"	"009"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	79
+"1696"	"00427"	"009"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	142
+"1697"	"00427"	"009"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	204
+"1698"	"00428"	"075"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1699"	"00428"	"075"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	73
+"1700"	"00428"	"075"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	134
+"1701"	"00428"	"075"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	NA	""	NA	""	156
+"1702"	"00429"	"050"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	61
+"1703"	"00429"	"050"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	153
+"1704"	"00429"	"050"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	216
+"1705"	"00429"	"050"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	279
+"1706"	"00430"	"118"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1707"	"00430"	"118"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	92
+"1708"	"00430"	"118"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	162
+"1709"	"00430"	"118"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	225
+"1710"	"00430"	"118"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	288
+"1711"	"00431"	"066"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"1712"	"00431"	"066"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	72
+"1713"	"00431"	"066"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	135
+"1714"	"00431"	"066"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	198
+"1715"	"00431"	"066"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"No"	1	"Yes"	261
+"1716"	"00432"	"044"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	-10
+"1717"	"00433"	"076"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1718"	"00433"	"076"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	74
+"1719"	"00433"	"076"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	137
+"1720"	"00433"	"076"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	202
+"1721"	"00433"	"076"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	265
+"1722"	"00434"	"068"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	24
+"1723"	"00434"	"068"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	90
+"1724"	"00434"	"068"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	153
+"1725"	"00434"	"068"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	2	"No"	174
+"1726"	"00435"	"098"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1727"	"00436"	"149"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1728"	"00436"	"149"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	73
+"1729"	"00437"	"071"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1730"	"00437"	"071"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	71
+"1731"	"00438"	"101"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	19
+"1732"	"00438"	"101"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	83
+"1733"	"00438"	"101"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	146
+"1734"	"00438"	"101"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	208
+"1735"	"00439"	"019"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1736"	"00439"	"019"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	83
+"1737"	"00439"	"019"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	146
+"1738"	"00439"	"019"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	209
+"1739"	"00440"	"065"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	6
+"1740"	"00440"	"065"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	77
+"1741"	"00440"	"065"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	139
+"1742"	"00440"	"065"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	202
+"1743"	"00440"	"065"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	1	"Yes"	2	"No"	265
+"1744"	"00440"	"065"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	1	"Yes"	2	"No"	335
+"1745"	"00440"	"065"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	429
+"1746"	"00441"	"004"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1747"	"00441"	"004"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	72
+"1748"	"00441"	"004"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	135
+"1749"	"00441"	"004"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	198
+"1750"	"00441"	"004"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	1	"Yes"	1	"Yes"	262
+"1751"	"00441"	"004"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	1	"Yes"	1	"Yes"	325
+"1752"	"00441"	"004"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	366
+"1753"	"00442"	"115"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"1754"	"00442"	"115"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	143
+"1755"	"00443"	"134"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"1756"	"00443"	"134"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	66
+"1757"	"00443"	"134"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	129
+"1758"	"00443"	"134"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	192
+"1759"	"00443"	"134"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"No"	1	"Yes"	258
+"1760"	"00443"	"134"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	325
+"1761"	"00444"	"050"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1762"	"00444"	"050"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	47
+"1763"	"00445"	"097"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"1764"	"00445"	"097"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	71
+"1765"	"00445"	"097"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	135
+"1766"	"00445"	"097"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	205
+"1767"	"00445"	"097"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"No"	1	"Yes"	261
+"1768"	"00445"	"097"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	330
+"1769"	"00446"	"103"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"1770"	"00446"	"103"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	67
+"1771"	"00446"	"103"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	130
+"1772"	"00447"	"076"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"1773"	"00447"	"076"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	75
+"1774"	"00447"	"076"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	136
+"1775"	"00448"	"009"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1776"	"00448"	"009"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	70
+"1777"	"00448"	"009"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	133
+"1778"	"00448"	"009"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	196
+"1779"	"00449"	"006"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"1780"	"00449"	"006"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	91
+"1781"	"00449"	"006"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	154
+"1782"	"00449"	"006"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	217
+"1783"	"00449"	"006"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"No"	1	"Yes"	280
+"1784"	"00449"	"006"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	NA	""	NA	""	322
+"1785"	"00450"	"069"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"1786"	"00450"	"069"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	71
+"1787"	"00450"	"069"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	140
+"1788"	"00451"	"090"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"1789"	"00451"	"090"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	73
+"1790"	"00451"	"090"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	137
+"1791"	"00451"	"090"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	2	"No"	158
+"1792"	"00452"	"122"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"1793"	"00452"	"122"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	78
+"1794"	"00452"	"122"	"CC-5013-PC-002"	99	"Unscheduled"	2	"No"	1	"Yes"	113
+"1795"	"00453"	"025"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"1796"	"00453"	"025"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	79
+"1797"	"00453"	"025"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	149
+"1798"	"00453"	"025"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	212
+"1799"	"00454"	"137"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	2	"No"	0
+"1800"	"00455"	"052"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1801"	"00455"	"052"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	77
+"1802"	"00455"	"052"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	140
+"1803"	"00455"	"052"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	203
+"1804"	"00455"	"052"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	1	"Yes"	1	"Yes"	266
+"1805"	"00456"	"031"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"1806"	"00456"	"031"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	86
+"1807"	"00456"	"031"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	149
+"1808"	"00456"	"031"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	170
+"1809"	"00457"	"098"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1810"	"00457"	"098"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	82
+"1811"	"00457"	"098"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	144
+"1812"	"00458"	"141"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"1813"	"00458"	"141"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	81
+"1814"	"00458"	"141"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	144
+"1815"	"00458"	"141"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	206
+"1816"	"00458"	"141"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"No"	1	"Yes"	270
+"1817"	"00458"	"141"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	332
+"1818"	"00459"	"142"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"1819"	"00459"	"142"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	94
+"1820"	"00459"	"142"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	161
+"1821"	"00459"	"142"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	222
+"1822"	"00459"	"142"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	NA	""	257
+"1823"	"00460"	"048"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	2	"No"	0
+"1824"	"00460"	"048"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	2	"No"	71
+"1825"	"00460"	"048"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	2	"No"	134
+"1826"	"00461"	"151"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1827"	"00461"	"151"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	67
+"1828"	"00461"	"151"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	133
+"1829"	"00461"	"151"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	196
+"1830"	"00461"	"151"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	1	"Yes"	1	"Yes"	259
+"1831"	"00461"	"151"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	315
+"1832"	"00462"	"141"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"1833"	"00462"	"141"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	79
+"1834"	"00462"	"141"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	143
+"1835"	"00463"	"110"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1836"	"00464"	"090"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"1837"	"00464"	"090"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	68
+"1838"	"00464"	"090"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	132
+"1839"	"00464"	"090"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	193
+"1840"	"00464"	"090"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	258
+"1841"	"00465"	"140"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"1842"	"00465"	"140"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	84
+"1843"	"00465"	"140"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	147
+"1844"	"00465"	"140"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"No"	1	"Yes"	273
+"1845"	"00465"	"140"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	337
+"1846"	"00466"	"066"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"1847"	"00466"	"066"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	79
+"1848"	"00466"	"066"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	142
+"1849"	"00466"	"066"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	205
+"1850"	"00466"	"066"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"No"	1	"Yes"	268
+"1851"	"00466"	"066"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	NA	""	NA	""	292
+"1852"	"00467"	"050"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1853"	"00467"	"050"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	84
+"1854"	"00467"	"050"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	145
+"1855"	"00467"	"050"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	211
+"1856"	"00467"	"050"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	1	"Yes"	1	"Yes"	278
+"1857"	"00467"	"050"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	1	"Yes"	1	"Yes"	363
+"1858"	"00468"	"039"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1859"	"00468"	"039"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	NA	""	NA	""	79
+"1860"	"00469"	"056"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	7
+"1861"	"00469"	"056"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	74
+"1862"	"00469"	"056"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	137
+"1863"	"00469"	"056"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	178
+"1864"	"00470"	"082"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1865"	"00470"	"082"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	77
+"1866"	"00471"	"031"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"1867"	"00471"	"031"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	73
+"1868"	"00471"	"031"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	136
+"1869"	"00471"	"031"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	199
+"1870"	"00471"	"031"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"No"	1	"Yes"	260
+"1871"	"00471"	"031"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	2	"No"	1	"Yes"	323
+"1872"	"00471"	"031"	"CC-5013-PC-002"	19	"Cycle 19 Day 1"	2	"No"	1	"Yes"	386
+"1873"	"00471"	"031"	"CC-5013-PC-002"	19	"Cycle 22 Day 1"	2	"No"	1	"Yes"	449
+"1874"	"00471"	"031"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	NA	""	NA	""	477
+"1875"	"00472"	"007"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"1876"	"00472"	"007"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	72
+"1877"	"00472"	"007"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	135
+"1878"	"00472"	"007"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	198
+"1879"	"00473"	"064"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	2	"No"	0
+"1880"	"00473"	"064"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	2	"No"	78
+"1881"	"00473"	"064"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	2	"No"	144
+"1882"	"00473"	"064"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	2	"No"	207
+"1883"	"00474"	"008"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"1884"	"00474"	"008"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	85
+"1885"	"00474"	"008"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	149
+"1886"	"00474"	"008"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	212
+"1887"	"00475"	"007"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	11
+"1888"	"00475"	"007"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	81
+"1889"	"00475"	"007"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	147
+"1890"	"00475"	"007"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	207
+"1891"	"00475"	"007"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	NA	""	NA	""	228
+"1892"	"00476"	"042"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1893"	"00476"	"042"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	77
+"1894"	"00476"	"042"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	140
+"1895"	"00476"	"042"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	NA	""	NA	""	182
+"1896"	"00477"	"018"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"1897"	"00477"	"018"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	93
+"1898"	"00478"	"088"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"1899"	"00478"	"088"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	2	"No"	77
+"1900"	"00479"	"007"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1901"	"00479"	"007"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	77
+"1902"	"00479"	"007"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	137
+"1903"	"00480"	"042"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1904"	"00480"	"042"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	89
+"1905"	"00480"	"042"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	159
+"1906"	"00480"	"042"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	245
+"1907"	"00481"	"130"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1908"	"00481"	"130"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	85
+"1909"	"00481"	"130"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	148
+"1910"	"00481"	"130"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	211
+"1911"	"00481"	"130"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	1	"Yes"	1	"Yes"	274
+"1912"	"00482"	"065"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"1913"	"00482"	"065"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	92
+"1914"	"00482"	"065"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	169
+"1915"	"00482"	"065"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	239
+"1916"	"00482"	"065"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"No"	1	"Yes"	301
+"1917"	"00482"	"065"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	365
+"1918"	"00483"	"078"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	10
+"1919"	"00483"	"078"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	79
+"1920"	"00483"	"078"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	161
+"1921"	"00483"	"078"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	227
+"1922"	"00484"	"005"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1923"	"00485"	"039"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"1924"	"00485"	"039"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	79
+"1925"	"00485"	"039"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	NA	""	105
+"1926"	"00486"	"071"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1927"	"00486"	"071"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	92
+"1928"	"00486"	"071"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	162
+"1929"	"00486"	"071"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	232
+"1930"	"00486"	"071"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	1	"Yes"	1	"Yes"	295
+"1931"	"00486"	"071"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	1	"Yes"	1	"Yes"	358
+"1932"	"00487"	"028"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1933"	"00487"	"028"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	71
+"1934"	"00487"	"028"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	134
+"1935"	"00488"	"149"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"1936"	"00488"	"149"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	87
+"1937"	"00488"	"149"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	150
+"1938"	"00488"	"149"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	213
+"1939"	"00488"	"149"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	233
+"1940"	"00489"	"118"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1941"	"00489"	"118"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	82
+"1942"	"00489"	"118"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	146
+"1943"	"00490"	"087"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	13
+"1944"	"00490"	"087"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	83
+"1945"	"00490"	"087"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	147
+"1946"	"00490"	"087"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	210
+"1947"	"00490"	"087"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"No"	1	"Yes"	272
+"1948"	"00491"	"114"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	7
+"1949"	"00491"	"114"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	77
+"1950"	"00491"	"114"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	140
+"1951"	"00491"	"114"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	202
+"1952"	"00491"	"114"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	1	"Yes"	1	"Yes"	267
+"1953"	"00491"	"114"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	1	"Yes"	1	"Yes"	330
+"1954"	"00491"	"114"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	NA	""	NA	""	351
+"1955"	"00492"	"066"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"1956"	"00492"	"066"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	79
+"1957"	"00492"	"066"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	142
+"1958"	"00493"	"047"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	8
+"1959"	"00493"	"047"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	77
+"1960"	"00493"	"047"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	139
+"1961"	"00493"	"047"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	202
+"1962"	"00493"	"047"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	281
+"1963"	"00494"	"122"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	2	"No"	0
+"1964"	"00494"	"122"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	2	"No"	31
+"1965"	"00495"	"017"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1966"	"00495"	"017"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	2	"No"	35
+"1967"	"00496"	"133"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	3
+"1968"	"00496"	"133"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	74
+"1969"	"00497"	"111"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1970"	"00497"	"111"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	82
+"1971"	"00497"	"111"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	145
+"1972"	"00497"	"111"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	NA	""	NA	""	188
+"1973"	"00498"	"147"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1974"	"00498"	"147"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	77
+"1975"	"00498"	"147"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	138
+"1976"	"00499"	"018"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1977"	"00499"	"018"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	76
+"1978"	"00499"	"018"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	141
+"1979"	"00500"	"156"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"1980"	"00500"	"156"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	78
+"1981"	"00500"	"156"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	141
+"1982"	"00500"	"156"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	204
+"1983"	"00500"	"156"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	267
+"1984"	"00501"	"010"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"1985"	"00501"	"010"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	77
+"1986"	"00501"	"010"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	148
+"1987"	"00501"	"010"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	217
+"1988"	"00501"	"010"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	281
+"1989"	"00502"	"122"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	7
+"1990"	"00502"	"122"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	77
+"1991"	"00502"	"122"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	138
+"1992"	"00502"	"122"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"No"	1	"Yes"	271
+"1993"	"00502"	"122"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	2	"No"	1	"Yes"	334
+"1994"	"00502"	"122"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	376
+"1995"	"00503"	"066"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	2	"No"	0
+"1996"	"00503"	"066"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	2	"No"	74
+"1997"	"00503"	"066"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	2	"No"	137
+"1998"	"00503"	"066"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	2	"No"	179
+"1999"	"00504"	"122"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"2000"	"00504"	"122"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	74
+"2001"	"00504"	"122"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	147
+"2002"	"00504"	"122"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	210
+"2003"	"00504"	"122"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"No"	1	"Yes"	281
+"2004"	"00505"	"046"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	5
+"2005"	"00505"	"046"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	77
+"2006"	"00505"	"046"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	140
+"2007"	"00505"	"046"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	203
+"2008"	"00506"	"008"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"2009"	"00506"	"008"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	83
+"2010"	"00506"	"008"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	145
+"2011"	"00506"	"008"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	209
+"2012"	"00507"	"082"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"2013"	"00507"	"082"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	77
+"2014"	"00507"	"082"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	112
+"2015"	"00508"	"019"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	-35
+"2016"	"00508"	"019"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	77
+"2017"	"00508"	"019"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	2	"No"	112
+"2018"	"00509"	"114"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"2019"	"00509"	"114"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	74
+"2020"	"00510"	"061"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"2021"	"00510"	"061"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	79
+"2022"	"00510"	"061"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	142
+"2023"	"00510"	"061"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	205
+"2024"	"00510"	"061"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"No"	2	"No"	275
+"2025"	"00510"	"061"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	NA	""	NA	""	338
+"2026"	"00510"	"061"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Yes"	1	"Yes"	380
+"2027"	"00511"	"083"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"2028"	"00511"	"083"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	81
+"2029"	"00511"	"083"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	148
+"2030"	"00511"	"083"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	211
+"2031"	"00511"	"083"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	1	"Yes"	1	"Yes"	274
+"2032"	"00511"	"083"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	1	"Yes"	1	"Yes"	345
+"2033"	"00511"	"083"	"CC-5013-PC-002"	19	"Cycle 19 Day 1"	1	"Yes"	1	"Yes"	409
+"2034"	"00511"	"083"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	NA	""	NA	""	451
+"2035"	"00512"	"127"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	5
+"2036"	"00512"	"127"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	82
+"2037"	"00513"	"009"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	3
+"2038"	"00513"	"009"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	80
+"2039"	"00514"	"015"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	4
+"2040"	"00514"	"015"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	70
+"2041"	"00514"	"015"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	133
+"2042"	"00514"	"015"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	175
+"2043"	"00515"	"024"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"2044"	"00515"	"024"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	85
+"2045"	"00515"	"024"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	148
+"2046"	"00515"	"024"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	211
+"2047"	"00515"	"024"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	274
+"2048"	"00516"	"041"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"2049"	"00516"	"041"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	91
+"2050"	"00516"	"041"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	154
+"2051"	"00517"	"062"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"2052"	"00517"	"062"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	28
+"2053"	"00518"	"043"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"2054"	"00518"	"043"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	76
+"2055"	"00518"	"043"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	142
+"2056"	"00518"	"043"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	205
+"2057"	"00518"	"043"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	1	"Yes"	1	"Yes"	268
+"2058"	"00519"	"087"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"2059"	"00519"	"087"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	71
+"2060"	"00519"	"087"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	134
+"2061"	"00519"	"087"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	196
+"2062"	"00520"	"122"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"2063"	"00520"	"122"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	65
+"2064"	"00520"	"122"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	2	"No"	86
+"2065"	"00521"	"008"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"2066"	"00521"	"008"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	79
+"2067"	"00521"	"008"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	141
+"2068"	"00522"	"144"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"2069"	"00522"	"144"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	72
+"2070"	"00522"	"144"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	135
+"2071"	"00522"	"144"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	205
+"2072"	"00522"	"144"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"No"	2	"No"	275
+"2073"	"00522"	"144"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	2	"No"	NA	""	338
+"2074"	"00522"	"144"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	NA	""	429
+"2075"	"00523"	"019"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"2076"	"00523"	"019"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	82
+"2077"	"00523"	"019"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	146
+"2078"	"00523"	"019"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	209
+"2079"	"00523"	"019"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	2	"No"	230
+"2080"	"00524"	"073"	"CC-5013-PC-002"	1	"Screening"	2	"No"	1	"Yes"	0
+"2081"	"00524"	"073"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"No"	1	"Yes"	91
+"2082"	"00524"	"073"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"No"	1	"Yes"	160
+"2083"	"00524"	"073"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"No"	1	"Yes"	226
+"2084"	"00524"	"073"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"No"	1	"Yes"	293
+"2085"	"00525"	"076"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	0
+"2086"	"00525"	"076"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	NA	""	NA	""	68
+"2087"	"00526"	"116"	"CC-5013-PC-002"	1	"Screening"	1	"Yes"	1	"Yes"	2
+"2088"	"00526"	"116"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Yes"	1	"Yes"	72
+"2089"	"00526"	"116"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Yes"	1	"Yes"	135
+"2090"	"00526"	"116"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Yes"	1	"Yes"	198

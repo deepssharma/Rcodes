@@ -1,0 +1,102 @@
+"RPT"	"RINVSITE"	"STUDY"	"VISIT"	"VISNAME"	"PATSEQN"	"PATDRUG"	"PATRSPNN"	"PATRSPN"	"PATENDAY"	"PATSTDAY"	"VISDAY"
+"1"	"00015"	"097"	"CC-5013-PC-002"	1	"Screening"	1	"zometa"	4	"Stable Disease"	-1240	-1611	0
+"2"	"00015"	"097"	"CC-5013-PC-002"	1	"Screening"	2	"aredia"	4	"Stable Disease"	-563	-1212	0
+"3"	"00021"	"071"	"CC-5013-PC-002"	1	"Screening"	1	"PREDNISOLONE (IN COMBINATION WITH ABIRATERONE/PLACEBO) IN THE CONTEXT OF 302 PHASE III TRIAL"	5	"Adjuvant"	-56	-504	0
+"4"	"00026"	"020"	"CC-5013-PC-002"	1	"Screening"	1	"Phase III study. double blind ipilimumab vs placebo"	3	"Progressive Disease"	-28	-91	0
+"5"	"00029"	"054"	"CC-5013-PC-002"	1	"Screening"	1	"Provenge"	3	"Progressive Disease"	-40	-68	0
+"6"	"00033"	"082"	"CC-5013-PC-002"	1	"Screening"	1	"samar"	3	"Progressive Disease"	-166	-166	0
+"7"	"00035"	"050"	"CC-5013-PC-002"	1	"Screening"	1	"Provenge(Immunology)"	96	"Unknown"	-1	-43	0
+"8"	"00041"	"015"	"CC-5013-PC-002"	1	"Screening"	1	"ZD 4054 or placebo"	3	"Progressive Disease"	-32	-255	5
+"9"	"00055"	"073"	"CC-5013-PC-002"	1	"Screening"	1	"samarium"	96	"Unknown"	-319	-319	0
+"10"	"00055"	"073"	"CC-5013-PC-002"	1	"Screening"	2	"samarium"	96	"Unknown"	-118	-118	0
+"11"	"00063"	"042"	"CC-5013-PC-002"	1	"Screening"	1	"Dexamethason"	4	"Stable Disease"	-1	-146	0
+"12"	"00067"	"062"	"CC-5013-PC-002"	1	"Screening"	1	"ZD4054"	3	"Progressive Disease"	-16	-97	21
+"13"	"00075"	"062"	"CC-5013-PC-002"	1	"Screening"	1	"Celecoxib"	3	"Progressive Disease"	-14	-299	0
+"14"	"00079"	"085"	"CC-5013-PC-002"	1	"Screening"	2	"Zometa 4 mg"	96	"Unknown"	NA	-343	0
+"15"	"00083"	"126"	"CC-5013-PC-002"	1	"Screening"	1	"clinical trial"	3	"Progressive Disease"	-175	-600	0
+"16"	"00085"	"161"	"CC-5013-PC-002"	1	"Screening"	1	"acidum zoledronicum"	96	"Unknown"	-28	-28	0
+"17"	"00099"	"162"	"CC-5013-PC-002"	1	"Screening"	1	"Seed Implants"	5	"Adjuvant"	-2001	-2001	0
+"18"	"00104"	"041"	"CC-5013-PC-002"	1	"Screening"	1	"Casodex"	2	"Partial Response"	-15	-4017	0
+"19"	"00109"	"050"	"CC-5013-PC-002"	1	"Screening"	1	"Provenge"	96	"Unknown"	-31	-59	0
+"20"	"00111"	"054"	"CC-5013-PC-002"	1	"Screening"	1	"Provenge"	3	"Progressive Disease"	-63	-98	0
+"21"	"00121"	"001"	"CC-5013-PC-002"	1	"Screening"	1	"Zometa (Bisphosphonate)"	96	"Unknown"	-11	-24	0
+"22"	"00126"	"070"	"CC-5013-PC-002"	1	"Screening"	1	"pamidronate 60 mg/4 ml  iv. infusion"	4	"Stable Disease"	-101	-350	0
+"23"	"00158"	"108"	"CC-5013-PC-002"	1	"Screening"	1	"Lupron"	2	"Partial Response"	-345	-1137	0
+"24"	"00158"	"108"	"CC-5013-PC-002"	1	"Screening"	2	"Casodex"	2	"Partial Response"	-345	-1137	0
+"25"	"00158"	"108"	"CC-5013-PC-002"	1	"Screening"	3	"Temsirolimus"	2	"Partial Response"	-87	-199	0
+"26"	"00172"	"010"	"CC-5013-PC-002"	1	"Screening"	1	"no other treatment administered"	NA	""	NA	NA	0
+"27"	"00181"	"074"	"CC-5013-PC-002"	1	"Screening"	1	"Oral studie medication ZD4054 (blocking endothelin A  receptor) 10 mg daily."	3	"Progressive Disease"	-8	-526	0
+"28"	"00190"	"157"	"CC-5013-PC-002"	1	"Screening"	1	"zoledronic acid"	96	"Unknown"	-513	-901	14
+"29"	"00199"	"014"	"CC-5013-PC-002"	1	"Screening"	1	"ZOLEDRONIC ACID"	96	"Unknown"	-57	-57	0
+"30"	"00199"	"014"	"CC-5013-PC-002"	1	"Screening"	2	"ZOLEDRONIC ACID"	96	"Unknown"	-1	-1	0
+"31"	"00204"	"008"	"CC-5013-PC-002"	1	"Screening"	1	"zoledronic acid"	3	"Progressive Disease"	-347	-1047	0
+"32"	"00208"	"011"	"CC-5013-PC-002"	1	"Screening"	1	"MDV 3100 / Placebo"	4	"Stable Disease"	-35	-147	0
+"33"	"00211"	"058"	"CC-5013-PC-002"	1	"Screening"	1	"INVESTIGATIONAL PRODUCT"	4	"Stable Disease"	-128	-588	0
+"34"	"00231"	"161"	"CC-5013-PC-002"	1	"Screening"	1	"ibandronat"	96	"Unknown"	-93	-119	0
+"35"	"00231"	"161"	"CC-5013-PC-002"	1	"Screening"	2	"Sr89 dose 150 MBq"	96	"Unknown"	-97	-97	0
+"36"	"00231"	"161"	"CC-5013-PC-002"	1	"Screening"	3	"Sr89  Dose 150MBq"	96	"Unknown"	-307	-307	0
+"37"	"00243"	"163"	"CC-5013-PC-002"	1	"Screening"	1	"clodronate"	4	"Stable Disease"	-282	-2004	0
+"38"	"00244"	"051"	"CC-5013-PC-002"	1	"Screening"	1	"Cryotherapy"	5	"Adjuvant"	-1412	-1412	0
+"39"	"00253"	"006"	"CC-5013-PC-002"	1	"Screening"	1	"zoledronacid"	96	"Unknown"	0	0	0
+"40"	"00257"	"039"	"CC-5013-PC-002"	1	"Screening"	1	"sipulecel - T"	96	"Unknown"	-334	-363	1
+"41"	"00257"	"039"	"CC-5013-PC-002"	1	"Screening"	5	"prednisone"	3	"Progressive Disease"	-564	-2178	1
+"42"	"00268"	"099"	"CC-5013-PC-002"	1	"Screening"	1	"Zoledronic acid"	4	"Stable Disease"	NA	-474	15
+"43"	"00272"	"138"	"CC-5013-PC-002"	1	"Screening"	1	"MDV31000/Placebo"	4	"Stable Disease"	-11	-123	14
+"44"	"00274"	"060"	"CC-5013-PC-002"	1	"Screening"	1	"ZOMETA"	NA	""	-858	-949	0
+"45"	"00276"	"049"	"CC-5013-PC-002"	1	"Screening"	1	"DENOSUMAB CLINICAL TRIAL"	3	"Progressive Disease"	-813	-959	0
+"46"	"00276"	"049"	"CC-5013-PC-002"	1	"Screening"	2	"PREDNISOLONE"	3	"Progressive Disease"	-764	-803	0
+"47"	"00276"	"049"	"CC-5013-PC-002"	1	"Screening"	3	"DEXAMETHASONE"	2	"Partial Response"	-232	-764	0
+"48"	"00281"	"019"	"CC-5013-PC-002"	1	"Screening"	1	"provenge vaccine"	3	"Progressive Disease"	-112	-155	0
+"49"	"00281"	"019"	"CC-5013-PC-002"	1	"Screening"	2	"ketoconazole"	2	"Partial Response"	-341	-1742	0
+"50"	"00281"	"019"	"CC-5013-PC-002"	1	"Screening"	3	"hydrocortisone"	2	"Partial Response"	-338	-705	0
+"51"	"00282"	"098"	"CC-5013-PC-002"	1	"Screening"	1	"estracyt"	4	"Stable Disease"	-222	-271	0
+"52"	"00295"	"055"	"CC-5013-PC-002"	1	"Screening"	1	"Casodex"	3	"Progressive Disease"	-166	-564	0
+"53"	"00295"	"055"	"CC-5013-PC-002"	1	"Screening"	2	"Lupron"	3	"Progressive Disease"	-162	-1536	0
+"54"	"00299"	"062"	"CC-5013-PC-002"	1	"Screening"	1	"Zometa"	4	"Stable Disease"	-286	-638	0
+"55"	"00301"	"117"	"CC-5013-PC-002"	1	"Screening"	1	"XL 184"	96	"Unknown"	-35	-125	0
+"56"	"00307"	"085"	"CC-5013-PC-002"	1	"Screening"	1	"Radiofrequenz ablation with Cementoplasty"	96	"Unknown"	-2	-2	0
+"57"	"00312"	"014"	"CC-5013-PC-002"	1	"Screening"	1	"estramustina"	2	"Partial Response"	-112	-454	0
+"58"	"00321"	"024"	"CC-5013-PC-002"	1	"Screening"	1	"ZOMETA"	5	"Adjuvant"	-259	-259	0
+"59"	"00324"	"035"	"CC-5013-PC-002"	1	"Screening"	1	"Dexamethasone"	96	"Unknown"	21	-211	0
+"60"	"00329"	"049"	"CC-5013-PC-002"	1	"Screening"	1	"MK-22O6 AKT INHIBITOR"	3	"Progressive Disease"	-420	-545	0
+"61"	"00329"	"049"	"CC-5013-PC-002"	1	"Screening"	2	"DEXAMETHASONE"	3	"Progressive Disease"	-658	-755	0
+"62"	"00334"	"085"	"CC-5013-PC-002"	1	"Screening"	1	"mistletoe therapy"	96	"Unknown"	-591	-695	0
+"63"	"00334"	"085"	"CC-5013-PC-002"	1	"Screening"	2	"mistletoe therapy"	96	"Unknown"	-469	-559	0
+"64"	"00334"	"085"	"CC-5013-PC-002"	1	"Screening"	3	"Lectinol"	96	"Unknown"	246	-468	0
+"65"	"00335"	"123"	"CC-5013-PC-002"	1	"Screening"	1	"estramustine"	2	"Partial Response"	-136	-272	0
+"66"	"00337"	"156"	"CC-5013-PC-002"	1	"Screening"	1	"Abiraterone Acetate/placebo"	3	"Progressive Disease"	-21	-652	0
+"67"	"00348"	"062"	"CC-5013-PC-002"	1	"Screening"	1	"Zometa"	3	"Progressive Disease"	-295	-974	0
+"68"	"00350"	"094"	"CC-5013-PC-002"	1	"Screening"	1	"estramustinphosphat"	96	"Unknown"	-2220	-2951	0
+"69"	"00367"	"016"	"CC-5013-PC-002"	1	"Screening"	1	"Quadramet"	96	"Unknown"	-740	-740	0
+"70"	"00367"	"016"	"CC-5013-PC-002"	1	"Screening"	2	"Quadramet"	96	"Unknown"	-503	-503	0
+"71"	"00369"	"007"	"CC-5013-PC-002"	1	"Screening"	1	"ACETATE D'ABIRATERONE/PLACEBO (investigational product)"	3	"Progressive Disease"	-14	-238	0
+"72"	"00370"	"014"	"CC-5013-PC-002"	1	"Screening"	1	"Estramustina"	3	"Progressive Disease"	-77	-220	-8
+"73"	"00371"	"015"	"CC-5013-PC-002"	1	"Screening"	1	"abiraterone 002"	3	"Progressive Disease"	-10	-317	15
+"74"	"00374"	"050"	"CC-5013-PC-002"	1	"Screening"	1	"Medi-575 (study drug)"	96	"Unknown"	-216	-281	0
+"75"	"00382"	"098"	"CC-5013-PC-002"	1	"Screening"	1	"estracyt"	4	"Stable Disease"	-175	-729	0
+"76"	"00383"	"091"	"CC-5013-PC-002"	1	"Screening"	1	"Prednisone (for PSA control) 5 mg bid"	3	"Progressive Disease"	1	-142	0
+"77"	"00390"	"098"	"CC-5013-PC-002"	1	"Screening"	1	"estracyt"	3	"Progressive Disease"	-90	-208	0
+"78"	"00391"	"098"	"CC-5013-PC-002"	1	"Screening"	1	"estracyt"	4	"Stable Disease"	-70	-3696	3
+"79"	"00404"	"006"	"CC-5013-PC-002"	1	"Screening"	1	"zoledronic acid"	NA	""	NA	-49	0
+"80"	"00413"	"152"	"CC-5013-PC-002"	1	"Screening"	1	"Estramustine"	3	"Progressive Disease"	-160	-566	0
+"81"	"00426"	"052"	"CC-5013-PC-002"	1	"Screening"	1	"Bisphosphonate"	96	"Unknown"	-128	-1674	0
+"82"	"00429"	"050"	"CC-5013-PC-002"	1	"Screening"	1	"Provenge  (Immunotheraphy)"	96	"Unknown"	61	33	61
+"83"	"00437"	"071"	"CC-5013-PC-002"	1	"Screening"	1	"CRYOSURGERY TO PROSTATE"	1	"Complete Response"	-2675	-2672	0
+"84"	"00440"	"065"	"CC-5013-PC-002"	1	"Screening"	1	"VITAMIN D"	96	"Unknown"	-1120	-1225	6
+"85"	"00440"	"065"	"CC-5013-PC-002"	1	"Screening"	2	"HYDROCORTISONE 20 MG BID"	96	"Unknown"	-258	-288	6
+"86"	"00440"	"065"	"CC-5013-PC-002"	1	"Screening"	3	"HYDROCORTISONE 10 MG BID"	96	"Unknown"	-22	-258	6
+"87"	"00440"	"065"	"CC-5013-PC-002"	1	"Screening"	4	"KETOCONAZOLE 200 MG TID"	96	"Unknown"	-22	-288	6
+"88"	"00441"	"004"	"CC-5013-PC-002"	1	"Screening"	1	"investigational product, endothelin inhibitor"	4	"Stable Disease"	-33	-417	0
+"89"	"00444"	"050"	"CC-5013-PC-002"	1	"Screening"	1	"Provenge (Immunotheraphy"	4	"Stable Disease"	-19	-48	0
+"90"	"00447"	"076"	"CC-5013-PC-002"	1	"Screening"	1	"provinge"	96	"Unknown"	-130	-169	0
+"91"	"00449"	"006"	"CC-5013-PC-002"	1	"Screening"	1	"Zometa"	96	"Unknown"	0	-273	0
+"92"	"00452"	"122"	"CC-5013-PC-002"	1	"Screening"	1	"zometa"	96	"Unknown"	NA	-224	0
+"93"	"00453"	"025"	"CC-5013-PC-002"	1	"Screening"	1	"ketoconazole"	4	"Stable Disease"	-29	-1698	0
+"94"	"00453"	"025"	"CC-5013-PC-002"	1	"Screening"	2	"hydrocortisone"	4	"Stable Disease"	0	-1698	0
+"95"	"00457"	"098"	"CC-5013-PC-002"	1	"Screening"	1	"estracyt"	5	"Adjuvant"	-725	-814	0
+"96"	"00467"	"050"	"CC-5013-PC-002"	1	"Screening"	1	"XL 184 (study drug)"	3	"Progressive Disease"	-12	-68	0
+"97"	"00470"	"082"	"CC-5013-PC-002"	1	"Screening"	1	"samarium"	96	"Unknown"	-156	-156	0
+"98"	"00486"	"071"	"CC-5013-PC-002"	1	"Screening"	1	"MITOXANTRONE"	2	"Partial Response"	-1451	-1577	0
+"99"	"00516"	"041"	"CC-5013-PC-002"	1	"Screening"	1	"Casodex"	96	"Unknown"	-20	-126	0
+"100"	"00516"	"041"	"CC-5013-PC-002"	1	"Screening"	2	"Enthuse experimental drug for hormone refractory non-metastatic prostate cancer"	3	"Progressive Disease"	-160	-285	0
+"101"	"00519"	"087"	"CC-5013-PC-002"	1	"Screening"	1	"PC Spes"	96	"Unknown"	-3808	-3980	0

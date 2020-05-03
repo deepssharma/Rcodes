@@ -1,0 +1,52 @@
+#!/usr/bin/env Rscript
+#library(ggplot2)
+library(tumgr)
+
+mainsaildata <- read.table("/Users/deepalisharma/Rtest/datasets/mainsail/data/txt/lab.txt", header=T, sep="",stringsAsFactors=FALSE)
+
+mainsaildata$PSANEW=as.numeric(as.character(mainsaildata$US_RES))
+
+attach(mainsaildata)
+categories <- unique(mainsaildata$RPT)
+CountMainsail=0;
+CountBlackMainsail=0;
+
+for(i in categories)
+{
+    CountMainsail<-CountMainsail+1
+    plotdata <-subset(mainsaildata, mainsaildata$RPT==i & mainsaildata$TST_NAME=='PSA' & mainsaildata$VISNAME!='Screening' & mainsaildata$VISNAME!='Unscheduled')
+    if(nrow(plotdata)==1){
+        print("Skipping")
+        next
+    }
+    else if(nrow(plotdata)>1)
+    {
+        for(ii in 1:nrow(plotdata))
+        {
+            plotdata$Days[ii] <- ii*21
+        }
+
+        name<-c(plotdata$RPT)
+        date<-c(plotdata$Days)
+        size<-c(plotdata$PSANEW)
+
+        if(CountMainsail==1) {
+            fitdataMainsail<-data.frame(name,date,size)
+            #fitdataMainsail$name=CountMainsail
+        }
+        else if(CountMainsail>1)
+        {
+            tmpdata<-data.frame(name,date,size)
+            #tmpdata$name=CountMainsail
+            fitdataMainsail<-rbind(fitdataMainsail,tmpdata)
+        }
+        if(i==6||i==11||i==61||i==72||i==88||i==114||i==163||i==164||i==170||i==219||i==227||i==234||i==257||i==270||i==296||i==322||i==362||i==420||i==424||i==428||i==431||i==450||i==453||i==494||i==504)
+        {
+            CountBlackMainsail<-CountBlackMainsail+1
+            if(i==6) {BlackMainsaildata<-data.frame(name,date,size)}
+            else{BlackMainsaildata<-rbind(BlackMainsaildata,tmpdata)}
+        }
+
+    }
+}
+

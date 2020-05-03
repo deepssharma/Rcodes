@@ -1,0 +1,329 @@
+"PROJ_ID"	"SITE_ID"	"SUBID"	"STATE"	"EVENT_NO"	"EVENT_ID"	"ID"	"LBND"	"LAB_ORG"	"LAB_NAME"	"LBDT_"	"CS"	"CON_RNGH"	"NUM_VAL"	"REP_RNGH"	"ANALYTE"	"CON_RNGL"	"CON_EXP"	"CON_VAL"	"ND"	"REP_UNIT"	"CHAR_VAL"	"EXPONENT"	"CON_UNIT"	"REP_RNGL"
+"1"	"DN-101 Protocol No. 011-007"	"002"	"002-0008"	5	1	"Pre-Enrollment"	2777567003	NA	4233189003	"Cross Cancer Institute Laboratory"	0	NA	11	4.2	11	"hem_wbc"	4	9	4.2	NA	"count/L"	"4.2000"	9	"cells/L"	4
+"2"	"DN-101 Protocol No. 011-007"	"002"	"002-0008"	5	1	"Pre-Enrollment"	4305295001	NA	4233189003	"Cross Cancer Institute Laboratory"	0	NA	175	101	175	"hem_hemoglobin"	130	NA	101	NA	"g/L"	"101.0000"	NA	"g/L"	130
+"3"	"DN-101 Protocol No. 011-007"	"002"	"002-0008"	5	1	"Pre-Enrollment"	4305295001	NA	4233189003	"Cross Cancer Institute Laboratory"	0	NA	450	375	450	"hem_platelets"	140	9	375	NA	"count/L"	"375.0000"	9	"cells/L"	140
+"4"	"DN-101 Protocol No. 011-007"	"002"	"002-0008"	5	1	"Pre-Enrollment"	4305295001	NA	4233189003	"Cross Cancer Institute Laboratory"	0	NA	7.5	2.1	7.5	"hem_neutrophils_absolute"	1.8	9	2.1	NA	"count/L"	"2.1000"	9	"cells/L"	1.8
+"5"	"DN-101 Protocol No. 011-007"	"003"	"003-0001"	5	1	"Pre-Enrollment"	2628807003	NA	4007508003	"Calgary Laboratory Services"	14	NA	NA	6.7	NA	"hem_wbc"	NA	9	6.7	NA	"count/L"	"6.7"	9	"cells/L"	NA
+"6"	"DN-101 Protocol No. 011-007"	"003"	"003-0001"	5	1	"Pre-Enrollment"	5241083002	NA	4007508003	"Calgary Laboratory Services"	14	NA	NA	127	NA	"hem_hemoglobin"	NA	NA	127	NA	"g/L"	"127"	NA	"g/L"	NA
+"7"	"DN-101 Protocol No. 011-007"	"003"	"003-0001"	5	1	"Pre-Enrollment"	5241083002	NA	4007508003	"Calgary Laboratory Services"	14	NA	NA	309	NA	"hem_platelets"	NA	9	309	NA	"count/L"	"309"	9	"cells/L"	NA
+"8"	"DN-101 Protocol No. 011-007"	"003"	"003-0001"	5	1	"Pre-Enrollment"	5241083002	NA	4007508003	"Calgary Laboratory Services"	14	NA	NA	4	NA	"hem_neutrophils_absolute"	NA	9	4	NA	"count/L"	"4"	9	"cells/L"	NA
+"9"	"DN-101 Protocol No. 011-007"	"003"	"003-0002"	5	1	"Pre-Enrollment"	2659202003	NA	4007508003	"Calgary Laboratory Services"	0	NA	NA	5.6	NA	"hem_wbc"	NA	9	5.6	NA	"count/L"	"5.6"	9	"cells/L"	NA
+"10"	"DN-101 Protocol No. 011-007"	"003"	"003-0002"	5	1	"Pre-Enrollment"	5240975002	NA	4007508003	"Calgary Laboratory Services"	0	NA	NA	135	NA	"hem_hemoglobin"	NA	NA	135	NA	"g/L"	"135"	NA	"g/L"	NA
+"11"	"DN-101 Protocol No. 011-007"	"003"	"003-0002"	5	1	"Pre-Enrollment"	5240975002	NA	4007508003	"Calgary Laboratory Services"	0	NA	NA	253	NA	"hem_platelets"	NA	9	253	NA	"count/L"	"253"	9	"cells/L"	NA
+"12"	"DN-101 Protocol No. 011-007"	"003"	"003-0002"	5	1	"Pre-Enrollment"	5240975002	NA	4007508003	"Calgary Laboratory Services"	0	NA	NA	4.2	NA	"hem_neutrophils_absolute"	NA	9	4.2	NA	"count/L"	"4.2"	9	"cells/L"	NA
+"13"	"DN-101 Protocol No. 011-007"	"003"	"003-0004"	5	1	"Pre-Enrollment"	2753066003	NA	4007508003	"Calgary Laboratory Services"	-2	NA	NA	4.9	NA	"hem_wbc"	NA	9	4.9	NA	"count/L"	"4.9"	9	"cells/L"	NA
+"14"	"DN-101 Protocol No. 011-007"	"003"	"003-0004"	5	1	"Pre-Enrollment"	5241449002	NA	4007508003	"Calgary Laboratory Services"	-2	NA	NA	148	NA	"hem_hemoglobin"	NA	NA	148	NA	"g/L"	"148"	NA	"g/L"	NA
+"15"	"DN-101 Protocol No. 011-007"	"003"	"003-0004"	5	1	"Pre-Enrollment"	5241449002	NA	4007508003	"Calgary Laboratory Services"	-2	NA	NA	230	NA	"hem_platelets"	NA	9	230	NA	"count/L"	"230"	9	"cells/L"	NA
+"16"	"DN-101 Protocol No. 011-007"	"003"	"003-0004"	5	1	"Pre-Enrollment"	5241449002	NA	4007508003	"Calgary Laboratory Services"	-2	NA	NA	3.5	NA	"hem_neutrophils_absolute"	NA	9	3.5	NA	"count/L"	"3.5"	9	"cells/L"	NA
+"17"	"DN-101 Protocol No. 011-007"	"003"	"003-0006"	5	1	"Pre-Enrollment"	2861156003	NA	4007508003	"Calgary Laboratory Services"	0	NA	NA	5.3	NA	"hem_wbc"	NA	9	5.3	NA	"cells/L"	"5.3"	9	"cells/L"	NA
+"18"	"DN-101 Protocol No. 011-007"	"003"	"003-0006"	5	1	"Pre-Enrollment"	5240697002	NA	4007508003	"Calgary Laboratory Services"	0	NA	NA	131	NA	"hem_hemoglobin"	NA	NA	131	NA	"g/L"	"131"	NA	"g/L"	NA
+"19"	"DN-101 Protocol No. 011-007"	"003"	"003-0006"	5	1	"Pre-Enrollment"	5240697002	NA	4007508003	"Calgary Laboratory Services"	0	NA	NA	246	NA	"hem_platelets"	NA	9	246	NA	"cells/L"	"246"	9	"cells/L"	NA
+"20"	"DN-101 Protocol No. 011-007"	"003"	"003-0006"	5	1	"Pre-Enrollment"	5240697002	NA	4007508003	"Calgary Laboratory Services"	0	NA	NA	4	NA	"hem_neutrophils_absolute"	NA	9	4	NA	"cells/L"	"4"	9	"cells/L"	NA
+"21"	"DN-101 Protocol No. 011-007"	"003"	"003-0009"	5	1	"Pre-Enrollment"	2894198003	NA	4007508003	"Calgary Laboratory Services"	0	NA	NA	7.1	NA	"hem_wbc"	NA	9	7.1	NA	"count/L"	"7.1"	9	"cells/L"	NA
+"22"	"DN-101 Protocol No. 011-007"	"003"	"003-0009"	5	1	"Pre-Enrollment"	5241796002	NA	4007508003	"Calgary Laboratory Services"	0	NA	NA	103	NA	"hem_hemoglobin"	NA	NA	103	NA	"g/L"	"103"	NA	"g/L"	NA
+"23"	"DN-101 Protocol No. 011-007"	"003"	"003-0009"	5	1	"Pre-Enrollment"	5241796002	NA	4007508003	"Calgary Laboratory Services"	0	NA	NA	196	NA	"hem_platelets"	NA	9	196	NA	"count/L"	"196"	9	"cells/L"	NA
+"24"	"DN-101 Protocol No. 011-007"	"003"	"003-0009"	5	1	"Pre-Enrollment"	5241796002	NA	4007508003	"Calgary Laboratory Services"	0	NA	NA	5.4	NA	"hem_neutrophils_absolute"	NA	9	5.4	NA	"count/L"	"5.4"	9	"cells/L"	NA
+"25"	"DN-101 Protocol No. 011-007"	"003"	"003-0013"	5	1	"Pre-Enrollment"	3185622003	NA	4007508003	"Calgary Laboratory Services"	0	NA	NA	8.3	NA	"hem_wbc"	NA	9	8.3	NA	"cells/L"	"8.3"	9	"cells/L"	NA
+"26"	"DN-101 Protocol No. 011-007"	"003"	"003-0013"	5	1	"Pre-Enrollment"	5240804002	NA	4007508003	"Calgary Laboratory Services"	0	NA	NA	129	NA	"hem_hemoglobin"	NA	NA	129	NA	"g/L"	"129"	NA	"g/L"	NA
+"27"	"DN-101 Protocol No. 011-007"	"003"	"003-0013"	5	1	"Pre-Enrollment"	5240804002	NA	4007508003	"Calgary Laboratory Services"	0	NA	NA	269	NA	"hem_platelets"	NA	9	269	NA	"cells/L"	"269"	9	"cells/L"	NA
+"28"	"DN-101 Protocol No. 011-007"	"003"	"003-0013"	5	1	"Pre-Enrollment"	5240804002	NA	4007508003	"Calgary Laboratory Services"	0	NA	NA	5.6	NA	"hem_neutrophils_absolute"	NA	9	5.6	NA	"cells/L"	"5.6"	9	"cells/L"	NA
+"29"	"DN-101 Protocol No. 011-007"	"003"	"003-0014"	5	1	"Pre-Enrollment"	3185796003	NA	4007508003	"Calgary Laboratory Services"	0	NA	NA	7.8	NA	"hem_wbc"	NA	9	7.8	NA	"count/L"	"7.8"	9	"cells/L"	NA
+"30"	"DN-101 Protocol No. 011-007"	"003"	"003-0014"	5	1	"Pre-Enrollment"	5241173002	NA	4007508003	"Calgary Laboratory Services"	0	NA	NA	142	NA	"hem_hemoglobin"	NA	NA	142	NA	"g/L"	"142"	NA	"g/L"	NA
+"31"	"DN-101 Protocol No. 011-007"	"003"	"003-0014"	5	1	"Pre-Enrollment"	5241173002	NA	4007508003	"Calgary Laboratory Services"	0	NA	NA	263	NA	"hem_platelets"	NA	9	263	NA	"count/L"	"263"	9	"cells/L"	NA
+"32"	"DN-101 Protocol No. 011-007"	"003"	"003-0014"	5	1	"Pre-Enrollment"	5241173002	NA	4007508003	"Calgary Laboratory Services"	0	NA	NA	6	NA	"hem_neutrophils_absolute"	NA	9	6	NA	"count/L"	"6"	9	"cells/L"	NA
+"33"	"DN-101 Protocol No. 011-007"	"014"	"014-0001"	5	1	"Pre-Enrollment"	2624953003	NA	4233207003	"Texas Oncology Cancer Center"	0	NA	10.8	5.4	10.8	"hem_wbc"	4.8	9	5.4	NA	"count/mm3"	"5.4000"	3	"cells/L"	4.8
+"34"	"DN-101 Protocol No. 011-007"	"014"	"014-0001"	5	1	"Pre-Enrollment"	4613895002	NA	4233207003	"Texas Oncology Cancer Center"	0	NA	180	11.4	18	"hem_hemoglobin"	140	NA	114	NA	"g/dL"	"11.4000"	NA	"g/L"	14
+"35"	"DN-101 Protocol No. 011-007"	"014"	"014-0001"	5	1	"Pre-Enrollment"	4613895002	NA	4233207003	"Texas Oncology Cancer Center"	0	NA	400	263	400	"hem_platelets"	130	9	263	NA	"count/mm3"	"263.0000"	3	"cells/L"	130
+"36"	"DN-101 Protocol No. 011-007"	"014"	"014-0001"	5	1	"Pre-Enrollment"	4613895002	NA	4233207003	"Texas Oncology Cancer Center"	0	NA	NA	3.7	NA	"hem_neutrophils_absolute"	NA	9	3.7	NA	"cells/uL"	"3.7000"	3	"cells/L"	NA
+"37"	"DN-101 Protocol No. 011-007"	"014"	"014-0002"	5	1	"Pre-Enrollment"	2840459003	NA	4233207003	"Texas Oncology Cancer Center"	15	NA	10.8	7.2	10.8	"hem_wbc"	4.8	9	7.2	NA	"count/mm3"	"7.2000"	3	"cells/L"	4.8
+"38"	"DN-101 Protocol No. 011-007"	"014"	"014-0002"	5	1	"Pre-Enrollment"	4614358002	NA	4233207003	"Texas Oncology Cancer Center"	15	NA	180	14.2	18	"hem_hemoglobin"	140	NA	142	NA	"g/dL"	"14.2000"	NA	"g/L"	14
+"39"	"DN-101 Protocol No. 011-007"	"014"	"014-0002"	5	1	"Pre-Enrollment"	4614358002	NA	4233207003	"Texas Oncology Cancer Center"	15	NA	400	374	400	"hem_platelets"	130	9	374	NA	"count/mm3"	"374.0000"	3	"cells/L"	130
+"40"	"DN-101 Protocol No. 011-007"	"014"	"014-0002"	5	1	"Pre-Enrollment"	4614358002	NA	4233207003	"Texas Oncology Cancer Center"	15	NA	NA	4.3	NA	"hem_neutrophils_absolute"	NA	9	4300	NA	"thousand/uL"	"4.3000"	3	"cells/L"	NA
+"41"	"DN-101 Protocol No. 011-007"	"014"	"014-0003"	5	1	"Pre-Enrollment"	2998949003	NA	4233207003	"Texas Oncology Cancer Center"	2	NA	10.8	8.1	10.8	"hem_wbc"	4.8	9	8.1	NA	"count/mm3"	"8.1000"	3	"cells/L"	4.8
+"42"	"DN-101 Protocol No. 011-007"	"014"	"014-0003"	5	1	"Pre-Enrollment"	4614684002	NA	4233207003	"Texas Oncology Cancer Center"	2	NA	180	12.1	18	"hem_hemoglobin"	140	NA	121	NA	"g/dL"	"12.1000"	NA	"g/L"	14
+"43"	"DN-101 Protocol No. 011-007"	"014"	"014-0003"	5	1	"Pre-Enrollment"	4614684002	NA	4233207003	"Texas Oncology Cancer Center"	2	NA	400	459	400	"hem_platelets"	130	9	459	NA	"count/mm3"	"459.0000"	3	"cells/L"	130
+"44"	"DN-101 Protocol No. 011-007"	"014"	"014-0003"	5	1	"Pre-Enrollment"	4614684002	NA	4233207003	"Texas Oncology Cancer Center"	2	NA	NA	7.1	NA	"hem_neutrophils_absolute"	NA	9	7100	NA	"thousand/uL"	"7.1000"	3	"cells/L"	NA
+"45"	"DN-101 Protocol No. 011-007"	"019"	"019-0001"	5	1	"Pre-Enrollment"	2752242003	NA	4233272003	"South Texas Cancer Center Lab"	0	NA	10.8	8.9	10.8	"hem_wbc"	4.8	9	8.9	NA	"count/mm3"	"8.9000"	3	"cells/L"	4.8
+"46"	"DN-101 Protocol No. 011-007"	"019"	"019-0001"	5	1	"Pre-Enrollment"	4244801001	NA	4233272003	"South Texas Cancer Center Lab"	0	NA	180	12.1	18	"hem_hemoglobin"	140	NA	121	NA	"g/dL"	"12.1000"	NA	"g/L"	14
+"47"	"DN-101 Protocol No. 011-007"	"019"	"019-0001"	5	1	"Pre-Enrollment"	4244801001	NA	4233272003	"South Texas Cancer Center Lab"	0	NA	400	308	400	"hem_platelets"	130	9	308	NA	"count/mm3"	"308.0000"	3	"cells/L"	130
+"48"	"DN-101 Protocol No. 011-007"	"019"	"019-0001"	5	1	"Pre-Enrollment"	4244801001	NA	4233272003	"South Texas Cancer Center Lab"	0	NA	NA	6	NA	"hem_neutrophils_absolute"	NA	9	6	NA	"thousand/mm3"	"6.0000"	NA	"cells/L"	NA
+"49"	"DN-101 Protocol No. 011-007"	"022"	"022-0004"	5	1	"Pre-Enrollment"	3529685003	NA	4137670003	"Texas Oncology Lab - Arlington"	0	NA	10.8	7.9	10.8	"hem_wbc"	4.8	9	7.9	NA	"count/uL"	"7.9"	3	"cells/L"	4.8
+"50"	"DN-101 Protocol No. 011-007"	"022"	"022-0004"	5	1	"Pre-Enrollment"	5341626002	NA	4137670003	"Texas Oncology Lab - Arlington"	0	NA	180	13	18	"hem_hemoglobin"	140	NA	130	NA	"g/dL"	"13"	NA	"g/L"	14
+"51"	"DN-101 Protocol No. 011-007"	"022"	"022-0004"	5	1	"Pre-Enrollment"	5341626002	NA	4137670003	"Texas Oncology Lab - Arlington"	0	NA	400	314	400	"hem_platelets"	130	9	314	NA	"count/uL"	"314"	3	"cells/L"	130
+"52"	"DN-101 Protocol No. 011-007"	"022"	"022-0004"	5	1	"Pre-Enrollment"	5341626002	NA	4137670003	"Texas Oncology Lab - Arlington"	0	NA	6.5	5.2	6.5	"hem_neutrophils_absolute"	1.5	9	5.2	NA	"count/uL"	"5.2"	3	"cells/L"	1.5
+"53"	"DN-101 Protocol No. 011-007"	"030"	"030-0013"	5	1	"Pre-Enrollment"	3319854003	NA	4143766003	"Texas Oncology Lab - Midland"	0	NA	10.8	8.9	10.8	"hem_wbc"	4.8	9	8.9	NA	"count/uL"	"8.9000"	3	"cells/L"	4.8
+"54"	"DN-101 Protocol No. 011-007"	"030"	"030-0013"	5	1	"Pre-Enrollment"	4246119001	NA	4143766003	"Texas Oncology Lab - Midland"	0	NA	180	11.8	18	"hem_hemoglobin"	140	NA	118	NA	"g/dL"	"11.8000"	NA	"g/L"	14
+"55"	"DN-101 Protocol No. 011-007"	"030"	"030-0013"	5	1	"Pre-Enrollment"	4246119001	NA	4143766003	"Texas Oncology Lab - Midland"	0	NA	400	482	400	"hem_platelets"	130	9	482	NA	"count/uL"	"482.0000"	3	"cells/L"	130
+"56"	"DN-101 Protocol No. 011-007"	"030"	"030-0013"	5	1	"Pre-Enrollment"	4246119001	NA	4143766003	"Texas Oncology Lab - Midland"	0	NA	6.5	6.1	6.5	"hem_neutrophils_absolute"	1.5	9	6.1	NA	"count/uL"	"6.1000"	3	"cells/L"	1.5
+"57"	"DN-101 Protocol No. 011-007"	"036"	"036-0003"	5	1	"Pre-Enrollment"	2951765003	NA	4000170003	"Windsor Regional Hospital, Metropolitan"	5	NA	11	6.8	11	"hem_wbc"	3.6	9	6.8	NA	"count/L"	"6.8000"	9	"cells/L"	3.6
+"58"	"DN-101 Protocol No. 011-007"	"036"	"036-0003"	5	1	"Pre-Enrollment"	4130192001	NA	4000170003	"Windsor Regional Hospital, Metropolitan"	5	NA	165	106	165	"hem_hemoglobin"	135	NA	106	NA	"g/L"	"106.0000"	NA	"g/L"	135
+"59"	"DN-101 Protocol No. 011-007"	"036"	"036-0003"	5	1	"Pre-Enrollment"	4130192001	NA	4000170003	"Windsor Regional Hospital, Metropolitan"	5	NA	400	179	400	"hem_platelets"	140	9	179	NA	"count/L"	"179.0000"	9	"cells/L"	140
+"60"	"DN-101 Protocol No. 011-007"	"036"	"036-0003"	5	1	"Pre-Enrollment"	4130192001	NA	4000170003	"Windsor Regional Hospital, Metropolitan"	5	NA	7.5	5.1	7.5	"hem_neutrophils_absolute"	2	9	5.1	NA	"count/L"	"5.1000"	9	"cells/L"	2
+"61"	"DN-101 Protocol No. 011-007"	"037"	"037-0002"	5	1	"Pre-Enrollment"	3163250003	1	NA	""	NA	NA	NA	NA	NA	"hem_wbc"	NA	NA	NA	NA	""	""	NA	""	NA
+"62"	"DN-101 Protocol No. 011-007"	"037"	"037-0002"	5	1	"Pre-Enrollment"	3672199001	1	NA	""	NA	NA	NA	NA	NA	"hem_hemoglobin"	NA	NA	NA	NA	""	""	NA	""	NA
+"63"	"DN-101 Protocol No. 011-007"	"037"	"037-0002"	5	1	"Pre-Enrollment"	3672199001	1	NA	""	NA	NA	NA	NA	NA	"hem_platelets"	NA	NA	NA	NA	""	""	NA	""	NA
+"64"	"DN-101 Protocol No. 011-007"	"037"	"037-0002"	5	1	"Pre-Enrollment"	3672199001	1	NA	""	NA	NA	NA	NA	NA	"hem_neutrophils_absolute"	NA	NA	NA	NA	""	""	NA	""	NA
+"65"	"DN-101 Protocol No. 011-007"	"037"	"037-0003"	5	1	"Pre-Enrollment"	3404267003	1	NA	""	NA	NA	NA	NA	NA	"hem_wbc"	NA	NA	NA	NA	""	""	NA	""	NA
+"66"	"DN-101 Protocol No. 011-007"	"037"	"037-0003"	5	1	"Pre-Enrollment"	3694457001	1	NA	""	NA	NA	NA	NA	NA	"hem_hemoglobin"	NA	NA	NA	NA	""	""	NA	""	NA
+"67"	"DN-101 Protocol No. 011-007"	"037"	"037-0003"	5	1	"Pre-Enrollment"	3694457001	1	NA	""	NA	NA	NA	NA	NA	"hem_platelets"	NA	NA	NA	NA	""	""	NA	""	NA
+"68"	"DN-101 Protocol No. 011-007"	"037"	"037-0003"	5	1	"Pre-Enrollment"	3694457001	1	NA	""	NA	NA	NA	NA	NA	"hem_neutrophils_absolute"	NA	NA	NA	NA	""	""	NA	""	NA
+"69"	"DN-101 Protocol No. 011-007"	"041"	"041-0001"	5	1	"Pre-Enrollment"	2559571003	NA	4163923003	"Memorial Sloan-Kettering Cancer Center"	0	NA	NA	NA	NA	"hem_wbc"	NA	NA	NA	1	""	""	NA	""	NA
+"70"	"DN-101 Protocol No. 011-007"	"041"	"041-0001"	5	1	"Pre-Enrollment"	5292479002	NA	4163923003	"Memorial Sloan-Kettering Cancer Center"	0	NA	NA	NA	NA	"hem_hemoglobin"	NA	NA	NA	1	""	""	NA	""	NA
+"71"	"DN-101 Protocol No. 011-007"	"041"	"041-0001"	5	1	"Pre-Enrollment"	5292479002	NA	4163923003	"Memorial Sloan-Kettering Cancer Center"	0	NA	NA	309	NA	"hem_platelets"	NA	9	309	NA	"thousand/mm3"	"309"	NA	"cells/L"	NA
+"72"	"DN-101 Protocol No. 011-007"	"041"	"041-0001"	5	1	"Pre-Enrollment"	5292479002	NA	4163923003	"Memorial Sloan-Kettering Cancer Center"	0	NA	NA	NA	NA	"hem_neutrophils_absolute"	NA	NA	NA	1	""	""	NA	""	NA
+"73"	"DN-101 Protocol No. 011-007"	"041"	"041-0013"	5	1	"Pre-Enrollment"	2756487003	NA	4163923003	"Memorial Sloan-Kettering Cancer Center"	0	NA	NA	6.6	NA	"hem_wbc"	NA	9	6.6	NA	"thousand/uL"	"6.6"	NA	"cells/L"	NA
+"74"	"DN-101 Protocol No. 011-007"	"041"	"041-0013"	5	1	"Pre-Enrollment"	5292570002	NA	4163923003	"Memorial Sloan-Kettering Cancer Center"	0	NA	NA	12.2	NA	"hem_hemoglobin"	NA	NA	122	NA	"g/dL"	"12.2"	NA	"g/L"	NA
+"75"	"DN-101 Protocol No. 011-007"	"041"	"041-0013"	5	1	"Pre-Enrollment"	5292570002	NA	4163923003	"Memorial Sloan-Kettering Cancer Center"	0	NA	NA	247	NA	"hem_platelets"	NA	9	247	NA	"thousand/mm3"	"247"	NA	"cells/L"	NA
+"76"	"DN-101 Protocol No. 011-007"	"041"	"041-0013"	5	1	"Pre-Enrollment"	5292570002	NA	4163923003	"Memorial Sloan-Kettering Cancer Center"	0	NA	NA	4	NA	"hem_neutrophils_absolute"	NA	9	4	NA	"thousand/uL"	"4"	NA	"cells/L"	NA
+"77"	"DN-101 Protocol No. 011-007"	"041"	"041-0020"	5	1	"Pre-Enrollment"	2923710003	NA	4163923003	"Memorial Sloan-Kettering Cancer Center"	0	NA	NA	6.4	NA	"hem_wbc"	NA	9	6.4	NA	"thousand/uL"	"6.4"	NA	"cells/L"	NA
+"78"	"DN-101 Protocol No. 011-007"	"041"	"041-0020"	5	1	"Pre-Enrollment"	5292664002	NA	4163923003	"Memorial Sloan-Kettering Cancer Center"	0	NA	NA	12.7	NA	"hem_hemoglobin"	NA	NA	127	NA	"g/dL"	"12.7"	NA	"g/L"	NA
+"79"	"DN-101 Protocol No. 011-007"	"041"	"041-0020"	5	1	"Pre-Enrollment"	5292664002	NA	4163923003	"Memorial Sloan-Kettering Cancer Center"	0	NA	NA	201	NA	"hem_platelets"	NA	9	201	NA	"thousand/uL"	"201"	NA	"cells/L"	NA
+"80"	"DN-101 Protocol No. 011-007"	"041"	"041-0020"	5	1	"Pre-Enrollment"	5292664002	NA	4163923003	"Memorial Sloan-Kettering Cancer Center"	0	NA	NA	4.1	NA	"hem_neutrophils_absolute"	NA	9	4.1	NA	"thousand/uL"	"4.1"	NA	"cells/L"	NA
+"81"	"DN-101 Protocol No. 011-007"	"041"	"041-0022"	5	1	"Pre-Enrollment"	2965027003	NA	4163923003	"Memorial Sloan-Kettering Cancer Center"	-2	NA	NA	6.1	NA	"hem_wbc"	NA	9	6.1	NA	"thousand/uL"	"6.1"	NA	"cells/L"	NA
+"82"	"DN-101 Protocol No. 011-007"	"041"	"041-0022"	5	1	"Pre-Enrollment"	5292722002	NA	4163923003	"Memorial Sloan-Kettering Cancer Center"	-2	NA	NA	12.8	NA	"hem_hemoglobin"	NA	NA	128	NA	"g/dL"	"12.8"	NA	"g/L"	NA
+"83"	"DN-101 Protocol No. 011-007"	"041"	"041-0022"	5	1	"Pre-Enrollment"	5292722002	NA	4163923003	"Memorial Sloan-Kettering Cancer Center"	-2	NA	NA	211	NA	"hem_platelets"	NA	9	211	NA	"thousand/uL"	"211"	NA	"cells/L"	NA
+"84"	"DN-101 Protocol No. 011-007"	"041"	"041-0022"	5	1	"Pre-Enrollment"	5292722002	NA	4163923003	"Memorial Sloan-Kettering Cancer Center"	-2	NA	NA	3.6	NA	"hem_neutrophils_absolute"	NA	9	3.6	NA	"thousand/uL"	"3.6"	NA	"cells/L"	NA
+"85"	"DN-101 Protocol No. 011-007"	"041"	"041-0036"	5	1	"Pre-Enrollment"	3437278003	NA	4163923003	"Memorial Sloan-Kettering Cancer Center"	0	NA	11	14.5	11	"hem_wbc"	4	9	14.5	NA	"thousand/uL"	"14.5"	NA	"cells/L"	4
+"86"	"DN-101 Protocol No. 011-007"	"041"	"041-0036"	5	1	"Pre-Enrollment"	5292879002	NA	4163923003	"Memorial Sloan-Kettering Cancer Center"	0	NA	170	12.6	17	"hem_hemoglobin"	130	NA	126	NA	"g/dL"	"12.6"	NA	"g/L"	13
+"87"	"DN-101 Protocol No. 011-007"	"041"	"041-0036"	5	1	"Pre-Enrollment"	5292879002	NA	4163923003	"Memorial Sloan-Kettering Cancer Center"	0	NA	400	450	400	"hem_platelets"	160	9	450	NA	"thousand/uL"	"450"	NA	"cells/L"	160
+"88"	"DN-101 Protocol No. 011-007"	"041"	"041-0036"	5	1	"Pre-Enrollment"	5292879002	NA	4163923003	"Memorial Sloan-Kettering Cancer Center"	0	NA	8.8	9.7	8.8	"hem_neutrophils_absolute"	1.5	9	9.7	NA	"thousand/uL"	"9.7"	NA	"cells/L"	1.5
+"89"	"DN-101 Protocol No. 011-007"	"044"	"044-0001"	5	1	"Pre-Enrollment"	2963408003	NA	4137615003	"Hematology-Oncology Associates SC"	10	NA	10	5.7	10	"hem_wbc"	3.5	9	5.7	NA	"count/L"	"5.7000"	9	"cells/L"	3.5
+"90"	"DN-101 Protocol No. 011-007"	"044"	"044-0001"	5	1	"Pre-Enrollment"	4793586002	NA	4137615003	"Hematology-Oncology Associates SC"	10	NA	18.1	12	18.1	"hem_hemoglobin"	12	NA	12	NA	"g/L"	"12.0000"	NA	"g/L"	12
+"91"	"DN-101 Protocol No. 011-007"	"044"	"044-0001"	5	1	"Pre-Enrollment"	4793586002	NA	4137615003	"Hematology-Oncology Associates SC"	10	NA	450	202	450	"hem_platelets"	150	9	202	NA	"count/L"	"202.0000"	9	"cells/L"	150
+"92"	"DN-101 Protocol No. 011-007"	"044"	"044-0001"	5	1	"Pre-Enrollment"	4793586002	NA	4137615003	"Hematology-Oncology Associates SC"	10	NA	6.9	3.47	6.9	"hem_neutrophils_absolute"	2	9	3.47	NA	"count/uL"	"3.4700"	3	"cells/L"	2
+"93"	"DN-101 Protocol No. 011-007"	"053"	"053-0002"	5	1	"Pre-Enrollment"	2595732003	NA	5268855004	"Yakima Valley Memorial Hospital Lab"	-7	NA	NA	NA	NA	"hem_wbc"	NA	NA	NA	1	""	""	NA	""	NA
+"94"	"DN-101 Protocol No. 011-007"	"053"	"053-0002"	5	1	"Pre-Enrollment"	5239316002	NA	5268855004	"Yakima Valley Memorial Hospital Lab"	-7	NA	NA	NA	NA	"hem_hemoglobin"	NA	NA	NA	1	""	""	NA	""	NA
+"95"	"DN-101 Protocol No. 011-007"	"053"	"053-0002"	5	1	"Pre-Enrollment"	5239316002	NA	5268855004	"Yakima Valley Memorial Hospital Lab"	-7	NA	450	441	450	"hem_platelets"	150	9	441	NA	"thousand/uL"	"441"	NA	"cells/L"	150
+"96"	"DN-101 Protocol No. 011-007"	"053"	"053-0002"	5	1	"Pre-Enrollment"	5239316002	NA	5268855004	"Yakima Valley Memorial Hospital Lab"	-7	NA	NA	NA	NA	"hem_neutrophils_absolute"	NA	NA	NA	1	""	""	NA	""	NA
+"97"	"DN-101 Protocol No. 011-007"	"063"	"063-0001"	5	1	"Pre-Enrollment"	2864012003	NA	3999738003	"Hamilton Health Sciences-Henderson Site"	0	NA	NA	9.8	NA	"hem_wbc"	NA	9	9.8	NA	"count/L"	"9.8000"	9	"cells/L"	NA
+"98"	"DN-101 Protocol No. 011-007"	"063"	"063-0001"	5	1	"Pre-Enrollment"	4107166001	NA	3999738003	"Hamilton Health Sciences-Henderson Site"	0	NA	NA	142	NA	"hem_hemoglobin"	NA	NA	142	NA	"g/L"	"142.0000"	NA	"g/L"	NA
+"99"	"DN-101 Protocol No. 011-007"	"063"	"063-0001"	5	1	"Pre-Enrollment"	4107166001	NA	3999738003	"Hamilton Health Sciences-Henderson Site"	0	NA	NA	198	NA	"hem_platelets"	NA	9	0	NA	"L"	"198.0000"	9	"cells/L"	NA
+"100"	"DN-101 Protocol No. 011-007"	"063"	"063-0001"	5	1	"Pre-Enrollment"	4107166001	NA	3999738003	"Hamilton Health Sciences-Henderson Site"	0	NA	NA	7.8	NA	"hem_neutrophils_absolute"	NA	9	7.8	NA	"count/L"	"7.8000"	9	"cells/L"	NA
+"101"	"DN-101 Protocol No. 011-007"	"063"	"063-0003"	5	1	"Pre-Enrollment"	2894459003	NA	3999738003	"Hamilton Health Sciences-Henderson Site"	7	NA	NA	4.4	NA	"hem_wbc"	NA	9	4.4	NA	"count/L"	"4.4000"	9	"cells/L"	NA
+"102"	"DN-101 Protocol No. 011-007"	"063"	"063-0003"	5	1	"Pre-Enrollment"	4109303001	NA	3999738003	"Hamilton Health Sciences-Henderson Site"	7	NA	NA	122	NA	"hem_hemoglobin"	NA	NA	122	NA	"g/L"	"122.0000"	NA	"g/L"	NA
+"103"	"DN-101 Protocol No. 011-007"	"063"	"063-0003"	5	1	"Pre-Enrollment"	4109303001	NA	3999738003	"Hamilton Health Sciences-Henderson Site"	7	NA	NA	199	NA	"hem_platelets"	NA	9	0	NA	"L"	"199.0000"	9	"cells/L"	NA
+"104"	"DN-101 Protocol No. 011-007"	"063"	"063-0003"	5	1	"Pre-Enrollment"	4109303001	NA	3999738003	"Hamilton Health Sciences-Henderson Site"	7	NA	NA	3.2	NA	"hem_neutrophils_absolute"	NA	9	3.2	NA	"count/L"	"3.2000"	9	"cells/L"	NA
+"105"	"DN-101 Protocol No. 011-007"	"063"	"063-0005"	5	1	"Pre-Enrollment"	3018139003	NA	3999738003	"Hamilton Health Sciences-Henderson Site"	1	NA	NA	5.7	NA	"hem_wbc"	NA	9	5.7	NA	"count/L"	"5.7000"	9	"cells/L"	NA
+"106"	"DN-101 Protocol No. 011-007"	"063"	"063-0005"	5	1	"Pre-Enrollment"	4160720001	NA	3999738003	"Hamilton Health Sciences-Henderson Site"	1	NA	NA	140	NA	"hem_hemoglobin"	NA	NA	140	NA	"g/L"	"140.0000"	NA	"g/L"	NA
+"107"	"DN-101 Protocol No. 011-007"	"063"	"063-0005"	5	1	"Pre-Enrollment"	4160720001	NA	3999738003	"Hamilton Health Sciences-Henderson Site"	1	NA	NA	254	NA	"hem_platelets"	NA	9	0	NA	"L"	"254.0000"	9	"cells/L"	NA
+"108"	"DN-101 Protocol No. 011-007"	"063"	"063-0005"	5	1	"Pre-Enrollment"	4160720001	NA	3999738003	"Hamilton Health Sciences-Henderson Site"	1	NA	NA	3.7	NA	"hem_neutrophils_absolute"	NA	9	3.7	NA	"count/L"	"3.7000"	9	"cells/L"	NA
+"109"	"DN-101 Protocol No. 011-007"	"063"	"063-0006"	5	1	"Pre-Enrollment"	3145075003	NA	3999738003	"Hamilton Health Sciences-Henderson Site"	0	NA	NA	11.5	NA	"hem_wbc"	NA	9	11.5	NA	"count/L"	"11.5000"	9	"cells/L"	NA
+"110"	"DN-101 Protocol No. 011-007"	"063"	"063-0006"	5	1	"Pre-Enrollment"	4109020001	NA	3999738003	"Hamilton Health Sciences-Henderson Site"	0	NA	NA	151	NA	"hem_hemoglobin"	NA	NA	151	NA	"g/L"	"151.0000"	NA	"g/L"	NA
+"111"	"DN-101 Protocol No. 011-007"	"063"	"063-0006"	5	1	"Pre-Enrollment"	4109020001	NA	3999738003	"Hamilton Health Sciences-Henderson Site"	0	NA	NA	325	NA	"hem_platelets"	NA	9	0	NA	"L"	"325.0000"	9	"cells/L"	NA
+"112"	"DN-101 Protocol No. 011-007"	"063"	"063-0006"	5	1	"Pre-Enrollment"	4109020001	NA	3999738003	"Hamilton Health Sciences-Henderson Site"	0	NA	NA	8	NA	"hem_neutrophils_absolute"	NA	9	8	NA	"count/L"	"8.0000"	9	"cells/L"	NA
+"113"	"DN-101 Protocol No. 011-007"	"063"	"063-0007"	5	1	"Pre-Enrollment"	3369188003	NA	3999738003	"Hamilton Health Sciences-Henderson Site"	0	NA	11	10	11	"hem_wbc"	4	9	10	NA	"count/L"	"10.0000"	9	"cells/L"	4
+"114"	"DN-101 Protocol No. 011-007"	"063"	"063-0007"	5	1	"Pre-Enrollment"	4107718001	NA	3999738003	"Hamilton Health Sciences-Henderson Site"	0	NA	180	117	180	"hem_hemoglobin"	130	NA	117	NA	"g/L"	"117.0000"	NA	"g/L"	130
+"115"	"DN-101 Protocol No. 011-007"	"063"	"063-0007"	5	1	"Pre-Enrollment"	4107718001	NA	3999738003	"Hamilton Health Sciences-Henderson Site"	0	NA	400	496	0	"hem_platelets"	150	9	0	NA	"L"	"496.0000"	9	"cells/L"	0
+"116"	"DN-101 Protocol No. 011-007"	"063"	"063-0007"	5	1	"Pre-Enrollment"	4107718001	NA	3999738003	"Hamilton Health Sciences-Henderson Site"	0	NA	7.5	6.4	0	"hem_neutrophils_absolute"	2	9	6.4e+09	NA	"thousand/mm3"	"6.4000"	9	"cells/L"	0
+"117"	"DN-101 Protocol No. 011-007"	"063"	"063-0010"	5	1	"Pre-Enrollment"	3782847003	NA	3999738003	"Hamilton Health Sciences-Henderson Site"	0	NA	11	7.3	11	"hem_wbc"	4	9	7.3	NA	"count/L"	"7.3000"	9	"cells/L"	4
+"118"	"DN-101 Protocol No. 011-007"	"063"	"063-0010"	5	1	"Pre-Enrollment"	4108062001	NA	3999738003	"Hamilton Health Sciences-Henderson Site"	0	NA	180	152	180	"hem_hemoglobin"	130	NA	152	NA	"g/L"	"152.0000"	NA	"g/L"	130
+"119"	"DN-101 Protocol No. 011-007"	"063"	"063-0010"	5	1	"Pre-Enrollment"	4108062001	NA	3999738003	"Hamilton Health Sciences-Henderson Site"	0	NA	400	228	0	"hem_platelets"	150	9	0	NA	"L"	"228.0000"	9	"cells/L"	0
+"120"	"DN-101 Protocol No. 011-007"	"063"	"063-0010"	5	1	"Pre-Enrollment"	4108062001	NA	3999738003	"Hamilton Health Sciences-Henderson Site"	0	NA	7.5	3.4	7.5	"hem_neutrophils_absolute"	2	9	3.4	NA	"count/L"	"3.4000"	9	"cells/L"	2
+"121"	"DN-101 Protocol No. 011-007"	"066"	"066-0001"	5	1	"Pre-Enrollment"	2855324003	NA	4143521003	"Laboratory Corporation of America"	15	NA	10.5	8.2	10.5	"hem_wbc"	4	9	8.2	NA	"thousand/mm3"	"8.2000"	NA	"cells/L"	4
+"122"	"DN-101 Protocol No. 011-007"	"066"	"066-0001"	5	1	"Pre-Enrollment"	3929849001	NA	4143521003	"Laboratory Corporation of America"	15	NA	170	11.2	17	"hem_hemoglobin"	125	NA	112	NA	"g/dL"	"11.2000"	NA	"g/L"	12.5
+"123"	"DN-101 Protocol No. 011-007"	"066"	"066-0001"	5	1	"Pre-Enrollment"	3929849001	NA	4143521003	"Laboratory Corporation of America"	15	NA	415	372	415	"hem_platelets"	140	9	372	NA	"thousand/mm3"	"372.0000"	NA	"cells/L"	140
+"124"	"DN-101 Protocol No. 011-007"	"066"	"066-0001"	5	1	"Pre-Enrollment"	3929849001	NA	4143521003	"Laboratory Corporation of America"	15	NA	7.8	6.7	7.8	"hem_neutrophils_absolute"	1.8	9	6.7	NA	"thousand/mm3"	"6.7000"	NA	"cells/L"	1.8
+"125"	"DN-101 Protocol No. 011-007"	"072"	"072-0001"	5	1	"Pre-Enrollment"	2594676003	NA	5162842004	"Georgia Cancer Specialists Northside"	11	NA	10.8	7.9	10.8	"hem_wbc"	4.8	9	7.9	NA	"count/mm3"	"7.9"	3	"cells/L"	4.8
+"126"	"DN-101 Protocol No. 011-007"	"072"	"072-0001"	5	1	"Pre-Enrollment"	5273158002	NA	5162842004	"Georgia Cancer Specialists Northside"	11	NA	180	14.2	18	"hem_hemoglobin"	140	NA	142	NA	"g/dL"	"14.2"	NA	"g/L"	14
+"127"	"DN-101 Protocol No. 011-007"	"072"	"072-0001"	5	1	"Pre-Enrollment"	5273158002	NA	5162842004	"Georgia Cancer Specialists Northside"	11	NA	440	202	440	"hem_platelets"	140	9	202	NA	"count/mm3"	"202"	3	"cells/L"	140
+"128"	"DN-101 Protocol No. 011-007"	"072"	"072-0001"	5	1	"Pre-Enrollment"	5273158002	NA	5162842004	"Georgia Cancer Specialists Northside"	11	NA	8	5	8	"hem_neutrophils_absolute"	2	9	5	NA	"count/mm3"	"5"	3	"cells/L"	2
+"129"	"DN-101 Protocol No. 011-007"	"092"	"092-0001"	5	1	"Pre-Enrollment"	2791412003	NA	3999879003	"Hematology Lab, Cancer Care Manitoba"	0	NA	11	6.88	11	"hem_wbc"	4.5	9	6.88	NA	"count/L"	"6.8800"	9	"cells/L"	4.5
+"130"	"DN-101 Protocol No. 011-007"	"092"	"092-0001"	5	1	"Pre-Enrollment"	4132441001	NA	3999879003	"Hematology Lab, Cancer Care Manitoba"	0	NA	NA	138	NA	"hem_hemoglobin"	NA	NA	138	NA	"g/L"	"138.0000"	NA	"g/L"	NA
+"131"	"DN-101 Protocol No. 011-007"	"092"	"092-0001"	5	1	"Pre-Enrollment"	4132441001	NA	3999879003	"Hematology Lab, Cancer Care Manitoba"	0	NA	440	312	440	"hem_platelets"	140	9	312	NA	"count/L"	"312.0000"	9	"cells/L"	140
+"132"	"DN-101 Protocol No. 011-007"	"092"	"092-0001"	5	1	"Pre-Enrollment"	4132441001	NA	3999879003	"Hematology Lab, Cancer Care Manitoba"	0	NA	5.4	4.51	5.4	"hem_neutrophils_absolute"	1.8	9	4.51	NA	"count/L"	"4.5100"	9	"cells/L"	1.8
+"133"	"DN-101 Protocol No. 011-007"	"094"	"094-0003"	5	1	"Pre-Enrollment"	3466788003	1	NA	""	NA	NA	NA	NA	NA	"hem_wbc"	NA	NA	NA	NA	""	""	NA	""	NA
+"134"	"DN-101 Protocol No. 011-007"	"094"	"094-0003"	5	1	"Pre-Enrollment"	3609894001	1	NA	""	NA	NA	NA	NA	NA	"hem_hemoglobin"	NA	NA	NA	NA	""	""	NA	""	NA
+"135"	"DN-101 Protocol No. 011-007"	"094"	"094-0003"	5	1	"Pre-Enrollment"	3609894001	1	NA	""	NA	NA	NA	NA	NA	"hem_platelets"	NA	NA	NA	NA	""	""	NA	""	NA
+"136"	"DN-101 Protocol No. 011-007"	"094"	"094-0003"	5	1	"Pre-Enrollment"	3609894001	1	NA	""	NA	NA	NA	NA	NA	"hem_neutrophils_absolute"	NA	NA	NA	NA	""	""	NA	""	NA
+"137"	"DN-101 Protocol No. 011-007"	"099"	"099-0002"	5	1	"Pre-Enrollment"	2835018003	NA	3742255003	"Pottsville Cancer Clinic"	0	NA	NA	8.1	NA	"hem_wbc"	NA	9	8.1	NA	"thousand/uL"	"8.1"	NA	"cells/L"	NA
+"138"	"DN-101 Protocol No. 011-007"	"099"	"099-0002"	5	1	"Pre-Enrollment"	5264187002	NA	3742255003	"Pottsville Cancer Clinic"	0	NA	NA	15.2	NA	"hem_hemoglobin"	NA	NA	152	NA	"g/dL"	"15.2"	NA	"g/L"	NA
+"139"	"DN-101 Protocol No. 011-007"	"099"	"099-0002"	5	1	"Pre-Enrollment"	5264187002	NA	3742255003	"Pottsville Cancer Clinic"	0	NA	NA	208	NA	"hem_platelets"	NA	9	208	NA	"thousand/uL"	"208"	NA	"cells/L"	NA
+"140"	"DN-101 Protocol No. 011-007"	"099"	"099-0002"	5	1	"Pre-Enrollment"	5264187002	NA	3742255003	"Pottsville Cancer Clinic"	0	NA	NA	6	NA	"hem_neutrophils_absolute"	NA	9	6	NA	"thousand/uL"	"6"	NA	"cells/L"	NA
+"141"	"DN-101 Protocol No. 011-007"	"110"	"110-0010"	5	1	"Pre-Enrollment"	3551708003	NA	4143187003	"Medical Oncology Assoc. - San Diego"	8	NA	NA	NA	NA	"hem_wbc"	NA	NA	NA	1	""	""	NA	""	NA
+"142"	"DN-101 Protocol No. 011-007"	"110"	"110-0010"	5	1	"Pre-Enrollment"	5256369002	NA	4143187003	"Medical Oncology Assoc. - San Diego"	8	NA	NA	NA	NA	"hem_hemoglobin"	NA	NA	NA	1	""	""	NA	""	NA
+"143"	"DN-101 Protocol No. 011-007"	"110"	"110-0010"	5	1	"Pre-Enrollment"	5256369002	NA	4143187003	"Medical Oncology Assoc. - San Diego"	8	NA	400	172	400	"hem_platelets"	144	9	172	NA	"count/uL"	"172"	3	"cells/L"	144
+"144"	"DN-101 Protocol No. 011-007"	"110"	"110-0010"	5	1	"Pre-Enrollment"	5256369002	NA	4143187003	"Medical Oncology Assoc. - San Diego"	8	NA	NA	NA	NA	"hem_neutrophils_absolute"	NA	NA	NA	1	""	""	NA	""	NA
+"145"	"DN-101 Protocol No. 011-007"	"125"	"125-0005"	5	1	"Pre-Enrollment"	2696089003	NA	4717436004	"Florida Cancer Specialists - Sunset Lk"	0	NA	NA	6.6	NA	"hem_wbc"	NA	9	6.6	NA	"count/uL"	"6.6000"	3	"cells/L"	NA
+"146"	"DN-101 Protocol No. 011-007"	"125"	"125-0005"	5	1	"Pre-Enrollment"	5151435002	NA	4717436004	"Florida Cancer Specialists - Sunset Lk"	0	NA	NA	13.3	NA	"hem_hemoglobin"	NA	NA	133	NA	"g/dL"	"13.3000"	NA	"g/L"	NA
+"147"	"DN-101 Protocol No. 011-007"	"125"	"125-0005"	5	1	"Pre-Enrollment"	5151435002	NA	4717436004	"Florida Cancer Specialists - Sunset Lk"	0	NA	NA	188	NA	"hem_platelets"	NA	9	188	NA	"count/uL"	"188.0000"	3	"cells/L"	NA
+"148"	"DN-101 Protocol No. 011-007"	"125"	"125-0005"	5	1	"Pre-Enrollment"	5151435002	NA	4717436004	"Florida Cancer Specialists - Sunset Lk"	0	NA	NA	5	NA	"hem_neutrophils_absolute"	NA	9	5	NA	"count/uL"	"5.0000"	3	"cells/L"	NA
+"149"	"DN-101 Protocol No. 011-007"	"125"	"125-0006"	5	1	"Pre-Enrollment"	2701470003	NA	4717370004	"Florida Cancer Specialists - Broadway"	0	NA	NA	8.4	NA	"hem_wbc"	NA	9	8.4	NA	"count/uL"	"8.4"	3	"cells/L"	NA
+"150"	"DN-101 Protocol No. 011-007"	"125"	"125-0006"	5	1	"Pre-Enrollment"	5258648002	NA	4717370004	"Florida Cancer Specialists - Broadway"	0	NA	NA	15	NA	"hem_hemoglobin"	NA	NA	150	NA	"g/dL"	"15"	NA	"g/L"	NA
+"151"	"DN-101 Protocol No. 011-007"	"125"	"125-0006"	5	1	"Pre-Enrollment"	5258648002	NA	4717370004	"Florida Cancer Specialists - Broadway"	0	NA	NA	219	NA	"hem_platelets"	NA	9	219	NA	"count/uL"	"219"	3	"cells/L"	NA
+"152"	"DN-101 Protocol No. 011-007"	"125"	"125-0006"	5	1	"Pre-Enrollment"	5258648002	NA	4717370004	"Florida Cancer Specialists - Broadway"	0	NA	NA	5.3	NA	"hem_neutrophils_absolute"	NA	9	5.3	NA	"count/uL"	"5.3"	3	"cells/L"	NA
+"153"	"DN-101 Protocol No. 011-007"	"125"	"125-0011"	5	1	"Pre-Enrollment"	2828712003	1	NA	""	NA	NA	NA	NA	NA	"hem_wbc"	NA	NA	NA	NA	""	""	NA	""	NA
+"154"	"DN-101 Protocol No. 011-007"	"125"	"125-0011"	5	1	"Pre-Enrollment"	3665233001	1	NA	""	NA	NA	NA	NA	NA	"hem_hemoglobin"	NA	NA	NA	NA	""	""	NA	""	NA
+"155"	"DN-101 Protocol No. 011-007"	"125"	"125-0011"	5	1	"Pre-Enrollment"	3665233001	1	NA	""	NA	NA	NA	NA	NA	"hem_platelets"	NA	NA	NA	NA	""	""	NA	""	NA
+"156"	"DN-101 Protocol No. 011-007"	"125"	"125-0011"	5	1	"Pre-Enrollment"	3665233001	1	NA	""	NA	NA	NA	NA	NA	"hem_neutrophils_absolute"	NA	NA	NA	NA	""	""	NA	""	NA
+"157"	"DN-101 Protocol No. 011-007"	"125"	"125-0017"	5	1	"Pre-Enrollment"	2873046003	NA	4717370004	"Florida Cancer Specialists - Broadway"	1	NA	10	6.4	10	"hem_wbc"	4.2	9	6.4	NA	"count/uL"	"6.4"	3	"cells/L"	4.2
+"158"	"DN-101 Protocol No. 011-007"	"125"	"125-0017"	5	1	"Pre-Enrollment"	5355557002	NA	4717370004	"Florida Cancer Specialists - Broadway"	1	NA	180	12.4	18	"hem_hemoglobin"	140	NA	124	NA	"g/dL"	"12.4"	NA	"g/L"	14
+"159"	"DN-101 Protocol No. 011-007"	"125"	"125-0017"	5	1	"Pre-Enrollment"	5355557002	NA	4717370004	"Florida Cancer Specialists - Broadway"	1	NA	440	202	440	"hem_platelets"	140	9	202	NA	"count/uL"	"202"	3	"cells/L"	140
+"160"	"DN-101 Protocol No. 011-007"	"125"	"125-0017"	5	1	"Pre-Enrollment"	5355557002	NA	4717370004	"Florida Cancer Specialists - Broadway"	1	NA	6.5	3.9	6.5	"hem_neutrophils_absolute"	1.4	9	3.9	NA	"count/uL"	"3.9"	3	"cells/L"	1.4
+"161"	"DN-101 Protocol No. 011-007"	"125"	"125-0022"	5	1	"Pre-Enrollment"	2972813003	NA	4717394004	"Florida Cancer Specialists-New Hampshir"	17	NA	10	6	10	"hem_wbc"	4.2	9	6	NA	"count/uL"	"6"	3	"cells/L"	4.2
+"162"	"DN-101 Protocol No. 011-007"	"125"	"125-0022"	5	1	"Pre-Enrollment"	5270989002	NA	4717394004	"Florida Cancer Specialists-New Hampshir"	17	NA	180	10.8	18	"hem_hemoglobin"	140	NA	108	NA	"g/dL"	"10.8"	NA	"g/L"	14
+"163"	"DN-101 Protocol No. 011-007"	"125"	"125-0022"	5	1	"Pre-Enrollment"	5270989002	NA	4717394004	"Florida Cancer Specialists-New Hampshir"	17	NA	440	203	440	"hem_platelets"	140	9	203	NA	"count/uL"	"203"	3	"cells/L"	140
+"164"	"DN-101 Protocol No. 011-007"	"125"	"125-0022"	5	1	"Pre-Enrollment"	5270989002	NA	4717394004	"Florida Cancer Specialists-New Hampshir"	17	NA	6.5	3.7	6.5	"hem_neutrophils_absolute"	1.4	9	3.7	NA	"count/uL"	"3.7"	3	"cells/L"	1.4
+"165"	"DN-101 Protocol No. 011-007"	"133"	"133-0020"	5	1	"Pre-Enrollment"	3900175003	NA	4000193003	"Vancouver Coastal Health"	0	NA	11	7.1	11	"hem_wbc"	4	9	7.1	NA	"count/L"	"7.1"	9	"cells/L"	4
+"166"	"DN-101 Protocol No. 011-007"	"133"	"133-0020"	5	1	"Pre-Enrollment"	5251497002	NA	4000193003	"Vancouver Coastal Health"	0	NA	170	102	170	"hem_hemoglobin"	135	NA	102	NA	"g/L"	"102"	NA	"g/L"	135
+"167"	"DN-101 Protocol No. 011-007"	"133"	"133-0020"	5	1	"Pre-Enrollment"	5251497002	NA	4000193003	"Vancouver Coastal Health"	0	NA	400	305	400	"hem_platelets"	150	9	305	NA	"count/L"	"305"	9	"cells/L"	150
+"168"	"DN-101 Protocol No. 011-007"	"133"	"133-0020"	5	1	"Pre-Enrollment"	5251497002	NA	4000193003	"Vancouver Coastal Health"	0	NA	8	5.7	8	"hem_neutrophils_absolute"	2	9	5.7	NA	"count/L"	"5.7"	9	"cells/L"	2
+"169"	"DN-101 Protocol No. 011-007"	"139"	"139-0005"	5	1	"Pre-Enrollment"	3230990003	NA	3771557003	"Kelowna General Hospital"	26	NA	10.8	5.3	10.8	"hem_wbc"	4.2	9	5.3	NA	"count/L"	"5.3"	9	"cells/L"	4.2
+"170"	"DN-101 Protocol No. 011-007"	"139"	"139-0005"	5	1	"Pre-Enrollment"	5359307002	NA	3771557003	"Kelowna General Hospital"	26	NA	170	117	170	"hem_hemoglobin"	135	NA	117	NA	"g/L"	"117"	NA	"g/L"	135
+"171"	"DN-101 Protocol No. 011-007"	"139"	"139-0005"	5	1	"Pre-Enrollment"	5359307002	NA	3771557003	"Kelowna General Hospital"	26	NA	650	238	650	"hem_platelets"	150	9	238	NA	"count/L"	"238"	9	"cells/L"	150
+"172"	"DN-101 Protocol No. 011-007"	"139"	"139-0005"	5	1	"Pre-Enrollment"	5359307002	NA	3771557003	"Kelowna General Hospital"	26	NA	7.4	3.4	7.4	"hem_neutrophils_absolute"	1.9	9	3.4	NA	"count/L"	"3.4"	9	"cells/L"	1.9
+"173"	"DN-101 Protocol No. 011-007"	"142"	"142-0003"	5	1	"Pre-Enrollment"	2619306003	NA	4717266004	"Henry Ford Health System - Grand"	12	NA	10.6	7.6	10.6	"hem_wbc"	3.8	9	7.6	NA	"thousand/uL"	"7.6"	NA	"cells/L"	3.8
+"174"	"DN-101 Protocol No. 011-007"	"142"	"142-0003"	5	1	"Pre-Enrollment"	5247168002	NA	4717266004	"Henry Ford Health System - Grand"	12	NA	170	11.1	17	"hem_hemoglobin"	135	NA	111	NA	"g/dL"	"11.1"	NA	"g/L"	13.5
+"175"	"DN-101 Protocol No. 011-007"	"142"	"142-0003"	5	1	"Pre-Enrollment"	5247168002	NA	4717266004	"Henry Ford Health System - Grand"	12	NA	450	314	450	"hem_platelets"	150	9	314	NA	"thousand/uL"	"314"	NA	"cells/L"	150
+"176"	"DN-101 Protocol No. 011-007"	"142"	"142-0003"	5	1	"Pre-Enrollment"	5247168002	NA	4717266004	"Henry Ford Health System - Grand"	12	NA	7.7	6.1	7.7	"hem_neutrophils_absolute"	1.8	9	6.1	NA	"thousand/uL"	"6.1"	NA	"cells/L"	1.8
+"177"	"DN-101 Protocol No. 011-007"	"142"	"142-0007"	5	1	"Pre-Enrollment"	3115283003	NA	4717266004	"Henry Ford Health System - Grand"	0	NA	NA	NA	NA	"hem_wbc"	NA	NA	NA	1	""	""	NA	""	NA
+"178"	"DN-101 Protocol No. 011-007"	"142"	"142-0007"	5	1	"Pre-Enrollment"	5247238002	NA	4717266004	"Henry Ford Health System - Grand"	0	NA	NA	NA	NA	"hem_hemoglobin"	NA	NA	NA	1	""	""	NA	""	NA
+"179"	"DN-101 Protocol No. 011-007"	"142"	"142-0007"	5	1	"Pre-Enrollment"	5247238002	NA	4717266004	"Henry Ford Health System - Grand"	0	NA	450	227	450	"hem_platelets"	150	9	227	NA	"thousand/uL"	"227"	NA	"cells/L"	150
+"180"	"DN-101 Protocol No. 011-007"	"142"	"142-0007"	5	1	"Pre-Enrollment"	5247238002	NA	4717266004	"Henry Ford Health System - Grand"	0	NA	NA	NA	NA	"hem_neutrophils_absolute"	NA	NA	NA	1	""	""	NA	""	NA
+"181"	"DN-101 Protocol No. 011-007"	"146"	"146-0002"	5	1	"Pre-Enrollment"	2984515003	NA	4007883003	"The Moncton Hospital Laboratory"	6	NA	10	7.61	10	"hem_wbc"	3.5	9	7.61	NA	"count/L"	"7.61"	9	"cells/L"	3.5
+"182"	"DN-101 Protocol No. 011-007"	"146"	"146-0002"	5	1	"Pre-Enrollment"	5351715002	NA	4007883003	"The Moncton Hospital Laboratory"	6	NA	167	136	167	"hem_hemoglobin"	126	NA	136	NA	"g/L"	"136"	NA	"g/L"	126
+"183"	"DN-101 Protocol No. 011-007"	"146"	"146-0002"	5	1	"Pre-Enrollment"	5351715002	NA	4007883003	"The Moncton Hospital Laboratory"	6	NA	347	217	347	"hem_platelets"	147	9	217	NA	"count/L"	"217"	9	"cells/L"	147
+"184"	"DN-101 Protocol No. 011-007"	"146"	"146-0002"	5	1	"Pre-Enrollment"	5351715002	NA	4007883003	"The Moncton Hospital Laboratory"	6	NA	6.59	3.54	6.59	"hem_neutrophils_absolute"	1.69	9	3.54	NA	"count/L"	"3.54"	9	"cells/L"	1.69
+"185"	"DN-101 Protocol No. 011-007"	"150"	"150-0002"	5	1	"Pre-Enrollment"	2933704003	NA	4163796003	"SCCA Clinical Laboratories"	0	NA	NA	3.85	NA	"hem_wbc"	NA	9	3.85	NA	"thousand/uL"	"3.8500"	NA	"cells/L"	NA
+"186"	"DN-101 Protocol No. 011-007"	"150"	"150-0002"	5	1	"Pre-Enrollment"	4299866001	NA	4163796003	"SCCA Clinical Laboratories"	0	NA	NA	14.7	NA	"hem_hemoglobin"	NA	NA	147	NA	"g/dL"	"14.7000"	NA	"g/L"	NA
+"187"	"DN-101 Protocol No. 011-007"	"150"	"150-0002"	5	1	"Pre-Enrollment"	4299866001	NA	4163796003	"SCCA Clinical Laboratories"	0	NA	NA	164	NA	"hem_platelets"	NA	9	164	NA	"thousand/uL"	"164.0000"	NA	"cells/L"	NA
+"188"	"DN-101 Protocol No. 011-007"	"150"	"150-0002"	5	1	"Pre-Enrollment"	4299866001	NA	4163796003	"SCCA Clinical Laboratories"	0	NA	NA	2.5	NA	"hem_neutrophils_absolute"	NA	9	2.5	NA	"thousand/uL"	"2.5000"	NA	"cells/L"	NA
+"189"	"DN-101 Protocol No. 011-007"	"155"	"155-0004"	5	1	"Pre-Enrollment"	2917064003	NA	4143331003	"Baptist St Anthonys Health System"	6	NA	NA	6.8	NA	"hem_wbc"	NA	9	6.8	NA	"count/uL"	"6.8"	3	"cells/L"	NA
+"190"	"DN-101 Protocol No. 011-007"	"155"	"155-0004"	5	1	"Pre-Enrollment"	5250206002	NA	4143331003	"Baptist St Anthonys Health System"	6	NA	NA	14.9	NA	"hem_hemoglobin"	NA	NA	149	NA	"g/dL"	"14.9"	NA	"g/L"	NA
+"191"	"DN-101 Protocol No. 011-007"	"155"	"155-0004"	5	1	"Pre-Enrollment"	5250206002	NA	4143331003	"Baptist St Anthonys Health System"	6	NA	NA	176	NA	"hem_platelets"	NA	9	176	NA	"count/uL"	"176"	3	"cells/L"	NA
+"192"	"DN-101 Protocol No. 011-007"	"155"	"155-0004"	5	1	"Pre-Enrollment"	5250206002	NA	4143331003	"Baptist St Anthonys Health System"	6	NA	NA	5.4	NA	"hem_neutrophils_absolute"	NA	9	5.4	NA	"count/uL"	"5.4"	3	"cells/L"	NA
+"193"	"DN-101 Protocol No. 011-007"	"157"	"157-0007"	5	1	"Pre-Enrollment"	3644871003	NA	4163945003	"Montreal General Hospital"	0	NA	10.8	6.4	10.8	"hem_wbc"	4.8	9	6.4	NA	"count/L"	"6.40"	9	"cells/L"	4.8
+"194"	"DN-101 Protocol No. 011-007"	"157"	"157-0007"	5	1	"Pre-Enrollment"	5335078002	NA	4163945003	"Montreal General Hospital"	0	NA	180	113	180	"hem_hemoglobin"	140	NA	113	NA	"g/L"	"113"	NA	"g/L"	140
+"195"	"DN-101 Protocol No. 011-007"	"157"	"157-0007"	5	1	"Pre-Enrollment"	5335078002	NA	4163945003	"Montreal General Hospital"	0	NA	440	284	440	"hem_platelets"	140	9	284	NA	"count/L"	"284"	9	"cells/L"	140
+"196"	"DN-101 Protocol No. 011-007"	"157"	"157-0007"	5	1	"Pre-Enrollment"	5335078002	NA	4163945003	"Montreal General Hospital"	0	NA	7.7	4.1	7.7	"hem_neutrophils_absolute"	1.6	9	4.1	NA	"count/L"	"4.10"	9	"cells/L"	1.6
+"197"	"DN-101 Protocol No. 011-007"	"161"	"161-0001"	5	1	"Pre-Enrollment"	2829603003	NA	4163948003	"Quest Diagnostics Laboratory"	7	NA	NA	NA	NA	"hem_wbc"	NA	NA	NA	1	""	""	NA	""	NA
+"198"	"DN-101 Protocol No. 011-007"	"161"	"161-0001"	5	1	"Pre-Enrollment"	5242256002	NA	4163948003	"Quest Diagnostics Laboratory"	7	NA	NA	NA	NA	"hem_hemoglobin"	NA	NA	NA	1	""	""	NA	""	NA
+"199"	"DN-101 Protocol No. 011-007"	"161"	"161-0001"	5	1	"Pre-Enrollment"	5242256002	NA	4163948003	"Quest Diagnostics Laboratory"	7	NA	450	420	450	"hem_platelets"	135	9	420	NA	"thousand/mm3"	"420"	NA	"cells/L"	135
+"200"	"DN-101 Protocol No. 011-007"	"161"	"161-0001"	5	1	"Pre-Enrollment"	5242256002	NA	4163948003	"Quest Diagnostics Laboratory"	7	NA	NA	NA	NA	"hem_neutrophils_absolute"	NA	NA	NA	1	""	""	NA	""	NA
+"201"	"DN-101 Protocol No. 011-007"	"161"	"161-0002"	5	1	"Pre-Enrollment"	2903639003	NA	4163948003	"Quest Diagnostics Laboratory"	13	NA	NA	5.7	NA	"hem_wbc"	NA	9	5.7	NA	"thousand/mm3"	"5.7"	NA	"cells/L"	NA
+"202"	"DN-101 Protocol No. 011-007"	"161"	"161-0002"	5	1	"Pre-Enrollment"	5242549002	NA	4163948003	"Quest Diagnostics Laboratory"	13	NA	180	13.1	18	"hem_hemoglobin"	130	NA	131	NA	"g/dL"	"13.1"	NA	"g/L"	13
+"203"	"DN-101 Protocol No. 011-007"	"161"	"161-0002"	5	1	"Pre-Enrollment"	5242549002	NA	4163948003	"Quest Diagnostics Laboratory"	13	NA	NA	287	NA	"hem_platelets"	NA	9	287	NA	"thousand/mm3"	"287"	NA	"cells/L"	NA
+"204"	"DN-101 Protocol No. 011-007"	"161"	"161-0002"	5	1	"Pre-Enrollment"	5242549002	NA	4163948003	"Quest Diagnostics Laboratory"	13	NA	NA	NA	NA	"hem_neutrophils_absolute"	NA	NA	NA	1	""	""	NA	""	NA
+"205"	"DN-101 Protocol No. 011-007"	"166"	"166-0005"	5	1	"Pre-Enrollment"	3980828003	NA	5284381004	"Labette County Medical Center"	6	NA	10.8	4.3	10.8	"hem_wbc"	4.5	9	4.3	NA	"thousand/mm3"	"4.3"	NA	"cells/L"	4.5
+"206"	"DN-101 Protocol No. 011-007"	"166"	"166-0005"	5	1	"Pre-Enrollment"	5279091002	NA	5284381004	"Labette County Medical Center"	6	NA	180	12.1	18	"hem_hemoglobin"	140	NA	121	NA	"g/dL"	"12.1"	NA	"g/L"	14
+"207"	"DN-101 Protocol No. 011-007"	"166"	"166-0005"	5	1	"Pre-Enrollment"	5279091002	NA	5284381004	"Labette County Medical Center"	6	NA	440	139	440	"hem_platelets"	130	9	139	NA	"thousand/mm3"	"139"	NA	"cells/L"	130
+"208"	"DN-101 Protocol No. 011-007"	"166"	"166-0005"	5	1	"Pre-Enrollment"	5279091002	NA	5284381004	"Labette County Medical Center"	6	NA	8.2	2.7	8.2	"hem_neutrophils_absolute"	2.1	9	2.7	NA	"thousand/mm3"	"2.7"	NA	"cells/L"	2.1
+"209"	"DN-101 Protocol No. 011-007"	"170"	"170-0002"	5	1	"Pre-Enrollment"	3301506003	NA	4632134004	"Charleston Cancer Center"	21	NA	11	4.7	11000	"hem_wbc"	3.2	9	0.0047	NA	"count/mm3"	"4.7"	NA	"cells/L"	3200
+"210"	"DN-101 Protocol No. 011-007"	"170"	"170-0002"	5	1	"Pre-Enrollment"	5240220002	NA	4632134004	"Charleston Cancer Center"	21	NA	161	12	161	"hem_hemoglobin"	114	NA	12	NA	"g/L"	"12"	NA	"g/L"	114
+"211"	"DN-101 Protocol No. 011-007"	"170"	"170-0002"	5	1	"Pre-Enrollment"	5240220002	NA	4632134004	"Charleston Cancer Center"	21	NA	337	370	337000	"hem_platelets"	135	9	0.37	NA	"count/mm3"	"370"	NA	"cells/L"	135000
+"212"	"DN-101 Protocol No. 011-007"	"170"	"170-0002"	5	1	"Pre-Enrollment"	5240220002	NA	4632134004	"Charleston Cancer Center"	21	NA	8.4	2.4	8400	"hem_neutrophils_absolute"	1.3	9	0.0024	NA	"count/mm3"	"2.4"	NA	"cells/L"	1300
+"213"	"DN-101 Protocol No. 011-007"	"186"	"186-0002"	5	1	"Pre-Enrollment"	3206029003	NA	5255138004	"St. Joseph's General Hospital"	-1	NA	10.5	6.5	10.5	"hem_wbc"	4	9	6.5	NA	"count/L"	"6.5"	9	"cells/L"	4
+"214"	"DN-101 Protocol No. 011-007"	"186"	"186-0002"	5	1	"Pre-Enrollment"	5260639002	NA	5255138004	"St. Joseph's General Hospital"	-1	NA	170	126	170	"hem_hemoglobin"	136	NA	126	NA	"g/L"	"126"	NA	"g/L"	136
+"215"	"DN-101 Protocol No. 011-007"	"186"	"186-0002"	5	1	"Pre-Enrollment"	5260639002	NA	5255138004	"St. Joseph's General Hospital"	-1	NA	400	392	400	"hem_platelets"	150	9	392	NA	"count/L"	"392"	9	"cells/L"	150
+"216"	"DN-101 Protocol No. 011-007"	"186"	"186-0002"	5	1	"Pre-Enrollment"	5260639002	NA	5255138004	"St. Joseph's General Hospital"	-1	NA	6	4.23	6	"hem_neutrophils_absolute"	1.5	9	4.23	NA	"count/L"	"4.23"	9	"cells/L"	1.5
+"217"	"DN-101 Protocol No. 011-007"	"501"	"501-0005"	5	1	"Pre-Enrollment"	3291907003	1	NA	""	NA	NA	NA	NA	NA	"hem_wbc"	NA	NA	NA	NA	""	""	NA	""	NA
+"218"	"DN-101 Protocol No. 011-007"	"501"	"501-0005"	5	1	"Pre-Enrollment"	4721304002	1	NA	""	NA	NA	NA	NA	NA	"hem_hemoglobin"	NA	NA	NA	NA	""	""	NA	""	NA
+"219"	"DN-101 Protocol No. 011-007"	"501"	"501-0005"	5	1	"Pre-Enrollment"	4721304002	1	NA	""	NA	NA	NA	NA	NA	"hem_platelets"	NA	NA	NA	NA	""	""	NA	""	NA
+"220"	"DN-101 Protocol No. 011-007"	"501"	"501-0005"	5	1	"Pre-Enrollment"	4721304002	1	NA	""	NA	NA	NA	NA	NA	"hem_neutrophils_absolute"	NA	NA	NA	NA	""	""	NA	""	NA
+"221"	"DN-101 Protocol No. 011-007"	"506"	"506-0001"	5	1	"Pre-Enrollment"	2780546003	NA	4627917004	"Klinikum rechts der Isar TU Munchen"	9	NA	9	7.57	9	"hem_wbc"	4	9	7.57	NA	"count/L"	"7.5700"	9	"cells/L"	4
+"222"	"DN-101 Protocol No. 011-007"	"506"	"506-0001"	5	1	"Pre-Enrollment"	4770738002	NA	4627917004	"Klinikum rechts der Isar TU Munchen"	9	NA	160	4.2	16	"hem_hemoglobin"	120	NA	42	NA	"g/dL"	"4.2000"	NA	"g/L"	12
+"223"	"DN-101 Protocol No. 011-007"	"506"	"506-0001"	5	1	"Pre-Enrollment"	4770738002	NA	4627917004	"Klinikum rechts der Isar TU Munchen"	9	NA	450	197	450	"hem_platelets"	150	9	197	NA	"count/L"	"197.0000"	9	"cells/L"	150
+"224"	"DN-101 Protocol No. 011-007"	"506"	"506-0001"	5	1	"Pre-Enrollment"	4770738002	NA	4627917004	"Klinikum rechts der Isar TU Munchen"	9	NA	NA	NA	NA	"hem_neutrophils_absolute"	NA	NA	NA	1	""	""	NA	""	NA
+"225"	"DN-101 Protocol No. 011-007"	"506"	"506-0003"	5	1	"Pre-Enrollment"	2858015003	NA	4627917004	"Klinikum rechts der Isar TU Munchen"	-12	NA	9	5.15	9	"hem_wbc"	4	9	5.15	NA	"cells/L"	"5.1500"	9	"cells/L"	4
+"226"	"DN-101 Protocol No. 011-007"	"506"	"506-0003"	5	1	"Pre-Enrollment"	3934036001	NA	4627917004	"Klinikum rechts der Isar TU Munchen"	-12	NA	160	13	16	"hem_hemoglobin"	120	NA	130	NA	"g/dL"	"13.0000"	NA	"g/L"	12
+"227"	"DN-101 Protocol No. 011-007"	"506"	"506-0003"	5	1	"Pre-Enrollment"	3934036001	NA	4627917004	"Klinikum rechts der Isar TU Munchen"	-12	NA	450	179	450	"hem_platelets"	150	9	179	NA	"cells/L"	"179.0000"	9	"cells/L"	150
+"228"	"DN-101 Protocol No. 011-007"	"506"	"506-0003"	5	1	"Pre-Enrollment"	3934036001	NA	4627917004	"Klinikum rechts der Isar TU Munchen"	-12	NA	6.3	4.17	6.3	"hem_neutrophils_absolute"	1.6	9	4.17	NA	"cells/L"	"4.1700"	9	"cells/L"	1.6
+"229"	"DN-101 Protocol No. 011-007"	"507"	"507-0003"	5	1	"Pre-Enrollment"	2817051003	1	NA	""	NA	NA	NA	NA	NA	"hem_wbc"	NA	NA	NA	NA	""	""	NA	""	NA
+"230"	"DN-101 Protocol No. 011-007"	"507"	"507-0003"	5	1	"Pre-Enrollment"	4788453002	1	NA	""	NA	NA	NA	NA	NA	"hem_hemoglobin"	NA	NA	NA	NA	""	""	NA	""	NA
+"231"	"DN-101 Protocol No. 011-007"	"507"	"507-0003"	5	1	"Pre-Enrollment"	4788453002	1	NA	""	NA	NA	NA	NA	NA	"hem_platelets"	NA	NA	NA	NA	""	""	NA	""	NA
+"232"	"DN-101 Protocol No. 011-007"	"507"	"507-0003"	5	1	"Pre-Enrollment"	4788453002	1	NA	""	NA	NA	NA	NA	NA	"hem_neutrophils_absolute"	NA	NA	NA	NA	""	""	NA	""	NA
+"233"	"DN-101 Protocol No. 011-007"	"507"	"507-0004"	5	1	"Pre-Enrollment"	2827491003	NA	4628493004	"Universitat zu Koln, Inst. f Klinische"	-4	NA	11.3	16.79	11.3	"hem_wbc"	4.4	9	16.79	NA	"count/L"	"16.7900"	9	"cells/L"	4.4
+"234"	"DN-101 Protocol No. 011-007"	"507"	"507-0004"	5	1	"Pre-Enrollment"	4788866002	NA	4628493004	"Universitat zu Koln, Inst. f Klinische"	-4	NA	180	12.1	18	"hem_hemoglobin"	135	NA	121	NA	"g/dL"	"12.1000"	NA	"g/L"	13.5
+"235"	"DN-101 Protocol No. 011-007"	"507"	"507-0004"	5	1	"Pre-Enrollment"	4788866002	NA	4628493004	"Universitat zu Koln, Inst. f Klinische"	-4	NA	400	296	400	"hem_platelets"	150	9	296	NA	"count/L"	"296.0000"	9	"cells/L"	150
+"236"	"DN-101 Protocol No. 011-007"	"507"	"507-0004"	5	1	"Pre-Enrollment"	4788866002	NA	4628493004	"Universitat zu Koln, Inst. f Klinische"	-4	NA	NA	NA	NA	"hem_neutrophils_absolute"	NA	NA	NA	1	""	""	NA	""	NA
+"237"	"DN-101 Protocol No. 011-007"	"508"	"508-0001"	5	1	"Pre-Enrollment"	2900243003	1	NA	""	NA	NA	NA	NA	NA	"hem_wbc"	NA	NA	NA	NA	""	""	NA	""	NA
+"238"	"DN-101 Protocol No. 011-007"	"508"	"508-0001"	5	1	"Pre-Enrollment"	5353599002	1	NA	""	NA	NA	NA	NA	NA	"hem_hemoglobin"	NA	NA	NA	NA	""	""	NA	""	NA
+"239"	"DN-101 Protocol No. 011-007"	"508"	"508-0001"	5	1	"Pre-Enrollment"	5353599002	1	NA	""	NA	NA	NA	NA	NA	"hem_platelets"	NA	NA	NA	NA	""	""	NA	""	NA
+"240"	"DN-101 Protocol No. 011-007"	"508"	"508-0001"	5	1	"Pre-Enrollment"	5353599002	1	NA	""	NA	NA	NA	NA	NA	"hem_neutrophils_absolute"	NA	NA	NA	NA	""	""	NA	""	NA
+"241"	"DN-101 Protocol No. 011-007"	"509"	"509-0001"	5	1	"Pre-Enrollment"	2943359003	NA	4627387004	"Charite Virchow Klinikum"	0	NA	11	4.2	11	"hem_wbc"	4.5	9	4.2	NA	"count/nL"	"4.20"	NA	"cells/L"	4.5
+"242"	"DN-101 Protocol No. 011-007"	"509"	"509-0001"	5	1	"Pre-Enrollment"	5345707002	NA	4627387004	"Charite Virchow Klinikum"	0	NA	175	12.5	17.5	"hem_hemoglobin"	140	NA	125	NA	"g/dL"	"12.5"	NA	"g/L"	14
+"243"	"DN-101 Protocol No. 011-007"	"509"	"509-0001"	5	1	"Pre-Enrollment"	5345707002	NA	4627387004	"Charite Virchow Klinikum"	0	NA	400	278	400	"hem_platelets"	150	9	278	NA	"count/nL"	"278"	NA	"cells/L"	150
+"244"	"DN-101 Protocol No. 011-007"	"509"	"509-0001"	5	1	"Pre-Enrollment"	5345707002	NA	4627387004	"Charite Virchow Klinikum"	0	NA	7.7	2.83	7.7	"hem_neutrophils_absolute"	1.8	9	2.83	NA	"count/nL"	"2.83"	NA	"cells/L"	1.8
+"245"	"DN-101 Protocol No. 011-007"	"515"	"515-0014"	5	1	"Pre-Enrollment"	3809791003	NA	4628435004	"Arztliche Laborgemeinschaft Leipzig"	-3	NA	NA	NA	NA	"hem_wbc"	NA	NA	NA	NA	"count/L"	"3,97"	9	""	NA
+"246"	"DN-101 Protocol No. 011-007"	"515"	"515-0014"	5	1	"Pre-Enrollment"	5009848002	NA	4628435004	"Arztliche Laborgemeinschaft Leipzig"	-3	NA	NA	NA	NA	"hem_hemoglobin"	NA	NA	NA	NA	"mmol/L"	"6,9"	NA	""	NA
+"247"	"DN-101 Protocol No. 011-007"	"515"	"515-0014"	5	1	"Pre-Enrollment"	5009848002	NA	4628435004	"Arztliche Laborgemeinschaft Leipzig"	-3	NA	NA	NA	NA	"hem_platelets"	NA	NA	NA	NA	"count/L"	"2,41"	9	""	NA
+"248"	"DN-101 Protocol No. 011-007"	"515"	"515-0014"	5	1	"Pre-Enrollment"	5009848002	NA	4628435004	"Arztliche Laborgemeinschaft Leipzig"	-3	NA	NA	NA	NA	"hem_neutrophils_absolute"	NA	NA	NA	NA	"count/L"	"0,64"	9	""	NA
+"249"	"DN-101 Protocol No. 011-007"	"524"	"524-0001"	5	1	"Pre-Enrollment"	2935622003	NA	5194833004	"Labor Gemeinschaft Hamburg"	-14	NA	10	6.8	10	"hem_wbc"	4	9	6.8	NA	"cells/nL"	"6.8"	NA	"cells/L"	4
+"250"	"DN-101 Protocol No. 011-007"	"524"	"524-0001"	5	1	"Pre-Enrollment"	4634587002	NA	5194833004	"Labor Gemeinschaft Hamburg"	-14	NA	173	14.6	17.3	"hem_hemoglobin"	131	NA	146	NA	"g/dL"	"14.6"	NA	"g/L"	13.1
+"251"	"DN-101 Protocol No. 011-007"	"524"	"524-0001"	5	1	"Pre-Enrollment"	4634587002	NA	5194833004	"Labor Gemeinschaft Hamburg"	-14	NA	424	426	424	"hem_platelets"	142	9	426	NA	"cells/nL"	"426"	NA	"cells/L"	142
+"252"	"DN-101 Protocol No. 011-007"	"524"	"524-0001"	5	1	"Pre-Enrollment"	4634587002	NA	5194833004	"Labor Gemeinschaft Hamburg"	-14	NA	NA	NA	NA	"hem_neutrophils_absolute"	NA	NA	NA	1	""	""	NA	""	NA
+"253"	"DN-101 Protocol No. 011-007"	"524"	"524-0002"	5	1	"Pre-Enrollment"	2943304003	1	NA	""	NA	NA	NA	NA	NA	"hem_wbc"	NA	NA	NA	NA	""	""	NA	""	NA
+"254"	"DN-101 Protocol No. 011-007"	"524"	"524-0002"	5	1	"Pre-Enrollment"	4671121002	1	NA	""	NA	NA	NA	NA	NA	"hem_hemoglobin"	NA	NA	NA	NA	""	""	NA	""	NA
+"255"	"DN-101 Protocol No. 011-007"	"524"	"524-0002"	5	1	"Pre-Enrollment"	4671121002	1	NA	""	NA	NA	NA	NA	NA	"hem_platelets"	NA	NA	NA	NA	""	""	NA	""	NA
+"256"	"DN-101 Protocol No. 011-007"	"524"	"524-0002"	5	1	"Pre-Enrollment"	4671121002	1	NA	""	NA	NA	NA	NA	NA	"hem_neutrophils_absolute"	NA	NA	NA	NA	""	""	NA	""	NA
+"257"	"DN-101 Protocol No. 011-007"	"524"	"524-0007"	5	1	"Pre-Enrollment"	3550461003	1	NA	""	NA	NA	NA	NA	NA	"hem_wbc"	NA	NA	NA	NA	""	""	NA	""	NA
+"258"	"DN-101 Protocol No. 011-007"	"524"	"524-0007"	5	1	"Pre-Enrollment"	5286231002	1	NA	""	NA	NA	NA	NA	NA	"hem_hemoglobin"	NA	NA	NA	NA	""	""	NA	""	NA
+"259"	"DN-101 Protocol No. 011-007"	"524"	"524-0007"	5	1	"Pre-Enrollment"	5286231002	1	NA	""	NA	NA	NA	NA	NA	"hem_platelets"	NA	NA	NA	NA	""	""	NA	""	NA
+"260"	"DN-101 Protocol No. 011-007"	"524"	"524-0007"	5	1	"Pre-Enrollment"	5286231002	1	NA	""	NA	NA	NA	NA	NA	"hem_neutrophils_absolute"	NA	NA	NA	NA	""	""	NA	""	NA
+"261"	"DN-101 Protocol No. 011-007"	"524"	"524-0009"	5	1	"Pre-Enrollment"	3617030003	1	NA	""	NA	NA	NA	NA	NA	"hem_wbc"	NA	NA	NA	NA	""	""	NA	""	NA
+"262"	"DN-101 Protocol No. 011-007"	"524"	"524-0009"	5	1	"Pre-Enrollment"	5286560002	1	NA	""	NA	NA	NA	NA	NA	"hem_hemoglobin"	NA	NA	NA	NA	""	""	NA	""	NA
+"263"	"DN-101 Protocol No. 011-007"	"524"	"524-0009"	5	1	"Pre-Enrollment"	5286560002	1	NA	""	NA	NA	NA	NA	NA	"hem_platelets"	NA	NA	NA	NA	""	""	NA	""	NA
+"264"	"DN-101 Protocol No. 011-007"	"524"	"524-0009"	5	1	"Pre-Enrollment"	5286560002	1	NA	""	NA	NA	NA	NA	NA	"hem_neutrophils_absolute"	NA	NA	NA	NA	""	""	NA	""	NA
+"265"	"DN-101 Protocol No. 011-007"	"524"	"524-0011"	5	1	"Pre-Enrollment"	3747038003	NA	5194833004	"Labor Gemeinschaft Hamburg"	-11	NA	10	5.4	10	"hem_wbc"	4	9	5.4	NA	"cells/nL"	"5.4"	NA	"cells/L"	4
+"266"	"DN-101 Protocol No. 011-007"	"524"	"524-0011"	5	1	"Pre-Enrollment"	4442753002	NA	5194833004	"Labor Gemeinschaft Hamburg"	-11	NA	173	13.8	17.3	"hem_hemoglobin"	131	NA	138	NA	"g/dL"	"13.8"	NA	"g/L"	13.1
+"267"	"DN-101 Protocol No. 011-007"	"524"	"524-0011"	5	1	"Pre-Enrollment"	4442753002	NA	5194833004	"Labor Gemeinschaft Hamburg"	-11	NA	424	225	424	"hem_platelets"	142	9	225	NA	"cells/nL"	"225"	NA	"cells/L"	142
+"268"	"DN-101 Protocol No. 011-007"	"524"	"524-0011"	5	1	"Pre-Enrollment"	4442753002	NA	5194833004	"Labor Gemeinschaft Hamburg"	-11	NA	NA	NA	NA	"hem_neutrophils_absolute"	NA	NA	NA	1	""	""	NA	""	NA
+"269"	"DN-101 Protocol No. 011-007"	"524"	"524-0012"	5	1	"Pre-Enrollment"	3824391003	1	NA	""	NA	NA	NA	NA	NA	"hem_wbc"	NA	NA	NA	NA	""	""	NA	""	NA
+"270"	"DN-101 Protocol No. 011-007"	"524"	"524-0012"	5	1	"Pre-Enrollment"	5286832002	1	NA	""	NA	NA	NA	NA	NA	"hem_hemoglobin"	NA	NA	NA	NA	""	""	NA	""	NA
+"271"	"DN-101 Protocol No. 011-007"	"524"	"524-0012"	5	1	"Pre-Enrollment"	5286832002	1	NA	""	NA	NA	NA	NA	NA	"hem_platelets"	NA	NA	NA	NA	""	""	NA	""	NA
+"272"	"DN-101 Protocol No. 011-007"	"524"	"524-0012"	5	1	"Pre-Enrollment"	5286832002	1	NA	""	NA	NA	NA	NA	NA	"hem_neutrophils_absolute"	NA	NA	NA	NA	""	""	NA	""	NA
+"273"	"DN-101 Protocol No. 011-007"	"525"	"525-0002"	5	1	"Pre-Enrollment"	2954979003	1	NA	""	NA	NA	NA	NA	NA	"hem_wbc"	NA	NA	NA	NA	""	""	NA	""	NA
+"274"	"DN-101 Protocol No. 011-007"	"525"	"525-0002"	5	1	"Pre-Enrollment"	5313278002	1	NA	""	NA	NA	NA	NA	NA	"hem_hemoglobin"	NA	NA	NA	NA	""	""	NA	""	NA
+"275"	"DN-101 Protocol No. 011-007"	"525"	"525-0002"	5	1	"Pre-Enrollment"	5313278002	1	NA	""	NA	NA	NA	NA	NA	"hem_platelets"	NA	NA	NA	NA	""	""	NA	""	NA
+"276"	"DN-101 Protocol No. 011-007"	"525"	"525-0002"	5	1	"Pre-Enrollment"	5313278002	1	NA	""	NA	NA	NA	NA	NA	"hem_neutrophils_absolute"	NA	NA	NA	NA	""	""	NA	""	NA
+"277"	"DN-101 Protocol No. 011-007"	"525"	"525-0003"	5	1	"Pre-Enrollment"	3240649003	1	NA	""	NA	NA	NA	NA	NA	"hem_wbc"	NA	NA	NA	NA	""	""	NA	""	NA
+"278"	"DN-101 Protocol No. 011-007"	"525"	"525-0003"	5	1	"Pre-Enrollment"	5313309002	1	NA	""	NA	NA	NA	NA	NA	"hem_hemoglobin"	NA	NA	NA	NA	""	""	NA	""	NA
+"279"	"DN-101 Protocol No. 011-007"	"525"	"525-0003"	5	1	"Pre-Enrollment"	5313309002	1	NA	""	NA	NA	NA	NA	NA	"hem_platelets"	NA	NA	NA	NA	""	""	NA	""	NA
+"280"	"DN-101 Protocol No. 011-007"	"525"	"525-0003"	5	1	"Pre-Enrollment"	5313309002	1	NA	""	NA	NA	NA	NA	NA	"hem_neutrophils_absolute"	NA	NA	NA	NA	""	""	NA	""	NA
+"281"	"DN-101 Protocol No. 011-007"	"525"	"525-0004"	5	1	"Pre-Enrollment"	3241045003	1	NA	""	NA	NA	NA	NA	NA	"hem_wbc"	NA	NA	NA	NA	""	""	NA	""	NA
+"282"	"DN-101 Protocol No. 011-007"	"525"	"525-0004"	5	1	"Pre-Enrollment"	5313335002	1	NA	""	NA	NA	NA	NA	NA	"hem_hemoglobin"	NA	NA	NA	NA	""	""	NA	""	NA
+"283"	"DN-101 Protocol No. 011-007"	"525"	"525-0004"	5	1	"Pre-Enrollment"	5313335002	1	NA	""	NA	NA	NA	NA	NA	"hem_platelets"	NA	NA	NA	NA	""	""	NA	""	NA
+"284"	"DN-101 Protocol No. 011-007"	"525"	"525-0004"	5	1	"Pre-Enrollment"	5313335002	1	NA	""	NA	NA	NA	NA	NA	"hem_neutrophils_absolute"	NA	NA	NA	NA	""	""	NA	""	NA
+"285"	"DN-101 Protocol No. 011-007"	"527"	"527-0001"	5	1	"Pre-Enrollment"	3616571003	NA	5134927004	"Kl. Fulda gAG,Institute fur Labormedizin"	0	NA	NA	NA	NA	"hem_wbc"	NA	NA	NA	NA	"thousand/uL"	"3,6"	NA	""	NA
+"286"	"DN-101 Protocol No. 011-007"	"527"	"527-0001"	5	1	"Pre-Enrollment"	3616535001	NA	5134927004	"Kl. Fulda gAG,Institute fur Labormedizin"	0	NA	NA	NA	NA	"hem_hemoglobin"	NA	NA	NA	NA	"g/dL"	"11,7"	NA	""	NA
+"287"	"DN-101 Protocol No. 011-007"	"527"	"527-0001"	5	1	"Pre-Enrollment"	3616535001	NA	5134927004	"Kl. Fulda gAG,Institute fur Labormedizin"	0	NA	450	138	450	"hem_platelets"	150	9	138	NA	"thousand/uL"	"138.0000"	NA	"cells/L"	150
+"288"	"DN-101 Protocol No. 011-007"	"527"	"527-0001"	5	1	"Pre-Enrollment"	3616535001	NA	5134927004	"Kl. Fulda gAG,Institute fur Labormedizin"	0	NA	NA	NA	NA	"hem_neutrophils_absolute"	NA	NA	NA	NA	"thousand/uL"	"2,196"	NA	""	NA
+"289"	"DN-101 Protocol No. 011-007"	"528"	"528-0001"	5	1	"Pre-Enrollment"	3324531003	NA	4767978004	"Inst. F. Klin. Chemie u. Labormedizin"	0	NA	NA	NA	NA	"hem_wbc"	NA	NA	NA	NA	"thousand/uL"	"4,04"	NA	""	NA
+"290"	"DN-101 Protocol No. 011-007"	"528"	"528-0001"	5	1	"Pre-Enrollment"	5006405002	NA	4767978004	"Inst. F. Klin. Chemie u. Labormedizin"	0	NA	NA	NA	NA	"hem_hemoglobin"	NA	NA	NA	NA	"g/dL"	"12,9"	NA	""	NA
+"291"	"DN-101 Protocol No. 011-007"	"528"	"528-0001"	5	1	"Pre-Enrollment"	5006405002	NA	4767978004	"Inst. F. Klin. Chemie u. Labormedizin"	0	NA	NA	251	NA	"hem_platelets"	NA	9	251	NA	"thousand/uL"	"251.0000"	NA	"cells/L"	NA
+"292"	"DN-101 Protocol No. 011-007"	"528"	"528-0001"	5	1	"Pre-Enrollment"	5006405002	NA	4767978004	"Inst. F. Klin. Chemie u. Labormedizin"	0	NA	NA	NA	NA	"hem_neutrophils_absolute"	NA	NA	NA	NA	"thousand/uL"	"2,39"	NA	""	NA
+"293"	"DN-101 Protocol No. 011-007"	"529"	"529-0001"	5	1	"Pre-Enrollment"	3025966003	NA	4627387004	"Charite Virchow Klinikum"	0	NA	11	8	11	"hem_wbc"	4.5	9	8	NA	"count/nL"	"8.0000"	NA	"cells/L"	4.5
+"294"	"DN-101 Protocol No. 011-007"	"529"	"529-0001"	5	1	"Pre-Enrollment"	4902925002	NA	4627387004	"Charite Virchow Klinikum"	0	NA	NA	NA	NA	"hem_hemoglobin"	NA	NA	NA	NA	"g/dL"	"14,4"	NA	""	NA
+"295"	"DN-101 Protocol No. 011-007"	"529"	"529-0001"	5	1	"Pre-Enrollment"	4902925002	NA	4627387004	"Charite Virchow Klinikum"	0	NA	400	309	400	"hem_platelets"	150	9	309	NA	"count/nL"	"309.0000"	NA	"cells/L"	150
+"296"	"DN-101 Protocol No. 011-007"	"529"	"529-0001"	5	1	"Pre-Enrollment"	4902925002	NA	4627387004	"Charite Virchow Klinikum"	0	NA	NA	NA	NA	"hem_neutrophils_absolute"	NA	NA	NA	NA	"count/nL"	"5,77"	NA	""	NA
+"297"	"DN-101 Protocol No. 011-007"	"529"	"529-0005"	5	1	"Pre-Enrollment"	3909447003	NA	4627387004	"Charite Virchow Klinikum"	0	NA	NA	NA	NA	"hem_wbc"	NA	NA	NA	NA	"count/nL"	"5,37"	NA	""	NA
+"298"	"DN-101 Protocol No. 011-007"	"529"	"529-0005"	5	1	"Pre-Enrollment"	3909522001	NA	4627387004	"Charite Virchow Klinikum"	0	NA	NA	NA	NA	"hem_hemoglobin"	NA	NA	NA	NA	"g/dL"	"14,6"	NA	""	NA
+"299"	"DN-101 Protocol No. 011-007"	"529"	"529-0005"	5	1	"Pre-Enrollment"	3909522001	NA	4627387004	"Charite Virchow Klinikum"	0	NA	400	172	400	"hem_platelets"	150	9	172	NA	"count/nL"	"172.0000"	NA	"cells/L"	150
+"300"	"DN-101 Protocol No. 011-007"	"529"	"529-0005"	5	1	"Pre-Enrollment"	3909522001	NA	4627387004	"Charite Virchow Klinikum"	0	NA	NA	NA	NA	"hem_neutrophils_absolute"	NA	NA	NA	NA	"count/nL"	"4,01"	NA	""	NA
+"301"	"DN-101 Protocol No. 011-007"	"606"	"606-0002"	5	1	"Pre-Enrollment"	3521593003	NA	4082077003	"Clinical Laboratory-Nat'l Oncology Inst."	0	NA	NA	NA	NA	"hem_wbc"	NA	NA	NA	NA	"count/L"	"4,26"	9	""	NA
+"302"	"DN-101 Protocol No. 011-007"	"606"	"606-0002"	5	1	"Pre-Enrollment"	4250342001	NA	4082077003	"Clinical Laboratory-Nat'l Oncology Inst."	0	NA	NA	NA	NA	"hem_hemoglobin"	NA	NA	NA	NA	"g/dL"	"13,7"	NA	""	NA
+"303"	"DN-101 Protocol No. 011-007"	"606"	"606-0002"	5	1	"Pre-Enrollment"	4250342001	NA	4082077003	"Clinical Laboratory-Nat'l Oncology Inst."	0	NA	350	175	350	"hem_platelets"	140	9	175	NA	"count/L"	"175.0000"	9	"cells/L"	140
+"304"	"DN-101 Protocol No. 011-007"	"606"	"606-0002"	5	1	"Pre-Enrollment"	4250342001	NA	4082077003	"Clinical Laboratory-Nat'l Oncology Inst."	0	NA	NA	NA	NA	"hem_neutrophils_absolute"	NA	NA	NA	NA	"count/L"	"1,93"	9	""	NA
+"305"	"DN-101 Protocol No. 011-007"	"610"	"610-0004"	5	1	"Pre-Enrollment"	3375008003	NA	4063371003	"Fakultni nemocnice Na Bulovce"	8	NA	10	6.5	10	"hem_wbc"	4	9	6.5	NA	"count/L"	"6.5000"	9	"cells/L"	4
+"306"	"DN-101 Protocol No. 011-007"	"610"	"610-0004"	5	1	"Pre-Enrollment"	4671267002	NA	4063371003	"Fakultni nemocnice Na Bulovce"	8	NA	180	122	180	"hem_hemoglobin"	140	NA	122	NA	"g/L"	"122.0000"	NA	"g/L"	140
+"307"	"DN-101 Protocol No. 011-007"	"610"	"610-0004"	5	1	"Pre-Enrollment"	4671267002	NA	4063371003	"Fakultni nemocnice Na Bulovce"	8	NA	440	252	440	"hem_platelets"	140	9	252	NA	"count/L"	"252.0000"	9	"cells/L"	140
+"308"	"DN-101 Protocol No. 011-007"	"610"	"610-0004"	5	1	"Pre-Enrollment"	4671267002	NA	4063371003	"Fakultni nemocnice Na Bulovce"	8	NA	6.5	4.6	6.5	"hem_neutrophils_absolute"	1.4	9	4.6	NA	"count/L"	"4.6000"	9	"cells/L"	1.4
+"309"	"DN-101 Protocol No. 011-007"	"620"	"620-0001"	5	1	"Pre-Enrollment"	3904207003	1	NA	""	NA	NA	NA	NA	NA	"hem_wbc"	NA	NA	NA	NA	""	""	NA	""	NA
+"310"	"DN-101 Protocol No. 011-007"	"620"	"620-0001"	5	1	"Pre-Enrollment"	4116578001	1	NA	""	NA	NA	NA	NA	NA	"hem_hemoglobin"	NA	NA	NA	NA	""	""	NA	""	NA
+"311"	"DN-101 Protocol No. 011-007"	"620"	"620-0001"	5	1	"Pre-Enrollment"	4116578001	1	NA	""	NA	NA	NA	NA	NA	"hem_platelets"	NA	NA	NA	NA	""	""	NA	""	NA
+"312"	"DN-101 Protocol No. 011-007"	"620"	"620-0001"	5	1	"Pre-Enrollment"	4116578001	1	NA	""	NA	NA	NA	NA	NA	"hem_neutrophils_absolute"	NA	NA	NA	NA	""	""	NA	""	NA
+"313"	"DN-101 Protocol No. 011-007"	"621"	"621-0001"	5	1	"Pre-Enrollment"	3250632003	1	NA	""	NA	NA	NA	NA	NA	"hem_wbc"	NA	NA	NA	NA	""	""	NA	""	NA
+"314"	"DN-101 Protocol No. 011-007"	"621"	"621-0001"	5	1	"Pre-Enrollment"	3618099001	1	NA	""	NA	NA	NA	NA	NA	"hem_hemoglobin"	NA	NA	NA	NA	""	""	NA	""	NA
+"315"	"DN-101 Protocol No. 011-007"	"621"	"621-0001"	5	1	"Pre-Enrollment"	3618099001	1	NA	""	NA	NA	NA	NA	NA	"hem_platelets"	NA	NA	NA	NA	""	""	NA	""	NA
+"316"	"DN-101 Protocol No. 011-007"	"621"	"621-0001"	5	1	"Pre-Enrollment"	3618099001	1	NA	""	NA	NA	NA	NA	NA	"hem_neutrophils_absolute"	NA	NA	NA	NA	""	""	NA	""	NA
+"317"	"DN-101 Protocol No. 011-007"	"621"	"621-0002"	5	1	"Pre-Enrollment"	3322721003	1	NA	""	NA	NA	NA	NA	NA	"hem_wbc"	NA	NA	NA	NA	""	""	NA	""	NA
+"318"	"DN-101 Protocol No. 011-007"	"621"	"621-0002"	5	1	"Pre-Enrollment"	3737849001	1	NA	""	NA	NA	NA	NA	NA	"hem_hemoglobin"	NA	NA	NA	NA	""	""	NA	""	NA
+"319"	"DN-101 Protocol No. 011-007"	"621"	"621-0002"	5	1	"Pre-Enrollment"	3737849001	1	NA	""	NA	NA	NA	NA	NA	"hem_platelets"	NA	NA	NA	NA	""	""	NA	""	NA
+"320"	"DN-101 Protocol No. 011-007"	"621"	"621-0002"	5	1	"Pre-Enrollment"	3737849001	1	NA	""	NA	NA	NA	NA	NA	"hem_neutrophils_absolute"	NA	NA	NA	NA	""	""	NA	""	NA
+"321"	"DN-101 Protocol No. 011-007"	"621"	"621-0004"	5	1	"Pre-Enrollment"	3876822003	1	NA	""	NA	NA	NA	NA	NA	"hem_wbc"	NA	NA	NA	NA	""	""	NA	""	NA
+"322"	"DN-101 Protocol No. 011-007"	"621"	"621-0004"	5	1	"Pre-Enrollment"	4505037002	1	NA	""	NA	NA	NA	NA	NA	"hem_hemoglobin"	NA	NA	NA	NA	""	""	NA	""	NA
+"323"	"DN-101 Protocol No. 011-007"	"621"	"621-0004"	5	1	"Pre-Enrollment"	4505037002	1	NA	""	NA	NA	NA	NA	NA	"hem_platelets"	NA	NA	NA	NA	""	""	NA	""	NA
+"324"	"DN-101 Protocol No. 011-007"	"621"	"621-0004"	5	1	"Pre-Enrollment"	4505037002	1	NA	""	NA	NA	NA	NA	NA	"hem_neutrophils_absolute"	NA	NA	NA	NA	""	""	NA	""	NA
+"325"	"DN-101 Protocol No. 011-007"	"625"	"625-0001"	5	1	"Pre-Enrollment"	3966666003	1	NA	""	NA	NA	NA	NA	NA	"hem_wbc"	NA	NA	NA	NA	""	""	NA	""	NA
+"326"	"DN-101 Protocol No. 011-007"	"625"	"625-0001"	5	1	"Pre-Enrollment"	4105395001	1	NA	""	NA	NA	NA	NA	NA	"hem_hemoglobin"	NA	NA	NA	NA	""	""	NA	""	NA
+"327"	"DN-101 Protocol No. 011-007"	"625"	"625-0001"	5	1	"Pre-Enrollment"	4105395001	1	NA	""	NA	NA	NA	NA	NA	"hem_platelets"	NA	NA	NA	NA	""	""	NA	""	NA
+"328"	"DN-101 Protocol No. 011-007"	"625"	"625-0001"	5	1	"Pre-Enrollment"	4105395001	1	NA	""	NA	NA	NA	NA	NA	"hem_neutrophils_absolute"	NA	NA	NA	NA	""	""	NA	""	NA

@@ -1,0 +1,432 @@
+"RPT"	"RINVSITE"	"STUDY"	"VISIT"	"VISNAME"	"DSTERMN"	"DSTERM"	"DSAENUM"	"DSDAY"	"VISDAY"
+"1"	"00001"	"143"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	235	235
+"2"	"00002"	"089"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	180	180
+"3"	"00003"	"126"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	260	260
+"4"	"00004"	"074"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	79	79
+"5"	"00005"	"051"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Withdrew consent"	NA	116	116
+"6"	"00006"	"111"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	110	110
+"7"	"00007"	"076"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Adverse Event"	1	42	64
+"8"	"00008"	"144"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Adverse Event"	16	179	179
+"9"	"00009"	"015"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	288	288
+"10"	"00011"	"144"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Adverse Event"	7	223	223
+"11"	"00014"	"035"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Adverse Event"	11	202	202
+"12"	"00015"	"097"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	6	"Protocol violation"	NA	298	298
+"13"	"00016"	"062"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	232	232
+"14"	"00018"	"107"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	345	345
+"15"	"00019"	"046"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	287	287
+"16"	"00021"	"071"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Adverse Event"	14	104	104
+"17"	"00022"	"094"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	151	151
+"18"	"00023"	"104"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	289	289
+"19"	"00024"	"011"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	56	71
+"20"	"00025"	"122"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	56	56
+"21"	"00026"	"020"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	217	217
+"22"	"00028"	"083"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Adverse Event"	5	83	82
+"23"	"00029"	"054"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	4	"Death"	NA	67	67
+"24"	"00030"	"122"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Withdrew consent"	NA	302	302
+"25"	"00031"	"110"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Adverse Event"	5	55	55
+"26"	"00032"	"039"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Adverse Event"	9	90	161
+"27"	"00033"	"082"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Adverse Event"	5	126	126
+"28"	"00035"	"050"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Adverse Event"	18	127	127
+"29"	"00036"	"137"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	263	263
+"30"	"00039"	"042"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Withdrew consent"	NA	377	377
+"31"	"00040"	"032"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	391	391
+"32"	"00041"	"015"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	175	175
+"33"	"00042"	"156"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	239	259
+"34"	"00043"	"128"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	140	140
+"35"	"00044"	"143"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	5	"Lost to follow up"	NA	100	100
+"36"	"00046"	"004"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	366	366
+"37"	"00047"	"134"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Adverse Event"	18	163	163
+"38"	"00049"	"131"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	86	86
+"39"	"00051"	"044"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	295	313
+"40"	"00052"	"126"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	263	263
+"41"	"00053"	"015"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Withdrew consent"	NA	238	238
+"42"	"00054"	"136"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	511	511
+"43"	"00055"	"073"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	346	346
+"44"	"00056"	"141"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	308	308
+"45"	"00057"	"076"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	285	285
+"46"	"00059"	"130"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	250	250
+"47"	"00060"	"017"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	77	77
+"48"	"00061"	"025"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	100	113
+"49"	"00062"	"051"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	486	486
+"50"	"00063"	"042"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	440	440
+"51"	"00064"	"106"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	151	151
+"52"	"00065"	"126"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	135	135
+"53"	"00066"	"080"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Withdrew consent"	NA	257	257
+"54"	"00067"	"062"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	266	266
+"55"	"00068"	"071"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	274	274
+"56"	"00069"	"026"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	259	259
+"57"	"00070"	"015"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	186	189
+"58"	"00072"	"022"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	82	82
+"59"	"00073"	"076"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Withdrew consent"	NA	182	231
+"60"	"00074"	"062"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	217	217
+"61"	"00075"	"062"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Withdrew consent"	NA	154	154
+"62"	"00077"	"026"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	249	249
+"63"	"00078"	"073"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	393	393
+"64"	"00079"	"085"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	90	90
+"65"	"00080"	"074"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	300	300
+"66"	"00081"	"145"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	265	265
+"67"	"00082"	"077"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	538	538
+"68"	"00084"	"079"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	328	328
+"69"	"00086"	"023"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Withdrew consent"	NA	110	110
+"70"	"00087"	"142"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	551	551
+"71"	"00088"	"142"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	512	514
+"72"	"00089"	"015"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	392	392
+"73"	"00090"	"015"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	295	295
+"74"	"00091"	"019"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Withdrew consent"	NA	216	216
+"75"	"00092"	"163"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Withdrew consent"	NA	19	5581
+"76"	"00094"	"007"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Adverse Event"	1	30	30
+"77"	"00096"	"151"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	99	99
+"78"	"00097"	"038"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	406	406
+"79"	"00098"	"125"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	353	353
+"80"	"00099"	"162"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	155	155
+"81"	"00100"	"111"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Withdrew consent"	NA	66	66
+"82"	"00101"	"137"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	520	520
+"83"	"00102"	"050"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	194	194
+"84"	"00103"	"032"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	300	300
+"85"	"00104"	"041"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	4	"Death"	NA	76	76
+"86"	"00105"	"109"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	286	286
+"87"	"00108"	"129"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Withdrew consent"	NA	142	142
+"88"	"00109"	"050"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	211	211
+"89"	"00110"	"146"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	280	280
+"90"	"00111"	"054"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	124	124
+"91"	"00112"	"078"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Adverse Event"	1	54	54
+"92"	"00113"	"104"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	284	284
+"93"	"00114"	"030"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Adverse Event"	22	266	266
+"94"	"00115"	"008"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Withdrew consent"	NA	268	268
+"95"	"00116"	"089"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	252	251
+"96"	"00117"	"085"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Withdrew consent"	NA	317	317
+"97"	"00118"	"124"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	176	175
+"98"	"00119"	"066"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	304	306
+"99"	"00120"	"062"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Withdrew consent"	NA	238	238
+"100"	"00121"	"001"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	4	"Death"	NA	40	NA
+"101"	"00125"	"144"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Adverse Event"	2	29	29
+"102"	"00126"	"070"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	119	119
+"103"	"00127"	"111"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Adverse Event"	24	362	362
+"104"	"00128"	"158"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Adverse Event"	12	176	175
+"105"	"00129"	"101"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	98	98
+"106"	"00131"	"152"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	264	264
+"107"	"00133"	"001"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	280	280
+"108"	"00134"	"057"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	364	364
+"109"	"00135"	"076"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	344	344
+"110"	"00136"	"020"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	77	77
+"111"	"00137"	"036"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	155	155
+"112"	"00139"	"118"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	245	245
+"113"	"00140"	"160"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Withdrew consent"	NA	19	19
+"114"	"00141"	"089"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	4	"Death"	NA	162	162
+"115"	"00142"	"122"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	335	335
+"116"	"00143"	"120"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	124	141
+"117"	"00145"	"098"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	69	69
+"118"	"00146"	"148"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Withdrew consent"	NA	144	144
+"119"	"00148"	"009"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	98	98
+"120"	"00149"	"138"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	238	238
+"121"	"00151"	"023"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	375	375
+"122"	"00152"	"127"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	113	112
+"123"	"00153"	"122"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	197	197
+"124"	"00154"	"152"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	6	"Protocol violation"	NA	85	85
+"125"	"00155"	"099"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	113	113
+"126"	"00156"	"142"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	256	256
+"127"	"00157"	"076"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	78	78
+"128"	"00158"	"108"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	217	217
+"129"	"00159"	"049"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Adverse Event"	16	203	203
+"130"	"00160"	"133"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	250	250
+"131"	"00162"	"109"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	425	425
+"132"	"00163"	"142"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	102	102
+"133"	"00164"	"132"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Adverse Event"	3	54	54
+"134"	"00165"	"051"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	418	418
+"135"	"00167"	"082"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	99	99
+"136"	"00168"	"054"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Withdrew consent"	NA	208	208
+"137"	"00169"	"074"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	358	358
+"138"	"00171"	"093"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	324	324
+"139"	"00172"	"010"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	6	"Protocol violation"	NA	265	265
+"140"	"00173"	"136"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Adverse Event"	7	357	357
+"141"	"00174"	"155"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	57	57
+"142"	"00175"	"028"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	328	328
+"143"	"00176"	"087"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	262	309
+"144"	"00177"	"111"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	77	77
+"145"	"00178"	"002"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Withdrew consent"	NA	36	36
+"146"	"00179"	"140"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	183	190
+"147"	"00180"	"092"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	76	77
+"148"	"00181"	"074"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	389	389
+"149"	"00184"	"076"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	251	251
+"150"	"00185"	"113"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	87	87
+"151"	"00186"	"149"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	6	"Protocol violation"	NA	158	158
+"152"	"00187"	"107"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	102	102
+"153"	"00188"	"118"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	164	174
+"154"	"00190"	"157"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	200	200
+"155"	"00191"	"151"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	232	232
+"156"	"00192"	"122"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Adverse Event"	15	151	151
+"157"	"00193"	"011"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	223	223
+"158"	"00194"	"119"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Withdrew consent"	NA	210	210
+"159"	"00195"	"091"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	231	231
+"160"	"00196"	"153"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Adverse Event"	5	47	NA
+"161"	"00197"	"112"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Withdrew consent"	NA	147	147
+"162"	"00199"	"014"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	133	133
+"163"	"00200"	"082"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	270	273
+"164"	"00201"	"050"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Adverse Event"	56	412	412
+"165"	"00202"	"004"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	135	135
+"166"	"00203"	"082"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	141	141
+"167"	"00204"	"008"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Withdrew consent"	NA	219	219
+"168"	"00205"	"015"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	321	321
+"169"	"00206"	"154"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	260	274
+"170"	"00207"	"126"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	152	152
+"171"	"00209"	"107"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Withdrew consent"	NA	365	365
+"172"	"00210"	"048"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	134	134
+"173"	"00212"	"128"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	93	93
+"174"	"00213"	"111"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	77	77
+"175"	"00214"	"059"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	6	"Protocol violation"	NA	33	106
+"176"	"00215"	"103"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	173	173
+"177"	"00216"	"008"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	216	216
+"178"	"00217"	"042"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Withdrew consent"	NA	419	419
+"179"	"00219"	"081"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	94	112
+"180"	"00220"	"103"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	151	151
+"181"	"00221"	"105"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	198	198
+"182"	"00222"	"088"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	4	"Death"	NA	153	153
+"183"	"00223"	"081"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Adverse Event"	17	392	392
+"184"	"00224"	"158"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	217	217
+"185"	"00225"	"044"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	266	266
+"186"	"00226"	"076"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	78	57
+"187"	"00227"	"029"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	71	71
+"188"	"00228"	"004"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	91	91
+"189"	"00229"	"141"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	266	266
+"190"	"00230"	"040"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Withdrew consent"	NA	202	202
+"191"	"00232"	"044"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	191	196
+"192"	"00233"	"139"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Adverse Event"	16	135	135
+"193"	"00234"	"122"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	13	5256
+"194"	"00235"	"134"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Adverse Event"	2	103	103
+"195"	"00236"	"074"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Withdrew consent"	NA	148	148
+"196"	"00237"	"050"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	245	245
+"197"	"00240"	"107"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Adverse Event"	1	250	5621
+"198"	"00241"	"146"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Withdrew consent"	NA	186	186
+"199"	"00243"	"163"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Withdrew consent"	NA	235	235
+"200"	"00244"	"051"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	360	360
+"201"	"00245"	"012"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	225	225
+"202"	"00246"	"125"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	86	86
+"203"	"00247"	"114"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Adverse Event"	1	106	106
+"204"	"00248"	"044"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Adverse Event"	15	63	63
+"205"	"00249"	"126"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	337	337
+"206"	"00250"	"032"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	281	281
+"207"	"00251"	"020"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	218	218
+"208"	"00252"	"007"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	263	263
+"209"	"00253"	"006"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	399	399
+"210"	"00254"	"130"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	210	210
+"211"	"00255"	"109"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	385	385
+"212"	"00256"	"085"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	136	136
+"213"	"00257"	"039"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	155	155
+"214"	"00259"	"164"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	94	94
+"215"	"00261"	"013"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Withdrew consent"	NA	444	444
+"216"	"00262"	"089"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Adverse Event"	7	242	251
+"217"	"00263"	"153"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	144	144
+"218"	"00265"	"010"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	4	"Death"	NA	35	35
+"219"	"00266"	"142"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	52	52
+"220"	"00268"	"099"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Adverse Event"	36	204	204
+"221"	"00269"	"074"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	325	325
+"222"	"00270"	"019"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Adverse Event"	22	193	193
+"223"	"00272"	"138"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	147	147
+"224"	"00273"	"150"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	196	196
+"225"	"00274"	"060"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	234	234
+"226"	"00275"	"114"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	79	79
+"227"	"00276"	"049"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	251	251
+"228"	"00277"	"005"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Withdrew consent"	NA	49	5180
+"229"	"00278"	"067"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	408	408
+"230"	"00279"	"038"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	155	155
+"231"	"00280"	"050"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	180	180
+"232"	"00281"	"019"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Withdrew consent"	NA	217	217
+"233"	"00283"	"005"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Withdrew consent"	NA	119	5251
+"234"	"00284"	"137"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Withdrew consent"	NA	49	49
+"235"	"00286"	"050"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Adverse Event"	47	428	428
+"236"	"00288"	"065"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	211	211
+"237"	"00289"	"015"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	469	469
+"238"	"00292"	"141"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	276	276
+"239"	"00293"	"010"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Withdrew consent"	NA	23	23
+"240"	"00295"	"055"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	527	527
+"241"	"00296"	"159"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Withdrew consent"	NA	280	280
+"242"	"00298"	"050"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Adverse Event"	6	105	NA
+"243"	"00299"	"062"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	211	211
+"244"	"00300"	"042"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Adverse Event"	5	210	210
+"245"	"00301"	"117"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	183	183
+"246"	"00302"	"121"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	6	"Protocol violation"	NA	86	86
+"247"	"00303"	"126"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	254	254
+"248"	"00304"	"008"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	269	268
+"249"	"00305"	"096"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	196	196
+"250"	"00306"	"111"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	453	453
+"251"	"00307"	"085"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Adverse Event"	4	161	161
+"252"	"00308"	"060"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	214	214
+"253"	"00309"	"156"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	66	66
+"254"	"00311"	"007"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	140	140
+"255"	"00312"	"014"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	72	72
+"256"	"00313"	"151"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	4	"Death"	NA	62	62
+"257"	"00314"	"050"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	111	111
+"258"	"00315"	"157"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	191	191
+"259"	"00316"	"072"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	4	"Death"	NA	308	308
+"260"	"00317"	"118"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Adverse Event"	21	224	224
+"261"	"00318"	"157"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	142	142
+"262"	"00320"	"157"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	198	198
+"263"	"00321"	"024"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	263	263
+"264"	"00322"	"061"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	254	254
+"265"	"00323"	"050"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	111	111
+"266"	"00325"	"019"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Withdrew consent"	NA	260	260
+"267"	"00326"	"032"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	281	281
+"268"	"00329"	"049"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	266	266
+"269"	"00330"	"007"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	438	438
+"270"	"00331"	"073"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	387	387
+"271"	"00332"	"063"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	312	312
+"272"	"00333"	"042"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	70	70
+"273"	"00334"	"085"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Withdrew consent"	NA	271	271
+"274"	"00335"	"123"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	91	91
+"275"	"00337"	"156"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	273	293
+"276"	"00338"	"042"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	166	166
+"277"	"00339"	"092"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	189	189
+"278"	"00341"	"090"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	308	307
+"279"	"00342"	"081"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	141	141
+"280"	"00343"	"059"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	386	386
+"281"	"00344"	"017"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	504	504
+"282"	"00346"	"102"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	357	357
+"283"	"00347"	"091"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	77	77
+"284"	"00349"	"053"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	263	263
+"285"	"00350"	"094"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	6	"Protocol violation"	NA	158	158
+"286"	"00352"	"141"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	112	112
+"287"	"00355"	"094"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	222	222
+"288"	"00356"	"003"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	135	135
+"289"	"00357"	"126"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	462	462
+"290"	"00358"	"015"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	158	158
+"291"	"00359"	"046"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	210	210
+"292"	"00360"	"051"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Adverse Event"	25	182	182
+"293"	"00362"	"129"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Adverse Event"	7	316	316
+"294"	"00363"	"011"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	227	227
+"295"	"00364"	"071"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	301	301
+"296"	"00365"	"139"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	310	310
+"297"	"00366"	"114"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	482	482
+"298"	"00367"	"016"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Adverse Event"	3	126	126
+"299"	"00368"	"135"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Adverse Event"	16	75	75
+"300"	"00369"	"007"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	203	203
+"301"	"00370"	"014"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	142	142
+"302"	"00371"	"015"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Adverse Event"	32	189	189
+"303"	"00372"	"120"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	133	133
+"304"	"00373"	"026"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	376	376
+"305"	"00374"	"050"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Adverse Event"	35	350	350
+"306"	"00375"	"156"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	213	213
+"307"	"00376"	"048"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	130	130
+"308"	"00377"	"150"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	257	257
+"309"	"00379"	"042"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	196	196
+"310"	"00381"	"090"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Adverse Event"	30	391	391
+"311"	"00383"	"091"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Adverse Event"	46	198	198
+"312"	"00384"	"021"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	251	251
+"313"	"00385"	"148"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	141	141
+"314"	"00386"	"126"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	133	133
+"315"	"00387"	"061"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	364	364
+"316"	"00388"	"082"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Withdrew consent"	NA	101	101
+"317"	"00389"	"051"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	675	675
+"318"	"00392"	"026"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	169	169
+"319"	"00393"	"157"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	295	295
+"320"	"00396"	"032"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	215	215
+"321"	"00397"	"134"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	215	215
+"322"	"00398"	"051"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	204	204
+"323"	"00399"	"050"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Adverse Event"	15	115	115
+"324"	"00400"	"116"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	280	280
+"325"	"00401"	"154"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Adverse Event"	12	99	99
+"326"	"00402"	"015"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Adverse Event"	3	10	10
+"327"	"00403"	"111"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	240	240
+"328"	"00404"	"006"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	336	336
+"329"	"00405"	"025"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	43	52
+"330"	"00406"	"111"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Adverse Event"	10	140	140
+"331"	"00407"	"143"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Withdrew consent"	NA	323	323
+"332"	"00408"	"045"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	227	227
+"333"	"00409"	"107"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	449	449
+"334"	"00411"	"004"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Adverse Event"	5	45	45
+"335"	"00412"	"101"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	141	141
+"336"	"00413"	"152"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	352	352
+"337"	"00414"	"015"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Adverse Event"	28	148	148
+"338"	"00415"	"048"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	289	289
+"339"	"00416"	"126"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	401	401
+"340"	"00417"	"074"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	6	"Protocol violation"	NA	269	269
+"341"	"00418"	"125"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Withdrew consent"	NA	201	201
+"342"	"00419"	"058"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	119	118
+"343"	"00420"	"069"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	189	189
+"344"	"00421"	"059"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	244	244
+"345"	"00423"	"060"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	315	315
+"346"	"00424"	"100"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	220	220
+"347"	"00428"	"075"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	156	156
+"348"	"00429"	"050"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	279	279
+"349"	"00430"	"118"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	288	288
+"350"	"00431"	"066"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	284	289
+"351"	"00432"	"044"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Adverse Event"	4	25	25
+"352"	"00433"	"076"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	265	265
+"353"	"00434"	"068"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	174	174
+"354"	"00435"	"098"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	4	"Death"	NA	83	83
+"355"	"00438"	"101"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	229	229
+"356"	"00439"	"019"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Withdrew consent"	NA	253	253
+"357"	"00440"	"065"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	6	"Protocol violation"	NA	429	429
+"358"	"00441"	"004"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	366	366
+"359"	"00443"	"134"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	325	325
+"360"	"00444"	"050"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	47	47
+"361"	"00445"	"097"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	330	330
+"362"	"00446"	"103"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	152	152
+"363"	"00447"	"076"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	117	136
+"364"	"00449"	"006"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	322	322
+"365"	"00450"	"069"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	140	140
+"366"	"00451"	"090"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	158	158
+"367"	"00452"	"122"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Withdrew consent"	NA	120	120
+"368"	"00453"	"025"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	251	251
+"369"	"00454"	"137"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	79	79
+"370"	"00456"	"031"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	170	170
+"371"	"00457"	"098"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	157	144
+"372"	"00458"	"141"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	332	332
+"373"	"00459"	"142"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	257	257
+"374"	"00460"	"048"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	134	134
+"375"	"00461"	"151"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	315	315
+"376"	"00462"	"141"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	143	143
+"377"	"00463"	"110"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Adverse Event"	4	74	74
+"378"	"00464"	"090"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	258	258
+"379"	"00465"	"140"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	331	337
+"380"	"00466"	"066"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	292	292
+"381"	"00467"	"050"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	391	391
+"382"	"00468"	"039"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Adverse Event"	6	79	79
+"383"	"00469"	"056"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Adverse Event"	18	178	178
+"384"	"00471"	"031"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Adverse Event"	11	477	477
+"385"	"00472"	"007"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	219	219
+"386"	"00474"	"008"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	212	212
+"387"	"00475"	"007"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Withdrew consent"	NA	228	228
+"388"	"00476"	"042"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Adverse Event"	4	182	182
+"389"	"00478"	"088"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	5	"Lost to follow up"	NA	77	77
+"390"	"00480"	"042"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	245	245
+"391"	"00481"	"130"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	316	316
+"392"	"00482"	"065"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	365	365
+"393"	"00483"	"078"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Adverse Event"	9	241	238
+"394"	"00484"	"005"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Withdrew consent"	NA	108	108
+"395"	"00485"	"039"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	105	105
+"396"	"00486"	"071"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	372	372
+"397"	"00487"	"028"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	134	134
+"398"	"00488"	"149"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Withdrew consent"	NA	233	233
+"399"	"00490"	"087"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	274	294
+"400"	"00491"	"114"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	351	351
+"401"	"00492"	"066"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	194	205
+"402"	"00493"	"047"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Adverse Event"	17	281	281
+"403"	"00494"	"122"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Withdrew consent"	NA	21	31
+"404"	"00495"	"017"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Adverse Event"	9	35	35
+"405"	"00497"	"111"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	188	188
+"406"	"00498"	"147"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Adverse Event"	22	138	138
+"407"	"00499"	"018"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	141	141
+"408"	"00500"	"156"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	267	267
+"409"	"00501"	"010"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Adverse Event"	17	281	281
+"410"	"00502"	"122"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	376	376
+"411"	"00503"	"066"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Withdrew consent"	NA	179	179
+"412"	"00504"	"122"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Withdrew consent"	NA	305	305
+"413"	"00505"	"046"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Adverse Event"	37	224	224
+"414"	"00506"	"008"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Adverse Event"	5	209	209
+"415"	"00507"	"082"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	109	112
+"416"	"00508"	"019"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Withdrew consent"	NA	112	112
+"417"	"00510"	"061"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	380	380
+"418"	"00511"	"083"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	451	451
+"419"	"00512"	"127"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Adverse Event"	19	94	94
+"420"	"00514"	"015"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Adverse Event"	16	175	175
+"421"	"00515"	"024"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	274	274
+"422"	"00517"	"062"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Adverse Event"	2	28	28
+"423"	"00518"	"043"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	294	294
+"424"	"00519"	"087"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Adverse Event"	24	217	217
+"425"	"00520"	"122"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	86	86
+"426"	"00521"	"008"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Adverse Event"	5	163	163
+"427"	"00522"	"144"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Withdrew consent"	NA	429	429
+"428"	"00523"	"019"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Adverse Event"	15	230	230
+"429"	"00524"	"073"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Disease Progression"	NA	293	293
+"430"	"00525"	"076"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	95	95
+"431"	"00526"	"116"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	99	"Other"	NA	226	226

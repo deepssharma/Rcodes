@@ -1,0 +1,1465 @@
+"RPT"	"RINVSITE"	"STUDY"	"VISIT"	"VISNAME"	"BOVRN"	"BOVRC"	"DETRIORN"	"DETRIORC"	"VISDAY"
+"1"	"00001"	"143"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	86
+"2"	"00001"	"143"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	156
+"3"	"00001"	"143"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	1	"Yes"	235
+"4"	"00002"	"089"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	80
+"5"	"00002"	"089"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"Partial Response"	2	"No"	145
+"6"	"00003"	"126"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	85
+"7"	"00003"	"126"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	148
+"8"	"00003"	"126"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	218
+"9"	"00003"	"126"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	4	"Stable Disease"	2	"No"	260
+"10"	"00004"	"074"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	2	"No"	79
+"11"	"00005"	"051"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	68
+"12"	"00006"	"111"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	3	"Progressive Disease"	2	"No"	89
+"13"	"00007"	"076"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	95	"Not Done"	2	"No"	64
+"14"	"00008"	"144"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	91
+"15"	"00009"	"015"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	77
+"16"	"00009"	"015"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"Partial Response"	2	"No"	154
+"17"	"00009"	"015"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	217
+"18"	"00009"	"015"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	2	"No"	288
+"19"	"00010"	"032"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"Partial Response"	2	"No"	73
+"20"	"00011"	"144"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	3	"Progressive Disease"	2	"No"	69
+"21"	"00011"	"144"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	3	"Progressive Disease"	2	"No"	133
+"22"	"00011"	"144"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	202
+"23"	"00012"	"143"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	78
+"24"	"00013"	"132"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	70
+"25"	"00014"	"035"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	85
+"26"	"00014"	"035"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	148
+"27"	"00014"	"035"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	4	"Stable Disease"	2	"No"	202
+"28"	"00015"	"097"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	74
+"29"	"00015"	"097"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	137
+"30"	"00015"	"097"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	214
+"31"	"00015"	"097"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	3	"Progressive Disease"	1	"Yes"	277
+"32"	"00016"	"062"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	85
+"33"	"00016"	"062"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	1	"Yes"	148
+"34"	"00016"	"062"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	211
+"35"	"00016"	"062"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	95	"Not Done"	1	"Yes"	232
+"36"	"00017"	"105"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	74
+"37"	"00018"	"107"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"Partial Response"	2	"No"	72
+"38"	"00018"	"107"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"Partial Response"	2	"No"	135
+"39"	"00018"	"107"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"Partial Response"	2	"No"	198
+"40"	"00018"	"107"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"Partial Response"	2	"No"	260
+"41"	"00018"	"107"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	2	"Partial Response"	2	"No"	323
+"42"	"00019"	"046"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	77
+"43"	"00019"	"046"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	140
+"44"	"00019"	"046"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	203
+"45"	"00019"	"046"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	4	"Stable Disease"	1	"Yes"	287
+"46"	"00020"	"063"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	84
+"47"	"00021"	"071"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	91
+"48"	"00022"	"094"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	88
+"49"	"00022"	"094"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	2	"No"	151
+"50"	"00023"	"104"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"Partial Response"	2	"No"	72
+"51"	"00023"	"104"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"Partial Response"	2	"No"	135
+"52"	"00023"	"104"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"Partial Response"	2	"No"	268
+"53"	"00024"	"011"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	4	"Stable Disease"	1	"Yes"	71
+"54"	"00025"	"122"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	4	"Stable Disease"	2	"No"	56
+"55"	"00026"	"020"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	3	"Progressive Disease"	2	"No"	70
+"56"	"00026"	"020"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"Partial Response"	2	"No"	133
+"57"	"00026"	"020"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"Partial Response"	2	"No"	196
+"58"	"00027"	"110"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	91
+"59"	"00027"	"110"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	1	"Yes"	161
+"60"	"00027"	"110"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	225
+"61"	"00027"	"110"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	4	"Stable Disease"	2	"No"	302
+"62"	"00027"	"110"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	4	"Stable Disease"	2	"No"	379
+"63"	"00028"	"083"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	2	"No"	82
+"64"	"00030"	"122"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	71
+"65"	"00030"	"122"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	134
+"66"	"00030"	"122"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	197
+"67"	"00030"	"122"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	4	"Stable Disease"	2	"No"	260
+"68"	"00030"	"122"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	4	"Stable Disease"	2	"No"	302
+"69"	"00032"	"039"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	95	"Not Done"	1	"Yes"	161
+"70"	"00033"	"082"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	84
+"71"	"00033"	"082"	"CC-5013-PC-002"	99	"Unscheduled"	4	"Stable Disease"	2	"No"	61
+"72"	"00035"	"050"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	92
+"73"	"00036"	"137"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"Partial Response"	2	"No"	89
+"74"	"00036"	"137"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"Partial Response"	2	"No"	155
+"75"	"00036"	"137"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	95	"Not Done"	2	"No"	222
+"76"	"00036"	"137"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	2	"No"	263
+"77"	"00037"	"008"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	86
+"78"	"00037"	"008"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	149
+"79"	"00038"	"086"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	74
+"80"	"00038"	"086"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	137
+"81"	"00039"	"042"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	76
+"82"	"00039"	"042"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	139
+"83"	"00039"	"042"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	202
+"84"	"00039"	"042"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	4	"Stable Disease"	2	"No"	265
+"85"	"00039"	"042"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	4	"Stable Disease"	2	"No"	335
+"86"	"00040"	"032"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	78
+"87"	"00040"	"032"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	141
+"88"	"00040"	"032"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	204
+"89"	"00040"	"032"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	4	"Stable Disease"	2	"No"	267
+"90"	"00040"	"032"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	4	"Stable Disease"	2	"No"	330
+"91"	"00040"	"032"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	4	"Stable Disease"	2	"No"	391
+"92"	"00041"	"015"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	67
+"93"	"00041"	"015"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"Partial Response"	2	"No"	130
+"94"	"00041"	"015"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Partial Response"	2	"No"	175
+"95"	"00042"	"156"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	78
+"96"	"00042"	"156"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	146
+"97"	"00042"	"156"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	209
+"98"	"00042"	"156"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Partial Response"	2	"No"	259
+"99"	"00043"	"128"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	77
+"100"	"00043"	"128"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	4	"Stable Disease"	2	"No"	140
+"101"	"00045"	"009"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	68
+"102"	"00045"	"009"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	131
+"103"	"00045"	"009"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	194
+"104"	"00046"	"004"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"Partial Response"	2	"No"	72
+"105"	"00046"	"004"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"Partial Response"	2	"No"	135
+"106"	"00046"	"004"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"Partial Response"	2	"No"	198
+"107"	"00046"	"004"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"Partial Response"	2	"No"	262
+"108"	"00046"	"004"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	2	"Partial Response"	2	"No"	324
+"109"	"00046"	"004"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Partial Response"	2	"No"	366
+"110"	"00047"	"134"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	76
+"111"	"00047"	"134"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	4	"Stable Disease"	2	"No"	163
+"112"	"00048"	"124"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	70
+"113"	"00049"	"131"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	2	"No"	86
+"114"	"00050"	"136"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	77
+"115"	"00050"	"136"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"Partial Response"	2	"No"	140
+"116"	"00050"	"136"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"Partial Response"	2	"No"	203
+"117"	"00050"	"136"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"Partial Response"	2	"No"	269
+"118"	"00050"	"136"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	2	"Partial Response"	2	"No"	329
+"119"	"00051"	"044"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	19	"Inevaluable for Response"	2	"No"	89
+"120"	"00051"	"044"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	154
+"121"	"00051"	"044"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	229
+"122"	"00051"	"044"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	4	"Stable Disease"	2	"No"	292
+"123"	"00052"	"126"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"Partial Response"	2	"No"	70
+"124"	"00052"	"126"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"Partial Response"	2	"No"	132
+"125"	"00052"	"126"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"Partial Response"	2	"No"	197
+"126"	"00052"	"126"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	2	"No"	263
+"127"	"00053"	"015"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"Partial Response"	2	"No"	84
+"128"	"00053"	"015"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"Partial Response"	2	"No"	146
+"129"	"00053"	"015"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"Partial Response"	2	"No"	217
+"130"	"00054"	"136"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	68
+"131"	"00054"	"136"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	133
+"132"	"00054"	"136"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	199
+"133"	"00054"	"136"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	4	"Stable Disease"	2	"No"	259
+"134"	"00054"	"136"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	4	"Stable Disease"	2	"No"	322
+"135"	"00054"	"136"	"CC-5013-PC-002"	19	"Cycle 19 Day 1"	4	"Stable Disease"	2	"No"	385
+"136"	"00054"	"136"	"CC-5013-PC-002"	19	"Cycle 22 Day 1"	2	"Partial Response"	2	"No"	448
+"137"	"00054"	"136"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	4	"Stable Disease"	2	"No"	511
+"138"	"00055"	"073"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	77
+"139"	"00055"	"073"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	140
+"140"	"00055"	"073"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	220
+"141"	"00055"	"073"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	4	"Stable Disease"	2	"No"	282
+"142"	"00055"	"073"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	2	"No"	346
+"143"	"00056"	"141"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	99
+"144"	"00056"	"141"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	238
+"145"	"00056"	"141"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	1	"Yes"	308
+"146"	"00056"	"141"	"CC-5013-PC-002"	99	"Unscheduled"	19	"Inevaluable for Response"	2	"No"	142
+"147"	"00057"	"076"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	82
+"148"	"00057"	"076"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	145
+"149"	"00057"	"076"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	209
+"150"	"00057"	"076"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	1	"Yes"	285
+"151"	"00059"	"130"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	82
+"152"	"00059"	"130"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	145
+"153"	"00059"	"130"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	208
+"154"	"00060"	"017"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	1	"Yes"	77
+"155"	"00061"	"025"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	71
+"156"	"00062"	"051"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	78
+"157"	"00062"	"051"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	141
+"158"	"00062"	"051"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	204
+"159"	"00062"	"051"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	4	"Stable Disease"	2	"No"	267
+"160"	"00062"	"051"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	4	"Stable Disease"	2	"No"	331
+"161"	"00062"	"051"	"CC-5013-PC-002"	19	"Cycle 19 Day 1"	4	"Stable Disease"	2	"No"	393
+"162"	"00062"	"051"	"CC-5013-PC-002"	19	"Cycle 22 Day 1"	4	"Stable Disease"	2	"No"	456
+"163"	"00062"	"051"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	4	"Stable Disease"	2	"No"	486
+"164"	"00063"	"042"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"Partial Response"	2	"No"	90
+"165"	"00063"	"042"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"Partial Response"	2	"No"	154
+"166"	"00063"	"042"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"Partial Response"	2	"No"	217
+"167"	"00063"	"042"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"Partial Response"	2	"No"	294
+"168"	"00063"	"042"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	2	"Partial Response"	2	"No"	356
+"169"	"00063"	"042"	"CC-5013-PC-002"	19	"Cycle 19 Day 1"	2	"Partial Response"	2	"No"	419
+"170"	"00064"	"106"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	3	"Progressive Disease"	2	"No"	67
+"171"	"00064"	"106"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	3	"Progressive Disease"	2	"No"	130
+"172"	"00064"	"106"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	2	"No"	151
+"173"	"00065"	"126"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	73
+"174"	"00065"	"126"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	2	"No"	135
+"175"	"00066"	"080"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"Partial Response"	2	"No"	75
+"176"	"00066"	"080"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"Partial Response"	2	"No"	138
+"177"	"00066"	"080"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	201
+"178"	"00066"	"080"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	4	"Stable Disease"	2	"No"	257
+"179"	"00067"	"062"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	98
+"180"	"00067"	"062"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	161
+"181"	"00067"	"062"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	1	"Yes"	224
+"182"	"00067"	"062"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	19	"Inevaluable for Response"	1	"Yes"	266
+"183"	"00068"	"071"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"Partial Response"	2	"No"	90
+"184"	"00068"	"071"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Complete Response"	2	"No"	156
+"185"	"00068"	"071"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Complete Response"	2	"No"	219
+"186"	"00068"	"071"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	2	"No"	274
+"187"	"00069"	"026"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	92
+"188"	"00069"	"026"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	155
+"189"	"00069"	"026"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	218
+"190"	"00069"	"026"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	4	"Stable Disease"	2	"No"	259
+"191"	"00070"	"015"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	76
+"192"	"00070"	"015"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"Partial Response"	2	"No"	137
+"193"	"00070"	"015"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	2	"No"	189
+"194"	"00071"	"125"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	90
+"195"	"00071"	"125"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	154
+"196"	"00071"	"125"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"Partial Response"	2	"No"	217
+"197"	"00071"	"125"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"Partial Response"	2	"No"	280
+"198"	"00071"	"125"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	2	"Partial Response"	2	"No"	342
+"199"	"00071"	"125"	"CC-5013-PC-002"	19	"Cycle 19 Day 1"	2	"Partial Response"	2	"No"	406
+"200"	"00072"	"022"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	3	"Progressive Disease"	2	"No"	77
+"201"	"00072"	"022"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	2	"No"	82
+"202"	"00073"	"076"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	133
+"203"	"00074"	"062"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	91
+"204"	"00074"	"062"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	154
+"205"	"00074"	"062"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	4	"Stable Disease"	2	"No"	217
+"206"	"00075"	"062"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"Partial Response"	2	"No"	91
+"207"	"00075"	"062"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Partial Response"	1	"Yes"	154
+"208"	"00076"	"104"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	80
+"209"	"00077"	"026"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	97
+"210"	"00077"	"026"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	158
+"211"	"00077"	"026"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	3	"Progressive Disease"	1	"Yes"	228
+"212"	"00078"	"073"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	75
+"213"	"00078"	"073"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	138
+"214"	"00078"	"073"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	201
+"215"	"00078"	"073"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	4	"Stable Disease"	2	"No"	264
+"216"	"00078"	"073"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	4	"Stable Disease"	2	"No"	327
+"217"	"00078"	"073"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	2	"No"	393
+"218"	"00079"	"085"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	3	"Progressive Disease"	2	"No"	79
+"219"	"00080"	"074"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	84
+"220"	"00080"	"074"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	151
+"221"	"00080"	"074"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"Partial Response"	2	"No"	215
+"222"	"00080"	"074"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"Partial Response"	2	"No"	278
+"223"	"00081"	"145"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	75
+"224"	"00081"	"145"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	138
+"225"	"00081"	"145"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	202
+"226"	"00081"	"145"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	2	"No"	265
+"227"	"00082"	"077"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	75
+"228"	"00082"	"077"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	137
+"229"	"00082"	"077"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"Partial Response"	2	"No"	202
+"230"	"00082"	"077"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"Partial Response"	2	"No"	265
+"231"	"00082"	"077"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	2	"Partial Response"	2	"No"	328
+"232"	"00082"	"077"	"CC-5013-PC-002"	19	"Cycle 19 Day 1"	2	"Partial Response"	2	"No"	391
+"233"	"00082"	"077"	"CC-5013-PC-002"	19	"Cycle 22 Day 1"	2	"Partial Response"	2	"No"	453
+"234"	"00082"	"077"	"CC-5013-PC-002"	19	"Cycle 25 Day 1"	2	"Partial Response"	2	"No"	517
+"235"	"00083"	"126"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	79
+"236"	"00083"	"126"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	141
+"237"	"00084"	"079"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	73
+"238"	"00084"	"079"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	19	"Inevaluable for Response"	2	"No"	138
+"239"	"00084"	"079"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	199
+"240"	"00084"	"079"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	4	"Stable Disease"	2	"No"	264
+"241"	"00084"	"079"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	2	"No"	328
+"242"	"00085"	"161"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	92
+"243"	"00086"	"023"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	68
+"244"	"00087"	"142"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"Partial Response"	2	"No"	70
+"245"	"00087"	"142"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	NA	""	NA	""	133
+"246"	"00087"	"142"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"Partial Response"	2	"No"	196
+"247"	"00087"	"142"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"Partial Response"	2	"No"	266
+"248"	"00087"	"142"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	2	"Partial Response"	2	"No"	329
+"249"	"00087"	"142"	"CC-5013-PC-002"	19	"Cycle 19 Day 1"	2	"Partial Response"	2	"No"	397
+"250"	"00087"	"142"	"CC-5013-PC-002"	19	"Cycle 22 Day 1"	2	"Partial Response"	2	"No"	462
+"251"	"00087"	"142"	"CC-5013-PC-002"	19	"Cycle 25 Day 1"	2	"Partial Response"	2	"No"	525
+"252"	"00088"	"142"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	73
+"253"	"00088"	"142"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	140
+"254"	"00088"	"142"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	211
+"255"	"00088"	"142"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	4	"Stable Disease"	2	"No"	283
+"256"	"00088"	"142"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	4	"Stable Disease"	2	"No"	357
+"257"	"00088"	"142"	"CC-5013-PC-002"	19	"Cycle 19 Day 1"	3	"Progressive Disease"	2	"No"	442
+"258"	"00088"	"142"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	2	"No"	514
+"259"	"00089"	"015"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	74
+"260"	"00089"	"015"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	140
+"261"	"00089"	"015"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	203
+"262"	"00089"	"015"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	4	"Stable Disease"	2	"No"	266
+"263"	"00089"	"015"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	4	"Stable Disease"	2	"No"	329
+"264"	"00090"	"015"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	105
+"265"	"00090"	"015"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	169
+"266"	"00090"	"015"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	230
+"267"	"00090"	"015"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	2	"No"	295
+"268"	"00091"	"019"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	69
+"269"	"00091"	"019"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	132
+"270"	"00091"	"019"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	195
+"271"	"00093"	"059"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	77
+"272"	"00095"	"032"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"Partial Response"	2	"No"	91
+"273"	"00095"	"032"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"Partial Response"	2	"No"	154
+"274"	"00096"	"151"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	3	"Progressive Disease"	2	"No"	84
+"275"	"00096"	"151"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	2	"No"	99
+"276"	"00097"	"038"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	77
+"277"	"00097"	"038"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"Partial Response"	2	"No"	140
+"278"	"00097"	"038"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"Partial Response"	2	"No"	203
+"279"	"00097"	"038"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"Partial Response"	2	"No"	266
+"280"	"00097"	"038"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	2	"Partial Response"	2	"No"	329
+"281"	"00097"	"038"	"CC-5013-PC-002"	19	"Cycle 19 Day 1"	3	"Progressive Disease"	2	"No"	392
+"282"	"00097"	"038"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	2	"No"	406
+"283"	"00098"	"125"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	92
+"284"	"00098"	"125"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	156
+"285"	"00098"	"125"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	219
+"286"	"00098"	"125"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	4	"Stable Disease"	2	"No"	282
+"287"	"00098"	"125"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	2	"No"	353
+"288"	"00099"	"162"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	92
+"289"	"00099"	"162"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	4	"Stable Disease"	2	"No"	155
+"290"	"00101"	"137"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	71
+"291"	"00101"	"137"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	135
+"292"	"00101"	"137"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	203
+"293"	"00101"	"137"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	95	"Not Done"	2	"No"	279
+"294"	"00101"	"137"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	4	"Stable Disease"	2	"No"	351
+"295"	"00101"	"137"	"CC-5013-PC-002"	19	"Cycle 19 Day 1"	4	"Stable Disease"	2	"No"	421
+"296"	"00102"	"050"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	82
+"297"	"00102"	"050"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	144
+"298"	"00102"	"050"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	4	"Stable Disease"	2	"No"	194
+"299"	"00103"	"032"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	70
+"300"	"00103"	"032"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	133
+"301"	"00103"	"032"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	196
+"302"	"00103"	"032"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	4	"Stable Disease"	2	"No"	259
+"303"	"00103"	"032"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	4	"Stable Disease"	2	"No"	300
+"304"	"00105"	"109"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"Partial Response"	2	"No"	69
+"305"	"00105"	"109"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"Partial Response"	2	"No"	132
+"306"	"00105"	"109"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"Partial Response"	2	"No"	198
+"307"	"00105"	"109"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"Partial Response"	2	"No"	264
+"308"	"00106"	"143"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	79
+"309"	"00107"	"109"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	90
+"310"	"00109"	"050"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"Partial Response"	2	"No"	88
+"311"	"00109"	"050"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"Partial Response"	2	"No"	155
+"312"	"00109"	"050"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Partial Response"	1	"Yes"	211
+"313"	"00110"	"146"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	71
+"314"	"00110"	"146"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	135
+"315"	"00110"	"146"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	205
+"316"	"00110"	"146"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	4	"Stable Disease"	2	"No"	280
+"317"	"00111"	"054"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	82
+"318"	"00111"	"054"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	4	"Stable Disease"	2	"No"	124
+"319"	"00113"	"104"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"Partial Response"	2	"No"	74
+"320"	"00113"	"104"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"Partial Response"	2	"No"	137
+"321"	"00113"	"104"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"Partial Response"	2	"No"	207
+"322"	"00113"	"104"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	2	"No"	284
+"323"	"00114"	"030"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"Partial Response"	2	"No"	71
+"324"	"00114"	"030"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"Partial Response"	2	"No"	134
+"325"	"00114"	"030"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"Partial Response"	2	"No"	195
+"326"	"00115"	"008"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	79
+"327"	"00115"	"008"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	142
+"328"	"00115"	"008"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	207
+"329"	"00115"	"008"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	4	"Stable Disease"	2	"No"	268
+"330"	"00116"	"089"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	85
+"331"	"00116"	"089"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"Partial Response"	2	"No"	147
+"332"	"00116"	"089"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"Partial Response"	2	"No"	210
+"333"	"00116"	"089"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Partial Response"	1	"Yes"	251
+"334"	"00117"	"085"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	79
+"335"	"00117"	"085"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"Partial Response"	2	"No"	142
+"336"	"00117"	"085"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"Partial Response"	2	"No"	205
+"337"	"00117"	"085"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"Partial Response"	2	"No"	275
+"338"	"00118"	"124"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	70
+"339"	"00118"	"124"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	133
+"340"	"00119"	"066"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	91
+"341"	"00119"	"066"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	168
+"342"	"00119"	"066"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	238
+"343"	"00119"	"066"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	4	"Stable Disease"	2	"No"	299
+"344"	"00120"	"062"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	91
+"345"	"00120"	"062"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"Partial Response"	2	"No"	154
+"346"	"00120"	"062"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	217
+"347"	"00120"	"062"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	95	"Not Done"	2	"No"	238
+"348"	"00122"	"042"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	84
+"349"	"00122"	"042"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	147
+"350"	"00123"	"042"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	84
+"351"	"00123"	"042"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	147
+"352"	"00123"	"042"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	210
+"353"	"00123"	"042"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	4	"Stable Disease"	2	"No"	273
+"354"	"00124"	"052"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	77
+"355"	"00124"	"052"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	141
+"356"	"00124"	"052"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	205
+"357"	"00124"	"052"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	4	"Stable Disease"	2	"No"	268
+"358"	"00124"	"052"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	4	"Stable Disease"	2	"No"	331
+"359"	"00124"	"052"	"CC-5013-PC-002"	19	"Cycle 19 Day 1"	4	"Stable Disease"	2	"No"	400
+"360"	"00124"	"052"	"CC-5013-PC-002"	19	"Cycle 22 Day 1"	4	"Stable Disease"	2	"No"	471
+"361"	"00126"	"070"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	3	"Progressive Disease"	2	"No"	98
+"362"	"00126"	"070"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	2	"No"	119
+"363"	"00127"	"111"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	3	"Progressive Disease"	2	"No"	82
+"364"	"00127"	"111"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	3	"Progressive Disease"	2	"No"	145
+"365"	"00127"	"111"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	3	"Progressive Disease"	2	"No"	208
+"366"	"00127"	"111"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	3	"Progressive Disease"	2	"No"	271
+"367"	"00127"	"111"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	3	"Progressive Disease"	2	"No"	341
+"368"	"00128"	"158"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	71
+"369"	"00128"	"158"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	3	"Progressive Disease"	2	"No"	134
+"370"	"00128"	"158"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	2	"No"	175
+"371"	"00129"	"101"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	1	"Yes"	76
+"372"	"00130"	"098"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"Partial Response"	2	"No"	72
+"373"	"00130"	"098"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"Partial Response"	2	"No"	135
+"374"	"00131"	"152"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	82
+"375"	"00131"	"152"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"Partial Response"	2	"No"	145
+"376"	"00131"	"152"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"Partial Response"	2	"No"	208
+"377"	"00131"	"152"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	1	"Yes"	264
+"378"	"00132"	"027"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	84
+"379"	"00133"	"001"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	19	"Inevaluable for Response"	2	"No"	68
+"380"	"00133"	"001"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"Partial Response"	2	"No"	141
+"381"	"00133"	"001"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	3	"Progressive Disease"	2	"No"	203
+"382"	"00133"	"001"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	2	"No"	280
+"383"	"00134"	"057"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"Partial Response"	2	"No"	70
+"384"	"00134"	"057"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"Partial Response"	2	"No"	133
+"385"	"00134"	"057"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"Partial Response"	2	"No"	196
+"386"	"00134"	"057"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"Partial Response"	2	"No"	259
+"387"	"00134"	"057"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	2	"Partial Response"	2	"No"	322
+"388"	"00135"	"076"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	80
+"389"	"00135"	"076"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	146
+"390"	"00135"	"076"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	209
+"391"	"00135"	"076"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	4	"Stable Disease"	2	"No"	281
+"392"	"00136"	"020"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	NA	""	NA	""	NA
+"393"	"00136"	"020"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	2	"No"	77
+"394"	"00137"	"036"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	73
+"395"	"00137"	"036"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	136
+"396"	"00138"	"098"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	64
+"397"	"00138"	"098"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	127
+"398"	"00139"	"118"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	91
+"399"	"00139"	"118"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	154
+"400"	"00139"	"118"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	217
+"401"	"00139"	"118"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	1	"Yes"	245
+"402"	"00141"	"089"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	88
+"403"	"00142"	"122"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	68
+"404"	"00142"	"122"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	131
+"405"	"00142"	"122"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	4	"Stable Disease"	2	"No"	257
+"406"	"00142"	"122"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	3	"Progressive Disease"	2	"No"	320
+"407"	"00143"	"120"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	78
+"408"	"00143"	"120"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Partial Response"	2	"No"	141
+"409"	"00144"	"018"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	72
+"410"	"00144"	"018"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	135
+"411"	"00145"	"098"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	1	"Yes"	69
+"412"	"00146"	"148"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	82
+"413"	"00147"	"118"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	83
+"414"	"00148"	"009"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	3	"Progressive Disease"	2	"No"	77
+"415"	"00148"	"009"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	2	"No"	98
+"416"	"00149"	"138"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	84
+"417"	"00149"	"138"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	154
+"418"	"00149"	"138"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	217
+"419"	"00151"	"023"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	81
+"420"	"00151"	"023"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	144
+"421"	"00151"	"023"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	207
+"422"	"00151"	"023"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	4	"Stable Disease"	2	"No"	267
+"423"	"00151"	"023"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	4	"Stable Disease"	2	"No"	333
+"424"	"00151"	"023"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	1	"Yes"	375
+"425"	"00152"	"127"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	70
+"426"	"00152"	"127"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	1	"Yes"	112
+"427"	"00153"	"122"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Complete Response"	2	"No"	71
+"428"	"00153"	"122"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	2	"No"	197
+"429"	"00154"	"152"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	95	"Not Done"	2	"No"	85
+"430"	"00156"	"142"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	69
+"431"	"00156"	"142"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"Partial Response"	2	"No"	132
+"432"	"00156"	"142"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"Partial Response"	2	"No"	193
+"433"	"00156"	"142"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	2	"No"	256
+"434"	"00157"	"076"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	4	"Stable Disease"	2	"No"	78
+"435"	"00158"	"108"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	1	"Yes"	72
+"436"	"00158"	"108"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	133
+"437"	"00158"	"108"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	2	"No"	217
+"438"	"00159"	"049"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"Partial Response"	2	"No"	84
+"439"	"00159"	"049"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"Partial Response"	2	"No"	148
+"440"	"00159"	"049"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Partial Response"	2	"No"	203
+"441"	"00160"	"133"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	87
+"442"	"00160"	"133"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"Partial Response"	2	"No"	150
+"443"	"00160"	"133"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	220
+"444"	"00160"	"133"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	95	"Not Done"	NA	""	250
+"445"	"00161"	"095"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	77
+"446"	"00162"	"109"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	87
+"447"	"00162"	"109"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	152
+"448"	"00162"	"109"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	216
+"449"	"00162"	"109"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	4	"Stable Disease"	2	"No"	278
+"450"	"00162"	"109"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	4	"Stable Disease"	2	"No"	340
+"451"	"00162"	"109"	"CC-5013-PC-002"	19	"Cycle 19 Day 1"	3	"Progressive Disease"	2	"No"	403
+"452"	"00163"	"142"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	3	"Progressive Disease"	2	"No"	95
+"453"	"00164"	"132"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	4	"Stable Disease"	1	"Yes"	54
+"454"	"00165"	"051"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"Partial Response"	2	"No"	75
+"455"	"00165"	"051"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"Partial Response"	2	"No"	138
+"456"	"00165"	"051"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"Partial Response"	2	"No"	201
+"457"	"00165"	"051"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"Partial Response"	2	"No"	264
+"458"	"00165"	"051"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	2	"Partial Response"	2	"No"	327
+"459"	"00165"	"051"	"CC-5013-PC-002"	19	"Cycle 19 Day 1"	2	"Partial Response"	2	"No"	397
+"460"	"00167"	"082"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	1	"Yes"	78
+"461"	"00168"	"054"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"Partial Response"	2	"No"	83
+"462"	"00168"	"054"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"Partial Response"	2	"No"	146
+"463"	"00168"	"054"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Partial Response"	2	"No"	208
+"464"	"00169"	"074"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"Partial Response"	2	"No"	86
+"465"	"00169"	"074"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"Partial Response"	2	"No"	155
+"466"	"00169"	"074"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"Partial Response"	1	"Yes"	216
+"467"	"00169"	"074"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"Partial Response"	2	"No"	279
+"468"	"00169"	"074"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Partial Response"	2	"No"	358
+"469"	"00170"	"030"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	79
+"470"	"00170"	"030"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	142
+"471"	"00171"	"093"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	72
+"472"	"00171"	"093"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	135
+"473"	"00171"	"093"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"Partial Response"	2	"No"	198
+"474"	"00171"	"093"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	4	"Stable Disease"	2	"No"	261
+"475"	"00171"	"093"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	2	"No"	324
+"476"	"00172"	"010"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	78
+"477"	"00172"	"010"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	139
+"478"	"00172"	"010"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	204
+"479"	"00172"	"010"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	4	"Stable Disease"	1	"Yes"	265
+"480"	"00173"	"136"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	69
+"481"	"00173"	"136"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"Partial Response"	2	"No"	133
+"482"	"00173"	"136"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"Partial Response"	2	"No"	196
+"483"	"00173"	"136"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"Partial Response"	2	"No"	259
+"484"	"00173"	"136"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	2	"Partial Response"	2	"No"	323
+"485"	"00173"	"136"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	2	"No"	357
+"486"	"00175"	"028"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	81
+"487"	"00175"	"028"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	144
+"488"	"00175"	"028"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	207
+"489"	"00175"	"028"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	4	"Stable Disease"	2	"No"	266
+"490"	"00175"	"028"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	2	"No"	328
+"491"	"00176"	"087"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	71
+"492"	"00176"	"087"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	134
+"493"	"00176"	"087"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	197
+"494"	"00176"	"087"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	4	"Stable Disease"	2	"No"	260
+"495"	"00179"	"140"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Complete Response"	2	"No"	77
+"496"	"00179"	"140"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Complete Response"	2	"No"	153
+"497"	"00179"	"140"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	1	"Complete Response"	2	"No"	190
+"498"	"00180"	"092"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	2	"No"	77
+"499"	"00181"	"074"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	1	"Yes"	83
+"500"	"00181"	"074"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	147
+"501"	"00181"	"074"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	222
+"502"	"00181"	"074"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	4	"Stable Disease"	2	"No"	279
+"503"	"00181"	"074"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	4	"Stable Disease"	1	"Yes"	347
+"504"	"00181"	"074"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	4	"Stable Disease"	2	"No"	389
+"505"	"00182"	"063"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	94
+"506"	"00184"	"076"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	92
+"507"	"00184"	"076"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	155
+"508"	"00184"	"076"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	4	"Stable Disease"	2	"No"	251
+"509"	"00185"	"113"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	2	"No"	87
+"510"	"00186"	"149"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"Partial Response"	2	"No"	74
+"511"	"00186"	"149"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"Partial Response"	2	"No"	137
+"512"	"00187"	"107"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	3	"Progressive Disease"	2	"No"	91
+"513"	"00188"	"118"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"Partial Response"	2	"No"	98
+"514"	"00188"	"118"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	3	"Progressive Disease"	2	"No"	164
+"515"	"00189"	"089"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"Partial Response"	1	"Yes"	82
+"516"	"00190"	"157"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	84
+"517"	"00190"	"157"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	147
+"518"	"00191"	"151"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	73
+"519"	"00191"	"151"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	147
+"520"	"00191"	"151"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	210
+"521"	"00191"	"151"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	4	"Stable Disease"	1	"Yes"	232
+"522"	"00192"	"122"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	67
+"523"	"00192"	"122"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	129
+"524"	"00193"	"011"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"Partial Response"	2	"No"	76
+"525"	"00193"	"011"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"Partial Response"	2	"No"	139
+"526"	"00193"	"011"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"Partial Response"	2	"No"	202
+"527"	"00194"	"119"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	81
+"528"	"00194"	"119"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	144
+"529"	"00195"	"091"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	70
+"530"	"00195"	"091"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	133
+"531"	"00195"	"091"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	208
+"532"	"00195"	"091"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	4	"Stable Disease"	2	"No"	231
+"533"	"00197"	"112"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	84
+"534"	"00197"	"112"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	4	"Stable Disease"	2	"No"	147
+"535"	"00198"	"009"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	76
+"536"	"00198"	"009"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	139
+"537"	"00198"	"009"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	202
+"538"	"00198"	"009"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	4	"Stable Disease"	2	"No"	265
+"539"	"00199"	"014"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	73
+"540"	"00200"	"082"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	74
+"541"	"00200"	"082"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	136
+"542"	"00200"	"082"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	207
+"543"	"00201"	"050"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	98
+"544"	"00201"	"050"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	161
+"545"	"00201"	"050"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	230
+"546"	"00201"	"050"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	4	"Stable Disease"	2	"No"	293
+"547"	"00201"	"050"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	4	"Stable Disease"	2	"No"	363
+"548"	"00201"	"050"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	4	"Stable Disease"	1	"Yes"	412
+"549"	"00202"	"004"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	70
+"550"	"00202"	"004"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	1	"Yes"	135
+"551"	"00203"	"082"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	99
+"552"	"00204"	"008"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	72
+"553"	"00204"	"008"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	135
+"554"	"00204"	"008"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	198
+"555"	"00204"	"008"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	4	"Stable Disease"	2	"No"	219
+"556"	"00205"	"015"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	70
+"557"	"00205"	"015"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	132
+"558"	"00205"	"015"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	196
+"559"	"00205"	"015"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	4	"Stable Disease"	2	"No"	259
+"560"	"00206"	"154"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	87
+"561"	"00206"	"154"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	164
+"562"	"00206"	"154"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	241
+"563"	"00207"	"126"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	86
+"564"	"00207"	"126"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	2	"No"	152
+"565"	"00208"	"011"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	78
+"566"	"00208"	"011"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	141
+"567"	"00209"	"107"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	71
+"568"	"00209"	"107"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	134
+"569"	"00209"	"107"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	198
+"570"	"00209"	"107"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	4	"Stable Disease"	2	"No"	260
+"571"	"00209"	"107"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	4	"Stable Disease"	2	"No"	322
+"572"	"00210"	"048"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	71
+"573"	"00210"	"048"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	4	"Stable Disease"	2	"No"	134
+"574"	"00211"	"058"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	70
+"575"	"00211"	"058"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	133
+"576"	"00211"	"058"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	196
+"577"	"00212"	"128"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	4	"Stable Disease"	2	"No"	93
+"578"	"00214"	"059"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	4	"Stable Disease"	2	"No"	106
+"579"	"00215"	"103"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	68
+"580"	"00215"	"103"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	131
+"581"	"00215"	"103"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	4	"Stable Disease"	1	"Yes"	173
+"582"	"00216"	"008"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	90
+"583"	"00216"	"008"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	152
+"584"	"00216"	"008"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	2	"No"	216
+"585"	"00217"	"042"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	76
+"586"	"00217"	"042"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	139
+"587"	"00217"	"042"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	202
+"588"	"00217"	"042"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	4	"Stable Disease"	2	"No"	266
+"589"	"00217"	"042"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	4	"Stable Disease"	2	"No"	328
+"590"	"00217"	"042"	"CC-5013-PC-002"	19	"Cycle 19 Day 1"	4	"Stable Disease"	2	"No"	391
+"591"	"00218"	"086"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"Partial Response"	2	"No"	78
+"592"	"00218"	"086"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"Partial Response"	2	"No"	141
+"593"	"00218"	"086"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"Partial Response"	2	"No"	204
+"594"	"00218"	"086"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	4	"Stable Disease"	2	"No"	267
+"595"	"00219"	"081"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	70
+"596"	"00220"	"103"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	67
+"597"	"00220"	"103"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	130
+"598"	"00221"	"105"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	87
+"599"	"00221"	"105"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	150
+"600"	"00221"	"105"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	4	"Stable Disease"	2	"No"	198
+"601"	"00222"	"088"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	95
+"602"	"00223"	"081"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	70
+"603"	"00223"	"081"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	133
+"604"	"00223"	"081"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	196
+"605"	"00223"	"081"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	4	"Stable Disease"	2	"No"	266
+"606"	"00223"	"081"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	4	"Stable Disease"	2	"No"	329
+"607"	"00223"	"081"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	4	"Stable Disease"	2	"No"	392
+"608"	"00224"	"158"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	85
+"609"	"00224"	"158"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	152
+"610"	"00224"	"158"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	4	"Stable Disease"	2	"No"	217
+"611"	"00225"	"044"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"Partial Response"	2	"No"	70
+"612"	"00225"	"044"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"Partial Response"	2	"No"	133
+"613"	"00225"	"044"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"Partial Response"	2	"No"	204
+"614"	"00225"	"044"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	2	"No"	266
+"615"	"00227"	"029"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Partial Response"	2	"No"	71
+"616"	"00228"	"004"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	70
+"617"	"00229"	"141"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"Partial Response"	2	"No"	77
+"618"	"00229"	"141"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"Partial Response"	2	"No"	140
+"619"	"00229"	"141"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"Partial Response"	2	"No"	203
+"620"	"00229"	"141"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Partial Response"	2	"No"	266
+"621"	"00230"	"040"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	76
+"622"	"00230"	"040"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"Partial Response"	2	"No"	139
+"623"	"00230"	"040"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Partial Response"	2	"No"	202
+"624"	"00231"	"161"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	78
+"625"	"00231"	"161"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	140
+"626"	"00232"	"044"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	70
+"627"	"00232"	"044"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	133
+"628"	"00232"	"044"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	2	"No"	196
+"629"	"00233"	"139"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	82
+"630"	"00235"	"134"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	69
+"631"	"00236"	"074"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	1	"Yes"	86
+"632"	"00236"	"074"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	4	"Stable Disease"	2	"No"	148
+"633"	"00237"	"050"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	72
+"634"	"00237"	"050"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	134
+"635"	"00237"	"050"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	203
+"636"	"00237"	"050"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	4	"Stable Disease"	2	"No"	245
+"637"	"00238"	"005"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	78
+"638"	"00238"	"005"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	148
+"639"	"00238"	"005"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	225
+"640"	"00239"	"027"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	91
+"641"	"00240"	"107"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	71
+"642"	"00240"	"107"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"Partial Response"	2	"No"	139
+"643"	"00240"	"107"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"Partial Response"	2	"No"	205
+"644"	"00241"	"146"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	77
+"645"	"00241"	"146"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"Partial Response"	2	"No"	140
+"646"	"00242"	"089"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	89
+"647"	"00242"	"089"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	152
+"648"	"00242"	"089"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	215
+"649"	"00242"	"089"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"Partial Response"	2	"No"	279
+"650"	"00242"	"089"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	2	"Partial Response"	2	"No"	342
+"651"	"00243"	"163"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	88
+"652"	"00243"	"163"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"Partial Response"	2	"No"	151
+"653"	"00243"	"163"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"Partial Response"	2	"No"	214
+"654"	"00244"	"051"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	73
+"655"	"00244"	"051"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	136
+"656"	"00244"	"051"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	197
+"657"	"00244"	"051"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	4	"Stable Disease"	2	"No"	268
+"658"	"00245"	"012"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"Partial Response"	2	"No"	78
+"659"	"00245"	"012"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"Partial Response"	2	"No"	141
+"660"	"00245"	"012"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"Partial Response"	2	"No"	204
+"661"	"00245"	"012"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Partial Response"	2	"No"	225
+"662"	"00246"	"125"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	2	"No"	86
+"663"	"00248"	"044"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	4	"Stable Disease"	1	"Yes"	63
+"664"	"00249"	"126"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	78
+"665"	"00249"	"126"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	141
+"666"	"00249"	"126"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	209
+"667"	"00249"	"126"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	4	"Stable Disease"	2	"No"	274
+"668"	"00249"	"126"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	2	"No"	337
+"669"	"00250"	"032"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	72
+"670"	"00250"	"032"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	134
+"671"	"00250"	"032"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	197
+"672"	"00250"	"032"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	4	"Stable Disease"	2	"No"	260
+"673"	"00251"	"020"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	3	"Progressive Disease"	2	"No"	71
+"674"	"00251"	"020"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"Partial Response"	2	"No"	133
+"675"	"00251"	"020"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	3	"Progressive Disease"	2	"No"	197
+"676"	"00252"	"007"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	74
+"677"	"00252"	"007"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	137
+"678"	"00252"	"007"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	203
+"679"	"00252"	"007"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	4	"Stable Disease"	2	"No"	263
+"680"	"00253"	"006"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"Partial Response"	2	"No"	91
+"681"	"00253"	"006"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"Partial Response"	2	"No"	166
+"682"	"00253"	"006"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"Partial Response"	2	"No"	229
+"683"	"00253"	"006"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"Partial Response"	2	"No"	294
+"684"	"00253"	"006"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	2	"Partial Response"	2	"No"	357
+"685"	"00254"	"130"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"Partial Response"	2	"No"	76
+"686"	"00254"	"130"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	154
+"687"	"00254"	"130"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	2	"No"	210
+"688"	"00255"	"109"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	83
+"689"	"00255"	"109"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	147
+"690"	"00255"	"109"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	211
+"691"	"00255"	"109"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	4	"Stable Disease"	2	"No"	280
+"692"	"00255"	"109"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	4	"Stable Disease"	2	"No"	345
+"693"	"00256"	"085"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	73
+"694"	"00256"	"085"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	2	"No"	136
+"695"	"00257"	"039"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	72
+"696"	"00257"	"039"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	1	"Yes"	155
+"697"	"00258"	"034"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	69
+"698"	"00258"	"034"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	132
+"699"	"00259"	"164"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	1	"Yes"	94
+"700"	"00260"	"083"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	92
+"701"	"00261"	"013"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	83
+"702"	"00261"	"013"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	146
+"703"	"00261"	"013"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	209
+"704"	"00261"	"013"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	4	"Stable Disease"	2	"No"	272
+"705"	"00261"	"013"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	4	"Stable Disease"	2	"No"	342
+"706"	"00261"	"013"	"CC-5013-PC-002"	19	"Cycle 19 Day 1"	4	"Stable Disease"	2	"No"	405
+"707"	"00261"	"013"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	1	"Yes"	444
+"708"	"00262"	"089"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"Partial Response"	2	"No"	81
+"709"	"00262"	"089"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"Partial Response"	2	"No"	151
+"710"	"00262"	"089"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	95	"Not Done"	2	"No"	221
+"711"	"00262"	"089"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Partial Response"	2	"No"	251
+"712"	"00263"	"153"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	75
+"713"	"00263"	"153"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	2	"No"	144
+"714"	"00264"	"151"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	79
+"715"	"00264"	"151"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"Partial Response"	2	"No"	144
+"716"	"00264"	"151"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"Partial Response"	2	"No"	205
+"717"	"00266"	"142"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	2	"No"	52
+"718"	"00267"	"083"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	1	"Yes"	91
+"719"	"00267"	"083"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	155
+"720"	"00268"	"099"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"Partial Response"	2	"No"	91
+"721"	"00268"	"099"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	19	"Inevaluable for Response"	2	"No"	162
+"722"	"00268"	"099"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	19	"Inevaluable for Response"	2	"No"	204
+"723"	"00269"	"074"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"Partial Response"	2	"No"	72
+"724"	"00269"	"074"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"Partial Response"	2	"No"	135
+"725"	"00269"	"074"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"Partial Response"	2	"No"	199
+"726"	"00269"	"074"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"Partial Response"	2	"No"	262
+"727"	"00269"	"074"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	2	"No"	325
+"728"	"00270"	"019"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	97
+"729"	"00270"	"019"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	174
+"730"	"00270"	"019"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	95	"Not Done"	2	"No"	193
+"731"	"00271"	"001"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	85
+"732"	"00271"	"001"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	148
+"733"	"00271"	"001"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	211
+"734"	"00272"	"138"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	84
+"735"	"00272"	"138"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	4	"Stable Disease"	2	"No"	147
+"736"	"00273"	"150"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	70
+"737"	"00273"	"150"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	133
+"738"	"00273"	"150"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	4	"Stable Disease"	2	"No"	196
+"739"	"00274"	"060"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	88
+"740"	"00274"	"060"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	151
+"741"	"00274"	"060"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	214
+"742"	"00275"	"114"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	3	"Progressive Disease"	2	"No"	78
+"743"	"00275"	"114"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	2	"No"	79
+"744"	"00276"	"049"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	83
+"745"	"00276"	"049"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	147
+"746"	"00276"	"049"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	209
+"747"	"00276"	"049"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	4	"Stable Disease"	2	"No"	251
+"748"	"00278"	"067"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	72
+"749"	"00278"	"067"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	135
+"750"	"00278"	"067"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	198
+"751"	"00278"	"067"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	4	"Stable Disease"	2	"No"	261
+"752"	"00278"	"067"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	4	"Stable Disease"	2	"No"	324
+"753"	"00278"	"067"	"CC-5013-PC-002"	19	"Cycle 19 Day 1"	4	"Stable Disease"	2	"No"	387
+"754"	"00279"	"038"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	3	"Progressive Disease"	2	"No"	89
+"755"	"00279"	"038"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	2	"No"	155
+"756"	"00280"	"050"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"Partial Response"	2	"No"	82
+"757"	"00280"	"050"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	152
+"758"	"00280"	"050"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	2	"No"	180
+"759"	"00281"	"019"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	71
+"760"	"00281"	"019"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Complete Response"	2	"No"	135
+"761"	"00281"	"019"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Complete Response"	2	"No"	198
+"762"	"00282"	"098"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	70
+"763"	"00282"	"098"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"Partial Response"	2	"No"	133
+"764"	"00282"	"098"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"Partial Response"	2	"No"	196
+"765"	"00282"	"098"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"Partial Response"	2	"No"	260
+"766"	"00283"	"005"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	77
+"767"	"00284"	"137"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	4	"Stable Disease"	1	"Yes"	49
+"768"	"00285"	"071"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	70
+"769"	"00286"	"050"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	79
+"770"	"00286"	"050"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	147
+"771"	"00286"	"050"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	212
+"772"	"00286"	"050"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	4	"Stable Disease"	2	"No"	275
+"773"	"00286"	"050"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	4	"Stable Disease"	2	"No"	344
+"774"	"00286"	"050"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	4	"Stable Disease"	1	"Yes"	428
+"775"	"00287"	"131"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	1	"Yes"	80
+"776"	"00288"	"065"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	85
+"777"	"00288"	"065"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	148
+"778"	"00288"	"065"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	2	"No"	211
+"779"	"00289"	"015"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	91
+"780"	"00289"	"015"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	155
+"781"	"00289"	"015"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	217
+"782"	"00289"	"015"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	4	"Stable Disease"	2	"No"	280
+"783"	"00289"	"015"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	4	"Stable Disease"	2	"No"	343
+"784"	"00289"	"015"	"CC-5013-PC-002"	19	"Cycle 19 Day 1"	4	"Stable Disease"	2	"No"	406
+"785"	"00289"	"015"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	2	"No"	469
+"786"	"00290"	"161"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Complete Response"	2	"No"	75
+"787"	"00290"	"161"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Complete Response"	2	"No"	139
+"788"	"00291"	"070"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	84
+"789"	"00291"	"070"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	148
+"790"	"00292"	"141"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	87
+"791"	"00292"	"141"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"Partial Response"	2	"No"	150
+"792"	"00292"	"141"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"Partial Response"	2	"No"	211
+"793"	"00292"	"141"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	2	"No"	276
+"794"	"00293"	"010"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Partial Response"	2	"No"	23
+"795"	"00294"	"009"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"Partial Response"	2	"No"	79
+"796"	"00294"	"009"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"Partial Response"	2	"No"	142
+"797"	"00294"	"009"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"Partial Response"	2	"No"	205
+"798"	"00294"	"009"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"Partial Response"	2	"No"	268
+"799"	"00294"	"009"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	2	"Partial Response"	2	"No"	331
+"800"	"00295"	"055"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	72
+"801"	"00295"	"055"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	135
+"802"	"00295"	"055"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	198
+"803"	"00295"	"055"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	4	"Stable Disease"	2	"No"	261
+"804"	"00295"	"055"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	4	"Stable Disease"	2	"No"	324
+"805"	"00295"	"055"	"CC-5013-PC-002"	19	"Cycle 19 Day 1"	4	"Stable Disease"	2	"No"	387
+"806"	"00295"	"055"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	4	"Stable Disease"	2	"No"	527
+"807"	"00296"	"159"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	91
+"808"	"00296"	"159"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	154
+"809"	"00296"	"159"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	217
+"810"	"00296"	"159"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	2	"No"	280
+"811"	"00298"	"050"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	83
+"812"	"00299"	"062"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	85
+"813"	"00299"	"062"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	148
+"814"	"00299"	"062"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	4	"Stable Disease"	1	"Yes"	211
+"815"	"00300"	"042"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	85
+"816"	"00300"	"042"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	147
+"817"	"00300"	"042"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	4	"Stable Disease"	2	"No"	210
+"818"	"00301"	"117"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	78
+"819"	"00301"	"117"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	140
+"820"	"00302"	"121"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Partial Response"	2	"No"	86
+"821"	"00303"	"126"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	86
+"822"	"00303"	"126"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	148
+"823"	"00303"	"126"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	219
+"824"	"00304"	"008"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	79
+"825"	"00304"	"008"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	142
+"826"	"00304"	"008"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	206
+"827"	"00304"	"008"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	2	"No"	268
+"828"	"00305"	"096"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	70
+"829"	"00305"	"096"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	133
+"830"	"00305"	"096"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Partial Response"	2	"No"	196
+"831"	"00306"	"111"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	75
+"832"	"00306"	"111"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	152
+"833"	"00306"	"111"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	222
+"834"	"00306"	"111"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	3	"Progressive Disease"	2	"No"	285
+"835"	"00306"	"111"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	4	"Stable Disease"	2	"No"	348
+"836"	"00306"	"111"	"CC-5013-PC-002"	19	"Cycle 19 Day 1"	4	"Stable Disease"	2	"No"	411
+"837"	"00307"	"085"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	81
+"838"	"00307"	"085"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	4	"Stable Disease"	2	"No"	161
+"839"	"00307"	"085"	"CC-5013-PC-002"	99	"Unscheduled"	4	"Stable Disease"	2	"No"	144
+"840"	"00308"	"060"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	74
+"841"	"00308"	"060"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	137
+"842"	"00308"	"060"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"Partial Response"	2	"No"	200
+"843"	"00309"	"156"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	1	"Yes"	66
+"844"	"00310"	"151"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	70
+"845"	"00310"	"151"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	133
+"846"	"00311"	"007"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	77
+"847"	"00311"	"007"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	1	"Yes"	140
+"848"	"00312"	"014"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	2	"No"	72
+"849"	"00312"	"014"	"CC-5013-PC-002"	99	"Unscheduled"	95	"Not Done"	2	"No"	39
+"850"	"00314"	"050"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	86
+"851"	"00315"	"157"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"Partial Response"	2	"No"	84
+"852"	"00315"	"157"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"Partial Response"	2	"No"	147
+"853"	"00315"	"157"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Partial Response"	2	"No"	191
+"854"	"00316"	"072"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	95
+"855"	"00316"	"072"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	218
+"856"	"00316"	"072"	"CC-5013-PC-002"	99	"Unscheduled"	4	"Stable Disease"	2	"No"	186
+"857"	"00317"	"118"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	78
+"858"	"00317"	"118"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	142
+"859"	"00317"	"118"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	205
+"860"	"00318"	"157"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"Partial Response"	2	"No"	77
+"861"	"00318"	"157"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Partial Response"	2	"No"	142
+"862"	"00319"	"112"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"Partial Response"	2	"No"	77
+"863"	"00319"	"112"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"Partial Response"	2	"No"	140
+"864"	"00319"	"112"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"Partial Response"	2	"No"	203
+"865"	"00320"	"157"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"Partial Response"	2	"No"	98
+"866"	"00320"	"157"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"Partial Response"	2	"No"	175
+"867"	"00321"	"024"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	70
+"868"	"00321"	"024"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	140
+"869"	"00321"	"024"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	217
+"870"	"00321"	"024"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	1	"Yes"	263
+"871"	"00321"	"024"	"CC-5013-PC-002"	99	"Unscheduled"	3	"Progressive Disease"	1	"Yes"	256
+"872"	"00321"	"024"	"CC-5013-PC-002"	99	"Unscheduled"	3	"Progressive Disease"	1	"Yes"	264
+"873"	"00322"	"061"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	65
+"874"	"00322"	"061"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	95	"Not Done"	2	"No"	128
+"875"	"00322"	"061"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	191
+"876"	"00322"	"061"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	1	"Yes"	254
+"877"	"00323"	"050"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	69
+"878"	"00324"	"035"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	85
+"879"	"00325"	"019"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	113
+"880"	"00325"	"019"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	176
+"881"	"00325"	"019"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	239
+"882"	"00326"	"032"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	74
+"883"	"00326"	"032"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	137
+"884"	"00326"	"032"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	200
+"885"	"00326"	"032"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	4	"Stable Disease"	2	"No"	263
+"886"	"00326"	"032"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	2	"No"	281
+"887"	"00327"	"127"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	81
+"888"	"00328"	"004"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	69
+"889"	"00328"	"004"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	132
+"890"	"00329"	"049"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"Partial Response"	2	"No"	91
+"891"	"00329"	"049"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"Partial Response"	2	"No"	161
+"892"	"00329"	"049"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"Partial Response"	2	"No"	224
+"893"	"00329"	"049"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Partial Response"	2	"No"	266
+"894"	"00330"	"007"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	74
+"895"	"00330"	"007"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	137
+"896"	"00330"	"007"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	200
+"897"	"00330"	"007"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	4	"Stable Disease"	2	"No"	263
+"898"	"00330"	"007"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	4	"Stable Disease"	2	"No"	326
+"899"	"00330"	"007"	"CC-5013-PC-002"	19	"Cycle 19 Day 1"	4	"Stable Disease"	2	"No"	396
+"900"	"00330"	"007"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	4	"Stable Disease"	2	"No"	438
+"901"	"00331"	"073"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"Partial Response"	2	"No"	72
+"902"	"00331"	"073"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"Partial Response"	2	"No"	133
+"903"	"00331"	"073"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"Partial Response"	2	"No"	197
+"904"	"00331"	"073"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"Partial Response"	2	"No"	259
+"905"	"00331"	"073"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	2	"Partial Response"	2	"No"	325
+"906"	"00331"	"073"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	2	"No"	387
+"907"	"00332"	"063"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	63
+"908"	"00332"	"063"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	130
+"909"	"00332"	"063"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	193
+"910"	"00332"	"063"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	4	"Stable Disease"	2	"No"	256
+"911"	"00332"	"063"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	19	"Inevaluable for Response"	2	"No"	312
+"912"	"00333"	"042"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	NA	""	NA	""	NA
+"913"	"00333"	"042"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	2	"No"	70
+"914"	"00334"	"085"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	76
+"915"	"00334"	"085"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	1	"Yes"	139
+"916"	"00334"	"085"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	208
+"917"	"00334"	"085"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	4	"Stable Disease"	2	"No"	271
+"918"	"00335"	"123"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	2	"No"	91
+"919"	"00337"	"156"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	76
+"920"	"00337"	"156"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	139
+"921"	"00337"	"156"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	202
+"922"	"00337"	"156"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	3	"Progressive Disease"	2	"No"	272
+"923"	"00338"	"042"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	82
+"924"	"00338"	"042"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	3	"Progressive Disease"	2	"No"	145
+"925"	"00339"	"092"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	63
+"926"	"00339"	"092"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"Partial Response"	2	"No"	126
+"927"	"00339"	"092"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	2	"No"	189
+"928"	"00340"	"082"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"Partial Response"	2	"No"	70
+"929"	"00341"	"090"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	76
+"930"	"00341"	"090"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	139
+"931"	"00341"	"090"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	202
+"932"	"00341"	"090"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	4	"Stable Disease"	2	"No"	267
+"933"	"00341"	"090"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	2	"No"	307
+"934"	"00342"	"081"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	3	"Progressive Disease"	2	"No"	78
+"935"	"00342"	"081"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	1	"Yes"	141
+"936"	"00343"	"059"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"Partial Response"	2	"No"	92
+"937"	"00343"	"059"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"Partial Response"	2	"No"	155
+"938"	"00343"	"059"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"Partial Response"	2	"No"	218
+"939"	"00343"	"059"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"Partial Response"	2	"No"	283
+"940"	"00343"	"059"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	2	"Partial Response"	2	"No"	344
+"941"	"00343"	"059"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Partial Response"	2	"No"	386
+"942"	"00344"	"017"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	91
+"943"	"00344"	"017"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	161
+"944"	"00344"	"017"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	231
+"945"	"00344"	"017"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	4	"Stable Disease"	2	"No"	301
+"946"	"00344"	"017"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	4	"Stable Disease"	2	"No"	371
+"947"	"00344"	"017"	"CC-5013-PC-002"	19	"Cycle 19 Day 1"	4	"Stable Disease"	2	"No"	434
+"948"	"00344"	"017"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	2	"No"	504
+"949"	"00344"	"017"	"CC-5013-PC-002"	99	"Unscheduled"	4	"Stable Disease"	2	"No"	154
+"950"	"00345"	"081"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	70
+"951"	"00345"	"081"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	138
+"952"	"00345"	"081"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	201
+"953"	"00345"	"081"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	4	"Stable Disease"	2	"No"	273
+"954"	"00346"	"102"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	77
+"955"	"00346"	"102"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	140
+"956"	"00346"	"102"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	203
+"957"	"00346"	"102"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	4	"Stable Disease"	2	"No"	273
+"958"	"00346"	"102"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	3	"Progressive Disease"	2	"No"	336
+"959"	"00346"	"102"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	1	"Yes"	357
+"960"	"00347"	"091"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	4	"Stable Disease"	2	"No"	77
+"961"	"00348"	"062"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"Partial Response"	2	"No"	92
+"962"	"00348"	"062"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	155
+"963"	"00349"	"053"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"Partial Response"	2	"No"	74
+"964"	"00349"	"053"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	137
+"965"	"00349"	"053"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	199
+"966"	"00349"	"053"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	2	"No"	263
+"967"	"00350"	"094"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	84
+"968"	"00350"	"094"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	4	"Stable Disease"	2	"No"	158
+"969"	"00351"	"109"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	84
+"970"	"00351"	"109"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	161
+"971"	"00352"	"141"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	92
+"972"	"00353"	"098"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	73
+"973"	"00353"	"098"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	137
+"974"	"00353"	"098"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	210
+"975"	"00353"	"098"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	4	"Stable Disease"	2	"No"	274
+"976"	"00353"	"098"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	4	"Stable Disease"	2	"No"	337
+"977"	"00354"	"150"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	100
+"978"	"00355"	"094"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	89
+"979"	"00355"	"094"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	154
+"980"	"00355"	"094"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	215
+"981"	"00356"	"003"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	72
+"982"	"00356"	"003"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	2	"No"	135
+"983"	"00357"	"126"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	80
+"984"	"00357"	"126"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	140
+"985"	"00357"	"126"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"Partial Response"	2	"No"	202
+"986"	"00357"	"126"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"Partial Response"	2	"No"	269
+"987"	"00357"	"126"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	2	"Partial Response"	2	"No"	332
+"988"	"00357"	"126"	"CC-5013-PC-002"	19	"Cycle 19 Day 1"	2	"Partial Response"	2	"No"	391
+"989"	"00357"	"126"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Partial Response"	2	"No"	462
+"990"	"00358"	"015"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	96
+"991"	"00358"	"015"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	2	"No"	158
+"992"	"00359"	"046"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	84
+"993"	"00359"	"046"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	147
+"994"	"00360"	"051"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	70
+"995"	"00360"	"051"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	133
+"996"	"00362"	"129"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	72
+"997"	"00362"	"129"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	135
+"998"	"00362"	"129"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	198
+"999"	"00362"	"129"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	4	"Stable Disease"	2	"No"	261
+"1000"	"00362"	"129"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	4	"Stable Disease"	2	"No"	316
+"1001"	"00363"	"011"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"Partial Response"	2	"No"	80
+"1002"	"00363"	"011"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	143
+"1003"	"00363"	"011"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"Partial Response"	1	"Yes"	206
+"1004"	"00363"	"011"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	4	"Stable Disease"	1	"Yes"	227
+"1005"	"00364"	"071"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"Partial Response"	2	"No"	98
+"1006"	"00364"	"071"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"Partial Response"	2	"No"	161
+"1007"	"00364"	"071"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"Partial Response"	2	"No"	231
+"1008"	"00364"	"071"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Partial Response"	2	"No"	301
+"1009"	"00365"	"139"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	72
+"1010"	"00365"	"139"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	135
+"1011"	"00365"	"139"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	198
+"1012"	"00365"	"139"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	4	"Stable Disease"	2	"No"	261
+"1013"	"00366"	"114"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	1	"Yes"	81
+"1014"	"00366"	"114"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	145
+"1015"	"00366"	"114"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	3	"Progressive Disease"	2	"No"	208
+"1016"	"00366"	"114"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	3	"Progressive Disease"	2	"No"	272
+"1017"	"00366"	"114"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	3	"Progressive Disease"	2	"No"	335
+"1018"	"00366"	"114"	"CC-5013-PC-002"	19	"Cycle 19 Day 1"	3	"Progressive Disease"	2	"No"	398
+"1019"	"00366"	"114"	"CC-5013-PC-002"	19	"Cycle 22 Day 1"	3	"Progressive Disease"	2	"No"	461
+"1020"	"00367"	"016"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	84
+"1021"	"00368"	"135"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	1	"Yes"	75
+"1022"	"00369"	"007"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	77
+"1023"	"00369"	"007"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	140
+"1024"	"00369"	"007"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	1	"Yes"	203
+"1025"	"00370"	"014"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	79
+"1026"	"00370"	"014"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	NA	""	NA	""	NA
+"1027"	"00370"	"014"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	1	"Yes"	142
+"1028"	"00371"	"015"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	82
+"1029"	"00371"	"015"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	145
+"1030"	"00371"	"015"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	2	"No"	189
+"1031"	"00372"	"120"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	90
+"1032"	"00372"	"120"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	2	"No"	133
+"1033"	"00373"	"026"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	95
+"1034"	"00373"	"026"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	19	"Inevaluable for Response"	2	"No"	159
+"1035"	"00373"	"026"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	222
+"1036"	"00373"	"026"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	4	"Stable Disease"	2	"No"	287
+"1037"	"00373"	"026"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	4	"Stable Disease"	2	"No"	356
+"1038"	"00374"	"050"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	91
+"1039"	"00374"	"050"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	154
+"1040"	"00374"	"050"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	216
+"1041"	"00374"	"050"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	4	"Stable Disease"	2	"No"	280
+"1042"	"00374"	"050"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	4	"Stable Disease"	2	"No"	350
+"1043"	"00375"	"156"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	80
+"1044"	"00375"	"156"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	150
+"1045"	"00375"	"156"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	1	"Yes"	213
+"1046"	"00376"	"048"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"Partial Response"	2	"No"	67
+"1047"	"00376"	"048"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Partial Response"	2	"No"	130
+"1048"	"00377"	"150"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	90
+"1049"	"00377"	"150"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	153
+"1050"	"00377"	"150"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	224
+"1051"	"00377"	"150"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	4	"Stable Disease"	2	"No"	257
+"1052"	"00378"	"125"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	89
+"1053"	"00379"	"042"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	91
+"1054"	"00379"	"042"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	3	"Progressive Disease"	2	"No"	154
+"1055"	"00380"	"021"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	75
+"1056"	"00381"	"090"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	119
+"1057"	"00381"	"090"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	182
+"1058"	"00381"	"090"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	250
+"1059"	"00381"	"090"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	4	"Stable Disease"	2	"No"	313
+"1060"	"00381"	"090"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	4	"Stable Disease"	2	"No"	391
+"1061"	"00383"	"091"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	65
+"1062"	"00383"	"091"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	128
+"1063"	"00383"	"091"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	NA	""	NA	""	NA
+"1064"	"00383"	"091"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	4	"Stable Disease"	1	"Yes"	198
+"1065"	"00384"	"021"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	76
+"1066"	"00384"	"021"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	139
+"1067"	"00384"	"021"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	202
+"1068"	"00384"	"021"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	1	"Yes"	251
+"1069"	"00385"	"148"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	78
+"1070"	"00385"	"148"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	4	"Stable Disease"	2	"No"	141
+"1071"	"00386"	"126"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	71
+"1072"	"00386"	"126"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	2	"No"	133
+"1073"	"00387"	"061"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	1	"Complete Response"	2	"No"	77
+"1074"	"00387"	"061"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	1	"Complete Response"	2	"No"	147
+"1075"	"00387"	"061"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Complete Response"	2	"No"	210
+"1076"	"00387"	"061"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	1	"Complete Response"	2	"No"	280
+"1077"	"00387"	"061"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	3	"Progressive Disease"	2	"No"	343
+"1078"	"00387"	"061"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	95	"Not Done"	2	"No"	364
+"1079"	"00388"	"082"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	4	"Stable Disease"	1	"Yes"	101
+"1080"	"00389"	"051"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	85
+"1081"	"00389"	"051"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	150
+"1082"	"00389"	"051"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	214
+"1083"	"00389"	"051"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	4	"Stable Disease"	2	"No"	276
+"1084"	"00389"	"051"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	4	"Stable Disease"	2	"No"	337
+"1085"	"00389"	"051"	"CC-5013-PC-002"	19	"Cycle 19 Day 1"	3	"Progressive Disease"	2	"No"	402
+"1086"	"00389"	"051"	"CC-5013-PC-002"	19	"Cycle 22 Day 1"	3	"Progressive Disease"	2	"No"	477
+"1087"	"00389"	"051"	"CC-5013-PC-002"	19	"Cycle 25 Day 1"	3	"Progressive Disease"	2	"No"	547
+"1088"	"00389"	"051"	"CC-5013-PC-002"	19	"Cycle 28 Day 1"	3	"Progressive Disease"	2	"No"	612
+"1089"	"00389"	"051"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	2	"No"	675
+"1090"	"00390"	"098"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	68
+"1091"	"00391"	"098"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	68
+"1092"	"00391"	"098"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	131
+"1093"	"00392"	"026"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	86
+"1094"	"00392"	"026"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	149
+"1095"	"00393"	"157"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	104
+"1096"	"00393"	"157"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	167
+"1097"	"00393"	"157"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	230
+"1098"	"00393"	"157"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	4	"Stable Disease"	2	"No"	295
+"1099"	"00394"	"043"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	80
+"1100"	"00394"	"043"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	147
+"1101"	"00395"	"037"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	88
+"1102"	"00396"	"032"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	69
+"1103"	"00396"	"032"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	132
+"1104"	"00396"	"032"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	194
+"1105"	"00397"	"134"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	69
+"1106"	"00397"	"134"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	132
+"1107"	"00397"	"134"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	195
+"1108"	"00398"	"051"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	72
+"1109"	"00398"	"051"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	136
+"1110"	"00398"	"051"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	3	"Progressive Disease"	1	"Yes"	197
+"1111"	"00400"	"116"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"Partial Response"	2	"No"	90
+"1112"	"00400"	"116"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"Partial Response"	2	"No"	153
+"1113"	"00400"	"116"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"Partial Response"	2	"No"	216
+"1114"	"00401"	"154"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"Partial Response"	2	"No"	92
+"1115"	"00403"	"111"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	70
+"1116"	"00403"	"111"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"Partial Response"	2	"No"	133
+"1117"	"00403"	"111"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"Partial Response"	2	"No"	196
+"1118"	"00404"	"006"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	68
+"1119"	"00404"	"006"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"Partial Response"	2	"No"	131
+"1120"	"00404"	"006"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"Partial Response"	2	"No"	193
+"1121"	"00404"	"006"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"Partial Response"	2	"No"	257
+"1122"	"00404"	"006"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	1	"Yes"	336
+"1123"	"00406"	"111"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	75
+"1124"	"00406"	"111"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	4	"Stable Disease"	1	"Yes"	140
+"1125"	"00407"	"143"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"Partial Response"	2	"No"	70
+"1126"	"00407"	"143"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"Partial Response"	2	"No"	134
+"1127"	"00407"	"143"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"Partial Response"	2	"No"	195
+"1128"	"00407"	"143"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"Partial Response"	2	"No"	261
+"1129"	"00408"	"045"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	86
+"1130"	"00408"	"045"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	149
+"1131"	"00408"	"045"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	213
+"1132"	"00409"	"107"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"Partial Response"	2	"No"	92
+"1133"	"00409"	"107"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"Partial Response"	2	"No"	157
+"1134"	"00409"	"107"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"Partial Response"	2	"No"	220
+"1135"	"00409"	"107"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"Partial Response"	2	"No"	281
+"1136"	"00409"	"107"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	2	"Partial Response"	2	"No"	344
+"1137"	"00410"	"133"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	71
+"1138"	"00411"	"004"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	4	"Stable Disease"	1	"Yes"	45
+"1139"	"00412"	"101"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	79
+"1140"	"00412"	"101"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	4	"Stable Disease"	2	"No"	141
+"1141"	"00413"	"152"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	69
+"1142"	"00413"	"152"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	132
+"1143"	"00413"	"152"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	195
+"1144"	"00413"	"152"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	4	"Stable Disease"	2	"No"	258
+"1145"	"00413"	"152"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	4	"Stable Disease"	2	"No"	321
+"1146"	"00413"	"152"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	95	"Not Done"	2	"No"	352
+"1147"	"00414"	"015"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	71
+"1148"	"00414"	"015"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	134
+"1149"	"00415"	"048"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"Partial Response"	2	"No"	79
+"1150"	"00415"	"048"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"Partial Response"	2	"No"	142
+"1151"	"00415"	"048"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"Partial Response"	2	"No"	205
+"1152"	"00415"	"048"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"Partial Response"	2	"No"	268
+"1153"	"00416"	"126"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"Partial Response"	2	"No"	86
+"1154"	"00416"	"126"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"Partial Response"	2	"No"	152
+"1155"	"00416"	"126"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"Partial Response"	2	"No"	212
+"1156"	"00416"	"126"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"Partial Response"	2	"No"	274
+"1157"	"00416"	"126"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	2	"Partial Response"	2	"No"	338
+"1158"	"00416"	"126"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	2	"No"	401
+"1159"	"00417"	"074"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	1	"Yes"	81
+"1160"	"00417"	"074"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	143
+"1161"	"00417"	"074"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	210
+"1162"	"00417"	"074"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	4	"Stable Disease"	1	"Yes"	269
+"1163"	"00418"	"125"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	96
+"1164"	"00418"	"125"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	161
+"1165"	"00419"	"058"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	91
+"1166"	"00419"	"058"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	2	"No"	118
+"1167"	"00420"	"069"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	77
+"1168"	"00420"	"069"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	140
+"1169"	"00420"	"069"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	1	"Yes"	189
+"1170"	"00421"	"059"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"Partial Response"	2	"No"	76
+"1171"	"00421"	"059"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"Partial Response"	2	"No"	146
+"1172"	"00421"	"059"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"Partial Response"	1	"Yes"	223
+"1173"	"00421"	"059"	"CC-5013-PC-002"	99	"Unscheduled"	NA	""	NA	""	200
+"1174"	"00422"	"148"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"Partial Response"	2	"No"	92
+"1175"	"00423"	"060"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	86
+"1176"	"00423"	"060"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	149
+"1177"	"00423"	"060"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	213
+"1178"	"00423"	"060"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	4	"Stable Disease"	2	"No"	276
+"1179"	"00423"	"060"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	4	"Stable Disease"	2	"No"	315
+"1180"	"00424"	"100"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	75
+"1181"	"00424"	"100"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"Partial Response"	2	"No"	137
+"1182"	"00424"	"100"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"Partial Response"	2	"No"	201
+"1183"	"00425"	"027"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	93
+"1184"	"00425"	"027"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	155
+"1185"	"00426"	"052"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	63
+"1186"	"00426"	"052"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	126
+"1187"	"00426"	"052"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	190
+"1188"	"00426"	"052"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	4	"Stable Disease"	2	"No"	252
+"1189"	"00426"	"052"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	4	"Stable Disease"	2	"No"	315
+"1190"	"00426"	"052"	"CC-5013-PC-002"	19	"Cycle 19 Day 1"	4	"Stable Disease"	2	"No"	378
+"1191"	"00426"	"052"	"CC-5013-PC-002"	19	"Cycle 22 Day 1"	4	"Stable Disease"	2	"No"	446
+"1192"	"00427"	"009"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	79
+"1193"	"00427"	"009"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	142
+"1194"	"00427"	"009"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	204
+"1195"	"00428"	"075"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"Partial Response"	2	"No"	73
+"1196"	"00428"	"075"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"Partial Response"	2	"No"	134
+"1197"	"00429"	"050"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"Partial Response"	2	"No"	153
+"1198"	"00429"	"050"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"Partial Response"	2	"No"	216
+"1199"	"00429"	"050"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Partial Response"	2	"No"	279
+"1200"	"00430"	"118"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	92
+"1201"	"00430"	"118"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	162
+"1202"	"00430"	"118"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	225
+"1203"	"00430"	"118"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	1	"Yes"	288
+"1204"	"00431"	"066"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	72
+"1205"	"00431"	"066"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	135
+"1206"	"00431"	"066"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	198
+"1207"	"00431"	"066"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	4	"Stable Disease"	2	"No"	261
+"1208"	"00433"	"076"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	74
+"1209"	"00433"	"076"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	137
+"1210"	"00433"	"076"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	19	"Inevaluable for Response"	2	"No"	202
+"1211"	"00433"	"076"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	4	"Stable Disease"	2	"No"	265
+"1212"	"00434"	"068"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	90
+"1213"	"00434"	"068"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	3	"Progressive Disease"	2	"No"	153
+"1214"	"00436"	"149"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	73
+"1215"	"00437"	"071"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"Partial Response"	2	"No"	71
+"1216"	"00438"	"101"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	83
+"1217"	"00438"	"101"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	146
+"1218"	"00438"	"101"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"Partial Response"	2	"No"	208
+"1219"	"00439"	"019"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	83
+"1220"	"00439"	"019"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	146
+"1221"	"00439"	"019"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	209
+"1222"	"00440"	"065"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"Partial Response"	2	"No"	77
+"1223"	"00440"	"065"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"Partial Response"	2	"No"	139
+"1224"	"00440"	"065"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Complete Response"	2	"No"	202
+"1225"	"00440"	"065"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"Partial Response"	2	"No"	265
+"1226"	"00440"	"065"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	2	"Partial Response"	2	"No"	335
+"1227"	"00440"	"065"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	2	"No"	429
+"1228"	"00441"	"004"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	72
+"1229"	"00441"	"004"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"Partial Response"	2	"No"	135
+"1230"	"00441"	"004"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"Partial Response"	2	"No"	198
+"1231"	"00441"	"004"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"Partial Response"	2	"No"	262
+"1232"	"00441"	"004"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	2	"Partial Response"	2	"No"	325
+"1233"	"00441"	"004"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	1	"Yes"	366
+"1234"	"00442"	"115"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	143
+"1235"	"00443"	"134"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	66
+"1236"	"00443"	"134"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	129
+"1237"	"00443"	"134"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	192
+"1238"	"00443"	"134"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	4	"Stable Disease"	2	"No"	258
+"1239"	"00443"	"134"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	1	"Yes"	325
+"1240"	"00444"	"050"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	4	"Stable Disease"	2	"No"	47
+"1241"	"00445"	"097"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	71
+"1242"	"00445"	"097"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	135
+"1243"	"00445"	"097"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	205
+"1244"	"00445"	"097"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	4	"Stable Disease"	2	"No"	261
+"1245"	"00445"	"097"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	4	"Stable Disease"	1	"Yes"	330
+"1246"	"00446"	"103"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	67
+"1247"	"00446"	"103"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	130
+"1248"	"00447"	"076"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	75
+"1249"	"00447"	"076"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	2	"No"	136
+"1250"	"00448"	"009"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	70
+"1251"	"00448"	"009"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"Partial Response"	2	"No"	133
+"1252"	"00448"	"009"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"Partial Response"	2	"No"	196
+"1253"	"00449"	"006"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	91
+"1254"	"00449"	"006"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	154
+"1255"	"00449"	"006"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	217
+"1256"	"00449"	"006"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	4	"Stable Disease"	2	"No"	280
+"1257"	"00450"	"069"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	3	"Progressive Disease"	2	"No"	71
+"1258"	"00450"	"069"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	1	"Yes"	140
+"1259"	"00451"	"090"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	73
+"1260"	"00451"	"090"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	137
+"1261"	"00452"	"122"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	78
+"1262"	"00453"	"025"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	79
+"1263"	"00453"	"025"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	149
+"1264"	"00453"	"025"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	212
+"1265"	"00455"	"052"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	77
+"1266"	"00455"	"052"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"Partial Response"	2	"No"	140
+"1267"	"00455"	"052"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"Partial Response"	2	"No"	203
+"1268"	"00455"	"052"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"Partial Response"	2	"No"	266
+"1269"	"00456"	"031"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	3	"Progressive Disease"	1	"Yes"	86
+"1270"	"00456"	"031"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	3	"Progressive Disease"	2	"No"	149
+"1271"	"00456"	"031"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	1	"Yes"	170
+"1272"	"00457"	"098"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"Partial Response"	2	"No"	82
+"1273"	"00457"	"098"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Partial Response"	1	"Yes"	144
+"1274"	"00458"	"141"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	81
+"1275"	"00458"	"141"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	144
+"1276"	"00458"	"141"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	206
+"1277"	"00458"	"141"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	4	"Stable Disease"	2	"No"	270
+"1278"	"00458"	"141"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	4	"Stable Disease"	2	"No"	332
+"1279"	"00459"	"142"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	94
+"1280"	"00459"	"142"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	161
+"1281"	"00459"	"142"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	222
+"1282"	"00460"	"048"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	71
+"1283"	"00460"	"048"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	4	"Stable Disease"	2	"No"	134
+"1284"	"00461"	"151"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"Partial Response"	2	"No"	67
+"1285"	"00461"	"151"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"Partial Response"	2	"No"	133
+"1286"	"00461"	"151"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"Partial Response"	2	"No"	196
+"1287"	"00461"	"151"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"Partial Response"	2	"No"	259
+"1288"	"00461"	"151"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Partial Response"	2	"No"	315
+"1289"	"00462"	"141"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	79
+"1290"	"00462"	"141"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	4	"Stable Disease"	1	"Yes"	143
+"1291"	"00464"	"090"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	68
+"1292"	"00464"	"090"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	132
+"1293"	"00464"	"090"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	193
+"1294"	"00464"	"090"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	1	"Yes"	258
+"1295"	"00465"	"140"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	84
+"1296"	"00465"	"140"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	147
+"1297"	"00465"	"140"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	4	"Stable Disease"	2	"No"	273
+"1298"	"00465"	"140"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	4	"Stable Disease"	2	"No"	337
+"1299"	"00466"	"066"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	79
+"1300"	"00466"	"066"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	142
+"1301"	"00466"	"066"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	205
+"1302"	"00466"	"066"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	4	"Stable Disease"	2	"No"	268
+"1303"	"00467"	"050"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	84
+"1304"	"00467"	"050"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"Partial Response"	2	"No"	145
+"1305"	"00467"	"050"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"Partial Response"	2	"No"	211
+"1306"	"00467"	"050"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"Partial Response"	2	"No"	278
+"1307"	"00467"	"050"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	2	"Partial Response"	2	"No"	363
+"1308"	"00469"	"056"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	74
+"1309"	"00469"	"056"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	137
+"1310"	"00469"	"056"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	4	"Stable Disease"	2	"No"	178
+"1311"	"00470"	"082"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	77
+"1312"	"00471"	"031"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	73
+"1313"	"00471"	"031"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	136
+"1314"	"00471"	"031"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	199
+"1315"	"00471"	"031"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	4	"Stable Disease"	2	"No"	260
+"1316"	"00471"	"031"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	4	"Stable Disease"	2	"No"	323
+"1317"	"00471"	"031"	"CC-5013-PC-002"	19	"Cycle 19 Day 1"	4	"Stable Disease"	2	"No"	386
+"1318"	"00471"	"031"	"CC-5013-PC-002"	19	"Cycle 22 Day 1"	4	"Stable Disease"	2	"No"	449
+"1319"	"00471"	"031"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	NA	""	NA	""	477
+"1320"	"00472"	"007"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	72
+"1321"	"00472"	"007"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	135
+"1322"	"00472"	"007"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	198
+"1323"	"00473"	"064"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	78
+"1324"	"00473"	"064"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	144
+"1325"	"00473"	"064"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"Partial Response"	2	"No"	207
+"1326"	"00474"	"008"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	85
+"1327"	"00474"	"008"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	149
+"1328"	"00474"	"008"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	2	"No"	212
+"1329"	"00475"	"007"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	81
+"1330"	"00475"	"007"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	147
+"1331"	"00475"	"007"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	207
+"1332"	"00475"	"007"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	4	"Stable Disease"	2	"No"	228
+"1333"	"00476"	"042"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	77
+"1334"	"00476"	"042"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	140
+"1335"	"00477"	"018"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	93
+"1336"	"00479"	"007"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"Partial Response"	2	"No"	77
+"1337"	"00479"	"007"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"Partial Response"	2	"No"	137
+"1338"	"00480"	"042"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"Partial Response"	2	"No"	89
+"1339"	"00480"	"042"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"Partial Response"	2	"No"	159
+"1340"	"00480"	"042"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	2	"No"	245
+"1341"	"00481"	"130"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"Partial Response"	2	"No"	85
+"1342"	"00481"	"130"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"Partial Response"	2	"No"	148
+"1343"	"00481"	"130"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	1	"Complete Response"	2	"No"	211
+"1344"	"00481"	"130"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"Partial Response"	2	"No"	274
+"1345"	"00482"	"065"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	92
+"1346"	"00482"	"065"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	169
+"1347"	"00482"	"065"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	239
+"1348"	"00482"	"065"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	4	"Stable Disease"	2	"No"	301
+"1349"	"00482"	"065"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	1	"Yes"	365
+"1350"	"00483"	"078"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	79
+"1351"	"00483"	"078"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	161
+"1352"	"00483"	"078"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	227
+"1353"	"00485"	"039"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	79
+"1354"	"00486"	"071"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	92
+"1355"	"00486"	"071"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	162
+"1356"	"00486"	"071"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	232
+"1357"	"00486"	"071"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	4	"Stable Disease"	2	"No"	295
+"1358"	"00486"	"071"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	4	"Stable Disease"	2	"No"	358
+"1359"	"00487"	"028"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	71
+"1360"	"00487"	"028"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	4	"Stable Disease"	2	"No"	134
+"1361"	"00488"	"149"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	87
+"1362"	"00488"	"149"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	150
+"1363"	"00488"	"149"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	213
+"1364"	"00488"	"149"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	4	"Stable Disease"	2	"No"	233
+"1365"	"00489"	"118"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"Partial Response"	2	"No"	82
+"1366"	"00489"	"118"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"Partial Response"	2	"No"	146
+"1367"	"00490"	"087"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	83
+"1368"	"00490"	"087"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	147
+"1369"	"00490"	"087"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	210
+"1370"	"00490"	"087"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	4	"Stable Disease"	2	"No"	272
+"1371"	"00491"	"114"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	77
+"1372"	"00491"	"114"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	140
+"1373"	"00491"	"114"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	202
+"1374"	"00491"	"114"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	4	"Stable Disease"	2	"No"	267
+"1375"	"00491"	"114"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	4	"Stable Disease"	2	"No"	330
+"1376"	"00492"	"066"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	79
+"1377"	"00492"	"066"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	142
+"1378"	"00493"	"047"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	77
+"1379"	"00493"	"047"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"Partial Response"	2	"No"	139
+"1380"	"00493"	"047"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"Partial Response"	2	"No"	202
+"1381"	"00493"	"047"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Partial Response"	1	"Yes"	281
+"1382"	"00494"	"122"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	95	"Not Done"	2	"No"	31
+"1383"	"00496"	"133"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	74
+"1384"	"00497"	"111"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	82
+"1385"	"00497"	"111"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	145
+"1386"	"00498"	"147"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	77
+"1387"	"00498"	"147"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	4	"Stable Disease"	2	"No"	138
+"1388"	"00499"	"018"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"Partial Response"	2	"No"	76
+"1389"	"00499"	"018"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	2	"No"	141
+"1390"	"00500"	"156"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	78
+"1391"	"00500"	"156"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	141
+"1392"	"00500"	"156"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	204
+"1393"	"00500"	"156"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	1	"Yes"	267
+"1394"	"00501"	"010"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	77
+"1395"	"00501"	"010"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"Partial Response"	2	"No"	148
+"1396"	"00501"	"010"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"Partial Response"	2	"No"	217
+"1397"	"00501"	"010"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Partial Response"	2	"No"	281
+"1398"	"00502"	"122"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	77
+"1399"	"00502"	"122"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	138
+"1400"	"00502"	"122"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	3	"Progressive Disease"	2	"No"	271
+"1401"	"00502"	"122"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	1	"Yes"	376
+"1402"	"00503"	"066"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	74
+"1403"	"00503"	"066"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	137
+"1404"	"00503"	"066"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	4	"Stable Disease"	2	"No"	179
+"1405"	"00504"	"122"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	74
+"1406"	"00504"	"122"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	147
+"1407"	"00504"	"122"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	210
+"1408"	"00504"	"122"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	4	"Stable Disease"	2	"No"	281
+"1409"	"00505"	"046"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	77
+"1410"	"00505"	"046"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	140
+"1411"	"00505"	"046"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	203
+"1412"	"00506"	"008"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	83
+"1413"	"00506"	"008"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	145
+"1414"	"00506"	"008"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	4	"Stable Disease"	2	"No"	209
+"1415"	"00507"	"082"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"Partial Response"	2	"No"	77
+"1416"	"00507"	"082"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	2	"Partial Response"	2	"No"	112
+"1417"	"00508"	"019"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	77
+"1418"	"00509"	"114"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	74
+"1419"	"00510"	"061"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	79
+"1420"	"00510"	"061"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	142
+"1421"	"00510"	"061"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	3	"Progressive Disease"	2	"No"	205
+"1422"	"00510"	"061"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	95	"Not Done"	2	"No"	275
+"1423"	"00510"	"061"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	2	"No"	380
+"1424"	"00511"	"083"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"Partial Response"	2	"No"	81
+"1425"	"00511"	"083"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"Partial Response"	2	"No"	148
+"1426"	"00511"	"083"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"Partial Response"	2	"No"	211
+"1427"	"00511"	"083"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	2	"Partial Response"	2	"No"	274
+"1428"	"00511"	"083"	"CC-5013-PC-002"	18	"Cycle 16 Day 1"	2	"Partial Response"	2	"No"	345
+"1429"	"00511"	"083"	"CC-5013-PC-002"	19	"Cycle 19 Day 1"	2	"Partial Response"	2	"No"	409
+"1430"	"00512"	"127"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	82
+"1431"	"00513"	"009"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	80
+"1432"	"00514"	"015"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	70
+"1433"	"00514"	"015"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	133
+"1434"	"00514"	"015"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	4	"Stable Disease"	2	"No"	175
+"1435"	"00515"	"024"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	85
+"1436"	"00515"	"024"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	148
+"1437"	"00515"	"024"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	211
+"1438"	"00515"	"024"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	2	"No"	274
+"1439"	"00516"	"041"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	91
+"1440"	"00516"	"041"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	154
+"1441"	"00517"	"062"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	19	"Inevaluable for Response"	2	"No"	28
+"1442"	"00518"	"043"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	19	"Inevaluable for Response"	2	"No"	76
+"1443"	"00518"	"043"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	19	"Inevaluable for Response"	2	"No"	142
+"1444"	"00518"	"043"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"Partial Response"	2	"No"	205
+"1445"	"00518"	"043"	"CC-5013-PC-002"	15	"Cycle 13 Day 1"	3	"Progressive Disease"	2	"No"	268
+"1446"	"00519"	"087"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	71
+"1447"	"00519"	"087"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	134
+"1448"	"00519"	"087"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	196
+"1449"	"00520"	"122"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	65
+"1450"	"00521"	"008"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	79
+"1451"	"00521"	"008"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	141
+"1452"	"00522"	"144"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	72
+"1453"	"00522"	"144"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	135
+"1454"	"00522"	"144"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	205
+"1455"	"00523"	"019"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	82
+"1456"	"00523"	"019"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	146
+"1457"	"00523"	"019"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	209
+"1458"	"00524"	"073"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	4	"Stable Disease"	2	"No"	91
+"1459"	"00524"	"073"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	4	"Stable Disease"	2	"No"	160
+"1460"	"00524"	"073"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	4	"Stable Disease"	2	"No"	226
+"1461"	"00524"	"073"	"CC-5013-PC-002"	20	"TX Phase Discontinuation"	3	"Progressive Disease"	2	"No"	293
+"1462"	"00526"	"116"	"CC-5013-PC-002"	6	"Cycle 4 Day 1"	2	"Partial Response"	2	"No"	72
+"1463"	"00526"	"116"	"CC-5013-PC-002"	9	"Cycle 7 Day 1"	2	"Partial Response"	2	"No"	135
+"1464"	"00526"	"116"	"CC-5013-PC-002"	12	"Cycle 10 Day 1"	2	"Partial Response"	2	"No"	198
